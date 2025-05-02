@@ -1,6 +1,7 @@
 // src/app/page.tsx
 
 import Link from "next/link";
+import LoadingOverlay from "../components/LoadingOverlay";
 
 export default function Home() {
   return (
