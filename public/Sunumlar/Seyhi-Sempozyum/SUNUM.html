@@ -1,0 +1,1295 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Şeyhî Sempozyumu Sunumu: Sirke ve Sikencebin</title>
+    <style>
+        /* Google Fonts */
+        @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@400;600&display=swap');
+
+        /* Renk Paletleri ve Temel Ayarlar (Edebi Yeşil Tema) */
+        :root {
+            --font-body: 'Source Sans 3', sans-serif;
+            --font-title: 'Lora', serif;
+
+            /* Açık Yeşil Tema */
+            --light-bg: #F0F4F0; --light-slide-bg: #FFFFFF; --light-text: #384038;
+            --light-title: #466D1D; --light-accent: #8FBC8F; --light-footnote: #607060;
+            --light-placeholder-bg: #E8F0E8; --light-placeholder-text: #8FA08F;
+            --light-highlight: #5A8A34; --light-progress-bg: #D8E0D8;
+            --light-progress-fill: var(--light-title); --light-ui-icon: #506050;
+            --light-title-slide-bg-start: #EAF0EA; --light-title-slide-bg-end: #FAFAFA;
+            --light-title-slide-title-shadow: rgba(0, 0, 0, 0.05);
+            --light-kitalar-bg: #F8FBF8; /* Kıtalar slaytı için hafif farklı arkaplan */
+            --light-kitalar-border: var(--light-accent);
+            --light-original-text: #506050; /* Orijinal metin rengi */
+
+            /* Koyu Yeşil Tema */
+            --dark-bg: #2A342A; --dark-slide-bg: #384238; --dark-text: #E0E8E0;
+            --dark-title: #98FB98; --dark-accent: #8FBC8F; --dark-footnote: #a0b0a0;
+            --dark-placeholder-bg: #455045; --dark-placeholder-text: #90a090;
+            --dark-highlight: var(--dark-accent); --dark-progress-bg: #505850;
+            --dark-progress-fill: var(--dark-accent); --dark-ui-icon: #b0c0b0;
+            --dark-title-slide-bg-start: #303C30; --dark-title-slide-bg-end: #2A342A;
+            --dark-title-slide-title-shadow: rgba(0, 0, 0, 0.2);
+            --dark-kitalar-bg: #303A30; /* Koyu mod kıtalar arkaplanı */
+            --dark-kitalar-border: var(--dark-accent);
+            --dark-original-text: #b0c0b0; /* Koyu mod orijinal metin */
+
+
+            /* Aktif Tema Renkleri */
+            --clr-bg: var(--light-bg); --clr-slide-bg: var(--light-slide-bg);
+            --clr-text: var(--light-text); --clr-title: var(--light-title);
+            --clr-accent: var(--light-accent); --clr-footnote: var(--light-footnote);
+            --clr-placeholder-bg: var(--light-placeholder-bg);
+            --clr-placeholder-text: var(--light-placeholder-text);
+            --clr-highlight: var(--light-highlight);
+            --clr-progress-bg: var(--light-progress-bg);
+            --clr-progress-fill: var(--light-progress-fill);
+            --clr-ui-icon: var(--light-ui-icon);
+            --clr-title-slide-bg: linear-gradient(to bottom, var(--light-title-slide-bg-start), var(--light-title-slide-bg-end));
+            --clr-title-slide-title-shadow: var(--light-title-slide-title-shadow);
+            --clr-kitalar-bg: var(--light-kitalar-bg);
+            --clr-kitalar-border: var(--light-kitalar-border);
+            --clr-original-text: var(--light-original-text);
+        }
+
+        body.dark-mode {
+            --clr-bg: var(--dark-bg); --clr-slide-bg: var(--dark-slide-bg);
+            --clr-text: var(--dark-text); --clr-title: var(--dark-title);
+            --clr-accent: var(--dark-accent); --clr-footnote: var(--dark-footnote);
+            --clr-placeholder-bg: var(--dark-placeholder-bg);
+            --clr-placeholder-text: var(--dark-placeholder-text);
+            --clr-highlight: var(--dark-highlight);
+            --clr-progress-bg: var(--dark-progress-bg);
+            --clr-progress-fill: var(--dark-progress-fill);
+            --clr-ui-icon: var(--dark-ui-icon);
+            --clr-title-slide-bg: linear-gradient(to bottom, var(--dark-title-slide-bg-start), var(--dark-title-slide-bg-end));
+            --clr-title-slide-title-shadow: var(--dark-title-slide-title-shadow);
+            --clr-kitalar-bg: var(--dark-kitalar-bg);
+            --clr-kitalar-border: var(--dark-kitalar-border);
+            --clr-original-text: var(--dark-original-text);
+        }
+
+
+        html, body { margin: 0; padding: 0; height: 100%; width: 100%; overflow: hidden; font-family: var(--font-body); background-color: var(--clr-bg); color: var(--clr-text); transition: background-color 0.3s, color 0.3s; }
+        .presentation-deck { width: 100%; height: 100%; position: relative; cursor: pointer; }
+
+        .slide {
+            background-color: var(--clr-slide-bg); position: absolute; top: 0; left: 0;
+            width: 100%; height: 100%; box-sizing: border-box;
+            padding: 3vh 4vw 8vh 4vw; display: flex; flex-direction: column;
+            opacity: 0; visibility: hidden; transform: scale(0.98);
+            transition: opacity 0.4s ease-in-out, visibility 0.4s, transform 0.4s ease-in-out, background-color 0.3s;
+            z-index: 1;
+        }
+        .slide.active { opacity: 1; visibility: visible; transform: scale(1); z-index: 2; cursor: default; }
+        .slide.reverse { transform: scale(1.02); }
+        .slide.active.reverse { transform: scale(1); }
+
+        .slide-title {
+            font-family: var(--font-title); color: var(--clr-title); border-bottom: 2px solid var(--clr-accent);
+            padding-bottom: 1vh; margin-top: 0; margin-bottom: 2.5vh;
+            font-size: calc(1.4em + 1.1vw); font-weight: 600; flex-shrink: 0;
+        }
+
+        /* Başlık Slaytı Özel Stilleri */
+         .title-slide { background: var(--clr-title-slide-bg); }
+         .title-slide .slide-content { display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; height: 100%; }
+         .title-slide h1 { font-family: var(--font-title); color: var(--clr-title); font-size: calc(2em + 1.3vw); margin-bottom: 3vh; font-weight: 600; text-shadow: 1px 1px 3px var(--clr-title-slide-title-shadow); border-bottom: none; padding-bottom: 0; }
+         .title-slide .presenters { font-size: calc(1em + 0.5vw); color: var(--clr-text); margin-bottom: 5vh; font-style: italic; }
+         .title-slide .image-placeholder { width: 40%; max-width: 400px; min-height: 20vh; align-self: center; margin-top: 2vh; flex: none; background-color: transparent; border: 2px dashed var(--clr-placeholder-text); color: var(--clr-placeholder-text); }
+         .title-slide .slide-footnote { display: none; }
+
+        /* İçerik Slaytları (Genel) */
+        .slide:not(.title-slide):not(.kitalar-slide) .slide-main-area { display: flex; gap: 3.5vw; flex-grow: 1; overflow: hidden; width: 100%; }
+        .slide:not(.title-slide):not(.kitalar-slide) .slide-content {
+            flex: 5; font-size: calc(1.30em + 0.55vw); line-height: 1.65; overflow-y: auto; padding-right: 10px;
+        }
+         .slide:not(.title-slide):not(.kitalar-slide) .slide-content ul { list-style-type: none; padding-left: 0; margin-top: 0; }
+         .slide:not(.title-slide):not(.kitalar-slide) .slide-content li { margin-bottom: 1.7vh; position: relative; padding-left: 28px; }
+         .slide:not(.title-slide):not(.kitalar-slide) .slide-content li::before { content: '•'; color: var(--clr-accent); font-weight: bold; position: absolute; left: 0; top: 1px; font-size: 1.2em; line-height: 1;}
+         .highlight, strong { color: var(--clr-highlight); font-weight: 600; }
+
+        .slide:not(.title-slide):not(.kitalar-slide) .image-placeholder {
+            flex: 3; background-color: var(--clr-placeholder-bg); border: 1px solid var(--clr-accent);
+            border-radius: 4px; display: flex; flex-direction: column; align-items: center; justify-content: center;
+            font-size: calc(0.8em + 0.2vw); color: var(--clr-placeholder-text); text-align: center;
+            padding: 1.5vh 1.5vw; box-sizing: border-box; align-self: center;
+            min-height: 25vh; max-height: 55vh;
+        }
+        .image-placeholder .prompt-title { font-weight: 600; color: var(--clr-footnote); margin-bottom: 0.8vh; }
+        .image-placeholder .prompt-text { font-style: italic; font-size: 0.95em; }
+
+        /* Kıtalar Slaytı Özel Stilleri */
+        .kitalar-slide {
+            background-color: var(--clr-kitalar-bg);
+        }
+        .kitalar-slide .slide-main-area {
+            display: block; /* Flex yerine block, içeriği akıtmak için */
+            overflow-y: auto; /* Gerekirse kaydırma */
+            padding-right: 15px; /* Kaydırma çubuğu için */
+        }
+        .kita-container {
+            display: flex;
+            gap: 0,2vw;
+            margin-bottom: 0,2vh; /* Kıtalar arası boşluk */
+            padding-bottom: 0,2vh;
+            border-bottom: 0,2px dashed var(--clr-kitalar-border);
+        }
+        .kita-container:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+        .kita-text {
+            flex: 1;
+            font-size: calc(0.9em + 0.3vw); /* Kıtalar için font boyutu */
+            line-height: 1.03;
+        }
+        .kita-text h3 { /* Orijinal / Günümüz başlıkları */
+            font-size: 0.9em;
+            color: var(--clr-title);
+            margin-top: 0;
+            margin-bottom: 0.8vh;
+            font-weight: 600;
+            border-bottom: 1px solid var(--clr-accent);
+            display: inline-block;
+            padding-bottom: 2px;
+        }
+        .kita-text .original-text {
+             font-style: italic;
+             color: var(--clr-original-text);
+         }
+        .kita-text .page-ref {
+            display: block;
+            text-align: right;
+            font-size: 0.8em;
+            color: var(--clr-footnote);
+            margin-top: 0.5vh;
+        }
+
+         /* Kıtalar için küçük ekran düzenlemesi */
+         @media (max-width: 800px) {
+             .kita-container {
+                 flex-direction: column; /* Küçük ekranda alt alta */
+                 gap: 1.5vh;
+             }
+         }
+
+        .slide:not(.title-slide) .slide-footnote {
+            font-size: calc(0.7em + 0.1vw); color: var(--clr-footnote);
+            margin-top: 1.5vh; padding-top: 0.8vh;
+            border-top: 1px solid var(--clr-placeholder-bg);
+            width: calc(100% - 8vw); /* Padding'e göre */
+            box-sizing: border-box; position: absolute;
+            bottom: 4vh; left: 4vw;
+            background: var(--clr-slide-bg); z-index: 3; max-height: 3.2em;
+            overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+        }
+        /* Kıtalar slaytında dipnot gizlenebilir veya özel bir not eklenebilir */
+        .kitalar-slide .slide-footnote { display: none; }
+        .slide-footnote strong { font-weight: 600; color: var(--clr-text); }
+
+        /* UI Elementleri (Aynı kalıyor) */
+        #ui-controls { position: fixed; bottom: 0.8vh; left: 1vw; right: 1vw; display: flex; justify-content: space-between; align-items: center; z-index: 10; padding: 0 1vw; }
+        #slide-counter { font-size: 0.85em; color: var(--clr-ui-icon); background: rgba(128, 128, 128, 0.1); padding: 3px 7px; border-radius: 3px; }
+        #progress-bar-container { width: 70%; height: 4px; background-color: var(--clr-progress-bg); border-radius: 2px; overflow: hidden; margin: 0 auto; }
+        #progress-bar { width: 0%; height: 100%; background-color: var(--clr-progress-fill); border-radius: 2px; transition: width 0.3s ease-out; }
+        #theme-toggle { background: none; border: none; cursor: pointer; font-size: 1.3em; color: var(--clr-ui-icon); padding: 3px; }
+        .nav-arrow { position: fixed; top: 50%; transform: translateY(-50%); font-size: 2em; color: var(--clr-accent); opacity: 0.1; cursor: pointer; z-index: 5; transition: opacity 0.3s, transform 0.2s; user-select: none; padding: 6px; }
+        .nav-arrow:hover { opacity: 0.7; transform: translateY(-50%) scale(1.1); }
+        .nav-prev { left: 1vw; }
+        .nav-next { right: 1vw; }
+
+         /* Mobil ve Küçük Ekran Düzenlemeleri */
+         @media (max-width: 768px), (max-height: 550px) {
+             .slide { padding: 2.5vh 4vw 8vh 4vw; }
+             .slide-title { font-size: calc(1.2em + 1.2vw); }
+             .slide:not(.title-slide):not(.kitalar-slide) .slide-main-area { flex-direction: column; gap: 1.5vh; }
+             .slide:not(.title-slide):not(.kitalar-slide) .image-placeholder { width: 75%; max-height: 30vh; order: 1; }
+             .slide:not(.title-slide):not(.kitalar-slide) .slide-content { order: 2; font-size: calc(0.9em + 0.4vw); max-height: 48vh; }
+             .slide:not(.title-slide) .slide-footnote { bottom: 5vh; width: calc(100% - 8vw); left: 4vw; font-size: 0.7em;}
+             .nav-arrow { font-size: 1.7em; opacity: 0.3; }
+             #progress-bar-container { width: 60%; }
+             #slide-counter, #theme-toggle { font-size: 0.75em; }
+             .title-slide h1 { font-size: calc(1.5em + 1.6vw); }
+             .title-slide .presenters { font-size: calc(0.9em + 0.6vw); }
+             .title-slide .image-placeholder { width: 55%; }
+             /* Kıtalar mobil */
+             .kitalar-slide .slide-main-area { padding-right: 0; }
+             .kita-text { font-size: calc(0.85em + 0.3vw); }
+         }
+         .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2.5vw;
+    justify-content: center;
+}
+
+/* Kapanış Slaytı Kartları */
+.info-card {
+    background-color: var(--clr-slide-bg);
+    color: var(--clr-text);
+    border: 1px solid var(--clr-accent);
+    border-radius: 12px;
+    padding: 20px;
+    margin: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.info-card h3 {
+    color: var(--clr-title);
+    font-size: 1.2em;
+    margin-top: 0;
+}
+
+.info-card a {
+    color: var(--clr-highlight);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.info-card a:hover {
+    text-decoration: underline;
+}
+
+.info-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+}
+
+/* Öne çıkan kart */
+.prominent-card {
+    background: linear-gradient(135deg, var(--clr-placeholder-bg), var(--clr-slide-bg));
+    border: 2px solid var(--clr-highlight);
+    max-width: 640px;
+    text-align: center;
+}
+
+/* İki geri planda kalan kart */
+.subtle-card {
+    opacity: 0.85;
+    background-color: var(--clr-kitalar-bg);
+    border-color: var(--clr-footnote);
+    flex: 1;
+    min-width: 240px;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 2vh;
+}
+
+.qr-row {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.qr-img {
+    width: 140px;
+    height: 140px;
+    border-radius: 8px;
+    border: 1px solid var(--clr-placeholder-bg);
+    background: white;
+    padding: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+.qr-img:hover {
+    transform: scale(1.08);
+}
+    </style>
+</head>
+<body>
+
+    <div class="presentation-deck" id="presentationDeck">
+
+        <section class="slide title-slide active" data-slide-id="0">
+            <div class="slide-content">
+                 <h1>Şeyhî’nin Kenzü’l-Menâfi Adlı Manzum Tıp Eserinde Sirkenin (Sikencebin) Kullanımı:<br>Osmanlı Tıbbı ile Modern Tıbbın Karşılaştırmalı Analizi</h1>
+                 <div class="presenters">
+                     Arş. Gör. Dr. Süleyman Nuri Yağcı<br>
+                     Uzm. Dr. Sait Ramazan Gülbay
+                 </div>
+<img src="kapak.png" alt="Şeyhî Osmanlı Modern Tıp" style="max-width: 320px; width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
+            </div>
+             <div class="slide-footnote">
+                 </div>
+                 
+        </section>
+        <style>
+            /* Önceki stiller burada tanımlı varsayılıyor veya bu bloğa eklenebilir */
+            .slide-main-area {
+                display: flex; /* İçerikleri yan yana dizer */
+                gap: 20px; /* Metin ve görsel arasına boşluk ekler */
+                align-items: flex-start; /* Öğeleri yukarı hizalar */
+            }
+            .text-content {
+                flex: 1; /* Metin alanı esnek genişlik alır */
+            }
+            .image-section {
+                flex: 1; /* Görsel alanı esnek genişlik alır */
+                text-align: center; /* Görseli ve prompt'u ortalar */
+            }
+            .image-section img {
+                max-width: 100%; /* Görselin konteynerdan taşmamasını sağlar */
+                height: auto; /* En-boy oranını korur */
+                border: 1px solid #ccc; /* Görsel alanını belirginleştirir */
+                margin-bottom: 10px; /* Görsel ile prompt arasına boşluk ekler */
+            }
+            .ai-prompt {
+                /* Ana metin 2 kat büyüdüğü için prompt'u oransal olarak küçültüyoruz */
+                font-size: 0.6em;
+                font-style: italic;
+                color: #555; /* Prompt metnini soluklaştırır */
+            }
+            </style>
+            
+            <section class="slide kitalar-slide" data-slide-id="18">
+                <h2 class="slide-title">Önemli Uyarı</h2>
+                <div class="slide-main-area" style="font-size: 200%;">
+                    <div class="text-content">
+                        <p><strong>Önemli!</strong> Bu sunumda bahsedilen bilgiler <strong>herhangi bir şekilde tıbbi tedavi amacıyla kullanılmamalıdır.</strong></p>
+                        <p>Eserde "sirke" olarak ifade edilenin muhtemelen elma veya üzüm sirkesi olduğu düşünülse de bu net değildir. Ayrıca, hangi dozlarda kullanıldığına dair bir veri eserde yer almamaktadır.</p>
+                        <p>Günümüzde hizmet veren sağlık teknikleri ve tedavi yöntemleri, geçmişe oranla çok daha gelişmiş ve sistematiktir.</p>
+                        <p>Bu sunumda Kenzü'l-Menâfi adlı eserden aktardığımız bilgilerden maksat, bugünkü imkanlarla yeterince araştırılmamış alanlara dair <em>yeni araştırma önerilerinde bulunmak</em> ve eserin tarihsel/kültürel değerine dikkat çekmektir.</p>
+                        <p>Modern bilimsel yöntemlerle teyit edilmemiş bu bilgilerin tıbbi şifa umularak bireysel şekilde kullanılması <strong>kesinlikle doğru değildir.</strong></p>
+                        <p><strong>Herhangi bir sağlık sorunu veya tedavi ihtiyacı için lütfen sadece hekiminize danışınız.</strong></p>
+                    </div>
+                </div>
+                <div class="slide-footnote"></div>
+            </section>
+        <style>
+            /* İsteğe bağlı: Daha iyi görsel düzenleme için bazı temel stiller eklenebilir. */
+            .slide-main-area {
+                display: flex; /* İçerikleri yan yana dizer */
+                gap: 20px; /* Metin ve görsel arasına boşluk ekler */
+                align-items: flex-start; /* Öğeleri yukarı hizalar */
+            }
+            .text-content {
+                flex: 1; /* Metin alanı esnek genişlik alır */
+            }
+            .image-section {
+                flex: 1; /* Görsel alanı esnek genişlik alır */
+                text-align: center; /* Görseli ve prompt'u ortalar */
+            }
+            .image-section img {
+                max-width: 100%; /* Görselin konteynerdan taşmamasını sağlar */
+                height: auto; /* En-boy oranını korur */
+                border: 1px solid #ccc; /* Görsel alanını belirginleştirir */
+                margin-bottom: 10px; /* Görsel ile prompt arasına boşluk ekler */
+            }
+            .ai-prompt {
+                font-size: 0.6em; /* Prompt metnini daha küçük yapar (ana metin 2 kat büyüdüğü için) */
+                font-style: italic;
+                color: #555; /* Prompt metnini soluklaştırır */
+            }
+            </style>
+            
+            <section class="slide kitalar-slide" data-slide-id="13">
+                <h2 class="slide-title">Şeyhî Kimdir?</h2>
+                <div class="slide-main-area" style="font-size: 200%;">
+                    <div class="text-content">
+                        <p>Tahmini olarak 1371-1376 yılları arasında Kütahya'da doğan ve yine tahmini olarak 1429'dan sonra vefat etmiş olan Yusuf Sinan/Sinaneddin'in mahlası Şeyhî'dir.</p>
+                        <p>Şu isimlerle de anılmıştır:</p>
+                        <ul>
+                            <li>Hâkim Sinan</li>
+                            <li>Yusuf Hekim Sinan</li>
+                            <li>Germiyanlı Hekim Sinan</li>
+                        </ul>
+                        <p>Osmanlı Devleti'nin ilk hekim başı (Reisü'l-etibbâ) olarak görev yapmıştır.</p>
+                        <p>Bunun yanında edebiyatımızda önemli bir yer edinmiş Şairler Şeyhi (Şeyhü'ş-şu'arâ) olarak da bilinir.</p>
+                    </div>
+                </div>
+                <div class="slide-footnote"></div>
+            </section>
+            
+            <section class="slide kitalar-slide" data-slide-id="14">
+                <h2 class="slide-title">Eser: Kenzü'l-Menâfi'</h2>
+                <div class="slide-main-area" style="font-size: 200%;">
+                    <div class="text-content">
+                        <p><strong>Eserin tam adı:</strong> Kenzü'l-menâfi' fî Ahvâli'l-emzice ve't-tabâyi.</p>
+                        <p><strong>Anlamı:</strong> Tabiatın yaratılışındaki faydalı sırlar hazinesi.</p>
+                        <p>15. yüzyıl Osmanlı hekimi ve şairi Şeyhî tarafından halk diliyle kaleme alınmış, koruyucu hekimlik ve şifalı bitkiler hakkında bilgiler veren manzum (şiirsel) bir tıp risalesidir.</p>
+                        <p>Eserin aslı "Hadis-i Erbaîn" kitabının 120/b sayfasından başlayarak 28 sayfa devam eden derkenarında bulunmaktadır.</p>
+                    </div>
+                </div>
+                <div class="slide-footnote"></div>
+            </section>
+            
+            <section class="slide kitalar-slide" data-slide-id="15">
+                <h2 class="slide-title">Eserin Yapısı ve Amacı</h2>
+                <div class="slide-main-area" style="font-size: 200%;">
+                    <div class="text-content">
+                        <p>Eser, mesnevi tarzı giriş (tevhid, na't, dört halifeye medih, İslam padişahına övgü, sebeb-i telif) ile başlar.</p>
+                        <p>Ardından asıl içerik, konu başlıkları altında kıta kıta düzenlenmiş 153 manzumede işlenir.</p>
+                        <p><strong>Başlıca Yazılma Amacı:</strong> Dönemin tıbbi bilgilerini, özellikle mizaç ve beslenme ilişkisini şiir diliyle halka sunmaktır.</p>
+                        <p>Bu yönüyle eser hem dönemin tıbbını şiirsel bir dille özetleyen didaktik bir risale hem de Şeyhî'nin edebî kudretini gösteren özgün bir metindir.</p>
+                    </div>
+                </div>
+                <div class="slide-footnote"></div>
+            </section>
+            
+            <section class="slide kitalar-slide" data-slide-id="16">
+                <h2 class="slide-title">Eserin Önemi (Tıp ve Edebiyat)</h2>
+                <div class="slide-main-area" style="font-size: 200%;">
+                    <div class="text-content">
+                        <p><strong>Tıp Tarihi Açısından:</strong></p>
+                        <ul>
+                            <li>Anadolu sahasında klasik tıbbın şiirle anlatıldığı nadir örneklerden biridir.</li>
+                            <li>Beslenme-tedavi ilişkisi halk hekimliği ile saray tıbbı arasında bir köprü kurar.</li>
+                        </ul>
+                        <p><strong>Edebiyat Tarihi Açısından:</strong></p>
+                        <ul>
+                            <li>Şeyhî'nin edebî kudretini tıbbî bilgiyi estetik bir dille sunarak göstermesi bakımından didaktik edebiyat örneğidir.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="slide-footnote"></div>
+            </section>
+            
+            <section class="slide kitalar-slide" data-slide-id="17">
+                <h2 class="slide-title">Eserin Önemi (Dil ve Kültür)</h2>
+                <div class="slide-main-area" style="font-size: 200%;">
+                    <div class="text-content">
+                        <p><strong>Dil ve Kültür Tarihi Açısından:</strong></p>
+                        <ul>
+                            <li>15. yüzyıl Anadolu Türkçesiyle yazılmıştır.</li>
+                            <li>Günümüzde kullanılmayan pek çok kelime, deyim ve halk arasında kullanılan tıbbi terim bu eserde geçmektedir.</li>
+                            <li>Aynı zamanda dönemin gıda ve tüketim kültürünü belgeleyen zengin bir kaynaktır.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="slide-footnote"></div>
+            </section>
+        <section class="slide kitalar-slide" data-slide-id="1">
+            <h2 class="slide-title">Kenzü’l-Menâfi'den Örnekler: Humoral denge sağlama maksadıyla kullanıma örnekler</h2>
+            <div class="slide-main-area">
+
+                <div class="kita-container">
+                    <div class="kita-text">
+                        <h3>Orijinal Metin</h3>
+                        <p class="original-text">
+                            Dahi yağmur suyunda var hararet<br>
+                            Göğüs öksürüğüne nef’î vardır<br>
+                            Muzurdur germine hamamın amma<br>
+                            <strong class="highlight">Sirkencebin</strong> içerse bî-zarardır
+                        </p>
+                        <span class="page-ref">(s. 13)</span>
+                    </div>
+                    <div class="kita-text">
+                        <h3>Günümüz Türkçesi</h3>
+                        <p>
+                            Yağmur suyunda (da) hararet (ısıtıcı etki) vardır,<br>
+                            Göğüs öksürüğüne faydası bulunur.<br>
+                            Ama hamamın sıcaklığına (vücudu ısıtana) zararlıdır,<br>
+                            Eğer <strong class="highlight">sirkencebin</strong> içerse zararı olmaz (dengeler).
+                        </p>
+                    </div>
+                </div>
+
+                <div class="kita-container">
+                    <div class="kita-text">
+                        <h3>Orijinal Metin</h3>
+                        <p class="original-text">
+                            Bu nilüfer şarabı yaş ve soğuk<br>
+                            Bu oldu öksürük rencine şâfî<br>
+                            Velî soğuk mizâca var fesâdı<br>
+                            <strong class="highlight">Sirkencebin</strong> içerse ana kâfî
+                         </p>
+                        <span class="page-ref">(s. 20)</span>
+                    </div>
+                    <div class="kita-text">
+                        <h3>Günümüz Türkçesi</h3>
+                        <p>
+                            Bu nilüfer şurubu nemli ve soğuktur,<br>
+                            Bu, öksürük hastalığına şifa olmuştur.<br>
+                            Fakat soğuk mizaçlı olana zararı vardır,<br>
+                            Eğer <strong class="highlight">sirkencebin</strong> içerse ona yeterli gelir (dengeler).
+                         </p>
+                     </div>
+                 </div>
+
+                 <div class="kita-container">
+                     <div class="kita-text">
+                         <h3>Orijinal Metin</h3>
+                         <p class="original-text">
+                             Badincan kalyesi kuru ve ıssı<br>
+                             Getürür gayetiyle iştihâyı<br>
+                             Velâkin sevdâvî emrâza kemdir<br>
+                             Virir <strong class="highlight">sirkeyle su</strong> ana şifâyı
+                         </p>
+                         <span class="page-ref">(s. 37)</span>
+                     </div>
+                     <div class="kita-text">
+                         <h3>Günümüz Türkçesi</h3>
+                         <p>
+                             Patlıcan yemeği kuru ve sıcaktır,<br>
+                             İştahı oldukça fazla açar.<br>
+                             Fakat melankolik (sevda) hastalıklara iyi değildir,<br>
+                             Ona <strong class="highlight">sirke ile su</strong> şifa verir (dengeler).
+                         </p>
+                     </div>
+                 </div>
+
+                 <div class="kita-container">
+                     <div class="kita-text">
+                         <h3>Orijinal Metin</h3>
+                         <p class="original-text">
+                             Kurudur ıssıdır tabî’ bâdincan<br>
+                             Açar ol gayetiyle iştihâyı<br>
+                             Velî halk u rehinde yâre eyler<br>
+                             Verir <strong class="highlight">sirkeyle yağ</strong> ana şifâyı
+                         </p>
+                         <span class="page-ref">(s. 47)</span>
+                     </div>
+                     <div class="kita-text">
+                         <h3>Günümüz Türkçesi</h3>
+                         <p>
+                             Patlıcanın tabiatı kuru ve sıcaktır,<br>
+                             İştahı gayet iyi açar.<br>
+                             Fakat boğazda ve göğüste yara yapar,<br>
+                             Ona <strong class="highlight">sirke ile (zeytin)yağı</strong> şifa verir (dengeler).
+                         </p>
+                     </div>
+                 </div>
+                 <div class="kita-container">
+                    <div class="kita-text">
+                        <h3>Orijinal Metin </h3>
+                        <p class="original-text">
+                            Soğuktur tab’ı hem <strong class="highlight">sirke</strong> kavîdir<br>
+                            Açar gayet ile hem <strong class="highlight">iştihâyı</strong><br>
+                            Ziyânı vardürür amma <strong class="highlight">dimâğa</strong><br>
+                            <strong class="highlight">Aseldir</strong> veren ana hûş şifâyı
+                         </p>
+                        <span class="page-ref">(s. 21)</span>
+                    </div>
+                    <div class="kita-text">
+                        <h3>Günümüz Türkçesi </h3>
+                        <p>
+                            <strong class="highlight">Sirkenin</strong> soğuk ve kuvvetlidir tabiatı,<br>
+                            Pek iyi açar içenin <strong class="highlight">iştahını</strong>.<br>
+                            Ama zararı vardır <strong class="highlight">hafızaya</strong>,<br>
+                            <strong class="highlight">Bal şerbetidir</strong> o hoş şifâyı veren ona.
+                         </p>
+                     </div>
+                 </div>
+            </div>
+             <div class="slide-footnote">
+                 </div>
+        </section>
+
+        <section class="slide" data-slide-id="2">
+            <h2 class="slide-title">Dört Sıvı Teorisi (Ahlat-ı Erbaa): Temelleri</h2>
+            <div class="slide-main-area">
+                <div class="slide-content">
+                    <ul>
+                        <li>Antik Yunan kökenli, köklü bir tıp anlayışıdır.</li>
+                        <li>Vücutta 4 temel sıvı olduğuna inanılmıştır: <strong>Kan</strong> (sıcak, nemli), <strong>Balgam</strong> (soğuk, nemli), <strong>Sarı Safra</strong> (sıcak, kuru), <strong>Kara Safra</strong> (soğuk, kuru).</li>
+                        <li>İslam tıbbındaki adı <strong class="highlight">Ahlat-ı Erbaa</strong> (Dört Hılt) olarak bilinmiştir.</li>
+                        <li>Sağlık: Bu dört sıvının vücutta mizaç ve yapıya uygun <strong>dengede</strong> olmasıdır.</li>
+                        <li>Hastalık: Bu dengenin nicelik veya nitelik olarak <strong>bozulmasıdır</strong>.</li>
+                        <li>Teorinin gelişiminde <strong class="highlight">Hipokrat</strong> (derleyici) ve <strong class="highlight">Galen</strong> (detaylandıran) kilit rol oynamıştır.</li>
+                        <li><strong class="highlight">İbn-i Sina (Avicenna)</strong>: Teoriyi "El-Kanun fi't-Tıb" eseriyle standartlaştırmış, geliştirmiş ve yüzyıllarca etkili olacak zirve noktasına taşımıştır.</li>
+                        <li>Her sıvının; elementi, organı, mevsimi ve mizacı ile ilişkisi kurulmuş, vücut-doğa uyumu aranmıştır.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="slide-footnote">
+                <strong>Kaynak:</strong>  
+                Acar H. V., Sarıtaş E., Örnek Büken N. “Çağatay Türkçesi Tıp Eserlerinde Humoral Patoloji Teorisi Üzerine Bir İnceleme,”  
+                Lokman Hekim Tıp Tarihi ve Folklorik Tıp Dergisi, 2023; 13(1): 65–74.  
+            </div>
+        </section>
+
+        <section class="slide" data-slide-id="3">
+            <h2 class="slide-title">Dört Sıvı Teorisi: Uygulama ve Mirası</h2>
+            <div class="slide-main-area">
+                <div class="slide-content">
+                    <ul>
+                        <li>İnsan Tipleri (<strong class="highlight">Mizaçlar</strong>): Baskın sıvıya göre karakterler belirlenmiştir (Demevi/Kan, Balgami, Safravi, Sevdavi).</li>
+                        <li>Teşhis Yöntemleri: Gözlem, nabız kontrolü, idrar/dışkı incelemesi gibi yöntemler kullanılmıştır.</li>
+                        <li>Ana Tedavi İlkesi: <strong class="highlight">"Zıtlarla Tedavi"</strong> prensibine dayanmıştır (örn: soğuk mizaçlı hastalığa sıcak etkili tedavi).</li>
+                        <li>Yaygın Uygulamalar: Özel <strong class="highlight">diyetler</strong> (perhiz), şifalı <strong class="highlight">bitkiler</strong>, <strong class="highlight">kan alma (hacamat/fasd)</strong>, müshil ve kusturma gibi sıvı boşaltma yöntemleri sıkça başvurulan tedaviler olmuştur.</li>
+                        <li>Teorinin Zayıflaması: Rönesans sonrası bilimsel keşifler (anatomi, <strong class="highlight">kan dolaşımı</strong>, <strong class="highlight">mikrop teorisi</strong>) ile geçerliliğini tedricen yitirmiştir.</li>
+                        <li>Mirası: Yaklaşık 2000 yıl tıbba yön veren bu teori, modern tıpta yer bulmasa da tıp tarihinde kritik bir dönemi temsil etmiş ve kültürel izler bırakmıştır ("melankoli" vb.).</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="slide-footnote">
+                <strong>Kaynak:</strong> Genel Tıp Tarihi Kaynakları; Nutton, V. Ancient Medicine.
+            </div>
+        </section>
+        <section class="slide kitalar-slide" data-slide-id="11">
+            <h2 class="slide-title">Kenzü’l-Menâfi'den Örnekler: Mide ve bağırsak sistemi ile ilgili bölümler</h2>
+            <div class="slide-main-area">
+                <div class="kitalar-grid"> 
+        
+                    <div class="kita-container">
+                        <div class="kita-text">
+                            <h3>Orijinal Metin </h3>
+                            <p class="original-text">
+                                Dahi ıssı ve yaştır <strong class="highlight">tâze incir</strong><br>
+                                <strong class="highlight">Mesâne kumunu</strong> sürer ider pâk<br>
+                                Velî eyler şikemde renci tahrîk<br>
+                                <strong class="highlight">Sirkencebin</strong> anın rencin ider pâk
+                            </p>
+                            <span class="page-ref">(s. 38)</span>
+                        </div>
+                        <div class="kita-text">
+                            <h3>Günümüz Türkçesi </h3>
+                            <p>
+                                <strong class="highlight">Taze incir</strong>in özü sıcak ve yaştır,<br>
+                                <strong class="highlight">Mesanedeki kumları</strong> temizler.<br>
+                                Fakat karında rahatsızlık verir,<br>
+                                <strong class="highlight">Sirkecebn</strong> bu rahatsızlığı giderir.
+                            </p>
+                        </div>
+                    </div>
+        
+                    <div class="kita-container">
+                        <div class="kita-text">
+                            <h3>Orijinal Metin </h3>
+                            <p class="original-text">
+                                Kurudur ıssıdır <strong class="highlight">perverde murğân</strong><br>
+                                <strong class="highlight">Mefâsil zahmetin</strong> bu ider def’<br>
+                                <strong class="highlight">Ciğerde harareti</strong> olana kötüdür<br>
+                                <strong class="highlight">Kişniş üzümüyle sirke</strong> ona iyi gelir
+                             </p>
+                            <span class="page-ref">(s. 32)</span>
+                        </div>
+                        <div class="kita-text">
+                            <h3>Günümüz Türkçesi</h3>
+                            <p>
+                                <strong class="highlight">Besili kuş etinin</strong> tabiatı kuru ve hararetlidir,<br>
+                                <strong class="highlight">Mafsal ağrısını</strong> giderir.<br>
+                                <strong class="highlight">Ciğerde ateşi</strong> olanlara kötüdür,<br>
+                                <strong class="highlight">Kişniş üzümü ve sirke</strong> ile iyi gelir.
+                             </p>
+                         </div>
+                     </div>
+        
+                    <div class="kita-container">
+                        <div class="kita-text">
+                            <h3>Orijinal Metin </h3>
+                            <p class="original-text">
+                                Dahi <strong class="highlight">zerdâlû</strong> yaş ve soğuk<br>
+                                Keser bu gayetiyle <strong class="highlight">teşneliği</strong><br>
+                                Velâkin <strong class="highlight">mide süstüne</strong> zararlıdır<br>
+                                <strong class="highlight">Sirkencebin</strong> alır o hastalığı
+                            </p>
+                            <span class="page-ref">(s. 43)</span>
+                        </div>
+                        <div class="kita-text">
+                            <h3>Günümüz Türkçesi </h3>
+                            <p>
+                                <strong class="highlight">Zerdalinin</strong> tabiatı yaş ve soğuktur,<br>
+                                <strong class="highlight">Susuzluğu</strong> giderir.<br>
+                                Ancak <strong class="highlight">mide zayıflığına</strong> zararlıdır,<br>
+                                O hastalığı da <strong class="highlight">bal ve sirke karışımı içecek</strong> şeklinde alır.
+                            </p>
+                        </div>
+                    </div>
+        
+                    <div class="kita-container">
+                        <div class="kita-text">
+                            <h3>Orijinal Metin </h3>
+                            <p class="original-text">
+                                Tabîatta <strong class="highlight">kavun</strong> ıssı ve yaşdır<br>
+                                <strong class="highlight">Mesâne kumuna</strong> var nefi’î anın<br>
+                                Velâkin <strong class="highlight">mide süstüne</strong> zararlıdır<br>
+                                <strong class="highlight">Sirkencebin</strong> iledir defi’î anın
+                             </p>
+                            <span class="page-ref">(s. 44)</span>
+                        </div>
+                        <div class="kita-text">
+                            <h3>Günümüz Türkçesi </h3>
+                            <p>
+                                <strong class="highlight">Kavunun</strong> tabiatı sıcak ve yaştır,<br>
+                                <strong class="highlight">Mesane kumuna</strong> faydası vardır.<br>
+                                Fakat <strong class="highlight">zayıf mideye</strong> zararlıdır,<br>
+                                Bu zararı <strong class="highlight">bal ve sirke karışımı içerek</strong> giderir.
+                             </p>
+                         </div>
+                     </div>
+        
+                     <div class="kita-container">
+                        <div class="kita-text">
+                            <h3>Orijinal Metin </h3>
+                            <p class="original-text">
+                                Tabiatta <strong class="highlight">çöğender</strong> ıssıdır bil<br>
+                                Çeker tedricle suyu <strong class="highlight">ciğerden</strong><br>
+                                Velâkin <strong class="highlight">mideye</strong> rencide eyler<br>
+                                Ye <strong class="highlight">sirkeyle</strong> anı korkma zarardan
+                            </p>
+                            <span class="page-ref">(s. 46)</span>
+                        </div>
+                        <div class="kita-text">
+                            <h3>Günümüz Türkçesi </h3>
+                            <p>
+                                <strong class="highlight">Pancarının</strong> tabiatı sıcaktır, bunu bil,<br>
+                                <strong class="highlight">Ciğerden</strong> azar azar şeker suyu çeker.<br>
+                                Fakat <strong class="highlight">mideyi</strong> rahatsız eder,<br>
+                                Korkma zararından, <strong class="highlight">sirkeyle</strong> ye onu.
+                            </p>
+                        </div>
+                    </div>
+        
+                    <div class="kita-container">
+                        <div class="kita-text">
+                            <h3>Orijinal Metin </h3>
+                            <p class="original-text">
+                                Tabiatta kurudur ıssıdır <strong class="highlight">Turp</strong><br>
+                                Taamı gerçi <strong class="highlight">hazm</strong> eyler bu â’lâ<br>
+                                Velî dâim eyler <strong class="highlight">renci</strong> tahrik<br>
+                                Fesâdın <strong class="highlight">sirke</strong> ıslâh eyler amma
+                             </p>
+                            <span class="page-ref">(s. 46)</span>
+                        </div>
+                        <div class="kita-text">
+                            <h3>Günümüz Türkçesi </h3>
+                            <p>
+                                Sıcak ve kurudur <strong class="highlight">turpun</strong> tabiatı,<br>
+                                Bu âlâ <strong class="highlight">hazım</strong> eyler yemeyi.<br>
+                                Fakat <strong class="highlight">rahatsızlığı</strong> daima tahrik eder,<br>
+                                Ama bu sıkıntıyı <strong class="highlight">sirke</strong> ıslah eder.
+                             </p>
+                         </div>
+                     </div>
+        
+                 </div> 
+            </div>
+             <div class="slide-footnote"></div>
+        </section>
+        <section class="slide" data-slide-id="1">
+            <h2 class="slide-title">Sirke ve Öğün Sonrası Şeker Seviyeleri: Liljeberg & Björck </h2>
+            <div class="slide-main-area">
+                <div class="slide-content">
+                    <ul>
+                        <li>Beyaz ekmekli(Karbonhidratlı) öğüne sirke eklenmesi, sağlıklı bireylerde yemek sonrası <strong class="highlight">kan şekeri (postprandiyal glisemi)</strong> ve <strong class="highlight">insülin yanıtını</strong> belirgin şekilde düşürmüştür.</li>
+                        <li>Kan şekeri seviyelerinde kontrol grubuna kıyasla sirke tüketen grupta yaklaşık <strong>%36 azalma</strong> saptanmıştır.</li>
+                        <li>Etkinin altında yatan temel mekanizmanın <strong class="highlight">mide boşalmasının gecikmesi</strong> olduğu gösterilmiştir.</li>
+                        <li>Çalışma, yemek sonrası şeker seviyeleri kontrolü için sirke tüketimini önermiştir.</li>
+                    </ul>
+                </div>
+<div class="image-placeholder" style="max-width: 1280px; margin: 0 auto; padding: 12px;">
+  <img src="glisemik-infografik.png" alt="Sirke ve Glisemik Yanıt" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+</div>
+            </div>
+            <div class="slide-footnote">
+                <strong>Kaynak:</strong> Liljeberg, H., & Björck, I. (1998). Delayed gastric emptying rate may explain improved glycaemia... <em>Eur J Clin Nutr</em>, <em>52</em>(5), 368–371.
+            </div>
+        </section>
+
+        <section class="slide" data-slide-id="2">
+            <h2 class="slide-title">Sirkenin Şeker Düşürücü Etki Mekanizmaları</h2>
+            <div class="slide-main-area">
+                <div class="slide-content">
+                    <ul>
+                        <li>Güncel derlemeler, sirkenin karbonhidratlı öğünlerle tüketildiğinde kan şekerini düşürücü etkisini desteklemektedir.</li>
+                        <li>Etki mekanizmaları şunlardır:
+                            <ul>
+                                <li><strong class="highlight">Mide boşalmasının yavaşlatılması</strong> (önceki bulguyu teyit eder).</li>
+                                <li>Nişasta sindiriminin yavaşlatılması.</li>
+                                <li>Bağırsaklarda <strong class="highlight">şekeri emilebilir hale getiren enzimleri etkisiz hale getirmesi</strong> .</li>
+                             </ul>
+                         </li>
+                        <li>Bu mekanizmalar, özellikle insülin direnci veya diyabetli bireylerde yemek sonrası şeker kontrolüne katkı sağlamıştır.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="slide-footnote">
+                <strong>Kaynaklar:</strong> Johnston, C. S., et al. (2015). *Nutr Rev*, *73*(S2), 60-60; Johnston, C. S., & Seeklus, C. (2018). *J Evid Based Integr Med*, *23*. doi: 10.1177/2156587217753004
+            </div>
+        </section>
+
+
+         <section class="slide" data-slide-id="4">
+             <h2 class="slide-title">Sirkenin Bağırsak Mikrobiyotası Üzerinden Böbrek Sağlığına Etkisi</h2>
+             <div class="slide-main-area">
+                 <div class="slide-content">
+                     <ul>
+                         <li>Böbrekleri zararlı maddeye maruz bırakılan bir hayvan modelinde , sirke tüketiminin böbrek hasarını azalttığı ve bağırsak mikrobiyotasını güçlendirdiği gösterilmiştir.</li>
+                         <li>Sirke, bazı faydalı bakteri cinslerinin seviyelerini artırmıştır.</li>
+                         <li>Bağırsak florası antibiyotikle ortadan kaldırıldığında sirkenin böbrek koruyucu etkisi zayıflamıştır.</li>
+                         <li>Bu durum, sirkenin böbreklere olan faydalarının en azından kısmen <strong class="highlight">bağırsak mikrobiyotası aracılığıyla</strong> ortaya çıktığını kanıtlamıştır.</li>
+                     </ul>
+                 </div>
+                 <div class="image-placeholder" style="max-width: 960px; margin: 0 auto; padding: 16px;">
+                    <img src="bagirsak-bobrek-ekseni.png" alt="Bağırsak-Böbrek Ekseni: Sirke, Mikrobiyota ve Antibiyotik Etkisi" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);">
+                  </div>
+             </div>
+             <div class="slide-footnote">
+                 <strong>Kaynak:</strong> Zhu, X., et al. (2020). Vinegar relieves kidney injury in hyperoxaluric rats... <em>Food Funct</em>, <em>11</em>(2), 1773-1786. doi: 10.1039/c9fo02172h
+             </div>
+        </section>
+
+         <section class="slide" data-slide-id="5">
+             <h2 class="slide-title">Sirke ve Bal: Mikrobiyota Odaklı Doğal Yaklaşımlar</h2>
+             <div class="slide-main-area">
+                 <div class="slide-content">
+                     <ul>
+                         <li>Sirke (fermente bir ürün olarak) potansiyel <strong class="highlight">probiyotikler</strong> içerebilir ve asidik ortamıyla bağırsak mikrobiyotasını etkileyebilir.</li>
+                         <li>Balın prebiyotik rolü ve sirkenin mikrobiyotayı modüle etme yeteneği, bu iki geleneksel gıdayı bağırsak sağlığı açısından önemli kılmıştır.</li>
+                         <li>Sonuç olarak bal ve sirke, bağırsak mikrobiyotasını olumlu yönde etkilemek için kullanılabilecek değerli doğal besinlerdir.</li>
+                     </ul>
+                 </div>
+                 <div class="image-placeholder" style="max-width: 960px; margin: 0 auto; padding: 16px;">
+                    <img src="tarih-modern-bag.png" alt="Osmanlı Tıbbı ve Modern Mikrobiyota Etkileşimi" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+                  </div>
+             </div>
+             <div class="slide-footnote">
+                 <strong>Kaynaklar:</strong> Wu, J., et al. (2019). *AMB Express*, *9*(1), 121. (Yıllanmış sirke)
+             </div>
+        </section>
+        <section class="slide kitalar-slide" data-slide-id="12">
+            <h2 class="slide-title">Kenzü’l-Menâfi'den Örnekler: Böbrek taşı-mesane kumu ile ilgili bölüm</h2>
+            <div class="slide-main-area">
+                <div class="kitalar-grid"> 
+        
+                    <div class="kita-container">
+                        <div class="kita-text">
+                            <h3>Orijinal Metin </h3>
+                            <p class="original-text">
+                                Mizâcı <strong class="highlight">şalgamın</strong> ıssı ve yaşdır<br>
+                                Bunun var <strong class="highlight">mideye</strong> gayette nef’î<br>
+                                <strong class="highlight">Mesâne kumunu</strong> peydâ eder lîk<br>
+                                Olur <strong class="highlight">sirke ve hardal</strong> ile def’î
+                            </p>
+                            <span class="page-ref">(s. 45)</span>
+                        </div>
+                        <div class="kita-text">
+                            <h3>Günümüz Türkçesi </h3>
+                            <p>
+                                <strong class="highlight">Şalgamın</strong> tabiatı sıcak ve yaştır,<br>
+                                Bunun <strong class="highlight">mideye</strong> çok faydası vardır.<br>
+                                Fakat <strong class="highlight">mesane kumuna</strong> sebep olur,<br>
+                                Onu <strong class="highlight">sirke ve hardal</strong> ile giderir.
+                            </p>
+                        </div>
+                    </div>
+        
+
+        
+                 </div> 
+            </div>
+             <div class="slide-footnote"></div>
+        </section>
+        <section class="slide" data-slide-id="6">
+             <h2 class="slide-title">Sirke ve Böbrek Taşları: Metabolik ve Mikrobiyal Mekanizmalar</h2>
+             <div class="slide-main-area">
+                 <div class="slide-content">
+                     <ul>
+                         <li>Deneysel fare modellerinde diyetle sirke verilmesinin çeşitli mekanızmalarla böbrek taşı oluşumunu engellediği gösterilmiştir (Zhu ve ark., 2019).</li>
+                         <li>Uzmanlar, ek olarak <strong class="highlight">bağırsak-böbrek ekseninin</strong> rolünü vurgulamaktadır (Luo & Xu, 2019):</li>
+                         <li>Özellikle fermente/yıllanmış sirkeler, bağırsaktaki <strong class="highlight">taş oluşumuna sebep olan maddelerin emilimini azaltarak</strong> idrarla atılımını azaltabilir.</li>
+                         <li>Sirkenin potansiyeli hem biyokimyasal hem mikrobiyal olabilir, ancak klinik kanıtlar yetersizdir.</li>
+                     </ul>
+                 </div>
+                 <div class="image-placeholder" style="max-width: 960px; margin: 0 auto; padding: 16px;">
+                    <img src="oksalat-sirke.png" alt="Böbrek taşı oluşumu, sirke ile sitrat ve bağırsak bakterilerinin etkisi" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);">
+                  </div>
+             </div>
+             <div class="slide-footnote">
+                 <strong>Kaynaklar:</strong> Zhu, Q., et al. (2019). *FASEB J*, *33*(S1), 700-7; Luo, T., & Xu, H. (2019). *Ann Transl Med*, *7*(S6), S234. doi: 10.21037/atm.2019.08.98
+             </div>
+        </section>
+        <section class="slide kitalar-slide" data-slide-id="10">
+            <h2 class="slide-title">Kenzü’l-Menâfi'den Örnekler: Ateş, Baş Ağrısı</h2>
+            <div class="slide-main-area">
+                <div class="kitalar-grid">
+                    <div class="kita-container">
+                        <div class="kita-text">
+                            <h3>Orijinal Metin </h3>
+                            <p class="original-text">
+                                <strong class="highlight">Sirkencebin</strong> kurudur dahi yaşdır<br>
+                                Bu def eyler harâret verse hummâ<br>
+                                Kavîdir der’i <strong class="highlight">ishal</strong> etmede hem<br>
+                                Yine gece <strong class="highlight">gül şekeri</strong> içe amma
+                            </p>
+                            <span class="page-ref">(s. 20)</span>
+                        </div>
+                        <div class="kita-text">
+                            <h3>Günümüz Türkçesi </h3>
+                            <p>
+                                Bu <strong class="highlight">sirkencebin</strong> (içeceğinin) özü hem kuru hem yaştır (dengelidir),<br>
+                                Çok ateşli hastalığın verdiği harareti giderir.<br>
+                                <strong class="highlight">İshali</strong> kesmede de çok kuvvetlidir,<br>
+                                Ama (tercihen) gece <strong class="highlight">gül şekeri</strong> (gül şurubu) ile içilmelidir.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="kita-container">
+                        <div class="kita-text">
+                            <h3>Orijinal Metin </h3>
+                            <p class="original-text">
+                                Kurudur ıssıdır hem revgân-ı zeyt<br>
+                                Tutar bu yaz kış ıssı derûni<br>
+                                Velî kuvvetlenür derd-i ser andan<br>
+                                Olur, o <strong class="highlight">sirkenin</strong> amma zebûnu
+                             </p>
+                            <span class="page-ref">(s. 23-24)</span>
+                        </div>
+                        <div class="kita-text">
+                            <h3>Günümüz Türkçesi </h3>
+                            <p>
+                                Zeytinyağının özü kuru ve sıcaktır,<br>
+                                Yaz-kış insanın içini sıcak tutar.<br>
+                                Fakat baş ağrısı ondan kuvvetlenir,<br>
+                                Ama o (baş ağrısı), <strong class="highlight">sirkenin</strong> karşısında güçsüz kalır (sirke iyi gelir).
+                             </p>
+                         </div>
+                     </div>
+                 </div> 
+            </div>
+             <div class="slide-footnote"></div>
+        </section>
+        <section class="slide" data-slide-id="7">
+            <h2 class="slide-title">Sirke/Oksimel: Geleneksel Ateş Düşürücü ve Ağrı Giderici Kullanımı</h2>
+             <div class="slide-main-area">
+                 <div class="slide-content">
+                     <ul>
+                         <li>Sirke ve oksimel (sirkencübin), yüzyıllardır geleneksel tıpta <strong class="highlight">ateş düşürücü (antipiretik)</strong> ve <strong class="highlight">ağrı giderici (analjezik)</strong> amaçlarla kullanılmıştır.</li>
+                         <li>İbn Sînâ gibi otoriteler, sirkencübini hararetli hastalıkların tedavisinde önermiştir.</li>
+                         <li>Osmanlı ve İran tıbbında, ateşi düşürmek için sirke ile harici kompres uygulamalarına da yer verilmiştir</li>
+                         <li>Sınırlı Modern Kanıt: Bir klinik çalışmada, oksimelin (kupa terapisi ile kombine) <strong class="highlight">migren ataklarının sıklık ve şiddetini</strong> azaltmada standart tedavi kadar etkili olabileceği gösterilmiştir (Firoozabadi ve ark.).</li>
+                     </ul>
+                 </div>
+                 <div class="image-placeholder" style="max-width: 960px; margin: 0 auto; padding: 16px;">
+                    <img src="oxymel-basagrisi.png" alt="Osmanlı'dan Günümüze Baş Ağrısı Tedavisi ve Oxymel Bağlantısı" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+                  </div>
+             </div>
+             <div class="slide-footnote">
+                 <strong>Kaynaklar:</strong> Firoozabadi, M., et al. (2023). *J Herb Med*, *42*, 100776. (PMC: PMC10730569)
+             </div>
+        </section>
+
+        <section class="slide" data-slide-id="8">
+            <h2 class="slide-title">Sirke/Oksimelin Ağrı ve Ateş Üzerindeki Etkileri: Bilimsel Bakış</h2>
+             <div class="slide-main-area">
+                 <div class="slide-content">
+                     <ul>
+                         <li>Hayvan Deneyleri: Sirke veya oksimelin doğrudan analjezik/antipiretik etkilerini inceleyen kontrollü çalışma bulunmamaktadır.</li>
+                         <li>Tersine Bulgular: Saf <strong>asetik asit</strong>, laboratuvarda deneysel ağrı oluşturmak için kullanılmaktadır.</li>
+                         <li>Bal için Teorik Etki: Anti-iltihabi özellikleri dolaylı ağrı algısını etkileyebilir (kanıtlanmamıştır).</li>
+                         <li>Genel Bilimsel Değerlendirme: Ateş düşürmede sirke kullanımı bilimsel olarak desteklenmemektedir.</li>
+                         <li>Sonuç: Güçlü geleneksel inanışlara rağmen, modern <strong class="highlight">bilimsel kanıtlar şu an için yetersizdir</strong>.</li>
+                     </ul>
+                 </div>
+             </div>
+             <div class="slide-footnote">
+                 <strong>Kaynaklar:</strong> Sam Samani, N., et al. (2024). *J Microbiol Immunol Infect*, *57*(2), 481-3.
+             </div>
+        </section>
+
+        <section class="slide" data-slide-id="9">
+             <h2 class="slide-title">Sirkencübinin (Oksimel) Nörolojik Etkileri</h2>
+             <div class="slide-main-area">
+                 <div class="slide-content">
+                     <ul>
+                         <li>Modern bilimsel literatürde, sirkencübinin nörolojik faydalarına dair <strong class="highlight">bilimsel yayın yok denecek kadar azdır</strong>.</li>
+                         <li>Migren çalışması dışında, oksimelin özel nörolojik durumlardaki etkilerini araştıran <strong class="highlight">klinik çalışma bulunmamaktadır</strong>.</li>
+                         <li>Depresyon, anksiyete, demans, inme gibi durumlarda oksimel ile yapılmış kontrollü insan/hayvan çalışması mevcut değildir.</li>
+                         <li>Sonuç: Sirkencübinin nörolojik etkileri konusunda modern <strong class="highlight">bilimsel kanıtlar yetersizdir</strong>.</li>
+                     </ul>
+                 </div>
+             </div>
+             <div class="slide-footnote">
+                 <strong>Kaynaklar:</strong> Firoozabadi, M., et al. (2023)
+             </div>
+        </section>
+
+        <section class="slide" data-slide-id="10">
+            <h2 class="slide-title">Sirkenin Ruh Hali Üzerine Potansiyel Etkileri: Klinik Bir Çalışma</h2>
+             <div class="slide-main-area">
+                 <div class="slide-content">
+                     <ul>
+                         <li>Sağlıklı yetişkinlerde yapılan kontrollü çalışmada (Johnston ve ark., 2021), günlük elma sirkesi tüketimi incelenmiştir.</li>
+                         <li>Sirke tüketen grupta, plaseboya(yalancı ilaç) kıyasla kendini değerlendirme <strong class="highlight">depresyon skorlarında istatistiksel olarak anlamlı düşüş</strong> saptanmıştır.</li>
+                         <li>Bu sonuç, düzenli sirke tüketiminin sağlıklı bireylerde <strong class="highlight">ruh halini olumlu etkileyebileceğine</strong> işaret etmektedir.</li>
+                     </ul>
+                 </div>
+                 <div class="image-placeholder" style="max-width: 960px; margin: 0 auto; padding: 16px;">
+                    <img src="elma-sirkesi-mod.png" alt="Elma Sirkesi, Metabolizma ve Ruh Hali İlişkisi" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+                  </div>
+             </div>
+             <div class="slide-footnote">
+                 <strong>Kaynak:</strong> Johnston, C. S., et al. (2021). Vinegar Consumption... Improves Depression Scores... <em>Nutrients</em>, <em>13</em>(11), 4020. doi: 10.3390/nu13114020
+             </div>
+        </section>
+
+        <section class="slide" data-slide-id="14">
+            <h2 class="slide-title">Sirkenin Anti-iltihabi Etkileri: Deneysel Kanıtlar</h2>
+             <div class="slide-main-area">
+                 <div class="slide-content">
+                     <ul>
+                        <li>İltihap vücudun savunma hücreleri aracılığı ile yabancı maddelere karşı geliştirdiği normal bir süreç olmasının yanında, gereğinden fazla oluştuğunda bedene zarar verir (Sıkıyönetimde halkın huzursuz olması gibi)</li>
+                         <li>Hücre Kültürü Çalışmaları: Meyve sirkesinin, uyarılmış savunma hücresi kültürlerinde <strong class="highlight">iltihabi moleküllerin (NO, TNF-α, IL-6 vb.)</strong> üretimini anlamlı düzeyde azalttığı gösterilmiştir (Choi ve ark., 2020).</li>
+                         <li>Hayvan Modelleri: Geleneksel yaş sirkenin, mikrobik yapılarla  iltihap oluşturulmuş farelerde <strong class="highlight">İltihabi maddeleri </strong> düşürdüğü bulunmuştur (Zhang ve ark., 2021).</li>
+                         <li>Bu, sirkenin anti-iltihabi potansiyelinin polifenoller gibi bileşenlerden de kaynaklanabileceğini düşündürmektedir.</li>
+                         <li>Olası Etki Mekanizmaları: Sirkenin hücre içi iltihabi sinyal yolaklarını baskılayabileceğine işaret edilmiştir.</li>
+                     </ul>
+                 </div>
+             </div>
+             <div class="slide-footnote">
+                 <strong>Kaynaklar:</strong> Choi, M., et al. (2020). *Nutrients*, *12*(9), 2663; Zhang, Z., et al. (2021). *Molecules*, *26*(9), 2745.
+             </div>
+        </section>
+
+        <section class="slide" data-slide-id="15">
+            <h2 class="slide-title">Sirkenin (Asetik Asit) Antimikrobiyal Etkinliği: Deneysel Kanıtlar</h2>
+             <div class="slide-main-area">
+                 <div class="slide-content">
+                     <ul>
+                         <li>Deneysel çalışmalar: Asetik asit, geniş bir bakteri türü yelpazesine karşı <strong class="highlight">güçlü bakteri öldürücü etki</strong> göstermiştir (Ryssel ve ark., 2009).</li>
+                         <li>Özellikle <strong class="highlight">dirençli Gram-negatif patojenler</strong> üzerinde yüksek etkinlik saptanmıştır.</li>
+                         <li>Ev sirkesi (az yoğun), yüzeylerdeki yaygın <strong class="highlight">bakteri ve mantarları</strong> etkili şekilde azalttığı gösterilmiştir (Zinn & Bockmühl, 2020).</li>
+                         <li>%5 ve üzeri (yoğun) konsantrasyonda bazı zayıf virüslere karşı da <strong class="highlight">virüs öldürücü etki</strong> sağladığı belirlenmiştir.</li>
+                     </ul>
+                 </div>
+                 <div class="image-placeholder" style="max-width: 960px; margin: 0 auto; padding: 16px;">
+                    <img src="petri-sirke-once-sonra.png" alt="Sirke Uygulaması Öncesi ve Sonrası Mikrobiyal Koloniler" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+                  </div>
+             </div>
+             <div class="slide-footnote">
+                 <strong>Kaynaklar:</strong> Ryssel, H., et al. (2009). *Burns*, *35*(5), 695-700; Zinn, M., & Bockmühl, D. (2020). *BMC Microbiol*, *20*(1), 293.
+             </div>
+        </section>
+
+        <section class="slide" data-slide-id="16">
+            <h2 class="slide-title">Sirkenin (Asetik Asit) Dirençli Biyofilm Tabakalarına Karşı Etkinliği</h2>
+             <div class="slide-main-area">
+                 <div class="slide-content">
+                     <ul>
+                         <li>Asetik asidin, antibiyotiklere dirençli <strong class="highlight">biyofilm(bakteri sığınakları) tabakalarını parçalama ve yok etme</strong> yeteneği kanıtlanmıştır (Bjarnsholt ve ark., 2015).</li>
+                         <li>Hem Gram-pozitif hem de Gram-negatif bakteri biyofilmlerini <strong class="highlight">tamamen ortadan kaldırabildiği</strong> gösterilmiştir.</li>
+                         <li>Bu güçlü <strong class="highlight">biyofilm çözücü etki</strong>, kronik yaralardaki klinik başarısını desteklemiş ve potansiyelini vurgulamıştır.</li>
+                         <li>Biyofilm kaynaklı inatçı enfeksiyonların tedavisinde potansiyel rolü olabileceği düşünülmektedir.</li>
+                     </ul>
+                 </div>
+                 <div class="image-placeholder" style="max-width: 960px; margin: 0 auto; padding: 16px;">
+                    <img src="biyofilm-asetik-asit.png" alt="Asetik Asit Etkisiyle Biyofilm Çözünmesi (S. aureus, P. aeruginosa)" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+                  </div>
+             </div>
+             <div class="slide-footnote">
+                 <strong>Kaynak:</strong> Bjarnsholt, T., et al. (2015). Acetic acid... revisited. <em>Adv Wound Care</em>, <em>4</em>(5), 291-300. doi: 10.1089/wound.2014.0575
+             </div>
+        </section>
+
+        <section class="slide" data-slide-id="17">
+             <h2 class="slide-title">Bal ve Sirke (Oksimel) Kombinasyonunun Sinerjik(Birbirini güçlendiren) Antimikrobiyal Etkisi</h2>
+             <div class="slide-main-area">
+                 <div class="slide-content">
+                     <ul>
+                         <li>Bal-sirke (oksimel) karışımının etkinliği modern yöntemlerle araştırılmıştır (Harrison ve ark., 2023).</li>
+                         <li>Bazı doğal sirkelerin beklenenden daha güçlü antibakteriyel aktivite sergilediği saptanmıştır.</li>
+                         <li>Kritik Bulgular: Tıbbi bal (Manuka) ile sirke kombinasyonu, dirençli biyofilmleri yok etmede belirgin <strong class="highlight">sinerjik (1+1 > 2) etki</strong> göstermiştir.</li>
+                         <li>Bu, geleneksel görüşleri doğrulamış ve dirençli enfeksiyonlara karşı potansiyelini göstermiştir.</li>
+                     </ul>
+                 </div>
+             </div>
+             <div class="slide-footnote">
+                 <strong>Kaynak:</strong> Harrison, F., et al. (2023). Honey-vinegar mixtures ('oxymel')... <em>Microbiology (Reading)</em>, <em>169</em>(11), 001351. doi: 10.1099/mic.0.001351
+             </div>
+        </section>
+
+        <section class="slide title-slide" data-slide-id="18">
+             <div class="slide-content">
+                 <h2 class="slide-title">Sonuç</h2>
+                 <div class="presenters" style="font-size: calc(1em + 0.4vw); line-height: 1.7;">
+                     Şeyhî'nin eserinde geçen sirke ve sirkencübinin geleneksel kullanımları,<br> modern bilimin ışığında yeniden değer kazanmaktadır.<br>
+                     <strong class="highlight">Kan şekeri regülasyonu, mikrobiyota desteği, anti-inflamatuar</strong> ve <strong class="highlight">antimikrobiyal/antibiyofilm</strong> potansiyelleri,<br>
+                     hem geleneksel tıbbın bilgeliğini yansıtmakta hem de<br> gelecekteki araştırmalar için umut verici alanlar sunmaktadır.<br><br>
+                 </div>
+<div class="image-placeholder" style="max-width: 300px; margin: 0 auto; padding: 10px;">
+  <img src="seyhi.png" alt="Şeyhî ve Bilimsel Sentez Görseli"
+       style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+</div>
+            </div>
+             <div class="slide-footnote">
+                 </div>
+        </section>
+        <section class="slide" data-slide-id="20">
+            <h2 class="slide-title">Kapanış ve Teşekkür</h2>
+            <div class="slide-main-area" style="flex-direction: column; align-items: center;">
+                
+                <!-- Kartın ana gövdesi -->
+        <div class="info-card highlight-card" style="max-width: 900px; padding: 3vh 4vw; text-align: center;">
+            <p style="font-size: 3em; margin-top: 0;">Sunumu dinlediğiniz için teşekkür ederiz.</p>
+
+            <!-- Yazarlar bölümü: yatay düzen -->
+            <div style="display: flex; justify-content: center; gap: 5vw; flex-wrap: wrap; margin-top: 4vh;">
+                <!-- Süleyman -->
+                <div style="flex: 1; min-width: 240px;">
+                    <strong>Arş. Gör. Dr. Süleyman Nuri Yağcı</strong><br>
+                    <a href="mailto:suleymannuri.yagci@erdogan.edu.tr">suleymannuri.yagci@erdogan.edu.tr</a>
+                    <div style="margin-top: 2vh;">
+                        <img src="suleyman_qr.png" alt="QR - Süleyman Nuri Yağcı" style="width: 140px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+                    </div>
+                </div>
+
+                <!-- Sait -->
+                <div style="flex: 1; min-width: 240px;">
+                    <strong>Uzm. Dr. Sait Ramazan Gülbay</strong><br>
+                    <a href="mailto:srgulbay@gmail.com">srgulbay@gmail.com</a>
+                    <div style="margin-top: 2vh;">
+                        <img src="sait_qr.png" alt="QR - Sait Ramazan Gülbay" style="width: 140px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+                <!-- Arka Plandaki Kartlar -->
+                <div class="card-container">
+                    <div class="info-card subtle-card">
+                        <h3>🎨 Görsel Tasarım</h3>
+                        <p>İllüstrasyonlar <strong>DALL·E (OpenAI)</strong> ile oluşturulmuştur.</p>
+                    </div>
+                    <div class="info-card subtle-card">
+                        <h3>🛠️ Sunum Altyapısı</h3>
+                        <p><em>Akademi Sunum</em> altyapısı ile tamamen HTML ve CSS kullanılarak hazırlanmıştır.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <div class="nav-arrow nav-prev" onclick="changeSlide(-1); event.stopPropagation();">&#10094;</div>
+        <div class="nav-arrow nav-next" onclick="changeSlide(1); event.stopPropagation();">&#10095;</div>
+
+        <div id="ui-controls">
+            <div id="slide-counter">0 / 0</div>
+            <div id="progress-bar-container">
+                <div id="progress-bar"></div>
+            </div>
+            <button id="theme-toggle" title="Temayı Değiştir">?</button>
+        </div>
+
+    </div>
+
+    <script>
+        let currentSlideIndex = 0;
+        const slides = document.querySelectorAll('.presentation-deck .slide');
+        const totalSlides = slides.length;
+        const slideCounter = document.getElementById('slide-counter');
+        const progressBar = document.getElementById('progress-bar');
+        const themeToggleButton = document.getElementById('theme-toggle');
+        const presentationDeck = document.getElementById('presentationDeck');
+
+        function updateUI() {
+            slideCounter.textContent = `${currentSlideIndex + 1} / ${totalSlides}`;
+            const progressPercent = totalSlides > 1 ? ((currentSlideIndex) / (totalSlides - 1)) * 100 : (totalSlides === 1 ? 100 : 0);
+             progressBar.style.width = `${progressPercent}%`;
+        }
+
+        function showSlide(index, direction = 'forward') {
+             if (index >= totalSlides || index < 0) return;
+
+             slides.forEach(slide => {
+                 slide.classList.remove('reverse', 'active');
+             });
+
+             if (direction === 'backward') {
+                slides[index].classList.add('reverse');
+             }
+
+             setTimeout(() => {
+                 if(slides[index].querySelector('.slide-content')) {
+                    slides[index].querySelector('.slide-content').scrollTop = 0;
+                 }
+                 slides[index].classList.add('active');
+             }, 10);
+
+             currentSlideIndex = index;
+             updateUI();
+         }
+
+        function changeSlide(step) {
+            const nextIndex = currentSlideIndex + step;
+             if (nextIndex >= 0 && nextIndex < totalSlides) {
+                 showSlide(nextIndex, step > 0 ? 'forward' : 'backward');
+             } else if (step > 0 && nextIndex >= totalSlides) {
+                 showSlide(0); // Loop to first slide
+             } else if (step < 0 && nextIndex < 0) {
+                 showSlide(totalSlides - 1); // Loop to last slide
+             }
+        }
+
+        document.addEventListener('keydown', (event) => {
+            if (event.target.tagName === 'INPUT' || event.target.tagName === 'TEXTAREA') return;
+
+            if (event.key === 'ArrowRight' || event.key === 'PageDown' || event.key === ' ') {
+                event.preventDefault(); changeSlide(1);
+            } else if (event.key === 'ArrowLeft' || event.key === 'PageUp') {
+                event.preventDefault(); changeSlide(-1);
+            } else if (event.key === 'Home') {
+                 event.preventDefault(); showSlide(0);
+            } else if (event.key === 'End') {
+                 event.preventDefault(); showSlide(totalSlides - 1);
+             } else if (event.key === 'f' || event.key === 'F') {
+                event.preventDefault(); toggleFullScreen();
+            }
+        });
+
+         presentationDeck.addEventListener('click', (event) => {
+              if (event.target.closest('a')) { return; }
+              if (!event.target.closest('button, input, textarea, .nav-arrow')) {
+                  const clickX = event.clientX;
+                  const deckWidth = presentationDeck.offsetWidth;
+                  const deadZone = 0.15;
+                  if (clickX > deckWidth * (1 - deadZone / 2)) {
+                       changeSlide(1);
+                   } else if (clickX < deckWidth * (deadZone / 2)) {
+                       changeSlide(-1);
+                   }
+             }
+         });
+
+        function applyTheme(theme) {
+            if (theme === 'dark') {
+                document.body.classList.add('dark-mode');
+                themeToggleButton.textContent = '☀️';
+                localStorage.setItem('presentationTheme', 'dark');
+            } else {
+                document.body.classList.remove('dark-mode');
+                themeToggleButton.textContent = '🌙';
+                localStorage.setItem('presentationTheme', 'light');
+            }
+        }
+
+        themeToggleButton.addEventListener('click', (event) => {
+            event.stopPropagation();
+            const currentTheme = document.body.classList.contains('dark-mode') ? 'light' : 'dark';
+            applyTheme(currentTheme);
+        });
+
+         function toggleFullScreen() {
+             if (!document.fullscreenElement) {
+                 presentationDeck.requestFullscreen().catch(err => {
+                     document.documentElement.requestFullscreen().catch(e => {});
+                 });
+             } else {
+                 if (document.exitFullscreen) document.exitFullscreen();
+             }
+         }
+
+        const savedTheme = localStorage.getItem('presentationTheme') || 'light';
+        applyTheme(savedTheme);
+        if(slides[0].querySelector('.slide-content')) {
+           slides[0].querySelector('.slide-content').scrollTop = 0;
+        }
+        showSlide(currentSlideIndex);
+
+    </script>
+
+</body>
+</html>
