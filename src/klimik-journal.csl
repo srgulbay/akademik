@@ -16,7 +16,7 @@
 
   <locale xml:lang="tr-TR">
     <terms>
-      <term name="editoreditor" form="short">
+      <term name="editor" form="short">
         <single>ed.</single>
         <multiple>eds.</multiple>
       </term>
@@ -60,7 +60,7 @@
 
   <macro name="edition-info">
     <choose>
-      <if is-numeric="edition">
+      <if variable="edition" is-numeric="true">
         <group delimiter=" ">
           <number variable="edition" form="ordinal"/>
           <text value="baskı"/>
