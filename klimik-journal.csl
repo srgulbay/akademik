@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US">
+  <info>
+    <title>Klimik Journal Style</title>
+    <id>http://www.zotero.org/styles/klimik-journal</id>
+    <link href="http://www.zotero.org/styles/klimik-journal" rel="self"/>
+    <author>
+      <name>Uzm. Dr. Sait Ramazan Gülbay</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <updated>2025-05-26T00:00:00+00:00</updated>
+    <summary>Custom style for Klimik Dergisi (Turkish Journal of Clinical Microbiology and Infectious Diseases)</summary>
+  </info>
+
+  <macro name="author">
+    <names variable="author">
+      <name form="long" and="text" delimiter=", ">
+        <name-part name="family"/>
+        <name-part name="given" initialize-with="."/>
+      </name>
+      <label form="short" prefix=" "/>
+      <et-al min="7" use-first="6"/>
+    </names>
+  </macro>
+
+  <macro name="journal-title">
+    <text variable="container-title" form="short" strip-periods="true"/>
+  </macro>
+
+  <macro name="date">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+
+  <macro name="pages">
+    <text variable="page"/>
+  </macro>
+
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+
+  <bibliography et-al-min="7" et-al-use-first="6" second-field-align="flush">
+    <layout suffix=".">
+      <text variable="citation-number" suffix="."/>
+      <text macro="author" suffix=" "/>
+      <text variable="title" suffix=". "/>
+      <text macro="journal-title" suffix=". "/>
+      <text macro="date" suffix=";"/>
+      <text variable="volume"/>
+      <group prefix="(" suffix=")">
+        <text variable="issue"/>
+      </group>
+      <text prefix=":" macro="pages"/>
+    </layout>
+  </bibliography>
+</style>
