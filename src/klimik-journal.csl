@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/ phối/ционал/CSL" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="tr-TR">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="tr-TR">
   <info>
-    <title>Turkish Medical Journal ANSI Style</title>
-    <id>http://www.zotero.org/styles/turkish-medical-ansi</id>
+    <title>Turkish Medical Journal ANSI Style (Revised)</title>
+    <id>http://www.zotero.org/styles/turkish-medical-ansi-revised</id>
     <link href="http://www.zotero.org/styles/vancouver" rel="independent-parent"/>
     <author>
-      <name>Uzm.Dr.Sait Ramazan Gülbay</name>
+      <name>AI Assistant</name>
     </author>
     <category citation-format="numeric"/>
     <category field="medicine"/>
-    <summary>A style based on the provided Turkish medical journal guidelines, similar to ANSI/NLM.</summary>
-    <updated>2025-05-26T12:00:00+00:00</updated>
+    <summary>A revised style based on the provided Turkish medical journal guidelines, similar to ANSI/NLM. Addresses potential malformed issues and refines formatting.</summary>
+    <updated>2025-05-26T14:00:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
 
@@ -24,20 +24,20 @@
         <single>bölüm</single>
         <multiple>bölümler</multiple>
       </term>
-      <term name="page" form="short">
-        <single>s.</single>
+      <term name="page" form="short"> <single>s.</single>
         <multiple>s.</multiple>
       </term>
       <term name="in">In:</term>
       <term name="retrieved">erişim</term>
-      <term name="abstract" form="short">Özet</term>
-      <term name="letter">[Mektup]</term> <term name="internet">[İnternet]</term> <term name="supplement" form="short">Suppl.</term>
-    </terms>
+      <term name="abstract">Özet</term> <term name="letter">Mektup</term>
+      <term name="internet">İnternet</term>
+      <term name="supplement" form="short">Suppl.</term>
+      <term name="et-al">et al</term> </terms>
   </locale>
 
   <macro name="author">
     <names variable="author" suffix=". ">
-      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="never"/>
       <label form="short" prefix=" (" suffix=")" text-case="capitalize-first"/>
       <substitute>
         <names variable="editor"/>
@@ -48,47 +48,13 @@
   </macro>
 
   <macro name="editor">
-    <names variable="editor" suffix=". ">
-      <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+    <names variable="editor" suffix=": "> <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="never"/>
       <label form="short" prefix=", "/>
     </names>
   </macro>
   
-  <macro name="author-short">
-    <names variable="author">
-      <name form="short" and="symbol" delimiter=", " initialize-with=". "/>
-      <substitute>
-        <names variable="editor"/>
-        <names variable="translator"/>
-        <text variable="title-short" font-style="italic"/>
-      </substitute>
-    </names>
-  </macro>
-
-  <macro name="access">
-    <choose>
-      <if variable="URL">
-        <group delimiter=" ">
-          <text term="internet" prefix="[" suffix="]"/>
-          <group prefix="[" suffix="]">
-            <text term="retrieved" suffix=" "/>
-            <date variable="accessed" form="text" date-parts="year-month-day"/>
-          </group>
-          <text variable="URL"/>
-        </group>
-      </if>
-    </choose>
-  </macro>
-  
   <macro name="no-author">
-    <choose>
-      <if type="article-newspaper article-magazine" match="any">
-        <text value="[Yazarı Verilmemiş Makale]"/> </if>
-      <else>
-        <text value=""/>
-      </else>
-    </choose>
-  </macro>
+      <text value=""/> </macro>
 
   <macro name="title">
     <choose>
@@ -113,12 +79,18 @@
       <if is-numeric="edition">
         <group delimiter=" ">
           <number variable="edition" form="ordinal"/>
-          <text term="edition" form="short" strip-periods="true"/>
+           <choose>
+                <if locale="tr-TR">
+                    <text value="baskı"/>
+                </if>
+                <else>
+                    <text term="edition" form="short"/>
+                </else>
+           </choose>
         </group>
       </if>
       <else>
-        <text variable="edition" suffix="."/>
-      </else>
+        <text variable="edition"/> </else>
     </choose>
   </macro>
   
@@ -127,8 +99,7 @@
   </macro>
 
   <macro name="pages">
-    <text variable="page" form="short"/>
-  </macro>
+    <text variable="page"/> </macro>
 
   <citation collapse="citation-number">
     <sort>
@@ -139,27 +110,25 @@
     </layout>
   </citation>
 
-  <bibliography et-al-min="7" et-al-use-first="6" second-field-align="flush" entry-spacing="0">
-    <layout suffix=".">
-      <text variable="citation-number" suffix=". "/>
+  <bibliography et-al-min="7" et-al-use-first="6" second-field-align="flush" entry-spacing="0" hanging-indent="false">
+    <layout suffix="."> <text variable="citation-number" suffix=". "/>
       <choose>
         <if type="article-journal">
           <text macro="author"/>
           <text macro="title" suffix=". "/>
-          <text macro="journal-title" suffix=" "/>
-          <text variable="issued" suffix=";">
+          <text macro="journal-title" suffix=". "/>
+          <date variable="issued" suffix=";">
             <date-part name="year"/>
-          </text>
+          </date>
           <text variable="volume"/>
           <choose>
             <if variable="issue">
               <text variable="issue" prefix="(" suffix=")"/>
             </if>
-            <else-if variable="supplement">
-               <text variable="supplement" prefix="(Suppl. " suffix=")"/>
+            <else-if variable="supplement"> <text variable="supplement" prefix="(Suppl. " suffix=")"/>
             </else-if>
           </choose>
-          <text variable="page" prefix=":" suffix=""/>
+          <text variable="page" prefix=":"/>
         </if>
         <else-if type="article-magazine article-newspaper">
             <choose>
@@ -168,101 +137,85 @@
                 </if>
             </choose>
             <text macro="title" suffix=". "/>
-            <text variable="container-title" suffix=". "/>
-            <date variable="issued" form="text" date-parts="year-month-day" suffix=";"/>
-            <text variable="volume" suffix=""/>
+            <text variable="container-title" form="short" suffix=". "/>
+            <date variable="issued" suffix=";">
+                 <date-part name="year"/>
+            </date>
+            <text variable="volume"/>
             <text variable="issue" prefix="(" suffix=")"/>
-            <text variable="page" prefix=":" suffix=""/>
-            <choose> <if variable="author" match="none">
-                 <text variable="container-title" suffix=". "/> <date variable="issued" form="text" date-parts="year-month-day" suffix=";"/>
-                 <text variable="volume"/>
-                 <text variable="issue" prefix="(" suffix=")"/>
-                 <text variable="page" prefix=":" suffix=""/>
-              </if>
-            </choose>
+            <text variable="page" prefix=":"/>
         </else-if>
         <else-if type="chapter paper-conference" match="any">
           <text macro="author"/>
           <text macro="title" suffix=". "/>
-          <text term="in" text-case="capitalize-first" suffix=" "/>
-          <names variable="editor translator" delimiter=", " suffix=": ">
-            <name sort-separator=" " initialize-with="" name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
-            <label form="short" prefix=", "/>
-          </names>
+          <group delimiter=" ">
+            <text term="in" text-case="capitalize-first"/>
+            <text macro="editor"/>
+          </group>
           <text variable="container-title" text-case="title" suffix=". "/>
-          <choose>
-            <if is-numeric="edition">
-                <group delimiter=" ">
-                  <number variable="edition" form="ordinal"/>
-                   <choose>
-                        <if locale="tr-TR">
-                            <text value="baskı"/>
-                        </if>
-                        <else>
-                            <text term="edition" form="short"/>
-                        </else>
-                   </choose>
-                </group>
-            </if>
-            <else>
-                <text variable="edition"/>
-            </else>
-          </choose>
+          <text macro="edition" suffix=". "/>
           <text macro="publisher" suffix=", "/>
           <date variable="issued" suffix=":">
             <date-part name="year"/>
           </date>
-          <text macro="pages" suffix=""/>
+          <text macro="pages"/>
           <if type="paper-conference">
-            <choose>
-              <if variable="abstract">
-                <text term="abstract" prefix=" [" suffix="]"/>
-              </if>
-            </choose>
+            <if variable="abstract"> <group prefix=" [" suffix="]">
+                <text term="abstract"/>
+              </group>
+            </if>
           </if>
         </else-if>
         <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
           <text macro="author"/>
           <text macro="title"/>
           <choose>
-            <if is-numeric="edition">
-                <text macro="edition" prefix=". "/>
+            <if variable="edition" match="any">
+              <text macro="edition" prefix=". "/>
             </if>
-            <else>
-                <text variable="edition" prefix=". "/>
-            </else>
           </choose>
           <text macro="publisher" prefix=". "/>
           <date variable="issued" prefix=", ">
             <date-part name="year"/>
           </date>
+          <if variable="page"> <text variable="page" prefix=": "/>
+          </if>
         </else-if>
         <else-if type="webpage post-weblog" match="any">
           <text macro="author"/>
-          <text macro="title" suffix=" "/>
-          <text term="internet" prefix="[" suffix="]. "/>
-          <text variable="container-title" suffix=" "/> <text macro="access"/>
+          <text macro="title"/>
+          <group prefix=" [" suffix="]. ">
+            <text term="internet"/>
+          </group>
+          <text variable="publisher" suffix=" "/> <group prefix="[" suffix="]. ">
+              <text term="retrieved" suffix=" "/>
+              <date variable="accessed" form="text" date-parts="year-month-day"/>
+          </group>
+          <text variable="URL"/>
         </else-if>
          <else-if type="personal_communication"> <text macro="author"/>
-            <text macro="title" suffix=" "/>
-            <text term="letter" text-case="capitalize-first" prefix="[" suffix="]. "/>
-            <text macro="journal-title" suffix=" "/>
-            <text variable="issued" suffix=";">
+            <text macro="title"/>
+            <group prefix=" [" suffix="]. ">
+                <text term="letter"/>
+            </group>
+            <text macro="journal-title" suffix=". "/>
+            <date variable="issued" suffix=";">
                 <date-part name="year"/>
-            </text>
+            </date>
             <text variable="volume"/>
             <text variable="issue" prefix="(" suffix=")"/>
-            <text variable="page" prefix=":" suffix=""/>
+            <text variable="page" prefix=":"/>
         </else-if>
-        <else> <text macro="author"/>
+        <else>
+          <text macro="author"/>
           <text macro="title" suffix=". "/>
-          <text variable="container-title" form="short" suffix=" "/>
-          <text variable="issued" suffix=";">
+          <text variable="container-title" form="short" suffix=". "/>
+          <date variable="issued" suffix=";">
             <date-part name="year"/>
-          </text>
+          </date>
           <text variable="volume"/>
           <text variable="issue" prefix="(" suffix=")"/>
-          <text variable="page" prefix=":" suffix=""/>
+          <text variable="page" prefix=":"/>
         </else>
       </choose>
     </layout>
