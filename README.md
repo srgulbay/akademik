@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Hızlı Deploy
+
+Tek tıkla canlı bir linke deploy edin:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsrgulbay%2Fakademik&project-name=akademik&repository-name=akademik)
+
+Deploy bittikten sonra:
+
+- Site: `https://<projeniz>.vercel.app`
+- Gizli çift oyunu (XOX): `https://<projeniz>.vercel.app/gizli`
+
+> Not: Vercel varsayılan olarak `main` branch'ini deploy eder. `claude/simple-two-player-game-Ecv71` branch'indeki oyunu canlıda görmek için ya branch'i `main`'e merge edin ya da Vercel projesinin "Production Branch" ayarını bu branch ile değiştirin.
+
 ## Getting Started
 
 First, run the development server:
