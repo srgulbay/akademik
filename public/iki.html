@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <title>İkimiz 💞</title>
+  <style>
+    * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+    html, body { margin: 0; padding: 0; min-height: 100%; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: radial-gradient(circle at 30% 20%, #4c1d2a 0%, #1f0a14 60%, #0a0508 100%);
+      color: #fff;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 24px 18px 40px;
+      overflow-x: hidden;
+    }
+
+    h1 { margin: 0; font-size: 30px; font-weight: 800; letter-spacing: -0.5px; }
+    .subtitle { color: #f9a8b8; font-size: 13px; margin-top: 4px; }
+    .age-tag {
+      display: inline-block;
+      background: rgba(244, 63, 94, 0.2);
+      color: #fda4af;
+      border: 1px solid rgba(244, 63, 94, 0.4);
+      padding: 2px 10px;
+      border-radius: 999px;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      margin-top: 8px;
+    }
+
+    .panel {
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(12px);
+      border-radius: 24px;
+      padding: 22px;
+      width: 100%;
+      max-width: 380px;
+      margin-top: 22px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    }
+
+    label { display: flex; flex-direction: column; gap: 6px; font-size: 13px; color: #fda4af; margin-bottom: 12px; }
+    input {
+      padding: 12px 14px;
+      border-radius: 12px;
+      border: 1px solid rgba(255,255,255,0.15);
+      background: rgba(0,0,0,0.3);
+      color: #fff;
+      font-size: 16px;
+      outline: none;
+    }
+    input:focus { border-color: #f43f5e; box-shadow: 0 0 0 3px rgba(244,63,94,0.25); }
+
+    .levels { display: flex; gap: 8px; margin-top: 8px; }
+    .levels button {
+      flex: 1;
+      padding: 14px 8px;
+      border-radius: 14px;
+      border: 2px solid rgba(255,255,255,0.15);
+      background: rgba(0,0,0,0.3);
+      color: #fff;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+    .levels button .emoji { display: block; font-size: 22px; margin-bottom: 4px; }
+    .levels button.active {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 30px rgba(244, 63, 94, 0.35);
+    }
+    .levels button[data-level="romantik"].active { background: #ec4899; border-color: #ec4899; }
+    .levels button[data-level="tutkulu"].active { background: #e11d48; border-color: #e11d48; }
+    .levels button[data-level="atesli"].active { background: #b91c1c; border-color: #b91c1c; }
+
+    button { font-family: inherit; }
+
+    .btn-primary {
+      width: 100%;
+      padding: 16px;
+      border-radius: 999px;
+      border: none;
+      background: linear-gradient(135deg, #f43f5e, #ec4899);
+      color: #fff;
+      font-size: 17px;
+      font-weight: 700;
+      cursor: pointer;
+      margin-top: 18px;
+      box-shadow: 0 12px 30px rgba(244, 63, 94, 0.4);
+    }
+    .btn-primary:active { transform: scale(0.97); }
+
+    .hint {
+      color: #9ca3af;
+      font-size: 12px;
+      margin-top: 14px;
+      text-align: center;
+      line-height: 1.5;
+    }
+
+    /* GAME */
+    .turn-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      max-width: 380px;
+      margin-top: 18px;
+      font-size: 14px;
+    }
+    .turn-bar .who { font-weight: 700; color: #fda4af; }
+    .turn-bar .score { color: #9ca3af; font-size: 12px; }
+
+    .card-wrap {
+      width: 100%;
+      max-width: 380px;
+      perspective: 1000px;
+      margin-top: 20px;
+      height: 380px;
+    }
+    .card {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      transform-style: preserve-3d;
+      transition: transform 0.7s cubic-bezier(.25,1.5,.5,1);
+      cursor: pointer;
+    }
+    .card.flipped { transform: rotateY(180deg); }
+    .face {
+      position: absolute;
+      inset: 0;
+      border-radius: 24px;
+      backface-visibility: hidden;
+      -webkit-backface-visibility: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 28px;
+      text-align: center;
+      box-shadow: 0 20px 50px rgba(0,0,0,0.4);
+    }
+    .face.front {
+      background: linear-gradient(135deg, #be123c, #831843);
+      border: 1px solid rgba(255,255,255,0.15);
+    }
+    .face.front .pattern {
+      position: absolute; inset: 0;
+      background-image: radial-gradient(circle at 25% 30%, rgba(255,255,255,0.06) 0, transparent 50%),
+                        radial-gradient(circle at 75% 70%, rgba(255,255,255,0.06) 0, transparent 50%);
+      border-radius: 24px;
+    }
+    .face.front .logo { font-size: 64px; }
+    .face.front .label { position: absolute; bottom: 30px; left: 0; right: 0; font-size: 12px; letter-spacing: 0.25em; color: #f9a8b8; }
+    .face.back {
+      background: linear-gradient(135deg, #fff1f2, #fce7f3);
+      color: #1f0a14;
+      transform: rotateY(180deg);
+      flex-direction: column;
+      gap: 14px;
+    }
+    .face.back .level-pill {
+      position: absolute;
+      top: 18px; left: 18px;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: rgba(0,0,0,0.08);
+      color: #831843;
+      text-transform: uppercase;
+    }
+    .face.back .who-pill {
+      position: absolute;
+      top: 18px; right: 18px;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: #f43f5e;
+      color: #fff;
+    }
+    .face.back .text {
+      font-size: 22px;
+      font-weight: 600;
+      line-height: 1.4;
+      color: #500724;
+    }
+
+    .actions {
+      display: flex;
+      gap: 10px;
+      width: 100%;
+      max-width: 380px;
+      margin-top: 18px;
+    }
+    .actions button {
+      flex: 1;
+      padding: 14px 12px;
+      border-radius: 999px;
+      border: none;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .btn-skip { background: rgba(255,255,255,0.08); color: #fda4af; }
+    .btn-done { background: linear-gradient(135deg, #f43f5e, #ec4899); color: #fff; }
+    .btn-draw {
+      width: 100%; max-width: 380px;
+      padding: 16px;
+      margin-top: 18px;
+      border-radius: 999px;
+      border: none;
+      background: linear-gradient(135deg, #f43f5e, #be123c);
+      color: #fff;
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      box-shadow: 0 12px 30px rgba(244, 63, 94, 0.4);
+    }
+    .btn-back-link {
+      background: transparent;
+      border: none;
+      color: #9ca3af;
+      font-size: 12px;
+      cursor: pointer;
+      margin-top: 16px;
+    }
+
+    .hidden { display: none !important; }
+  </style>
+</head>
+<body>
+
+  <header style="text-align:center;">
+    <h1>💞 İkimiz</h1>
+    <div class="subtitle">Sıra ile kart çek, birlikte güzel vakit geçir.</div>
+    <div class="age-tag">18+ · sadece eşinle</div>
+  </header>
+
+  <!-- SETUP -->
+  <section id="setup" class="panel">
+    <label>
+      <span>Sen</span>
+      <input id="name-a" maxlength="14" value="Sen" />
+    </label>
+    <label>
+      <span>Eşin</span>
+      <input id="name-b" maxlength="14" value="Eşim" />
+    </label>
+    <div>
+      <div style="font-size:13px; color:#fda4af; margin-bottom:6px;">Seviye</div>
+      <div class="levels" id="levels">
+        <button data-level="romantik" class="active">
+          <span class="emoji">💕</span>Romantik
+        </button>
+        <button data-level="tutkulu">
+          <span class="emoji">🔥</span>Tutkulu
+        </button>
+        <button data-level="atesli">
+          <span class="emoji">🌶️</span>Ateşli
+        </button>
+      </div>
+    </div>
+    <button class="btn-primary" id="btn-begin">Başla</button>
+    <p class="hint">Her kart bir teklif. Beğenmediğin/uygun olmayan bir şey gelirse <b>Pas</b> de — saygı her zaman önce gelir.</p>
+  </section>
+
+  <!-- GAME -->
+  <section id="game" class="hidden" style="display: none; flex-direction: column; align-items: center; width: 100%;">
+    <div class="turn-bar">
+      <div>Sıra: <span class="who" id="turn-who">Sen</span></div>
+      <div class="score" id="score-text">0 kart tamamlandı</div>
+    </div>
+
+    <div class="card-wrap">
+      <div class="card" id="card">
+        <div class="face front">
+          <div class="pattern"></div>
+          <div class="logo">💞</div>
+          <div class="label">DOKUN VE ÇEVİR</div>
+        </div>
+        <div class="face back">
+          <div class="level-pill" id="card-level">Romantik</div>
+          <div class="who-pill" id="card-who">Sen</div>
+          <div class="text" id="card-text">…</div>
+        </div>
+      </div>
+    </div>
+
+    <button class="btn-draw" id="btn-draw">Kart çek</button>
+    <div class="actions hidden" id="actions">
+      <button class="btn-skip" id="btn-skip">Pas geç</button>
+      <button class="btn-done" id="btn-done">Tamam, sıra eşimde</button>
+    </div>
+
+    <button class="btn-back-link" id="btn-back">Ayarlara dön</button>
+  </section>
+
+  <script>
+    const cards = {
+      romantik: [
+        "Eşinin gözlerinin içine 1 dakika sessizce bak.",
+        "Onda en sevdiğin 3 özelliği söyle.",
+        "Alnından yavaşça öp ve 10 saniye orada kal.",
+        "Tanıştığınız anı baştan anlat.",
+        "Saçlarını okşayarak 1 dakika sarıl.",
+        "Burnunuzu birbirine sürt — eskimo öpücüğü.",
+        "Onu güldüren bir anısını anlat.",
+        "Kulağına 'Seni seviyorum' fısılda — 3 farklı şekilde.",
+        "Elini tutarak parmaklarınızı geçir, 1 dakika.",
+        "Yanak yanağa dur, derin nefes al, 30 saniye.",
+        "Birlikte yaptığınız en güzel hatırayı paylaş.",
+        "Sırtına yaslan ve onu kollarınla sar.",
+        "Çenesinden tut, gözlerine bak, yavaşça öp.",
+        "Onun en sevdiğin halini tarif et.",
+        "Yumuşakça boynundan bir öpücük kondur.",
+        "Birlikte aynı şarkıyı mırıldan, sarılırken.",
+        "Onun bir hayalini sor, dikkatle dinle.",
+        "Ellerini avuçlarının arasına al, 1 dakika.",
+        "Ona bugün için bir teşekkür et — somut bir şey.",
+        "Yavaş dans edin — şarkı olsun olmasın."
+      ],
+      tutkulu: [
+        "Dudaklarından yavaş ve uzun bir öpücük — 15 saniye.",
+        "Boynundan 3 farklı noktayı öp.",
+        "Kulağına şu an aklındaki şeyi fısılda.",
+        "Omuzlarını ve ensesini 1 dakika masaj yap.",
+        "Beline elini koy ve sıkıca kendine çek.",
+        "Saçlarını hafifçe tutarak öp.",
+        "Gözleri kapalı, parmaklarını yüzünde gezdir.",
+        "Onu duvara/yatağa yaslayarak öp.",
+        "Yumuşakça kulağını/boynunu ısır.",
+        "Bir kıyafet parçasını yavaşça çıkar.",
+        "Kucağına otur, alnınızı birbirine yasla.",
+        "Dudaklarını dudaklarının üzerinden geçir, öpmeden.",
+        "Ona şu an ne hissettiğini fısılda.",
+        "Onun en sevdiğin yerinden öp.",
+        "Ellerini tutarak başının üstüne kaldır, öp.",
+        "Yan yana uzanın, sadece nefesinizi dinleyin, 1 dakika.",
+        "Sırtına parmaklarınla yavaşça bir kalp çiz.",
+        "Bir fantezini kısaca anlat.",
+        "Tişörtünün/gömleğinin altından eline sıcaklığını ver.",
+        "Yavaş ve şehvetli bir bakış kur, 30 saniye."
+      ],
+      atesli: [
+        "Birer kıyafet parçanızı eş zamanlı çıkarın.",
+        "Boynundan göğsüne kadar yavaş bir öpücük şeridi bırak.",
+        "Onun seçtiği bir yerden 1 dakika öp — durmadan.",
+        "Bileklerini hafifçe tut, gözlerine bakarak öp.",
+        "Onun en hassas noktasını sen söyle, sonra dokun.",
+        "Kucağına otur ve yavaşça hareket et — sadece bakış.",
+        "Tüm vücudunu öp: alın, burun, dudak, boyun, omuz, kalp.",
+        "Yatağa it ve üzerine eğil, öpmeden bekle 10 saniye.",
+        "Yumuşak bir kumaşla (eşarp/tişört) gözlerini bağla, sonra öp.",
+        "Ona ne istediğini sor; istediğini tam olarak yap.",
+        "Buz parçası veya soğuk bir nesneyle teninde gez.",
+        "İki dakika sadece kulağına fısılda, hareketsiz.",
+        "Bir kıyafetini onun çıkarmasına izin ver.",
+        "Saçlarını yumuşakça topla, ensesini öp.",
+        "Belinden tutarak yavaşça kendine yakınlaştır, 30 saniye temas.",
+        "Yanına uzan, parmaklarını derinin üzerinde gezdir — kelimesiz.",
+        "Onun bedeninde en sevdiğin yeri sözlerle anlat, sonra göster.",
+        "Dudaklarınız temas etmeden, yüzünüz birbirine 1 cm uzak, 30 saniye dur.",
+        "Sıcak nefesinle kulağına/boynuna üfle.",
+        "Bu gecenin en güzel anısını birlikte yaratmak için ne yapmak istersin? Söyle ve başla."
+      ],
+    };
+
+    const labels = { romantik: "Romantik", tutkulu: "Tutkulu", atesli: "Ateşli" };
+
+    const state = {
+      names: { A: "Sen", B: "Eşim" },
+      level: "romantik",
+      turn: "A",
+      done: 0,
+      deck: [],
+      revealed: false,
+    };
+
+    const $ = (id) => document.getElementById(id);
+
+    document.querySelectorAll("#levels button").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll("#levels button").forEach((b) => b.classList.remove("active"));
+        btn.classList.add("active");
+        state.level = btn.dataset.level;
+      });
+    });
+
+    function buildDeck() {
+      state.deck = [...cards[state.level]];
+      for (let i = state.deck.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [state.deck[i], state.deck[j]] = [state.deck[j], state.deck[i]];
+      }
+    }
+
+    function drawCard() {
+      if (state.deck.length === 0) buildDeck();
+      const text = state.deck.pop();
+      $("card-text").textContent = text;
+      $("card-level").textContent = labels[state.level];
+      $("card-who").textContent = state.names[state.turn];
+      $("card").classList.add("flipped");
+      state.revealed = true;
+      $("btn-draw").classList.add("hidden");
+      $("actions").classList.remove("hidden");
+    }
+
+    function endTurn(advance) {
+      $("card").classList.remove("flipped");
+      state.revealed = false;
+      if (advance) {
+        state.done++;
+        $("score-text").textContent = state.done + " kart tamamlandı";
+      }
+      state.turn = state.turn === "A" ? "B" : "A";
+      $("turn-who").textContent = state.names[state.turn];
+      $("actions").classList.add("hidden");
+      setTimeout(() => $("btn-draw").classList.remove("hidden"), 400);
+    }
+
+    $("btn-begin").addEventListener("click", () => {
+      state.names.A = ($("name-a").value.trim() || "Sen").slice(0, 14);
+      state.names.B = ($("name-b").value.trim() || "Eşim").slice(0, 14);
+      state.turn = "A";
+      state.done = 0;
+      buildDeck();
+      $("turn-who").textContent = state.names.A;
+      $("score-text").textContent = "0 kart tamamlandı";
+      $("setup").classList.add("hidden");
+      const g = $("game");
+      g.classList.remove("hidden");
+      g.style.display = "flex";
+    });
+
+    $("card").addEventListener("click", () => {
+      if (!state.revealed) drawCard();
+    });
+    $("btn-draw").addEventListener("click", drawCard);
+    $("btn-skip").addEventListener("click", () => endTurn(false));
+    $("btn-done").addEventListener("click", () => endTurn(true));
+    $("btn-back").addEventListener("click", () => {
+      $("setup").classList.remove("hidden");
+      $("game").classList.add("hidden");
+    });
+  </script>
+</body>
+</html>
