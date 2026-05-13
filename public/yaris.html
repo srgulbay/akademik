@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <title>Parmak Yarışı 👆💞</title>
+  <style>
+    * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; user-select: none; -webkit-user-select: none; }
+    html, body { margin: 0; padding: 0; height: 100%; overflow: hidden; touch-action: manipulation; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      color: #fff;
+      background: #0f172a;
+    }
+
+    .screen { position: fixed; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px; }
+    .hidden { display: none !important; }
+
+    /* SETUP */
+    #setup { background: linear-gradient(160deg, #ec4899, #f97316); }
+    .panel {
+      background: rgba(0,0,0,0.25);
+      backdrop-filter: blur(10px);
+      border-radius: 24px;
+      padding: 24px;
+      width: 100%;
+      max-width: 380px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    }
+    h1 { margin: 0 0 6px; font-size: 32px; text-align: center; }
+    .subtitle { text-align: center; opacity: 0.9; margin-bottom: 18px; font-size: 14px; }
+    label { display: flex; flex-direction: column; gap: 6px; font-size: 14px; margin-bottom: 12px; }
+    input {
+      padding: 12px 14px;
+      border-radius: 12px;
+      border: none;
+      font-size: 16px;
+      background: rgba(255,255,255,0.95);
+      color: #1f2937;
+      outline: none;
+    }
+    .durations { display: flex; gap: 8px; margin: 12px 0 18px; }
+    .durations button {
+      flex: 1; padding: 12px; border-radius: 12px; border: 2px solid rgba(255,255,255,0.4);
+      background: transparent; color: #fff; font-size: 15px; font-weight: 600; cursor: pointer;
+      transition: all 0.15s ease;
+    }
+    .durations button.active { background: #fff; color: #ec4899; border-color: #fff; }
+    .btn-start {
+      width: 100%;
+      padding: 16px;
+      border-radius: 999px;
+      border: none;
+      background: #fff;
+      color: #ec4899;
+      font-size: 18px;
+      font-weight: 700;
+      cursor: pointer;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    }
+    .btn-start:active { transform: scale(0.97); }
+
+    /* COUNTDOWN */
+    #countdown { background: #1f2937; }
+    .count-number {
+      font-size: 30vmin;
+      font-weight: 900;
+      line-height: 1;
+      animation: pulse 1s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.15); opacity: 0.7; }
+    }
+
+    /* GAME */
+    #game { padding: 0; }
+    .arena {
+      position: fixed; inset: 0;
+      display: flex;
+      flex-direction: column;
+    }
+    .side {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      transition: background 0.05s ease;
+      overflow: hidden;
+    }
+    .side.left { background: linear-gradient(135deg, #f43f5e, #e11d48); }
+    .side.right { background: linear-gradient(135deg, #f59e0b, #d97706); }
+    .side.tapped { filter: brightness(1.3); }
+    .name {
+      font-size: 18px;
+      opacity: 0.9;
+      margin-bottom: 6px;
+      font-weight: 600;
+    }
+    .count {
+      font-size: 22vmin;
+      font-weight: 900;
+      line-height: 1;
+      text-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    }
+    .tap-hint {
+      position: absolute;
+      bottom: 24px;
+      font-size: 14px;
+      opacity: 0.7;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+    .timer-bar {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 6px;
+      background: rgba(255,255,255,0.2);
+      z-index: 10;
+    }
+    .timer-fill {
+      height: 100%;
+      background: #fff;
+      width: 100%;
+      transition: width 0.1s linear;
+    }
+    .timer-text {
+      position: fixed;
+      top: 16px; left: 50%;
+      transform: translateX(-50%);
+      font-size: 14px;
+      font-weight: 700;
+      background: rgba(0,0,0,0.4);
+      padding: 4px 12px;
+      border-radius: 999px;
+      z-index: 11;
+    }
+    .ripple {
+      position: absolute;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.6);
+      pointer-events: none;
+      animation: rip 0.5s ease-out forwards;
+    }
+    @keyframes rip {
+      from { width: 0; height: 0; opacity: 0.8; }
+      to { width: 200px; height: 200px; opacity: 0; transform: translate(-100px, -100px); }
+    }
+
+    /* RESULT */
+    #result { background: linear-gradient(160deg, #6366f1, #ec4899); }
+    .trophy { font-size: 80px; margin-bottom: 8px; }
+    .winner { font-size: 28px; font-weight: 800; margin-bottom: 16px; text-align: center; }
+    .final-scores { display: flex; gap: 16px; margin: 18px 0 26px; width: 100%; max-width: 380px; }
+    .final-score { flex: 1; background: rgba(0,0,0,0.25); border-radius: 16px; padding: 14px; text-align: center; }
+    .final-score .n { font-size: 13px; opacity: 0.8; }
+    .final-score .v { font-size: 36px; font-weight: 900; line-height: 1.1; margin: 4px 0; }
+    .final-score .r { font-size: 12px; opacity: 0.7; }
+    .final-score.win { background: rgba(255,255,255,0.95); color: #6366f1; }
+    .actions { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; width: 100%; max-width: 380px; }
+    .btn-replay, .btn-back {
+      flex: 1; min-width: 140px;
+      padding: 14px; border-radius: 999px; border: none;
+      font-size: 15px; font-weight: 700; cursor: pointer;
+    }
+    .btn-replay { background: #fff; color: #6366f1; }
+    .btn-back { background: rgba(0,0,0,0.3); color: #fff; }
+    .btn-replay:active, .btn-back:active { transform: scale(0.97); }
+
+    @media (orientation: landscape) {
+      .arena { flex-direction: row; }
+    }
+  </style>
+</head>
+<body>
+
+  <section id="setup" class="screen">
+    <div class="panel">
+      <h1>👆 Parmak Yarışı</h1>
+      <div class="subtitle">Yan yana oturun, ekranı paylaşın, parmaklarınız hazır olsun.</div>
+      <label>
+        <span>Sol oyuncu</span>
+        <input id="name-l" maxlength="14" value="Sen" />
+      </label>
+      <label>
+        <span>Sağ oyuncu</span>
+        <input id="name-r" maxlength="14" value="Eşim" />
+      </label>
+      <div>
+        <div style="font-size:14px; margin-bottom:6px;">Süre</div>
+        <div class="durations" id="durations">
+          <button data-d="5">5 sn</button>
+          <button data-d="10" class="active">10 sn</button>
+          <button data-d="15">15 sn</button>
+        </div>
+      </div>
+      <button class="btn-start" id="btn-start">Başla 🚀</button>
+      <p style="margin: 14px 0 0; font-size: 12px; opacity: 0.85; text-align: center;">
+        💡 İpucu: Telefonu yatay tutarsanız iki taraf yan yana gelir.
+      </p>
+    </div>
+  </section>
+
+  <section id="countdown" class="screen hidden">
+    <div class="count-number" id="count-num">3</div>
+  </section>
+
+  <section id="game" class="screen hidden">
+    <div class="timer-bar"><div class="timer-fill" id="timer-fill"></div></div>
+    <div class="timer-text" id="timer-text">10.0</div>
+    <div class="arena">
+      <div class="side left" id="side-l">
+        <div class="name" id="game-name-l">Sen</div>
+        <div class="count" id="count-l">0</div>
+        <div class="tap-hint">Bu tarafa dokun</div>
+      </div>
+      <div class="side right" id="side-r">
+        <div class="name" id="game-name-r">Eşim</div>
+        <div class="count" id="count-r">0</div>
+        <div class="tap-hint">Bu tarafa dokun</div>
+      </div>
+    </div>
+  </section>
+
+  <section id="result" class="screen hidden">
+    <div class="trophy" id="trophy">🏆</div>
+    <div class="winner" id="winner-text">Sen kazandı!</div>
+    <div class="final-scores">
+      <div class="final-score" id="final-l">
+        <div class="n" id="final-name-l">Sen</div>
+        <div class="v" id="final-v-l">0</div>
+        <div class="r" id="final-rate-l">0.0/sn</div>
+      </div>
+      <div class="final-score" id="final-r">
+        <div class="n" id="final-name-r">Eşim</div>
+        <div class="v" id="final-v-r">0</div>
+        <div class="r" id="final-rate-r">0.0/sn</div>
+      </div>
+    </div>
+    <div class="actions">
+      <button class="btn-replay" id="btn-replay">Rövanş 🔁</button>
+      <button class="btn-back" id="btn-back">Yeniden ayarla</button>
+    </div>
+  </section>
+
+  <script>
+    const $ = (id) => document.getElementById(id);
+
+    const state = {
+      names: { L: "Sen", R: "Eşim" },
+      duration: 10,
+      counts: { L: 0, R: 0 },
+      running: false,
+      endsAt: 0,
+    };
+
+    let rafId = null;
+
+    document.querySelectorAll("#durations button").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll("#durations button").forEach((b) => b.classList.remove("active"));
+        btn.classList.add("active");
+        state.duration = Number(btn.dataset.d);
+      });
+    });
+
+    function show(id) {
+      ["setup", "countdown", "game", "result"].forEach((s) => {
+        $(s).classList.toggle("hidden", s !== id);
+      });
+    }
+
+    function startCountdown() {
+      show("countdown");
+      let n = 3;
+      $("count-num").textContent = n;
+      const tick = () => {
+        n--;
+        if (n > 0) {
+          $("count-num").textContent = n;
+          setTimeout(tick, 800);
+        } else {
+          $("count-num").textContent = "BAŞLA!";
+          setTimeout(startGame, 600);
+        }
+      };
+      setTimeout(tick, 800);
+    }
+
+    function startGame() {
+      state.counts = { L: 0, R: 0 };
+      state.running = true;
+      $("count-l").textContent = "0";
+      $("count-r").textContent = "0";
+      $("game-name-l").textContent = state.names.L;
+      $("game-name-r").textContent = state.names.R;
+      $("timer-fill").style.width = "100%";
+      show("game");
+      state.endsAt = performance.now() + state.duration * 1000;
+      tickTimer();
+    }
+
+    function tickTimer() {
+      const remain = Math.max(0, state.endsAt - performance.now());
+      const pct = (remain / (state.duration * 1000)) * 100;
+      $("timer-fill").style.width = pct + "%";
+      $("timer-text").textContent = (remain / 1000).toFixed(1);
+      if (remain <= 0) {
+        state.running = false;
+        endGame();
+        return;
+      }
+      rafId = requestAnimationFrame(tickTimer);
+    }
+
+    function endGame() {
+      if (rafId) cancelAnimationFrame(rafId);
+      $("final-name-l").textContent = state.names.L;
+      $("final-name-r").textContent = state.names.R;
+      $("final-v-l").textContent = state.counts.L;
+      $("final-v-r").textContent = state.counts.R;
+      $("final-rate-l").textContent = (state.counts.L / state.duration).toFixed(1) + "/sn";
+      $("final-rate-r").textContent = (state.counts.R / state.duration).toFixed(1) + "/sn";
+
+      $("final-l").classList.toggle("win", state.counts.L > state.counts.R);
+      $("final-r").classList.toggle("win", state.counts.R > state.counts.L);
+
+      if (state.counts.L === state.counts.R) {
+        $("trophy").textContent = "🤝";
+        $("winner-text").textContent = "Berabere! Yine deneyin 💪";
+      } else {
+        const winner = state.counts.L > state.counts.R ? "L" : "R";
+        $("trophy").textContent = "🏆";
+        $("winner-text").textContent = state.names[winner] + " kazandı!";
+      }
+      show("result");
+      if (navigator.vibrate) navigator.vibrate([60, 40, 60]);
+    }
+
+    function makeRipple(el, x, y) {
+      const r = document.createElement("span");
+      r.className = "ripple";
+      const rect = el.getBoundingClientRect();
+      r.style.left = (x - rect.left) + "px";
+      r.style.top = (y - rect.top) + "px";
+      el.appendChild(r);
+      setTimeout(() => r.remove(), 500);
+    }
+
+    function bumpCount(side, x, y) {
+      if (!state.running) return;
+      state.counts[side]++;
+      const el = side === "L" ? $("count-l") : $("count-r");
+      el.textContent = state.counts[side];
+      el.style.transform = "scale(1.18)";
+      setTimeout(() => (el.style.transform = "scale(1)"), 60);
+      const sideEl = side === "L" ? $("side-l") : $("side-r");
+      sideEl.classList.add("tapped");
+      setTimeout(() => sideEl.classList.remove("tapped"), 50);
+      if (typeof x === "number") makeRipple(sideEl, x, y);
+      if (navigator.vibrate) navigator.vibrate(10);
+    }
+
+    function attachTaps(el, side) {
+      el.addEventListener("touchstart", (e) => {
+        e.preventDefault();
+        for (const t of e.changedTouches) bumpCount(side, t.clientX, t.clientY);
+      }, { passive: false });
+      el.addEventListener("mousedown", (e) => {
+        bumpCount(side, e.clientX, e.clientY);
+      });
+    }
+    attachTaps($("side-l"), "L");
+    attachTaps($("side-r"), "R");
+
+    $("btn-start").addEventListener("click", () => {
+      state.names.L = ($("name-l").value.trim() || "Sen").slice(0, 14);
+      state.names.R = ($("name-r").value.trim() || "Eşim").slice(0, 14);
+      startCountdown();
+    });
+
+    $("btn-replay").addEventListener("click", startCountdown);
+    $("btn-back").addEventListener("click", () => show("setup"));
+  </script>
+</body>
+</html>
