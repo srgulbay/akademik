@@ -249,12 +249,12 @@
   <!-- SETUP -->
   <section id="setup" class="panel">
     <label>
-      <span>Sen</span>
-      <input id="name-a" maxlength="14" value="Sen" />
+      <span>Kadın</span>
+      <input id="name-a" maxlength="14" value="Kadın" />
     </label>
     <label>
-      <span>Eşin</span>
-      <input id="name-b" maxlength="14" value="Eşim" />
+      <span>Erkek</span>
+      <input id="name-b" maxlength="14" value="Erkek" />
     </label>
     <div>
       <div style="font-size:13px; color:#fda4af; margin-bottom:6px;">Seviye</div>
@@ -277,7 +277,7 @@
   <!-- GAME -->
   <section id="game" class="hidden" style="display: none; flex-direction: column; align-items: center; width: 100%;">
     <div class="turn-bar">
-      <div>Sıra: <span class="who" id="turn-who">Sen</span></div>
+      <div>Sıra: <span class="who" id="turn-who">Kadın</span></div>
       <div class="score" id="score-text">0 kart tamamlandı</div>
     </div>
 
@@ -306,83 +306,116 @@
   </section>
 
   <script>
+    // K = kadın çekerse (kadın yapar), E = erkek çekerse (erkek yapar), * = ortak
     const cards = {
-      romantik: [
-        "Eşinin gözlerinin içine 1 dakika sessizce bak.",
-        "Onda en sevdiğin 3 özelliği söyle.",
-        "Alnından yavaşça öp ve 10 saniye orada kal.",
-        "Tanıştığınız anı baştan anlat.",
-        "Saçlarını okşayarak 1 dakika sarıl.",
-        "Burnunuzu birbirine sürt — eskimo öpücüğü.",
-        "Onu güldüren bir anısını anlat.",
-        "Kulağına 'Seni seviyorum' fısılda — 3 farklı şekilde.",
-        "Elini tutarak parmaklarınızı geçir, 1 dakika.",
-        "Yanak yanağa dur, derin nefes al, 30 saniye.",
-        "Birlikte yaptığınız en güzel hatırayı paylaş.",
-        "Sırtına yaslan ve onu kollarınla sar.",
-        "Çenesinden tut, gözlerine bak, yavaşça öp.",
-        "Onun en sevdiğin halini tarif et.",
-        "Yumuşakça boynundan bir öpücük kondur.",
-        "Birlikte aynı şarkıyı mırıldan, sarılırken.",
-        "Onun bir hayalini sor, dikkatle dinle.",
-        "Ellerini avuçlarının arasına al, 1 dakika.",
-        "Ona bugün için bir teşekkür et — somut bir şey.",
-        "Yavaş dans edin — şarkı olsun olmasın."
-      ],
-      tutkulu: [
-        "Dudaklarından yavaş ve uzun bir öpücük — 15 saniye.",
-        "Boynundan 3 farklı noktayı öp.",
-        "Kulağına şu an aklındaki şeyi fısılda.",
-        "Omuzlarını ve ensesini 1 dakika masaj yap.",
-        "Beline elini koy ve sıkıca kendine çek.",
-        "Saçlarını hafifçe tutarak öp.",
-        "Gözleri kapalı, parmaklarını yüzünde gezdir.",
-        "Onu duvara/yatağa yaslayarak öp.",
-        "Yumuşakça kulağını/boynunu ısır.",
-        "Bir kıyafet parçasını yavaşça çıkar.",
-        "Kucağına otur, alnınızı birbirine yasla.",
-        "Dudaklarını dudaklarının üzerinden geçir, öpmeden.",
-        "Ona şu an ne hissettiğini fısılda.",
-        "Onun en sevdiğin yerinden öp.",
-        "Ellerini tutarak başının üstüne kaldır, öp.",
-        "Yan yana uzanın, sadece nefesinizi dinleyin, 1 dakika.",
-        "Sırtına parmaklarınla yavaşça bir kalp çiz.",
-        "Bir fantezini kısaca anlat.",
-        "Tişörtünün/gömleğinin altından eline sıcaklığını ver.",
-        "Yavaş ve şehvetli bir bakış kur, 30 saniye."
-      ],
-      atesli: [
-        "Birer kıyafet parçanızı eş zamanlı çıkarın.",
-        "Boynundan göğsüne kadar yavaş bir öpücük şeridi bırak.",
-        "Onun seçtiği bir yerden 1 dakika öp — durmadan.",
-        "Bileklerini hafifçe tut, gözlerine bakarak öp.",
-        "Onun en hassas noktasını sen söyle, sonra dokun.",
-        "Kucağına otur ve yavaşça hareket et — sadece bakış.",
-        "Tüm vücudunu öp: alın, burun, dudak, boyun, omuz, kalp.",
-        "Yatağa it ve üzerine eğil, öpmeden bekle 10 saniye.",
-        "Yumuşak bir kumaşla (eşarp/tişört) gözlerini bağla, sonra öp.",
-        "Ona ne istediğini sor; istediğini tam olarak yap.",
-        "Buz parçası veya soğuk bir nesneyle teninde gez.",
-        "İki dakika sadece kulağına fısılda, hareketsiz.",
-        "Bir kıyafetini onun çıkarmasına izin ver.",
-        "Saçlarını yumuşakça topla, ensesini öp.",
-        "Belinden tutarak yavaşça kendine yakınlaştır, 30 saniye temas.",
-        "Yanına uzan, parmaklarını derinin üzerinde gezdir — kelimesiz.",
-        "Onun bedeninde en sevdiğin yeri sözlerle anlat, sonra göster.",
-        "Dudaklarınız temas etmeden, yüzünüz birbirine 1 cm uzak, 30 saniye dur.",
-        "Sıcak nefesinle kulağına/boynuna üfle.",
-        "Bu gecenin en güzel anısını birlikte yaratmak için ne yapmak istersin? Söyle ve başla."
-      ],
+      romantik: {
+        ortak: [
+          "Eşinin gözlerinin içine 1 dakika sessizce bak.",
+          "Eşinde en sevdiğin 3 özelliği söyle.",
+          "Burnunuzu birbirine sürt — eskimo öpücüğü.",
+          "Yanak yanağa dur, derin nefes al, 30 saniye.",
+          "Tanıştığınız anı baştan birlikte anlatın.",
+          "Birlikte yaptığınız en güzel hatırayı paylaş.",
+          "Birlikte aynı şarkıyı mırıldanın, sarılırken.",
+          "Ellerini avuçlarının arasına al, 1 dakika.",
+          "Yavaş dans edin — şarkı olsun olmasın.",
+          "Ona bugün için somut bir teşekkür et.",
+          "Bir hayalini sor, dikkatle dinle.",
+        ],
+        kadin: [
+          "Erkeğin başını göğsüne yasla, saçlarını yavaşça okşa.",
+          "Erkeğin elini al, içine yumuşak bir öpücük kondur.",
+          "Erkeğin omzuna başını yasla, sus, 1 dakika.",
+          "Erkeğin yüzünü iki avucunun arasına al, alnından öp.",
+          "Erkeğe onu güzel kılan şeyi tarif et.",
+          "Erkeğin kucağına otur, kollarını boynuna dola.",
+          "Erkeğin sırtına yaslan, ellerini ellerinin üstüne koy.",
+        ],
+        erkek: [
+          "Kadının yüzünü iki elinle tut, alnından yavaşça öp.",
+          "Kadının elini iki avucunun arasına al, dudaklarına götür.",
+          "Kadını arkadan sar, kulağına bir kompliman fısılda.",
+          "Kadının saçlarını okşayarak 1 dakika sarıl.",
+          "Kadına ona aşık olduğun anı anlat.",
+          "Kadının çenesinden tut, gözlerine bak, yavaşça öp.",
+          "Kadını kollarına al, hafifçe sallayarak sarıl.",
+        ],
+      },
+      tutkulu: {
+        ortak: [
+          "Dudaklarından yavaş ve uzun bir öpücük — 15 saniye.",
+          "Kulağına şu an aklındaki şeyi fısılda.",
+          "Gözleri kapalı, parmaklarını yüzünde gezdir.",
+          "Dudaklarını dudaklarının üzerinden geçir, öpmeden.",
+          "Sırtına parmaklarınla yavaşça bir kalp çiz.",
+          "Yan yana uzanın, sadece nefesinizi dinleyin, 1 dakika.",
+          "Şehvetli bir bakış kurun, 30 saniye — söz yok.",
+          "Bir fantezini kısaca fısılda.",
+        ],
+        kadin: [
+          "Erkeğin tişörtünün/gömleğinin altından sıcaklığını ver.",
+          "Erkeğin saçlarını tut, gözlerine bak, yavaşça öp.",
+          "Erkeği yatağa/koltuğa it, üzerine yavaşça eğil.",
+          "Erkeğin kulağını yumuşakça ısır.",
+          "Erkeğin kucağına otur, alınınızı birbirine yasla.",
+          "Erkeğin boynundan 3 farklı noktayı öp.",
+          "Erkeğin omuzlarını ve ensesini 1 dakika masaj yap.",
+          "Erkeğin kulağına ne hissettiğini fısılda.",
+        ],
+        erkek: [
+          "Kadını arkadan tut, ensesinden omzuna kadar öp.",
+          "Kadını duvara/yatağa yaslayarak öp.",
+          "Kadının belinden tutarak kendine çek, 30 saniye temas.",
+          "Kadının saçlarını hafifçe tut, gözlerine bak, öp.",
+          "Kadının boynundan 3 farklı noktayı yumuşakça öp.",
+          "Kadının kulağına ne hissettiğini fısılda.",
+          "Kadının ensesinden 3 yumuşak öpücük.",
+          "Kadının belini ellerinle sar, 30 saniye hareketsiz dur.",
+        ],
+      },
+      atesli: {
+        ortak: [
+          "Birer kıyafet parçanızı eş zamanlı çıkarın.",
+          "Yumuşak bir kumaşla (eşarp) gözlerini bağla, sonra öp.",
+          "Ona ne istediğini sor; istediğini tam olarak yap.",
+          "Dudaklarınız temas etmeden yüzünüz 1 cm uzak, 30 saniye dur.",
+          "Sıcak nefesinle kulağına/boynuna üfle.",
+          "İki dakika sadece kulağına fısılda, hareketsiz.",
+          "Bu gecenin en güzel anısı için ne istediğini söyle ve başla.",
+          "Bir kıyafetini onun çıkarmasına izin ver.",
+        ],
+        kadin: [
+          "Erkeğin göğsünden karnına yavaş bir öpücük şeridi bırak.",
+          "Erkeğin gömleğini/tişörtünü yavaşça çıkar.",
+          "Erkeği yatağa yatır, üzerine otur, gözlerine bak.",
+          "Erkeğin bileklerini başının üstüne tut, yavaşça öp.",
+          "Erkeği şehvetli bir bakışla 1 dakika izle — dokunma.",
+          "Erkeğin kulağına en sevdiğin anı fısılda.",
+          "Erkeğin boynundan göğsüne kadar tek bir öpücük şeridi.",
+          "Erkeğin saçlarını tutarak öp, sonra çek, yine öp.",
+        ],
+        erkek: [
+          "Kadının ensesinden başlayıp sırtına bir öpücük şeridi bırak.",
+          "Kadının elbisesinin/üstünün düğmelerinden birini yavaşça aç.",
+          "Kadını kucağına al, yatağa götür.",
+          "Kadının saçlarını yumuşakça topla, ensesini öp.",
+          "Kadının ayak parmaklarından dizine kadar yavaşça öp.",
+          "Kadının vücudunda en sevdiğin yeri sözlerle anlat, sonra göster.",
+          "Kadını arkadan sar, ensesini yavaşça ısır.",
+          "Kadının bileklerini başının üstünde tut, yavaşça öp.",
+        ],
+      },
     };
 
     const labels = { romantik: "Romantik", tutkulu: "Tutkulu", atesli: "Ateşli" };
 
+    // K = Kadın, E = Erkek
     const state = {
-      names: { A: "Sen", B: "Eşim" },
+      names: { K: "Kadın", E: "Erkek" },
       level: "romantik",
-      turn: "A",
+      turn: "K",
       done: 0,
-      deck: [],
+      decks: { K: [], E: [] },
       revealed: false,
     };
 
@@ -393,20 +426,29 @@
         document.querySelectorAll("#levels button").forEach((b) => b.classList.remove("active"));
         btn.classList.add("active");
         state.level = btn.dataset.level;
+        rebuildDecks();
       });
     });
 
-    function buildDeck() {
-      state.deck = [...cards[state.level]];
-      for (let i = state.deck.length - 1; i > 0; i--) {
+    function shuffle(arr) {
+      const a = [...arr];
+      for (let i = a.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
-        [state.deck[i], state.deck[j]] = [state.deck[j], state.deck[i]];
+        [a[i], a[j]] = [a[j], a[i]];
       }
+      return a;
+    }
+
+    function rebuildDecks() {
+      const pool = cards[state.level];
+      state.decks.K = shuffle([...pool.ortak, ...pool.kadin]);
+      state.decks.E = shuffle([...pool.ortak, ...pool.erkek]);
     }
 
     function drawCard() {
-      if (state.deck.length === 0) buildDeck();
-      const text = state.deck.pop();
+      const deck = state.decks[state.turn];
+      if (deck.length === 0) rebuildDecks();
+      const text = state.decks[state.turn].pop();
       $("card-text").textContent = text;
       $("card-level").textContent = labels[state.level];
       $("card-who").textContent = state.names[state.turn];
@@ -423,19 +465,19 @@
         state.done++;
         $("score-text").textContent = state.done + " kart tamamlandı";
       }
-      state.turn = state.turn === "A" ? "B" : "A";
+      state.turn = state.turn === "K" ? "E" : "K";
       $("turn-who").textContent = state.names[state.turn];
       $("actions").classList.add("hidden");
       setTimeout(() => $("btn-draw").classList.remove("hidden"), 400);
     }
 
     $("btn-begin").addEventListener("click", () => {
-      state.names.A = ($("name-a").value.trim() || "Sen").slice(0, 14);
-      state.names.B = ($("name-b").value.trim() || "Eşim").slice(0, 14);
-      state.turn = "A";
+      state.names.K = ($("name-a").value.trim() || "Kadın").slice(0, 14);
+      state.names.E = ($("name-b").value.trim() || "Erkek").slice(0, 14);
+      state.turn = "K";
       state.done = 0;
-      buildDeck();
-      $("turn-who").textContent = state.names.A;
+      rebuildDecks();
+      $("turn-who").textContent = state.names.K;
       $("score-text").textContent = "0 kart tamamlandı";
       $("setup").classList.add("hidden");
       const g = $("game");
