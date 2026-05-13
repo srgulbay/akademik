@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <title>İkimizin XOX'u 💞</title>
+  <style>
+    :root {
+      --bg-1: #fff1f2;
+      --bg-2: #fef3c7;
+      --rose: #f43f5e;
+      --rose-soft: #fecdd3;
+      --amber: #f59e0b;
+      --amber-soft: #fde68a;
+      --ink: #1f2937;
+      --muted: #6b7280;
+      --card: rgba(255, 255, 255, 0.7);
+      --shadow: 0 10px 30px rgba(244, 63, 94, 0.12);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg-1: #1f1115;
+        --bg-2: #18181b;
+        --ink: #f9fafb;
+        --muted: #9ca3af;
+        --card: rgba(31, 41, 55, 0.6);
+      }
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: linear-gradient(135deg, var(--bg-1), var(--bg-2));
+      color: var(--ink);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 32px 16px 48px;
+      -webkit-tap-highlight-color: transparent;
+    }
+    header { text-align: center; margin-bottom: 16px; }
+    h1 {
+      margin: 0;
+      font-size: clamp(28px, 6vw, 44px);
+      color: var(--rose);
+      letter-spacing: -0.5px;
+    }
+    .subtitle { color: var(--muted); margin-top: 6px; font-size: 14px; }
+
+    .setup {
+      background: var(--card);
+      backdrop-filter: blur(10px);
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: var(--shadow);
+      width: 100%;
+      max-width: 360px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .setup label { display: flex; flex-direction: column; gap: 4px; font-size: 14px; }
+    .setup input {
+      padding: 10px 12px;
+      border-radius: 10px;
+      border: 1px solid var(--rose-soft);
+      background: white;
+      color: var(--ink);
+      font-size: 16px;
+      outline: none;
+    }
+    .setup input:focus { border-color: var(--rose); box-shadow: 0 0 0 3px rgba(244, 63, 94, 0.2); }
+
+    button {
+      cursor: pointer;
+      font-family: inherit;
+      border: none;
+      transition: transform 0.15s ease, background 0.15s ease;
+    }
+    button:active { transform: scale(0.97); }
+
+    .btn-primary {
+      background: var(--rose);
+      color: white;
+      padding: 12px;
+      border-radius: 999px;
+      font-weight: 600;
+      font-size: 15px;
+    }
+    .btn-primary:hover { background: #e11d48; }
+    .btn-primary:disabled { background: var(--rose-soft); cursor: not-allowed; }
+
+    .btn-ghost {
+      background: transparent;
+      color: var(--muted);
+      padding: 10px 18px;
+      border-radius: 999px;
+      font-size: 14px;
+    }
+    .btn-ghost:hover { background: rgba(255,255,255,0.5); }
+
+    .btn-outline {
+      background: white;
+      color: var(--rose);
+      padding: 10px 18px;
+      border-radius: 999px;
+      border: 1px solid var(--rose-soft);
+      font-weight: 500;
+      font-size: 14px;
+    }
+
+    .scoreboard {
+      display: flex;
+      gap: 10px;
+      margin: 16px 0 12px;
+      width: 100%;
+      max-width: 360px;
+    }
+    .score {
+      flex: 1;
+      border-radius: 16px;
+      padding: 10px 12px;
+      box-shadow: var(--shadow);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .score.x { background: linear-gradient(135deg, #fecdd3, #fda4af); color: #881337; }
+    .score.draw { background: linear-gradient(135deg, #e5e7eb, #d1d5db); color: #374151; }
+    .score.o { background: linear-gradient(135deg, #fde68a, #fcd34d); color: #78350f; }
+    .score.active { transform: scale(1.05); outline: 3px solid var(--rose); outline-offset: 1px; }
+    .score .label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.05em; opacity: 0.8; }
+    .score .value { font-size: 26px; font-weight: 800; line-height: 1.1; }
+    .score .sub { font-size: 11px; opacity: 0.7; }
+
+    .status {
+      font-size: 18px;
+      font-weight: 600;
+      margin: 6px 0 14px;
+      text-align: center;
+      min-height: 28px;
+    }
+
+    .board {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+      padding: 12px;
+      background: var(--card);
+      backdrop-filter: blur(10px);
+      border-radius: 20px;
+      box-shadow: var(--shadow);
+    }
+    .cell {
+      width: clamp(72px, 22vw, 96px);
+      height: clamp(72px, 22vw, 96px);
+      background: rgba(255,255,255,0.85);
+      border-radius: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: clamp(36px, 10vw, 52px);
+      font-weight: 900;
+      color: var(--ink);
+      transition: background 0.15s ease, transform 0.2s ease;
+    }
+    .cell:not(:disabled):hover { background: #fff1f2; }
+    .cell:disabled { cursor: default; }
+    .cell.x { color: var(--rose); }
+    .cell.o { color: var(--amber); }
+    .cell.win { background: #fda4af; animation: pop 0.4s ease; }
+    @keyframes pop {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.12); }
+      100% { transform: scale(1); }
+    }
+    .mark {
+      display: inline-block;
+      animation: drop 0.25s cubic-bezier(.2,.8,.4,1.4);
+    }
+    @keyframes drop {
+      from { transform: scale(0) rotate(-90deg); opacity: 0; }
+      to { transform: scale(1) rotate(0); opacity: 1; }
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+      margin-top: 20px;
+    }
+    .hint {
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 18px;
+      text-align: center;
+      max-width: 320px;
+    }
+    .hidden { display: none !important; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>💞 İkimizin XOX'u</h1>
+    <div class="subtitle">Sırayla dokun, üç tane yan yana getiren kazanır.</div>
+  </header>
+
+  <form class="setup" id="setup">
+    <label>
+      <span>X oyuncusu</span>
+      <input id="name-x" maxlength="16" value="Sen" />
+    </label>
+    <label>
+      <span>O oyuncusu</span>
+      <input id="name-o" maxlength="16" value="Eşim" />
+    </label>
+    <button type="submit" class="btn-primary">Hadi başlayalım ✨</button>
+  </form>
+
+  <section id="game" class="hidden" style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+    <div class="scoreboard">
+      <div class="score x" id="score-x">
+        <div class="label" id="label-x">Sen</div>
+        <div class="value" id="value-x">0</div>
+        <div class="sub">X</div>
+      </div>
+      <div class="score draw">
+        <div class="label">Berabere</div>
+        <div class="value" id="value-d">0</div>
+        <div class="sub">—</div>
+      </div>
+      <div class="score o" id="score-o">
+        <div class="label" id="label-o">Eşim</div>
+        <div class="value" id="value-o">0</div>
+        <div class="sub">O</div>
+      </div>
+    </div>
+
+    <div class="status" id="status">Sıra: Sen (X)</div>
+
+    <div class="board" id="board">
+      <button class="cell" data-i="0" aria-label="Hücre 1"></button>
+      <button class="cell" data-i="1" aria-label="Hücre 2"></button>
+      <button class="cell" data-i="2" aria-label="Hücre 3"></button>
+      <button class="cell" data-i="3" aria-label="Hücre 4"></button>
+      <button class="cell" data-i="4" aria-label="Hücre 5"></button>
+      <button class="cell" data-i="5" aria-label="Hücre 6"></button>
+      <button class="cell" data-i="6" aria-label="Hücre 7"></button>
+      <button class="cell" data-i="7" aria-label="Hücre 8"></button>
+      <button class="cell" data-i="8" aria-label="Hücre 9"></button>
+    </div>
+
+    <div class="actions">
+      <button id="btn-next" class="btn-primary" disabled>Sonraki raund</button>
+      <button id="btn-reset" class="btn-outline">Skoru sıfırla</button>
+      <button id="btn-names" class="btn-ghost">İsimleri değiştir</button>
+    </div>
+
+    <p class="hint">Her yeni raundda başlayan oyuncu değişir, böylece adil olur. 💕</p>
+  </section>
+
+  <script>
+    const WINS = [
+      [0,1,2],[3,4,5],[6,7,8],
+      [0,3,6],[1,4,7],[2,5,8],
+      [0,4,8],[2,4,6]
+    ];
+
+    const state = {
+      names: { X: "Sen", O: "Eşim" },
+      board: Array(9).fill(null),
+      turn: "X",
+      starter: "X",
+      scores: { X: 0, O: 0, D: 0 },
+      gameOver: false,
+      winLine: null
+    };
+
+    const $ = (id) => document.getElementById(id);
+    const cells = Array.from(document.querySelectorAll(".cell"));
+
+    function calcWinner(b) {
+      for (const line of WINS) {
+        const [a, c, d] = line;
+        if (b[a] && b[a] === b[c] && b[a] === b[d]) return { winner: b[a], line };
+      }
+      return null;
+    }
+
+    function render() {
+      $("label-x").textContent = state.names.X;
+      $("label-o").textContent = state.names.O;
+      $("value-x").textContent = state.scores.X;
+      $("value-o").textContent = state.scores.O;
+      $("value-d").textContent = state.scores.D;
+
+      cells.forEach((btn, i) => {
+        const v = state.board[i];
+        btn.classList.remove("x", "o", "win");
+        btn.innerHTML = "";
+        if (v) {
+          btn.classList.add(v.toLowerCase());
+          const span = document.createElement("span");
+          span.className = "mark";
+          span.textContent = v;
+          btn.appendChild(span);
+        }
+        btn.disabled = !!v || state.gameOver;
+        if (state.winLine && state.winLine.includes(i)) {
+          btn.classList.add("win");
+        }
+      });
+
+      $("score-x").classList.toggle("active", state.turn === "X" && !state.gameOver);
+      $("score-o").classList.toggle("active", state.turn === "O" && !state.gameOver);
+
+      const w = state.winLine ? state.board[state.winLine[0]] : null;
+      if (w) {
+        $("status").textContent = `🎉 ${state.names[w]} kazandı!`;
+      } else if (state.gameOver) {
+        $("status").textContent = "🤝 Berabere — bir sonraki rauntta!";
+      } else {
+        $("status").textContent = `Sıra: ${state.names[state.turn]} (${state.turn})`;
+      }
+
+      $("btn-next").disabled = !state.gameOver;
+    }
+
+    function play(i) {
+      if (state.gameOver || state.board[i]) return;
+      state.board[i] = state.turn;
+      const result = calcWinner(state.board);
+      if (result) {
+        state.scores[result.winner]++;
+        state.gameOver = true;
+        state.winLine = result.line;
+      } else if (state.board.every(Boolean)) {
+        state.scores.D++;
+        state.gameOver = true;
+      } else {
+        state.turn = state.turn === "X" ? "O" : "X";
+      }
+      render();
+    }
+
+    function nextRound() {
+      state.starter = state.starter === "X" ? "O" : "X";
+      state.board = Array(9).fill(null);
+      state.turn = state.starter;
+      state.gameOver = false;
+      state.winLine = null;
+      render();
+    }
+
+    function resetAll() {
+      state.scores = { X: 0, O: 0, D: 0 };
+      state.starter = "X";
+      state.board = Array(9).fill(null);
+      state.turn = "X";
+      state.gameOver = false;
+      state.winLine = null;
+      render();
+    }
+
+    cells.forEach((btn) => btn.addEventListener("click", () => play(Number(btn.dataset.i))));
+    $("btn-next").addEventListener("click", nextRound);
+    $("btn-reset").addEventListener("click", resetAll);
+    $("btn-names").addEventListener("click", () => {
+      $("setup").classList.remove("hidden");
+      $("game").classList.add("hidden");
+    });
+
+    $("setup").addEventListener("submit", (e) => {
+      e.preventDefault();
+      const x = $("name-x").value.trim() || "Sen";
+      const o = $("name-o").value.trim() || "Eşim";
+      state.names = { X: x.slice(0, 16), O: o.slice(0, 16) };
+      $("setup").classList.add("hidden");
+      $("game").classList.remove("hidden");
+      $("game").style.display = "flex";
+      render();
+    });
+
+    render();
+  </script>
+</body>
+</html>
