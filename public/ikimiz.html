@@ -34,18 +34,17 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      padding: 28px 16px 110px;
+      padding: 22px 16px 110px;
       -webkit-tap-highlight-color: transparent;
-      transition: background 1.6s ease, opacity 1.2s ease;
+      transition: background 1.4s ease, opacity 1.2s ease;
     }
-    /* Phase backgrounds — gradient warms with progression */
     body.phase-start { background: linear-gradient(160deg, #fef3c7, #ffe4e6); }
-    body.phase-0 { background: linear-gradient(160deg, #fef9c3, #fde68a 50%, #ffedd5); } /* Eşik: kavun-cream */
-    body.phase-1 { background: linear-gradient(160deg, #fce7f3, #fbcfe8 60%, #fff1f2); } /* Bağ: açık gül */
-    body.phase-2 { background: linear-gradient(160deg, #fbcfe8, #f9a8d4 50%, #ffe4e6); } /* Kıvılcım: gül */
-    body.phase-3 { background: linear-gradient(160deg, #fda4af, #fb7185 50%, #fecdd3); } /* Plato: sıcak gül */
-    body.phase-4 { background: linear-gradient(160deg, #fb7185, #e11d48 50%, #f97316); } /* Doruk: kor */
-    body.phase-5 { background: linear-gradient(160deg, #c7d2fe, #fbcfe8 60%, #fef3c7); } /* Çözülme: alacakaranlık */
+    body.phase-0 { background: linear-gradient(160deg, #fef9c3, #fde68a 50%, #ffedd5); }
+    body.phase-1 { background: linear-gradient(160deg, #fce7f3, #fbcfe8 60%, #fff1f2); }
+    body.phase-2 { background: linear-gradient(160deg, #fbcfe8, #f9a8d4 50%, #ffe4e6); }
+    body.phase-3 { background: linear-gradient(160deg, #fda4af, #fb7185 50%, #fecdd3); }
+    body.phase-4 { background: linear-gradient(160deg, #fb7185, #e11d48 50%, #f97316); }
+    body.phase-5 { background: linear-gradient(160deg, #c7d2fe, #fbcfe8 60%, #fef3c7); }
     body.silence { background: #0a0a0a !important; }
     body.fading  { opacity: 0; }
     @media (prefers-color-scheme: dark) {
@@ -62,49 +61,24 @@
     body.silence header, body.silence .progress-wrap { opacity: 0; }
     h1 {
       margin: 0;
-      font-size: clamp(26px, 6vw, 34px);
+      font-size: clamp(24px, 5vw, 30px);
       letter-spacing: -0.5px;
       color: var(--rose-deep);
     }
-    @media (prefers-color-scheme: dark) {
-      h1 { color: #fda4af; }
-    }
-    .subtitle { color: var(--muted); margin-top: 4px; font-size: 13px; }
+    @media (prefers-color-scheme: dark) { h1 { color: #fda4af; } }
 
-    /* "Isınan çizgi" progress bar */
-    .progress-wrap {
-      width: 100%;
-      max-width: 440px;
-      margin: 14px 0 18px;
-      transition: opacity 0.6s;
-    }
-    .progress-bar {
-      height: 4px;
-      width: 100%;
-      background: var(--bar-bg);
-      border-radius: 999px;
-      overflow: hidden;
-      position: relative;
-    }
+    /* progress */
+    .progress-wrap { width: 100%; max-width: 440px; margin: 10px 0 16px; transition: opacity 0.6s; }
+    .progress-bar { height: 4px; width: 100%; background: var(--bar-bg); border-radius: 999px; overflow: hidden; }
     .progress-fill {
-      height: 100%;
-      width: 0%;
+      height: 100%; width: 0%;
       background: linear-gradient(90deg, #fde68a, #fbcfe8 25%, #f9a8d4 50%, #fb7185 75%, #e11d48);
       border-radius: 999px;
-      transition: width 1.4s cubic-bezier(.4,0,.2,1);
-    }
-    .progress-label {
-      margin-top: 6px;
-      text-align: center;
-      font-size: 12px;
-      font-style: italic;
-      color: var(--muted);
-      letter-spacing: 0.2px;
-      transition: opacity 0.4s;
+      transition: width 1.2s cubic-bezier(.4,0,.2,1);
     }
 
-    /* Panels */
-    .panel, .card, .intro, .modal {
+    /* shared panels */
+    .panel, .card, .pass-screen, .phase-splash, .modal, .closing {
       background: var(--card);
       backdrop-filter: blur(12px);
       border-radius: 24px;
@@ -114,110 +88,65 @@
       max-width: 440px;
       display: flex;
       flex-direction: column;
-      gap: 16px;
-      animation: pop 0.55s ease;
+      gap: 14px;
+      animation: pop 0.45s ease;
     }
-    @keyframes pop {
-      from { opacity: 0; transform: translateY(10px) scale(0.98); }
-      to { opacity: 1; transform: translateY(0) scale(1); }
-    }
+    @keyframes pop { from { opacity:0; transform: translateY(10px) scale(.98); } to { opacity:1; transform: translateY(0) scale(1); } }
 
     .panel { text-align: center; }
     .panel p { margin: 0; font-size: 15px; line-height: 1.6; color: var(--muted); }
     .panel strong { color: var(--ink); }
 
-    /* Phase intro (no button) */
-    .intro {
-      text-align: center;
-      gap: 18px;
-      padding: 40px 26px;
-      position: relative;
-    }
-    .intro .emoji { font-size: 64px; line-height: 1; }
-    .intro h2 {
-      margin: 0;
-      font-size: 26px;
-      color: var(--rose-deep);
-      letter-spacing: -0.3px;
-      font-weight: 700;
+    label { display: flex; flex-direction: column; gap: 5px; text-align: left; font-size: 13px; color: var(--muted); }
+    input[type="text"] {
+      border: 1px solid var(--rose-line);
+      background: rgba(255,255,255,0.95);
+      color: var(--ink);
+      padding: 12px 14px;
+      border-radius: 12px;
+      font-size: 16px;
+      outline: none;
+      font-family: inherit;
     }
     @media (prefers-color-scheme: dark) {
-      .intro h2 { color: #fda4af; }
+      input[type="text"] { background: rgba(0,0,0,0.35); color: var(--ink); }
     }
-    .intro .intent {
-      margin: 0;
-      font-size: 16.5px;
-      line-height: 1.65;
-      color: var(--ink);
-      font-style: italic;
-      opacity: 0.9;
-    }
-    .intro .hint { font-size: 12px; color: var(--muted); margin: 0; }
-    .intro .auto-bar {
-      height: 3px;
-      width: 100%;
-      background: var(--bar-bg);
-      border-radius: 999px;
-      overflow: hidden;
-      margin-top: 10px;
-    }
-    .intro .auto-fill {
-      height: 100%;
-      width: 0%;
-      background: var(--rose);
-      animation: autoAdvance 5s linear forwards;
-    }
-    @keyframes autoAdvance {
-      from { width: 0%; }
-      to { width: 100%; }
-    }
-    .intro .skip {
-      position: absolute;
-      top: 14px;
-      right: 18px;
-      background: transparent;
-      border: 0;
-      color: var(--muted);
-      font-size: 20px;
-      cursor: pointer;
-      opacity: 0.4;
-      padding: 4px 8px;
-    }
-    .intro .skip:hover { opacity: 0.8; }
+    input[type="text"]:focus { box-shadow: 0 0 0 3px rgba(225, 29, 72, 0.25); }
+    .row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
 
-    /* Action card */
-    .card .badge {
-      align-self: flex-start;
-      font-size: 11.5px;
-      padding: 5px 12px;
-      border-radius: 999px;
-      background: rgba(225, 29, 72, 0.1);
+    /* CARD */
+    .actor {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      padding: 12px 14px;
+      border-radius: 14px;
+      background: rgba(225, 29, 72, 0.08);
       color: var(--rose-deep);
-      font-weight: 600;
+      font-weight: 800;
+      font-size: 17px;
       letter-spacing: 0.3px;
     }
     @media (prefers-color-scheme: dark) {
-      .card .badge { background: rgba(253, 164, 175, 0.15); color: #fda4af; }
+      .actor { background: rgba(253, 164, 175, 0.16); color: #fda4af; }
     }
-    .card .prompt {
-      font-size: 19.5px;
-      line-height: 1.65;
-      margin: 0;
-      min-height: 70px;
+    .actor.both { background: rgba(99, 102, 241, 0.1); color: #4f46e5; }
+    @media (prefers-color-scheme: dark) {
+      .actor.both { background: rgba(165, 180, 252, 0.18); color: #a5b4fc; }
     }
-    .card .hint { font-size: 11px; color: var(--muted); text-align: center; margin: 0; opacity: 0.8; }
 
-    .actions {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 8px;
+    .verb {
+      font-size: 22px;
+      line-height: 1.45;
+      margin: 6px 0;
+      font-weight: 600;
+      text-align: center;
+      min-height: 64px;
     }
-    .actions-row {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 8px;
-      transition: opacity 0.4s;
-    }
+
+    .actions { display: grid; grid-template-columns: 1fr; gap: 8px; }
+    .actions-row { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
 
     .btn {
       border: 0;
@@ -240,21 +169,40 @@
     .btn-pass   { background: transparent; color: var(--muted); border: 1px solid var(--rose-line); }
     .btn-big    { padding: 16px 18px; font-size: 16.5px; }
 
-    /* Phase-aware button weights:
-       - Erken fazlarda (0,1): pas tuşu sönük (kimse pas geçmez bu fazlarda)
-       - Geç fazlarda (3,4): yumuşat öne çıkar; pas sönük ama görünür */
     body.phase-0 .btn-pass, body.phase-1 .btn-pass { opacity: 0.55; }
-    body.phase-3 .btn-soft, body.phase-4 .btn-soft { background: rgba(225, 29, 72, 0.2); }
+    body.phase-3 .btn-soft, body.phase-4 .btn-soft { background: rgba(225, 29, 72, 0.22); }
     @media (prefers-color-scheme: dark) {
-      body.phase-3 .btn-soft, body.phase-4 .btn-soft { background: rgba(253, 164, 175, 0.28); }
+      body.phase-3 .btn-soft, body.phase-4 .btn-soft { background: rgba(253, 164, 175, 0.3); }
     }
 
-    /* Floating safe word — ALWAYS the same; guardrail must never weaken */
+    /* phone-pass splash */
+    .pass-screen, .phase-splash {
+      text-align: center;
+      align-items: center;
+      padding: 44px 24px;
+    }
+    .pass-icon { font-size: 60px; line-height: 1; }
+    .pass-text { font-size: 22px; font-weight: 700; margin: 6px 0 0; }
+    .pass-arrow {
+      font-size: 30px;
+      color: var(--rose);
+      animation: arrowPulse 1s ease-in-out infinite;
+    }
+    @keyframes arrowPulse {
+      0%, 100% { transform: translateX(-6px); opacity: 0.6; }
+      50%      { transform: translateX(6px);  opacity: 1; }
+    }
+    .phase-splash .emoji { font-size: 72px; line-height: 1; }
+    .phase-splash h2 {
+      margin: 0; font-size: 30px;
+      color: var(--rose-deep);
+      letter-spacing: -0.3px;
+    }
+    @media (prefers-color-scheme: dark) { .phase-splash h2 { color: #fda4af; } }
+
+    /* mola floating */
     .safebar {
-      position: fixed;
-      bottom: 18px;
-      left: 50%;
-      transform: translateX(-50%);
+      position: fixed; bottom: 18px; left: 50%; transform: translateX(-50%);
       z-index: 50;
       background: rgba(255, 255, 255, 0.96);
       color: var(--rose-deep);
@@ -263,58 +211,24 @@
       border-radius: 999px;
       box-shadow: 0 10px 28px rgba(0,0,0,0.2);
       border: 1px solid var(--rose-line);
-      cursor: pointer;
-      font-size: 14.5px;
+      cursor: pointer; font-size: 14.5px;
     }
     @media (prefers-color-scheme: dark) {
       .safebar { background: rgba(20, 16, 18, 0.94); color: #fda4af; }
     }
 
     .modal { text-align: center; }
-    .modal h2 { margin: 0; color: var(--rose-deep); font-size: 24px; }
-    @media (prefers-color-scheme: dark) {
-      .modal h2 { color: #fda4af; }
-    }
-    .modal p { margin: 0; font-size: 14.5px; line-height: 1.65; color: var(--muted); }
+    .modal h2 { margin: 0; color: var(--rose-deep); font-size: 22px; }
+    @media (prefers-color-scheme: dark) { .modal h2 { color: #fda4af; } }
+    .modal p { margin: 0; font-size: 14.5px; line-height: 1.6; color: var(--muted); }
 
-    /* Closing screen: silent countdown */
     .closing {
-      text-align: center;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 18px;
-      padding: 40px 26px;
-      background: var(--card);
-      border-radius: 24px;
-      box-shadow: var(--shadow);
-      width: 100%;
-      max-width: 440px;
+      text-align: center; align-items: center; padding: 40px 26px;
     }
-    .closing p {
-      margin: 0;
-      font-size: 17px;
-      line-height: 1.65;
-      color: var(--ink);
-      font-style: italic;
-    }
-    .countdown-bar {
-      height: 3px;
-      width: 100%;
-      background: var(--bar-bg);
-      border-radius: 999px;
-      overflow: hidden;
-    }
-    .countdown-fill {
-      height: 100%;
-      width: 100%;
-      background: var(--rose);
-      animation: countdownShrink 60s linear forwards;
-    }
-    @keyframes countdownShrink {
-      from { width: 100%; }
-      to { width: 0%; }
-    }
+    .closing p { margin: 0; font-size: 17px; line-height: 1.65; color: var(--ink); font-style: italic; }
+    .countdown-bar { height: 3px; width: 100%; background: var(--bar-bg); border-radius: 999px; overflow: hidden; }
+    .countdown-fill { height: 100%; width: 100%; background: var(--rose); animation: cd 60s linear forwards; }
+    @keyframes cd { from { width: 100%; } to { width: 0%; } }
 
     .hide { display: none !important; }
   </style>
@@ -323,43 +237,46 @@
 
   <header id="hdr">
     <h1>💞 İkimiz</h1>
-    <p class="subtitle">Adım adım, acelesiz, ikinize ait bir akşam.</p>
   </header>
 
-  <!-- Isınan çizgi -->
   <div class="progress-wrap hide" id="progress-wrap">
     <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
-    <div class="progress-label" id="progress-label"></div>
   </div>
 
   <!-- START -->
   <section id="screen-start" class="panel">
-    <p>
-      Birlikte altı küçük durakta yolculuk yapacağız:<br />
-      <strong>Eşik → Bağ → Kıvılcım → Plato → Doruk → Çözülme</strong>
+    <p>Telefonu birlikte tutacaksınız. Her kartta kim ne yapacak yazıyor; sıra geldikçe telefonu devredeceksiniz.</p>
+    <div class="row">
+      <label>1. kişi
+        <input type="text" id="name-a" value="" placeholder="Ad" maxlength="14" />
+      </label>
+      <label>2. kişi
+        <input type="text" id="name-b" value="" placeholder="Ad" maxlength="14" />
+      </label>
+    </div>
+    <p style="font-size: 13px;">
+      <strong>Pas</strong> her zaman serbest, açıklama yok. <strong>Yumuşat</strong> daha hafif bir alternatif. <strong>Mola</strong> tuşu her an ekranda.
     </p>
-    <p style="font-size: 13.5px;">
-      Her durakta küçük öneriler olacak. <strong>Pas</strong> her zaman serbest, açıklama gerekmez.
-      <strong>Yumuşat</strong> daha hafif bir alternatif verir.
-      Her an aşağıdaki <strong>Mola</strong> tuşuyla durabiliriz.
-    </p>
-    <button class="btn btn-primary btn-big" id="start-btn">Yolculuğa başla 💞</button>
+    <button class="btn btn-primary btn-big" id="start-btn">Başla 💞</button>
   </section>
 
-  <!-- PHASE INTRO -->
-  <section id="screen-intro" class="intro hide">
-    <button class="skip" id="intro-skip" title="Geç">›</button>
-    <div class="emoji" id="intro-emoji"></div>
-    <h2 id="intro-title"></h2>
-    <p class="intent" id="intro-intent"></p>
-    <p class="hint" id="intro-hint"></p>
-    <div class="auto-bar"><div class="auto-fill" id="auto-fill"></div></div>
+  <!-- PHASE SPLASH (1.5 sn, otomatik geçer) -->
+  <section id="screen-phase" class="phase-splash hide">
+    <div class="emoji" id="phase-emoji"></div>
+    <h2 id="phase-title"></h2>
+  </section>
+
+  <!-- PHONE PASS (2 sn, otomatik geçer) -->
+  <section id="screen-pass" class="pass-screen hide">
+    <div class="pass-icon">📱</div>
+    <div class="pass-arrow">→</div>
+    <p class="pass-text" id="pass-name"></p>
   </section>
 
   <!-- ACTION CARD -->
   <section id="screen-play" class="card hide">
-    <span class="badge" id="card-badge"></span>
-    <p class="prompt" id="card-prompt"></p>
+    <div class="actor" id="card-actor"></div>
+    <p class="verb" id="card-verb"></p>
     <div class="actions">
       <button class="btn btn-primary btn-big" id="btn-do">✅ Yaptık</button>
       <div class="actions-row">
@@ -367,7 +284,6 @@
         <button class="btn btn-pass" id="btn-pass">⏭️ Pas</button>
       </div>
     </div>
-    <p class="hint">Pas için açıklama gerekmez · Yumuşat: daha hafif bir alternatif</p>
   </section>
 
   <!-- BREAK -->
@@ -379,237 +295,227 @@
     <button class="btn btn-pass" id="finish-now">Bugünlük bitirelim</button>
   </section>
 
-  <!-- CLOSING (silent countdown, no restart button) -->
+  <!-- CLOSING -->
   <section id="screen-end" class="closing hide">
     <p id="end-text">Birbirinize sarılı kalın.<br/>Bir dakika sonra ekran kapanacak.</p>
     <div class="countdown-bar"><div class="countdown-fill" id="countdown-fill"></div></div>
   </section>
 
-  <!-- Floating safe word -->
   <button id="safe-bar" class="safebar hide">⏸️ Mola</button>
 
   <script>
-    /* === PHASE & CARD DATA ===
-       Akış (Masters & Johnson EPOR, Kaplan, Nagoski, Perel, Gottman sentezi):
-       1) Eşik    — gündelik rollerden çıkış
-       2) Bağ     — duygusal yakınlaşma, oksitosin zemini
-       3) Kıvılcım — arzunun uyanışı; mesafe + merak
-       4) Plato   — genişleyen şimdi; doruğa koşmadan derinleşmek
-       5) Doruk   — birleşen eşik; atlanabilir, akışı bozmaz
-       6) Çözülme — yumuşak iniş; hatırayı kalıcı kılan faz
-    */
+    /* ===== PHASES (sadece görsel marker; açıklama yok) ===== */
     const PHASES = [
-      {
-        emoji: "🚪", title: "Eşik",
-        label: "günden çıkıyorsunuz",
-        intent: "Önce dünyayı dışarıda bırakın. Telefonu, listeyi, rolü. Bu akşam yalnızca ikinize ait.",
-        hint: "Bu fazda dokunuş yok; sadece eşiği geçiyoruz.",
-        cards: [
-          { p: "Karşı karşıya geçin, ellerini tut, üç derin nefes paylaşın.",
-            s: "Aynı odada, dokunmadan, eş zamanlı nefes alın." },
-          { p: "Tek cümleyle söyleyin: \"Bu akşam dışarıda bıraktığım şey…\"",
-            s: "Cümleyi sessizce içinden kur; sonra başınla onayla." },
-          { p: "Telefonları başka bir odaya bırakın. Işıkları kısın; varsa bir mum yakın.",
-            s: "Sadece bildirim seslerini kapatın, büyük lambayı söndürün." },
-        ]
-      },
-      {
-        emoji: "💞", title: "Bağ",
-        label: "birbirinize yakınlaşıyorsunuz",
-        intent: "Şimdi ruh: birbirine yatırılan dikkat — oksitosin zemini burada kurulur.",
-        hint: "Acelesi yok. Bedenin diğerine yöneldiğini hissetmeyi bekleyin.",
-        cards: [
-          { p: "Eşinde bu hafta fark ettiğin bir inceliği anlat.",
-            s: "Bir kelime fısılda, ya da avucuna yaz." },
-          { p: "Birlikte yaşadığınız erotik olmayan ama yakın bir anı paylaşın.",
-            s: "O anın sadece yerini ve mevsimini söyle; gerisini eşin tamamlasın." },
-          { p: "Alınlarınızı birbirine dayayın; otuz saniye konuşmadan kalın.",
-            s: "Sırt sırta oturun, sessizce." },
-        ]
-      },
-      {
-        emoji: "✨", title: "Kıvılcım",
-        label: "arzu uyanıyor",
-        intent: "Küçük temaslar, merak, mesafe. Acele etmiyor, ama artık birbirinizi arıyorsunuz.",
-        hint: "Hâlâ giysili; yavaş, duyusal dokunuş.",
-        cards: [
-          { p: "Eşinin boynuna, bileğine, beline kıyafet üzerinden dokun; hangisi nasıl hissettirdi, sor.",
-            s: "Sırtına, parmak ucuyla bir kelime yaz." },
-          { p: "Bu gece denemek istediğin tek bir şeyi kulağına söyle; eşin 'evet', 'belki' veya 'bu akşam değil' der.",
-            s: "Üç seçeneği kâğıda yaz; birini işaretletsin." },
-          { p: "Parmaklarını saçlarının arasından geçir; gözlerinin içine bak.",
-            s: "Sadece elini başının arkasına koy." },
-        ]
-      },
-      {
-        emoji: "🌹", title: "Plato",
-        label: "şimdiki an genişliyor",
-        intent: "Bir yere koşmuyoruz. Dikkat derinleşirse haz da derinleşir.",
-        hint: "Bir yere varmak zorunda değilsiniz.",
-        cards: [
-          { p: "Sözle teyit edin: \"Sonraki on dakika hiçbir yere varmak zorunda değil.\"",
-            s: "Birlikte sessizce bir zamanlayıcı izleyin." },
-          { p: "Sırayla dokunun. Her beş dakikada bir, dokunan \"nasıl?\" diye sorar; diğeri tek kelimeyle yanıtlar: daha, yavaş, burada, başka.",
-            s: "Sözcük yerine el sıkışı: bir sıkış 'devam', iki sıkış 'değiştir'." },
-          { p: "Yavaş, uzun bir öpücük — en az on saniye, gözler kapalı, nefesinizi paylaşın.",
-            s: "Kısa, sıcak bir öpücük yeter." },
-        ]
-      },
-      {
-        emoji: "🔥", title: "Doruk",
-        label: "birleşen eşik",
-        intent: "Söz az, beden çok. Bu faz atlanabilir — akışı bozmaz.",
-        hint: "Mola ve Pas hâlâ her an mümkün.",
-        cards: [
-          { p: "Mümkünse gözlerinizi açık tutun; birbirinize bakın.",
-            s: "Alın alına olun ya da elini kalbinin üstüne bırak." },
-          { p: "Çıkardığın sesi bastırma; nefes bile yeterlidir.",
-            s: "Sessiz kalmak da meşru — bedenin titreşimi yeter." },
-        ]
-      },
-      {
-        emoji: "🌙", title: "Çözülme",
-        label: "yumuşak iniş",
-        intent: "Yolculuğun en kıymetli yeri burası. Hatırayı kalıcı kılan faz — atlanmamalı.",
-        hint: "Şimdi hiçbir şey yapmak zorunda değilsiniz.",
-        cards: [
-          { p: "Bu deneyimi üç kelimeyle adlandırın; sırayla söyleyin.",
-            s: "Bir kelime, ya da sadece sessizlik." },
-          { p: "Beş dakika dokunarak ama konuşmadan kalın. Sonra istenirse bir bardak su.",
-            s: "Sırtını eşine daya, tavana bak." },
-        ]
-      }
+      { emoji: "🚪", title: "Eşik" },
+      { emoji: "💞", title: "Bağ" },
+      { emoji: "✨", title: "Kıvılcım" },
+      { emoji: "🌹", title: "Plato" },
+      { emoji: "🔥", title: "Doruk" },
+      { emoji: "🌙", title: "Çözülme" },
+    ];
+
+    /* ===== CARDS — net fiiller, kim ne yapacağı açık.
+       Akış başından sonuna kadar bir mahrem deneyimi tamamlar.
+       Her kartta: actor (A | B | BOTH) + somut eylem (p) + yumuşak alternatif (s) ===== */
+    const CARDS = [
+      // ───────────────── 0 — EŞİK (ortam) ─────────────────
+      { ph:0, actor:"BOTH", p:"Telefonları başka odaya bırakın.",                                 s:"Sessize alıp yüz üstü çevirin." },
+      { ph:0, actor:"BOTH", p:"Işıkları kısın; bir mum yakın ya da gece lambasını açın.",          s:"Tavan ışığını söndürün." },
+      { ph:0, actor:"BOTH", p:"Yatağın kenarına karşılıklı oturun, dizleriniz değsin.",            s:"Yan yana oturun, omuzlarınız değsin." },
+      { ph:0, actor:"BOTH", p:"Ellerinizi tutun, gözlerinin içine bakarak üç derin nefes alın.",   s:"Sadece elini tutun, gözlerinize bakın." },
+
+      // ───────────────── 1 — BAĞ (giysili, duygusal) ─────────────────
+      { ph:1, actor:"A",    p:"Ona bugün onda fark ettiğin güzel bir şeyi söyle.",                 s:"Tek kelime fısılda." },
+      { ph:1, actor:"B",    p:"Şimdi sen söyle: onda fark ettiğin bir güzelliği.",                 s:"Tek kelime fısılda." },
+      { ph:1, actor:"A",    p:"Ellerini al, başparmaklarınla avucunu yavaşça çiz.",                s:"Sadece avucunda bir kelime yaz." },
+      { ph:1, actor:"B",    p:"Sıra sende — onun ellerini al, avucunu yavaşça çiz.",               s:"Sadece avucunda bir kelime yaz." },
+      { ph:1, actor:"BOTH", p:"Alınlarınızı birbirine dayayın; 30 saniye konuşmadan kalın.",       s:"Birbirinize sarılın, 30 sn sessizce." },
+
+      // ───────────────── 2 — KIVILCIM (giysili dokunuş) ─────────────────
+      { ph:2, actor:"A",    p:"Parmaklarını saçlarının arasından yavaşça geçir; ensesini okşa.",   s:"Saçlarını yavaşça okşa." },
+      { ph:2, actor:"B",    p:"Sen geçir parmaklarını saçlarının arasından; ensesini okşa.",       s:"Saçlarını yavaşça okşa." },
+      { ph:2, actor:"A",    p:"Boynuna yumuşak, uzun bir öpücük ver; sonra geri çekil.",           s:"Yanağına bir öpücük ver." },
+      { ph:2, actor:"B",    p:"Sıra sende — boynuna yumuşak bir öpücük.",                          s:"Yanağına bir öpücük ver." },
+      { ph:2, actor:"A",    p:"Kulağına bu gece istediğin bir şeyi fısılda.",                      s:"Kulağına 'seni istiyorum' fısılda." },
+      { ph:2, actor:"B",    p:"Sen fısılda kulağına ne istediğini.",                                s:"Kulağına 'seni istiyorum' fısılda." },
+      { ph:2, actor:"BOTH", p:"Dudak dudağa, yavaş bir öpücük — en az 10 saniye, gözler kapalı.",  s:"Kısa, sıcak bir öpücük." },
+
+      // ───────────────── 3 — PLATO (soyunma + cilt teması) ─────────────────
+      { ph:3, actor:"BOTH", p:"Birbirinizi yavaşça soyun; iç giysileriniz şimdilik kalsın.",        s:"Üstünüzdeki rahat giysileri çıkarın, alt katları kalsın." },
+      { ph:3, actor:"A",    p:"Elini onun göğsüne koy; kalbinin ritmini hisset.",                   s:"Elini omzuna koy, gözlerine bak." },
+      { ph:3, actor:"B",    p:"Sen koy elini onun göğsüne; kalbini hisset.",                        s:"Elini omzuna koy, gözlerine bak." },
+      { ph:3, actor:"A",    p:"Dudaklarınla göğsünden karnına doğru yavaş öpücükler bırak.",        s:"Sadece göğsüne tek bir öpücük." },
+      { ph:3, actor:"B",    p:"Sıra sende — boynundan göğsüne yavaş öpücükler bırak.",              s:"Sadece göğsüne tek bir öpücük." },
+      { ph:3, actor:"BOTH", p:"Birbirinize sımsıkı sarılın; çıplak teninizi hissedin, hareket etmeyin.", s:"İç içe sarılın, giysiler kalsın." },
+      { ph:3, actor:"A",    p:"Elini yavaşça onun beline, ardından kalçasına götür.",               s:"Elini sadece beline koy." },
+      { ph:3, actor:"B",    p:"Sen götür elini onun beline, kalçasına.",                            s:"Elini sadece beline koy." },
+      { ph:3, actor:"BOTH", p:"Kalan iç giysilerinizi birlikte çıkarın.",                           s:"Birinizinki kalsın; karar verin." },
+
+      // ───────────────── 4 — DORUK (birleşme) ─────────────────
+      { ph:4, actor:"A",    p:"Onun bedenine yavaşça yaslan; gözlerinin içine bak.",                s:"Yan yana uzanın, dokunmaya devam edin." },
+      { ph:4, actor:"BOTH", p:"Birbirinize ait olun. Sevişin — acelesiz, gözler buluşsun.",         s:"Yakın temas, sürtünme, öpüşme — şimdilik daha ileri gitmeyin." },
+      { ph:4, actor:"A",    p:"Yavaşla. Onun nefesini dinle; onun ritmini takip et.",               s:"Sadece sarılı kalın; nefes alın." },
+      { ph:4, actor:"B",    p:"Şimdi sen yönlendir; nasıl olmasını istediğini göster.",             s:"Sadece sarılı kalın; nefes alın." },
+      { ph:4, actor:"BOTH", p:"Sesi bastırmayın; nefes, inilti, isim — ne çıkıyorsa.",              s:"Sessiz kalmak da meşru." },
+      { ph:4, actor:"BOTH", p:"Birlikte doruğa gidin — ya da gitmeyin. İkisi de güzel.",            s:"Burada durun; sarılarak nefes alın." },
+
+      // ───────────────── 5 — ÇÖZÜLME (yumuşak iniş) ─────────────────
+      { ph:5, actor:"BOTH", p:"İç içe uzanın; başının altın omzunda olsun. Konuşmayın.",            s:"Yan yana uzanın, ellerinizi tutun." },
+      { ph:5, actor:"BOTH", p:"5 dakika dokunarak, sessizce kalın.",                                s:"2 dakika kalın." },
+      { ph:5, actor:"A",    p:"Sor: \"Az önce en güzel an hangisiydi?\" — sonra dinle.",            s:"Sadece 'iyi ki varsın' de." },
+      { ph:5, actor:"B",    p:"Sen sor: \"Senin için en güzel an neydi?\" — dinle.",                s:"Sadece 'iyi ki varsın' de." },
+      { ph:5, actor:"A",    p:"Bir şey için ona teşekkür et — bu akşamdan bağımsız bir şey.",        s:"Elini tut, gülümse." },
+      { ph:5, actor:"B",    p:"Sıra sende — ona bir şey için teşekkür et.",                          s:"Elini tut, gülümse." },
+      { ph:5, actor:"BOTH", p:"Birbirinize sarılarak gözlerinizi kapatın; uyumaya yakın hissedin.",  s:"Yan yana uzanın; gözler açık olabilir." },
     ];
 
     /* ===== STATE ===== */
-    let phaseIdx = 0;
-    let cardIdx = 0;
+    let names = { A: "Sen", B: "Eşim" };
+    let idx = 0;            // index in CARDS
     let softened = false;
     let passStreak = 0;
-    let totalCards = 0, completedSteps = 0;
-    PHASES.forEach(p => totalCards += p.cards.length + 1); // +1 her faz intro'su
-    let introTimer = null;
+    let currentActor = null;       // hangi aktör şu an aktif (telefon kimde)
+    let lastShownPhase = -1;
+    const SCREENS = ["screen-start","screen-phase","screen-pass","screen-play","screen-break","screen-end"];
 
-    /* ===== HELPERS ===== */
     const $ = id => document.getElementById(id);
-    const screens = ["screen-start","screen-intro","screen-play","screen-break","screen-end"];
     function show(id) {
-      screens.forEach(s => $(s).classList.toggle("hide", s !== id));
+      SCREENS.forEach(s => $(s).classList.toggle("hide", s !== id));
       $("safe-bar").classList.toggle("hide", id !== "screen-play");
-      $("progress-wrap").classList.toggle("hide", id !== "screen-intro" && id !== "screen-play");
+      $("progress-wrap").classList.toggle("hide", id === "screen-start" || id === "screen-end");
     }
-    function setPhaseBackground(idx) {
+    function setPhaseBg(idx) {
       document.body.classList.remove("phase-start","phase-0","phase-1","phase-2","phase-3","phase-4","phase-5","silence");
       document.body.classList.add("phase-" + idx);
     }
     function updateProgress() {
-      const pct = Math.min(100, Math.round((completedSteps / totalCards) * 100));
+      const pct = Math.min(100, Math.round((idx / CARDS.length) * 100));
       $("progress-fill").style.width = pct + "%";
-      $("progress-label").textContent = PHASES[phaseIdx].label;
     }
-
-    /* Faz arası 2 sn sessizlik anı, sonra intro */
-    function silentTransition(then) {
+    function nameOf(actor) {
+      if (actor === "A") return names.A;
+      if (actor === "B") return names.B;
+      return "İkiniz birlikte";
+    }
+    function silentTransition(then, ms) {
       document.body.classList.add("silence");
       setTimeout(() => {
         document.body.classList.remove("silence");
         then();
-      }, 2000);
+      }, ms || 1600);
     }
 
-    function enterPhaseIntro() {
-      setPhaseBackground(phaseIdx);
-      const ph = PHASES[phaseIdx];
-      $("intro-emoji").textContent = ph.emoji;
-      $("intro-title").textContent = ph.title;
-      $("intro-intent").textContent = ph.intent;
-      $("intro-hint").textContent = ph.hint;
-      // Re-trigger CSS animation by recreating element
-      const fill = $("auto-fill");
-      fill.style.animation = "none";
-      void fill.offsetWidth;
-      fill.style.animation = "";
-      show("screen-intro");
-      updateProgress();
-      if (introTimer) clearTimeout(introTimer);
-      introTimer = setTimeout(() => enterCard(), 5000);
+    /* ===== FLOW ===== */
+    function startJourney() {
+      const a = $("name-a").value.trim() || "1. kişi";
+      const b = $("name-b").value.trim() || "2. kişi";
+      names = { A: a, B: b };
+      idx = 0;
+      passStreak = 0;
+      currentActor = null;
+      lastShownPhase = -1;
+      goToNext();
     }
 
-    function enterCard() {
-      if (introTimer) { clearTimeout(introTimer); introTimer = null; }
-      const ph = PHASES[phaseIdx];
-      const card = ph.cards[cardIdx];
-      softened = false;
-      $("card-badge").textContent = ph.emoji + " " + ph.title + " · " + (cardIdx + 1) + "/" + ph.cards.length;
-      $("card-prompt").textContent = card.p;
-      $("btn-soft").disabled = false;
-      show("screen-play");
-      updateProgress();
+    function goToNext() {
+      if (idx >= CARDS.length) { showClosing(true); return; }
+      const card = CARDS[idx];
+      // Faz değişti mi? → phase splash
+      if (card.ph !== lastShownPhase) {
+        lastShownPhase = card.ph;
+        setPhaseBg(card.ph);
+        updateProgress();
+        $("phase-emoji").textContent = PHASES[card.ph].emoji;
+        $("phase-title").textContent = PHASES[card.ph].title;
+        show("screen-phase");
+        setTimeout(() => {
+          maybePhonePassThenCard();
+        }, 1600);
+        return;
+      }
+      maybePhonePassThenCard();
     }
 
-    function advanceCard(viaPass) {
-      if (!viaPass) passStreak = 0;
-      completedSteps++;
-      cardIdx++;
-      const ph = PHASES[phaseIdx];
-      if (cardIdx >= ph.cards.length) {
-        // phase done
-        cardIdx = 0;
-        phaseIdx++;
-        if (phaseIdx >= PHASES.length) {
-          showClosing();
-          return;
-        }
-        completedSteps++; // intro adımı
-        silentTransition(enterPhaseIntro);
+    function maybePhonePassThenCard() {
+      const card = CARDS[idx];
+      // Telefon devretme gerekiyor mu?
+      // Devret: yeni actor "A" veya "B" ise ve önceki actor'dan farklıysa.
+      // "BOTH" → devretme göstermiyoruz (ikisinin elinde kabul).
+      const needPass = (card.actor === "A" || card.actor === "B") && card.actor !== currentActor;
+      if (needPass) {
+        $("pass-name").textContent = nameOf(card.actor) + ", telefonu sen al";
+        show("screen-pass");
+        setTimeout(() => {
+          currentActor = card.actor;
+          renderCard();
+        }, 2200);
       } else {
-        enterCard();
+        if (card.actor === "BOTH") currentActor = "BOTH";
+        renderCard();
       }
     }
 
-    function onDone() { advanceCard(false); }
+    function renderCard() {
+      const card = CARDS[idx];
+      softened = false;
+      const actorEl = $("card-actor");
+      actorEl.classList.toggle("both", card.actor === "BOTH");
+      if (card.actor === "BOTH") {
+        actorEl.textContent = "👫  İkiniz birlikte";
+      } else {
+        actorEl.textContent = "📱  Sıra: " + nameOf(card.actor);
+      }
+      $("card-verb").textContent = card.p;
+      $("btn-soft").disabled = false;
+      updateProgress();
+      show("screen-play");
+    }
+
+    function advance(viaPass) {
+      if (!viaPass) passStreak = 0;
+      idx++;
+      goToNext();
+    }
+
+    function onDone() { advance(false); }
     function onSoft() {
       if (softened) return;
       softened = true;
-      const card = PHASES[phaseIdx].cards[cardIdx];
-      $("card-prompt").textContent = card.s;
+      $("card-verb").textContent = CARDS[idx].s;
       $("btn-soft").disabled = true;
     }
     function onPass() {
       passStreak++;
       if (passStreak >= 3) {
         passStreak = 0;
-        $("break-text").textContent = "Üst üste birkaç pas verdiniz — bu son derece normal. Belki şimdi bir nefes, bir bardak su ya da sadece sarılma iyi gelir.";
+        $("break-text").textContent = "Üst üste birkaç pas verdiniz — bu son derece normal. Bir nefes, bir bardak su ya da sadece sarılma iyi gelir.";
         show("screen-break");
         return;
       }
-      advanceCard(true);
+      advance(true);
     }
     function onSafeWord() {
       $("break-text").textContent = "Şimdi sadece nefes alalım. İstersen devam edebilir, bir adım geri alabilir ya da bugünlük bitirebiliriz.";
       show("screen-break");
     }
     function onStepBack() {
-      if (cardIdx > 0) {
-        cardIdx--;
-        completedSteps = Math.max(0, completedSteps - 1);
-      } else if (phaseIdx > 0) {
-        phaseIdx--;
-        cardIdx = PHASES[phaseIdx].cards.length - 1;
-        completedSteps = Math.max(0, completedSteps - 2); // intro + card
-        setPhaseBackground(phaseIdx);
+      if (idx > 0) {
+        idx--;
+        // önceki aktöre dönüş — gerekirse pass splash gösterilebilir, ama basit tutuyoruz
+        const prevCard = CARDS[idx];
+        currentActor = (prevCard.actor === "BOTH") ? "BOTH" : prevCard.actor;
+        setPhaseBg(prevCard.ph);
+        lastShownPhase = prevCard.ph;
       }
-      enterCard();
+      renderCard();
     }
-
-    function showClosing() {
-      // Reset countdown animation
+    function showClosing(completed) {
+      $("end-text").innerHTML = completed
+        ? "Birbirinize sarılı kalın.<br/>Bir dakika sonra ekran kapanacak."
+        : "Birbirinize zaman ayırdınız.<br/>Bir dakika sonra ekran kapanacak.";
       const cf = $("countdown-fill");
-      cf.style.animation = "none";
-      void cf.offsetWidth;
-      cf.style.animation = "";
+      cf.style.animation = "none"; void cf.offsetWidth; cf.style.animation = "";
       show("screen-end");
-      // 60sn sonra ekran kararır; başka tuş yok
       setTimeout(() => {
         document.body.classList.add("fading");
         setTimeout(() => {
@@ -622,22 +528,14 @@
     }
 
     /* ===== EVENTS ===== */
-    $("start-btn").addEventListener("click", () => {
-      phaseIdx = 0; cardIdx = 0; passStreak = 0; completedSteps = 0;
-      enterPhaseIntro();
-    });
-    $("intro-skip").addEventListener("click", enterCard);
+    $("start-btn").addEventListener("click", startJourney);
     $("btn-do").addEventListener("click", onDone);
     $("btn-soft").addEventListener("click", onSoft);
     $("btn-pass").addEventListener("click", onPass);
     $("safe-bar").addEventListener("click", onSafeWord);
     $("resume").addEventListener("click", () => show("screen-play"));
-    $("step-back").addEventListener("click", () => { onStepBack(); });
-    $("finish-now").addEventListener("click", () => {
-      // Erken bitiriş: yine sessiz kapanış
-      $("end-text").innerHTML = "Birbirinize zaman ayırdığınız için teşekkürler.<br/>Yarın yeniden başlayabilirsiniz.";
-      showClosing();
-    });
+    $("step-back").addEventListener("click", onStepBack);
+    $("finish-now").addEventListener("click", () => showClosing(false));
 
     show("screen-start");
   </script>
