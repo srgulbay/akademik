@@ -4,149 +4,252 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <meta name="referrer" content="no-referrer" />
-  <title>İkimiz 🔥</title>
+  <title>İkimiz 💞</title>
   <style>
     :root {
-      --bg-1: #fed7aa;
-      --bg-2: #ffe4e6;
+      --ink: #1f2937;
+      --muted: #6b7280;
       --rose: #e11d48;
       --rose-deep: #be123c;
       --rose-line: #fecdd3;
-      --ink: #1f2937;
-      --muted: #6b7280;
       --card: rgba(255, 255, 255, 0.95);
+      --shadow: 0 20px 60px rgba(0,0,0,0.14);
+      --bar-bg: rgba(255,255,255,0.55);
     }
     @media (prefers-color-scheme: dark) {
       :root {
-        --bg-1: #2a0f10;
-        --bg-2: #3e1d05;
         --ink: #f9fafb;
         --muted: #cbd5e1;
         --card: rgba(31, 41, 55, 0.92);
         --rose-line: #7f1d3a;
+        --bar-bg: rgba(255,255,255,0.12);
       }
     }
     * { box-sizing: border-box; }
-    html, body { margin: 0; padding: 0; }
+    html, body { margin: 0; padding: 0; height: 100%; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      background: linear-gradient(135deg, var(--bg-1), var(--bg-2));
       color: var(--ink);
       min-height: 100vh;
       display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: center;
-      padding: 24px 16px 110px;
+      padding: 28px 16px 110px;
       -webkit-tap-highlight-color: transparent;
+      transition: background 1.6s ease, opacity 1.2s ease;
+    }
+    /* Phase backgrounds — gradient warms with progression */
+    body.phase-start { background: linear-gradient(160deg, #fef3c7, #ffe4e6); }
+    body.phase-0 { background: linear-gradient(160deg, #fef9c3, #fde68a 50%, #ffedd5); } /* Eşik: kavun-cream */
+    body.phase-1 { background: linear-gradient(160deg, #fce7f3, #fbcfe8 60%, #fff1f2); } /* Bağ: açık gül */
+    body.phase-2 { background: linear-gradient(160deg, #fbcfe8, #f9a8d4 50%, #ffe4e6); } /* Kıvılcım: gül */
+    body.phase-3 { background: linear-gradient(160deg, #fda4af, #fb7185 50%, #fecdd3); } /* Plato: sıcak gül */
+    body.phase-4 { background: linear-gradient(160deg, #fb7185, #e11d48 50%, #f97316); } /* Doruk: kor */
+    body.phase-5 { background: linear-gradient(160deg, #c7d2fe, #fbcfe8 60%, #fef3c7); } /* Çözülme: alacakaranlık */
+    body.silence { background: #0a0a0a !important; }
+    body.fading  { opacity: 0; }
+    @media (prefers-color-scheme: dark) {
+      body.phase-start { background: linear-gradient(160deg, #2a1f08, #2a1419); }
+      body.phase-0 { background: linear-gradient(160deg, #2a1f08, #1a1208 50%, #2a1419); }
+      body.phase-1 { background: linear-gradient(160deg, #2a141f, #1f0f1a 50%, #1a0d12); }
+      body.phase-2 { background: linear-gradient(160deg, #3a142a, #2a0f1f 50%, #2a1419); }
+      body.phase-3 { background: linear-gradient(160deg, #4a0f1f, #3a0c19 50%, #2a0a14); }
+      body.phase-4 { background: linear-gradient(160deg, #5c0f1a, #3d0c0c 50%, #401a08); }
+      body.phase-5 { background: linear-gradient(160deg, #1f2147, #2a1428 60%, #2a200f); }
     }
 
-    header {
-      text-align: center;
-      margin-bottom: 14px;
-    }
+    header { text-align: center; margin-bottom: 8px; transition: opacity 0.6s; }
+    body.silence header, body.silence .progress-wrap { opacity: 0; }
     h1 {
       margin: 0;
-      font-size: clamp(32px, 7vw, 44px);
-      color: var(--rose);
+      font-size: clamp(26px, 6vw, 34px);
       letter-spacing: -0.5px;
+      color: var(--rose-deep);
     }
-    .subtitle {
-      color: var(--muted);
-      margin-top: 6px;
-      font-size: 14px;
-      max-width: 360px;
+    @media (prefers-color-scheme: dark) {
+      h1 { color: #fda4af; }
     }
+    .subtitle { color: var(--muted); margin-top: 4px; font-size: 13px; }
 
-    /* Start screen */
-    .start {
-      background: var(--card);
-      border-radius: 24px;
-      padding: 28px;
-      box-shadow: 0 16px 48px rgba(0,0,0,0.12);
+    /* "Isınan çizgi" progress bar */
+    .progress-wrap {
       width: 100%;
-      max-width: 380px;
-      text-align: center;
-      display: flex;
-      flex-direction: column;
-      gap: 16px;
+      max-width: 440px;
+      margin: 14px 0 18px;
+      transition: opacity 0.6s;
     }
-    .start p { margin: 0; font-size: 15px; line-height: 1.55; color: var(--muted); }
-    .start strong { color: var(--ink); }
+    .progress-bar {
+      height: 4px;
+      width: 100%;
+      background: var(--bar-bg);
+      border-radius: 999px;
+      overflow: hidden;
+      position: relative;
+    }
+    .progress-fill {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(90deg, #fde68a, #fbcfe8 25%, #f9a8d4 50%, #fb7185 75%, #e11d48);
+      border-radius: 999px;
+      transition: width 1.4s cubic-bezier(.4,0,.2,1);
+    }
+    .progress-label {
+      margin-top: 6px;
+      text-align: center;
+      font-size: 12px;
+      font-style: italic;
+      color: var(--muted);
+      letter-spacing: 0.2px;
+      transition: opacity 0.4s;
+    }
 
-    /* Card */
-    .card {
+    /* Panels */
+    .panel, .card, .intro, .modal {
       background: var(--card);
+      backdrop-filter: blur(12px);
       border-radius: 24px;
-      padding: 30px 26px;
-      box-shadow: 0 20px 60px rgba(0,0,0,0.16);
+      padding: 28px 24px;
+      box-shadow: var(--shadow);
       width: 100%;
       max-width: 440px;
       display: flex;
       flex-direction: column;
-      gap: 18px;
-      animation: pop 0.35s ease;
+      gap: 16px;
+      animation: pop 0.55s ease;
     }
     @keyframes pop {
-      from { opacity: 0; transform: translateY(8px) scale(0.98); }
+      from { opacity: 0; transform: translateY(10px) scale(0.98); }
       to { opacity: 1; transform: translateY(0) scale(1); }
     }
-    .card-prompt {
-      font-size: 19px;
-      line-height: 1.55;
-      margin: 0;
-      min-height: 60px;
+
+    .panel { text-align: center; }
+    .panel p { margin: 0; font-size: 15px; line-height: 1.6; color: var(--muted); }
+    .panel strong { color: var(--ink); }
+
+    /* Phase intro (no button) */
+    .intro {
+      text-align: center;
+      gap: 18px;
+      padding: 40px 26px;
+      position: relative;
     }
-    .badge {
-      align-self: flex-start;
-      font-size: 11.5px;
-      padding: 4px 10px;
-      border-radius: 999px;
-      background: #fed7aa;
-      color: #9a3412;
-      font-weight: 600;
+    .intro .emoji { font-size: 64px; line-height: 1; }
+    .intro h2 {
+      margin: 0;
+      font-size: 26px;
+      color: var(--rose-deep);
+      letter-spacing: -0.3px;
+      font-weight: 700;
     }
     @media (prefers-color-scheme: dark) {
-      .badge { background: #7c2d12; color: #fed7aa; }
+      .intro h2 { color: #fda4af; }
     }
+    .intro .intent {
+      margin: 0;
+      font-size: 16.5px;
+      line-height: 1.65;
+      color: var(--ink);
+      font-style: italic;
+      opacity: 0.9;
+    }
+    .intro .hint { font-size: 12px; color: var(--muted); margin: 0; }
+    .intro .auto-bar {
+      height: 3px;
+      width: 100%;
+      background: var(--bar-bg);
+      border-radius: 999px;
+      overflow: hidden;
+      margin-top: 10px;
+    }
+    .intro .auto-fill {
+      height: 100%;
+      width: 0%;
+      background: var(--rose);
+      animation: autoAdvance 5s linear forwards;
+    }
+    @keyframes autoAdvance {
+      from { width: 0%; }
+      to { width: 100%; }
+    }
+    .intro .skip {
+      position: absolute;
+      top: 14px;
+      right: 18px;
+      background: transparent;
+      border: 0;
+      color: var(--muted);
+      font-size: 20px;
+      cursor: pointer;
+      opacity: 0.4;
+      padding: 4px 8px;
+    }
+    .intro .skip:hover { opacity: 0.8; }
+
+    /* Action card */
+    .card .badge {
+      align-self: flex-start;
+      font-size: 11.5px;
+      padding: 5px 12px;
+      border-radius: 999px;
+      background: rgba(225, 29, 72, 0.1);
+      color: var(--rose-deep);
+      font-weight: 600;
+      letter-spacing: 0.3px;
+    }
+    @media (prefers-color-scheme: dark) {
+      .card .badge { background: rgba(253, 164, 175, 0.15); color: #fda4af; }
+    }
+    .card .prompt {
+      font-size: 19.5px;
+      line-height: 1.65;
+      margin: 0;
+      min-height: 70px;
+    }
+    .card .hint { font-size: 11px; color: var(--muted); text-align: center; margin: 0; opacity: 0.8; }
 
     .actions {
       display: grid;
       grid-template-columns: 1fr;
       gap: 8px;
     }
+    .actions-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+      transition: opacity 0.4s;
+    }
+
     .btn {
       border: 0;
       border-radius: 14px;
       padding: 14px 16px;
-      font-size: 16px;
+      font-size: 15.5px;
       font-weight: 700;
       cursor: pointer;
-      transition: transform 0.05s, background 0.15s, opacity 0.15s;
-      width: 100%;
+      transition: transform 0.05s, background 0.15s, opacity 0.3s;
+      font-family: inherit;
     }
     .btn:active:not(:disabled) { transform: scale(0.98); }
     .btn:disabled { opacity: 0.5; cursor: not-allowed; }
     .btn-primary { background: var(--rose); color: #fff; }
     .btn-primary:hover:not(:disabled) { background: var(--rose-deep); }
-    .btn-soft {
-      background: rgba(244, 63, 94, 0.12);
-      color: var(--rose);
+    .btn-soft   { background: rgba(225, 29, 72, 0.12); color: var(--rose-deep); }
+    @media (prefers-color-scheme: dark) {
+      .btn-soft { background: rgba(253, 164, 175, 0.18); color: #fda4af; }
     }
-    .btn-pass {
-      background: transparent;
-      color: var(--muted);
-      border: 1px solid var(--rose-line);
+    .btn-pass   { background: transparent; color: var(--muted); border: 1px solid var(--rose-line); }
+    .btn-big    { padding: 16px 18px; font-size: 16.5px; }
+
+    /* Phase-aware button weights:
+       - Erken fazlarda (0,1): pas tuşu sönük (kimse pas geçmez bu fazlarda)
+       - Geç fazlarda (3,4): yumuşat öne çıkar; pas sönük ama görünür */
+    body.phase-0 .btn-pass, body.phase-1 .btn-pass { opacity: 0.55; }
+    body.phase-3 .btn-soft, body.phase-4 .btn-soft { background: rgba(225, 29, 72, 0.2); }
+    @media (prefers-color-scheme: dark) {
+      body.phase-3 .btn-soft, body.phase-4 .btn-soft { background: rgba(253, 164, 175, 0.28); }
     }
 
-    .row3 {
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
-      gap: 8px;
-    }
-    .row3 .btn { font-size: 14px; padding: 12px 6px; }
-
-    /* Safe word floating */
+    /* Floating safe word — ALWAYS the same; guardrail must never weaken */
     .safebar {
       position: fixed;
       bottom: 18px;
@@ -154,192 +257,387 @@
       transform: translateX(-50%);
       z-index: 50;
       background: rgba(255, 255, 255, 0.96);
-      color: var(--rose);
+      color: var(--rose-deep);
       font-weight: 700;
       padding: 12px 22px;
       border-radius: 999px;
-      box-shadow: 0 10px 28px rgba(0,0,0,0.18);
+      box-shadow: 0 10px 28px rgba(0,0,0,0.2);
       border: 1px solid var(--rose-line);
       cursor: pointer;
-      font-size: 15px;
+      font-size: 14.5px;
     }
     @media (prefers-color-scheme: dark) {
-      .safebar { background: rgba(20, 16, 18, 0.92); }
+      .safebar { background: rgba(20, 16, 18, 0.94); color: #fda4af; }
     }
 
-    .hint { font-size: 12px; color: var(--muted); text-align: center; }
-    .stats { color: var(--muted); font-size: 12.5px; margin-top: 12px; }
+    .modal { text-align: center; }
+    .modal h2 { margin: 0; color: var(--rose-deep); font-size: 24px; }
+    @media (prefers-color-scheme: dark) {
+      .modal h2 { color: #fda4af; }
+    }
+    .modal p { margin: 0; font-size: 14.5px; line-height: 1.65; color: var(--muted); }
 
-    .hide { display: none !important; }
-
-    /* Break / end panels */
-    .modal {
-      background: var(--card);
-      border-radius: 22px;
-      padding: 26px;
-      box-shadow: 0 16px 48px rgba(0,0,0,0.18);
-      width: 100%;
-      max-width: 380px;
+    /* Closing screen: silent countdown */
+    .closing {
       text-align: center;
       display: flex;
       flex-direction: column;
-      gap: 14px;
+      align-items: center;
+      gap: 18px;
+      padding: 40px 26px;
+      background: var(--card);
+      border-radius: 24px;
+      box-shadow: var(--shadow);
+      width: 100%;
+      max-width: 440px;
     }
-    .modal h2 { margin: 0; color: var(--rose); }
-    .modal p { margin: 0; color: var(--muted); font-size: 14.5px; line-height: 1.55; }
+    .closing p {
+      margin: 0;
+      font-size: 17px;
+      line-height: 1.65;
+      color: var(--ink);
+      font-style: italic;
+    }
+    .countdown-bar {
+      height: 3px;
+      width: 100%;
+      background: var(--bar-bg);
+      border-radius: 999px;
+      overflow: hidden;
+    }
+    .countdown-fill {
+      height: 100%;
+      width: 100%;
+      background: var(--rose);
+      animation: countdownShrink 60s linear forwards;
+    }
+    @keyframes countdownShrink {
+      from { width: 100%; }
+      to { width: 0%; }
+    }
+
+    .hide { display: none !important; }
   </style>
 </head>
-<body>
+<body class="phase-start">
 
-  <header>
-    <h1>🔥 İkimiz</h1>
-    <p class="subtitle">Sadece ikinize ait, acelesiz bir oyun.</p>
+  <header id="hdr">
+    <h1>💞 İkimiz</h1>
+    <p class="subtitle">Adım adım, acelesiz, ikinize ait bir akşam.</p>
   </header>
 
+  <!-- Isınan çizgi -->
+  <div class="progress-wrap hide" id="progress-wrap">
+    <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+    <div class="progress-label" id="progress-label"></div>
+  </div>
+
   <!-- START -->
-  <section id="screen-start" class="start">
+  <section id="screen-start" class="panel">
     <p>
-      Hazırsan bir kart çekelim. <strong>Pas</strong> diyebilirsin — kimseden açıklama beklenmez.<br />
+      Birlikte altı küçük durakta yolculuk yapacağız:<br />
+      <strong>Eşik → Bağ → Kıvılcım → Plato → Doruk → Çözülme</strong>
+    </p>
+    <p style="font-size: 13.5px;">
+      Her durakta küçük öneriler olacak. <strong>Pas</strong> her zaman serbest, açıklama gerekmez.
+      <strong>Yumuşat</strong> daha hafif bir alternatif verir.
       Her an aşağıdaki <strong>Mola</strong> tuşuyla durabiliriz.
     </p>
-    <button class="btn btn-primary" id="start-btn">Başla 💞</button>
+    <button class="btn btn-primary btn-big" id="start-btn">Yolculuğa başla 💞</button>
   </section>
 
-  <!-- PLAYING -->
+  <!-- PHASE INTRO -->
+  <section id="screen-intro" class="intro hide">
+    <button class="skip" id="intro-skip" title="Geç">›</button>
+    <div class="emoji" id="intro-emoji"></div>
+    <h2 id="intro-title"></h2>
+    <p class="intent" id="intro-intent"></p>
+    <p class="hint" id="intro-hint"></p>
+    <div class="auto-bar"><div class="auto-fill" id="auto-fill"></div></div>
+  </section>
+
+  <!-- ACTION CARD -->
   <section id="screen-play" class="card hide">
-    <span class="badge">🔥 Tutku</span>
-    <p class="card-prompt" id="prompt">—</p>
-    <div class="row3">
-      <button class="btn btn-primary" id="btn-do">✅ Yap</button>
-      <button class="btn btn-soft"    id="btn-soft">🌿 Yumuşat</button>
-      <button class="btn btn-pass"    id="btn-pass">⏭️ Pas</button>
+    <span class="badge" id="card-badge"></span>
+    <p class="prompt" id="card-prompt"></p>
+    <div class="actions">
+      <button class="btn btn-primary btn-big" id="btn-do">✅ Yaptık</button>
+      <div class="actions-row">
+        <button class="btn btn-soft" id="btn-soft">🌿 Yumuşat</button>
+        <button class="btn btn-pass" id="btn-pass">⏭️ Pas</button>
+      </div>
     </div>
-    <p class="hint">Pas için açıklama gerekmez.</p>
-    <div class="stats" id="stats">✅ 0 · 🌿 0 · ⏭️ 0</div>
+    <p class="hint">Pas için açıklama gerekmez · Yumuşat: daha hafif bir alternatif</p>
   </section>
 
   <!-- BREAK -->
   <section id="screen-break" class="modal hide">
     <h2>Mola 🍵</h2>
     <p id="break-text"></p>
-    <button class="btn btn-primary" id="resume">Devam edelim</button>
-    <button class="btn btn-pass" id="finish">Bugünlük bitirelim</button>
+    <button class="btn btn-primary btn-big" id="resume">Devam edelim</button>
+    <button class="btn btn-pass" id="step-back">Bir adım geri al</button>
+    <button class="btn btn-pass" id="finish-now">Bugünlük bitirelim</button>
   </section>
 
-  <!-- ENDED -->
-  <section id="screen-end" class="modal hide">
-    <h2>Bugünlük buraya kadar 💞</h2>
-    <p id="end-text"></p>
-    <button class="btn btn-primary" id="restart">Baştan başla</button>
+  <!-- CLOSING (silent countdown, no restart button) -->
+  <section id="screen-end" class="closing hide">
+    <p id="end-text">Birbirinize sarılı kalın.<br/>Bir dakika sonra ekran kapanacak.</p>
+    <div class="countdown-bar"><div class="countdown-fill" id="countdown-fill"></div></div>
   </section>
 
   <!-- Floating safe word -->
   <button id="safe-bar" class="safebar hide">⏸️ Mola</button>
 
   <script>
-    const CARDS = [
-      { p: "Kulağına en sevdiği şekilde, yavaşça 'seni istiyorum' fısılda.", s: "Sadece 'seni seviyorum' fısılda." },
-      { p: "Gözlerini kapasın; bir dakika boyunca sadece sen yavaşça dokun.", s: "Elini ve kolunu okşa." },
-      { p: "Boynunun en hassas yerine yumuşak, uzun bir öpücük ver.", s: "Yanağına bir öpücük ver." },
-      { p: "Bedeninde en çok sevdiğin yeri kulağına fısılda.", s: "Sadece 'çok güzelsin' fısılda." },
-      { p: "Bir dakika sıra sende: nasıl dokunulmasını istediğini söyle, o sadece dinlesin.", s: "Şu an iyi hissettirecek bir şeyi söyle." },
-      { p: "Onun elini al ve nereye dokunmak istediğini sessizce göster.", s: "Sadece elini tut." },
-      { p: "Saçlarının arasına parmaklarını kaybet, gözlerinin içine bak.", s: "Saçlarını yavaşça okşa." },
-      { p: "Dudaklarına yavaş, uzun bir öpücük; en az 5 saniye.", s: "Kısa, sıcak bir öpücük yeter." },
-      { p: "Bir cümleyle, onu bedeniyle ne kadar arzuladığını söyle.", s: "Bir cümleyle ne kadar sevdiğini söyle." },
-      { p: "Gözlerini kapatsın; öpücüğü nereye konduracağını tahmin etsin.", s: "Sadece eline bir öpücük ver." },
-      { p: "Onun bu an için bir isteği var mı, sor ve sadece dinle.", s: "Onu rahat ettirecek bir şey söyle." },
-      { p: "Kulağına üç kelimeyle bir hayalini fısılda.", s: "'Seni özledim' fısılda." },
-      { p: "Birlikte denemek istediğin küçük bir şeyi söyle; evet / hayır / sonra desin.", s: "'Yakınlaşmak istiyorum' demen yeter." },
-      { p: "İki dakika kıpırdamadan onun kollarında kal.", s: "30 saniye sarılın." },
-      { p: "Bir parmağınla yüzünün hatlarını çok yavaş çiz.", s: "Yanağına bir kez dokun." },
-      { p: "Kokusunu içine çek, kulağına ne hissettiğini söyle.", s: "'Kokun güzel' de." },
-      { p: "Müzik aç, ışıkları kıs; bir dakika sarılarak sallanın.", s: "Sadece yan yana otur, elini tut." },
-      { p: "Gözlerinin içine 30 saniye bak, hiçbir şey söyleme; sonra öp.", s: "Sadece bak, konuşmayın." },
-      { p: "Bu gece için ona küçük bir ritüel öner (mum, müzik, masaj).", s: "'Sana bu gece özel bir şey hazırlamak istiyorum' de." },
-      { p: "Elini kalbinin üstüne koy; nefesini yavaşlatın.", s: "Sadece el ele tutuşun, nefes alın." },
+    /* === PHASE & CARD DATA ===
+       Akış (Masters & Johnson EPOR, Kaplan, Nagoski, Perel, Gottman sentezi):
+       1) Eşik    — gündelik rollerden çıkış
+       2) Bağ     — duygusal yakınlaşma, oksitosin zemini
+       3) Kıvılcım — arzunun uyanışı; mesafe + merak
+       4) Plato   — genişleyen şimdi; doruğa koşmadan derinleşmek
+       5) Doruk   — birleşen eşik; atlanabilir, akışı bozmaz
+       6) Çözülme — yumuşak iniş; hatırayı kalıcı kılan faz
+    */
+    const PHASES = [
+      {
+        emoji: "🚪", title: "Eşik",
+        label: "günden çıkıyorsunuz",
+        intent: "Önce dünyayı dışarıda bırakın. Telefonu, listeyi, rolü. Bu akşam yalnızca ikinize ait.",
+        hint: "Bu fazda dokunuş yok; sadece eşiği geçiyoruz.",
+        cards: [
+          { p: "Karşı karşıya geçin, ellerini tut, üç derin nefes paylaşın.",
+            s: "Aynı odada, dokunmadan, eş zamanlı nefes alın." },
+          { p: "Tek cümleyle söyleyin: \"Bu akşam dışarıda bıraktığım şey…\"",
+            s: "Cümleyi sessizce içinden kur; sonra başınla onayla." },
+          { p: "Telefonları başka bir odaya bırakın. Işıkları kısın; varsa bir mum yakın.",
+            s: "Sadece bildirim seslerini kapatın, büyük lambayı söndürün." },
+        ]
+      },
+      {
+        emoji: "💞", title: "Bağ",
+        label: "birbirinize yakınlaşıyorsunuz",
+        intent: "Şimdi ruh: birbirine yatırılan dikkat — oksitosin zemini burada kurulur.",
+        hint: "Acelesi yok. Bedenin diğerine yöneldiğini hissetmeyi bekleyin.",
+        cards: [
+          { p: "Eşinde bu hafta fark ettiğin bir inceliği anlat.",
+            s: "Bir kelime fısılda, ya da avucuna yaz." },
+          { p: "Birlikte yaşadığınız erotik olmayan ama yakın bir anı paylaşın.",
+            s: "O anın sadece yerini ve mevsimini söyle; gerisini eşin tamamlasın." },
+          { p: "Alınlarınızı birbirine dayayın; otuz saniye konuşmadan kalın.",
+            s: "Sırt sırta oturun, sessizce." },
+        ]
+      },
+      {
+        emoji: "✨", title: "Kıvılcım",
+        label: "arzu uyanıyor",
+        intent: "Küçük temaslar, merak, mesafe. Acele etmiyor, ama artık birbirinizi arıyorsunuz.",
+        hint: "Hâlâ giysili; yavaş, duyusal dokunuş.",
+        cards: [
+          { p: "Eşinin boynuna, bileğine, beline kıyafet üzerinden dokun; hangisi nasıl hissettirdi, sor.",
+            s: "Sırtına, parmak ucuyla bir kelime yaz." },
+          { p: "Bu gece denemek istediğin tek bir şeyi kulağına söyle; eşin 'evet', 'belki' veya 'bu akşam değil' der.",
+            s: "Üç seçeneği kâğıda yaz; birini işaretletsin." },
+          { p: "Parmaklarını saçlarının arasından geçir; gözlerinin içine bak.",
+            s: "Sadece elini başının arkasına koy." },
+        ]
+      },
+      {
+        emoji: "🌹", title: "Plato",
+        label: "şimdiki an genişliyor",
+        intent: "Bir yere koşmuyoruz. Dikkat derinleşirse haz da derinleşir.",
+        hint: "Bir yere varmak zorunda değilsiniz.",
+        cards: [
+          { p: "Sözle teyit edin: \"Sonraki on dakika hiçbir yere varmak zorunda değil.\"",
+            s: "Birlikte sessizce bir zamanlayıcı izleyin." },
+          { p: "Sırayla dokunun. Her beş dakikada bir, dokunan \"nasıl?\" diye sorar; diğeri tek kelimeyle yanıtlar: daha, yavaş, burada, başka.",
+            s: "Sözcük yerine el sıkışı: bir sıkış 'devam', iki sıkış 'değiştir'." },
+          { p: "Yavaş, uzun bir öpücük — en az on saniye, gözler kapalı, nefesinizi paylaşın.",
+            s: "Kısa, sıcak bir öpücük yeter." },
+        ]
+      },
+      {
+        emoji: "🔥", title: "Doruk",
+        label: "birleşen eşik",
+        intent: "Söz az, beden çok. Bu faz atlanabilir — akışı bozmaz.",
+        hint: "Mola ve Pas hâlâ her an mümkün.",
+        cards: [
+          { p: "Mümkünse gözlerinizi açık tutun; birbirinize bakın.",
+            s: "Alın alına olun ya da elini kalbinin üstüne bırak." },
+          { p: "Çıkardığın sesi bastırma; nefes bile yeterlidir.",
+            s: "Sessiz kalmak da meşru — bedenin titreşimi yeter." },
+        ]
+      },
+      {
+        emoji: "🌙", title: "Çözülme",
+        label: "yumuşak iniş",
+        intent: "Yolculuğun en kıymetli yeri burası. Hatırayı kalıcı kılan faz — atlanmamalı.",
+        hint: "Şimdi hiçbir şey yapmak zorunda değilsiniz.",
+        cards: [
+          { p: "Bu deneyimi üç kelimeyle adlandırın; sırayla söyleyin.",
+            s: "Bir kelime, ya da sadece sessizlik." },
+          { p: "Beş dakika dokunarak ama konuşmadan kalın. Sonra istenirse bir bardak su.",
+            s: "Sırtını eşine daya, tavana bak." },
+        ]
+      }
     ];
 
+    /* ===== STATE ===== */
+    let phaseIdx = 0;
+    let cardIdx = 0;
+    let softened = false;
+    let passStreak = 0;
+    let totalCards = 0, completedSteps = 0;
+    PHASES.forEach(p => totalCards += p.cards.length + 1); // +1 her faz intro'su
+    let introTimer = null;
+
+    /* ===== HELPERS ===== */
     const $ = id => document.getElementById(id);
-    const screens = ["screen-start","screen-play","screen-break","screen-end"];
+    const screens = ["screen-start","screen-intro","screen-play","screen-break","screen-end"];
     function show(id) {
       screens.forEach(s => $(s).classList.toggle("hide", s !== id));
       $("safe-bar").classList.toggle("hide", id !== "screen-play");
+      $("progress-wrap").classList.toggle("hide", id !== "screen-intro" && id !== "screen-play");
     }
-    function shuffle(a) {
-      const arr = a.slice();
-      for (let i = arr.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [arr[i], arr[j]] = [arr[j], arr[i]];
-      }
-      return arr;
+    function setPhaseBackground(idx) {
+      document.body.classList.remove("phase-start","phase-0","phase-1","phase-2","phase-3","phase-4","phase-5","silence");
+      document.body.classList.add("phase-" + idx);
+    }
+    function updateProgress() {
+      const pct = Math.min(100, Math.round((completedSteps / totalCards) * 100));
+      $("progress-fill").style.width = pct + "%";
+      $("progress-label").textContent = PHASES[phaseIdx].label;
     }
 
-    let deck = [];
-    let current = null;
-    let softened = false;
-    let stats = { done: 0, soft: 0, passed: 0 };
-    let passStreak = 0;
+    /* Faz arası 2 sn sessizlik anı, sonra intro */
+    function silentTransition(then) {
+      document.body.classList.add("silence");
+      setTimeout(() => {
+        document.body.classList.remove("silence");
+        then();
+      }, 2000);
+    }
 
-    function drawNext() {
-      if (deck.length === 0) deck = shuffle(CARDS);
-      current = deck.shift();
+    function enterPhaseIntro() {
+      setPhaseBackground(phaseIdx);
+      const ph = PHASES[phaseIdx];
+      $("intro-emoji").textContent = ph.emoji;
+      $("intro-title").textContent = ph.title;
+      $("intro-intent").textContent = ph.intent;
+      $("intro-hint").textContent = ph.hint;
+      // Re-trigger CSS animation by recreating element
+      const fill = $("auto-fill");
+      fill.style.animation = "none";
+      void fill.offsetWidth;
+      fill.style.animation = "";
+      show("screen-intro");
+      updateProgress();
+      if (introTimer) clearTimeout(introTimer);
+      introTimer = setTimeout(() => enterCard(), 5000);
+    }
+
+    function enterCard() {
+      if (introTimer) { clearTimeout(introTimer); introTimer = null; }
+      const ph = PHASES[phaseIdx];
+      const card = ph.cards[cardIdx];
       softened = false;
-      $("prompt").textContent = current.p;
+      $("card-badge").textContent = ph.emoji + " " + ph.title + " · " + (cardIdx + 1) + "/" + ph.cards.length;
+      $("card-prompt").textContent = card.p;
       $("btn-soft").disabled = false;
-    }
-    function renderStats() {
-      $("stats").textContent = `✅ ${stats.done} · 🌿 ${stats.soft} · ⏭️ ${stats.passed}`;
-    }
-
-    $("start-btn").addEventListener("click", () => {
-      deck = shuffle(CARDS);
-      stats = { done: 0, soft: 0, passed: 0 };
-      passStreak = 0;
-      drawNext();
-      renderStats();
       show("screen-play");
-    });
+      updateProgress();
+    }
 
-    $("btn-do").addEventListener("click", () => {
-      if (softened) stats.soft++;
-      else stats.done++;
-      passStreak = 0;
-      renderStats();
-      drawNext();
-    });
+    function advanceCard(viaPass) {
+      if (!viaPass) passStreak = 0;
+      completedSteps++;
+      cardIdx++;
+      const ph = PHASES[phaseIdx];
+      if (cardIdx >= ph.cards.length) {
+        // phase done
+        cardIdx = 0;
+        phaseIdx++;
+        if (phaseIdx >= PHASES.length) {
+          showClosing();
+          return;
+        }
+        completedSteps++; // intro adımı
+        silentTransition(enterPhaseIntro);
+      } else {
+        enterCard();
+      }
+    }
 
-    $("btn-soft").addEventListener("click", () => {
+    function onDone() { advanceCard(false); }
+    function onSoft() {
       if (softened) return;
       softened = true;
-      $("prompt").textContent = current.s;
+      const card = PHASES[phaseIdx].cards[cardIdx];
+      $("card-prompt").textContent = card.s;
       $("btn-soft").disabled = true;
-    });
-
-    $("btn-pass").addEventListener("click", () => {
-      stats.passed++;
+    }
+    function onPass() {
       passStreak++;
-      renderStats();
       if (passStreak >= 3) {
         passStreak = 0;
-        $("break-text").textContent = "Birkaç kart üst üste pas geçildi — bu son derece normal. Belki şimdi bir çay/kahve ya da sarılma molası iyi gelir. ✨";
+        $("break-text").textContent = "Üst üste birkaç pas verdiniz — bu son derece normal. Belki şimdi bir nefes, bir bardak su ya da sadece sarılma iyi gelir.";
         show("screen-break");
         return;
       }
-      drawNext();
-    });
-
-    $("safe-bar").addEventListener("click", () => {
-      $("break-text").textContent = "Şimdi sadece nefes alalım. İstersen burada bitirebilir, istersen devam edebiliriz.";
+      advanceCard(true);
+    }
+    function onSafeWord() {
+      $("break-text").textContent = "Şimdi sadece nefes alalım. İstersen devam edebilir, bir adım geri alabilir ya da bugünlük bitirebiliriz.";
       show("screen-break");
-    });
+    }
+    function onStepBack() {
+      if (cardIdx > 0) {
+        cardIdx--;
+        completedSteps = Math.max(0, completedSteps - 1);
+      } else if (phaseIdx > 0) {
+        phaseIdx--;
+        cardIdx = PHASES[phaseIdx].cards.length - 1;
+        completedSteps = Math.max(0, completedSteps - 2); // intro + card
+        setPhaseBackground(phaseIdx);
+      }
+      enterCard();
+    }
 
-    $("resume").addEventListener("click", () => show("screen-play"));
-    $("finish").addEventListener("click", () => {
-      $("end-text").innerHTML = `Birbirinize zaman ayırdığınız için teşekkürler. <strong>${stats.done}</strong> kart tamamlandı, <strong>${stats.soft}</strong> yumuşatıldı, <strong>${stats.passed}</strong> pas geçildi. Her seçim aynı derecede değerli.`;
+    function showClosing() {
+      // Reset countdown animation
+      const cf = $("countdown-fill");
+      cf.style.animation = "none";
+      void cf.offsetWidth;
+      cf.style.animation = "";
       show("screen-end");
+      // 60sn sonra ekran kararır; başka tuş yok
+      setTimeout(() => {
+        document.body.classList.add("fading");
+        setTimeout(() => {
+          document.body.style.background = "#000";
+          $("screen-end").style.display = "none";
+          $("hdr").style.display = "none";
+          $("progress-wrap").classList.add("hide");
+        }, 1200);
+      }, 60000);
+    }
+
+    /* ===== EVENTS ===== */
+    $("start-btn").addEventListener("click", () => {
+      phaseIdx = 0; cardIdx = 0; passStreak = 0; completedSteps = 0;
+      enterPhaseIntro();
     });
-    $("restart").addEventListener("click", () => show("screen-start"));
+    $("intro-skip").addEventListener("click", enterCard);
+    $("btn-do").addEventListener("click", onDone);
+    $("btn-soft").addEventListener("click", onSoft);
+    $("btn-pass").addEventListener("click", onPass);
+    $("safe-bar").addEventListener("click", onSafeWord);
+    $("resume").addEventListener("click", () => show("screen-play"));
+    $("step-back").addEventListener("click", () => { onStepBack(); });
+    $("finish-now").addEventListener("click", () => {
+      // Erken bitiriş: yine sessiz kapanış
+      $("end-text").innerHTML = "Birbirinize zaman ayırdığınız için teşekkürler.<br/>Yarın yeniden başlayabilirsiniz.";
+      showClosing();
+    });
 
     show("screen-start");
   </script>
