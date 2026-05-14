@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <meta name="referrer" content="no-referrer" />
+  <title>İkimiz 💞</title>
+  <style>
+    :root {
+      --bg-1: #fff1f2;
+      --bg-2: #fef3c7;
+      --rose: #e11d48;
+      --rose-soft: #ffe4e6;
+      --rose-line: #fecdd3;
+      --emerald: #059669;
+      --sky: #0284c7;
+      --amber: #d97706;
+      --ink: #1f2937;
+      --muted: #6b7280;
+      --card: rgba(255, 255, 255, 0.85);
+      --shadow: 0 12px 36px rgba(244, 63, 94, 0.15);
+      --ring: rgba(244, 63, 94, 0.35);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg-1: #1f1115;
+        --bg-2: #1a1717;
+        --ink: #f9fafb;
+        --muted: #9ca3af;
+        --card: rgba(31, 41, 55, 0.7);
+        --rose-soft: #4c1d2c;
+        --rose-line: #7f1d3a;
+      }
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: linear-gradient(135deg, var(--bg-1), var(--bg-2));
+      color: var(--ink);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 28px 16px 100px;
+      -webkit-tap-highlight-color: transparent;
+      transition: background 0.6s ease;
+    }
+    body.level-yakinlik  { background: linear-gradient(135deg, #d1fae5, #ffffff); }
+    body.level-sefkat    { background: linear-gradient(135deg, #e0f2fe, #ffffff); }
+    body.level-romantik  { background: linear-gradient(135deg, #ffe4e6, #fef3c7); }
+    body.level-tutku     { background: linear-gradient(135deg, #fed7aa, #ffe4e6); }
+    @media (prefers-color-scheme: dark) {
+      body.level-yakinlik { background: linear-gradient(135deg, #052e22, #0c0f0d); }
+      body.level-sefkat   { background: linear-gradient(135deg, #082a3f, #0c0f10); }
+      body.level-romantik { background: linear-gradient(135deg, #3f0c1e, #1a1010); }
+      body.level-tutku    { background: linear-gradient(135deg, #3e1d05, #2a0f10); }
+    }
+
+    header { text-align: center; margin-bottom: 18px; max-width: 640px; }
+    h1 {
+      margin: 0;
+      font-size: clamp(28px, 6vw, 40px);
+      color: var(--rose);
+      letter-spacing: -0.5px;
+    }
+    .subtitle { color: var(--muted); margin-top: 6px; font-size: 14px; line-height: 1.5; }
+    .subtitle em { font-style: normal; font-weight: 600; color: var(--rose); }
+
+    .panel {
+      background: var(--card);
+      backdrop-filter: blur(10px);
+      border-radius: 20px;
+      padding: 22px;
+      box-shadow: var(--shadow);
+      width: 100%;
+      max-width: 460px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+    .panel h2 { margin: 0; font-size: 18px; }
+
+    label { display: flex; flex-direction: column; gap: 6px; font-size: 13px; }
+    label .lbl { color: var(--muted); font-weight: 500; }
+    input[type="text"] {
+      border: 1px solid var(--rose-line);
+      background: rgba(255,255,255,0.95);
+      color: var(--ink);
+      padding: 10px 12px;
+      border-radius: 10px;
+      font-size: 15px;
+      outline: none;
+      transition: box-shadow 0.15s;
+    }
+    @media (prefers-color-scheme: dark) {
+      input[type="text"] { background: rgba(0,0,0,0.35); }
+    }
+    input[type="text"]:focus { box-shadow: 0 0 0 3px var(--ring); }
+
+    .row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .checkbox {
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+      font-size: 13.5px;
+      line-height: 1.5;
+    }
+    .checkbox input { margin-top: 3px; accent-color: var(--rose); transform: scale(1.15); }
+
+    .info {
+      background: var(--rose-soft);
+      border: 1px solid var(--rose-line);
+      border-radius: 12px;
+      padding: 12px;
+      font-size: 12.5px;
+      color: var(--rose);
+      line-height: 1.55;
+    }
+    .info strong { font-weight: 700; }
+
+    .btn {
+      border: 0;
+      border-radius: 999px;
+      padding: 12px 18px;
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: transform 0.05s ease, background 0.15s ease, opacity 0.15s ease;
+    }
+    .btn:disabled { cursor: not-allowed; opacity: 0.55; }
+    .btn:active:not(:disabled) { transform: scale(0.98); }
+    .btn-primary { background: var(--rose); color: #fff; }
+    .btn-primary:hover:not(:disabled) { background: #be123c; }
+    .btn-emerald { background: var(--emerald); color: #fff; }
+    .btn-emerald:hover:not(:disabled) { background: #047857; }
+    .btn-sky { background: #e0f2fe; color: #075985; }
+    .btn-ghost {
+      background: #fff;
+      color: var(--rose);
+      border: 1px solid var(--rose-line);
+    }
+    @media (prefers-color-scheme: dark) {
+      .btn-sky { background: #0c4a6e; color: #bae6fd; }
+      .btn-ghost { background: rgba(0,0,0,0.3); color: #fda4af; }
+    }
+
+    /* level pills */
+    .pills { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; }
+    .pill {
+      border: 1px solid #e5e7eb;
+      background: rgba(255,255,255,0.7);
+      color: var(--ink);
+      border-radius: 999px;
+      padding: 7px 12px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .pill:hover { background: #fff; }
+    .pill.active {
+      background: var(--rose);
+      color: #fff;
+      border-color: transparent;
+      box-shadow: 0 0 0 3px var(--ring);
+    }
+    @media (prefers-color-scheme: dark) {
+      .pill { background: rgba(255,255,255,0.05); border-color: rgba(255,255,255,0.1); color: #f3f4f6; }
+    }
+
+    .meta { text-align: center; color: var(--muted); font-size: 13px; }
+    .meta strong { color: var(--ink); }
+
+    /* card */
+    .card-wrap { width: 100%; max-width: 460px; margin-top: 8px; }
+    .card {
+      background: rgba(255,255,255,0.95);
+      border-radius: 22px;
+      box-shadow: 0 16px 48px rgba(0,0,0,0.12);
+      padding: 26px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      animation: cardIn 0.35s ease;
+    }
+    @media (prefers-color-scheme: dark) {
+      .card { background: rgba(31,41,55,0.92); }
+    }
+    @keyframes cardIn {
+      from { opacity: 0; transform: translateY(8px) rotateY(-8deg); }
+      to { opacity: 1; transform: translateY(0) rotateY(0); }
+    }
+    .card-chip {
+      align-self: flex-start;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 11.5px;
+      font-weight: 600;
+    }
+    .card-chip.yakinlik { background: #d1fae5; color: #065f46; }
+    .card-chip.sefkat   { background: #e0f2fe; color: #075985; }
+    .card-chip.romantik { background: #ffe4e6; color: #9f1239; }
+    .card-chip.tutku    { background: #fed7aa; color: #9a3412; }
+    .card-prompt { font-size: 18px; line-height: 1.55; }
+
+    .card-actions { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; }
+    .card-actions .btn { padding: 11px 8px; font-size: 14px; }
+    .hint { font-size: 11.5px; color: var(--muted); text-align: center; line-height: 1.5; }
+
+    .draw-card {
+      width: 100%;
+      padding: 28px;
+      border-radius: 22px;
+      border: 2px dashed var(--rose-line);
+      background: rgba(255,255,255,0.6);
+      color: var(--rose);
+      font-size: 17px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .stats {
+      display: flex; gap: 14px; justify-content: center;
+      color: var(--muted); font-size: 12.5px;
+    }
+
+    /* safe word floating bar */
+    .safebar {
+      position: fixed;
+      bottom: 16px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 50;
+      background: rgba(255,255,255,0.96);
+      color: var(--rose);
+      font-weight: 700;
+      padding: 10px 18px;
+      border-radius: 999px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+      border: 1px solid var(--rose-line);
+      cursor: pointer;
+      font-size: 14px;
+    }
+    @media (prefers-color-scheme: dark) {
+      .safebar { background: rgba(20,16,18,0.9); }
+    }
+
+    .vote-private { font-size: 12px; color: var(--muted); text-align: center; }
+    .footer { color: var(--muted); font-size: 11px; max-width: 460px; text-align: center; margin-top: 24px; line-height: 1.6; }
+
+    .hide { display: none !important; }
+  </style>
+</head>
+<body class="level-yakinlik">
+
+  <header>
+    <h1>💞 İkimiz</h1>
+    <p class="subtitle">Acelesiz, isteyerek, birlikte. Her zaman <em id="safe-word-text">Mola</em> diyerek durabilirsin.</p>
+  </header>
+
+  <!-- ONBOARDING -->
+  <section id="screen-onboarding" class="panel">
+    <div id="reject-note" class="info hide">
+      Bu seviyeyi şimdilik atlıyoruz. Kimsenin "hayır"ı paylaşılmaz — başka zaman tekrar deneyebilirsiniz. 💛
+    </div>
+    <h2>Başlamadan önce</h2>
+    <div class="row">
+      <label>
+        <span class="lbl">1. kişi</span>
+        <input type="text" id="name-a" value="Sen" maxlength="16" />
+      </label>
+      <label>
+        <span class="lbl">2. kişi</span>
+        <input type="text" id="name-b" value="Eşim" maxlength="16" />
+      </label>
+    </div>
+    <label>
+      <span class="lbl">Güvenli kelime (her an söyleyebilirsin)</span>
+      <input type="text" id="safe-word" value="Mola" maxlength="20" />
+    </label>
+    <label class="checkbox">
+      <input type="checkbox" id="consent" />
+      <span>İkimiz de konuştuk: birbirimizin <strong>"şu an istemem"</strong> hakkını kabul ediyoruz. Her karta <em>Pas</em> diyebiliriz, kimseden açıklama beklenmez.</span>
+    </label>
+    <div class="info">
+      <strong>Çıkış yolu nasıl çalışır?</strong> Her seviye, ikinizin gizli oyuyla açılır. Telefonu sırayla tutarsınız; "hazır değilim" derseniz <em>kimin dediği</em> görünmez. Hiç utanma ya da açıklama gerekmez.
+    </div>
+    <button class="btn btn-primary" id="start-btn" disabled>Hadi başlayalım 💞</button>
+  </section>
+
+  <!-- LEVEL VOTE -->
+  <section id="screen-vote" class="panel hide">
+    <h2 id="vote-title" style="text-align:center;"></h2>
+    <p class="vote-private">Telefonu <strong id="vote-who"></strong> tutsun. Diğeri başka tarafa baksın. Cevabın gizli kalacak — kimin "hazır değilim" dediği görünmez.</p>
+    <div class="row">
+      <button class="btn btn-emerald" id="vote-yes">💞 Hazırım</button>
+      <button class="btn btn-ghost" id="vote-no">🌿 Hazır değilim</button>
+    </div>
+    <p class="hint" id="vote-step"></p>
+  </section>
+
+  <!-- PLAYING -->
+  <section id="screen-playing" class="hide" style="display:flex; flex-direction:column; align-items:center; gap:18px; width:100%; max-width:560px;">
+    <div class="pills" id="level-pills"></div>
+    <div class="meta">
+      Sıra: <strong id="turn-name">—</strong>
+      <div class="hint" id="level-blurb" style="margin-top:4px;"></div>
+    </div>
+    <div class="card-wrap" id="card-wrap"></div>
+    <div class="stats">
+      <span id="stat-done">✅ 0</span>
+      <span id="stat-soft">🌿 0</span>
+      <span id="stat-pass">⏭️ 0</span>
+    </div>
+  </section>
+
+  <!-- BREAK -->
+  <section id="screen-break" class="panel hide" style="text-align:center;">
+    <h2 style="color: var(--rose);">Mola 🍵</h2>
+    <p id="break-reason" style="color: var(--muted); font-size: 14px;"></p>
+    <div class="row">
+      <button class="btn btn-emerald" id="resume-btn">Devam edelim</button>
+      <button class="btn btn-ghost" id="end-btn">Bugünlük bitirelim</button>
+    </div>
+    <button id="step-down-btn" class="hint hide" style="background:none;border:0;cursor:pointer;text-decoration:underline;color:var(--muted);">Bir basamak aşağı in</button>
+  </section>
+
+  <!-- ENDED -->
+  <section id="screen-ended" class="panel hide" style="text-align:center;">
+    <h2>Bugünlük buraya kadar 💞</h2>
+    <p style="color: var(--muted); font-size:14px;" id="end-summary"></p>
+    <button class="btn btn-primary" id="restart-btn">Baştan başla</button>
+  </section>
+
+  <!-- safe word floating -->
+  <button id="safe-bar" class="safebar hide">⏸️ <span id="safe-bar-text">Mola</span></button>
+
+  <p class="footer">
+    Tasarım ilhamları: Gottman Card Decks, Betty Martin'in Rıza Çarkı ve Three-Minute Game,
+    Touch Therapy yaklaşımı. Hepsi rıza ve karşılıklı saygı temelli.
+  </p>
+
+  <script>
+    // ===== Data =====
+    const LEVELS = [
+      { id: "yakinlik", emoji: "🌱", title: "Yakınlık", blurb: "Sözle, bakışla, dinleyerek bağ kurmak." },
+      { id: "sefkat",   emoji: "🤍", title: "Şefkat",   blurb: "Yumuşak, acelesiz dokunuş ve sıcaklık." },
+      { id: "romantik", emoji: "🌹", title: "Romantik", blurb: "Fısıltı, yakın öpücük, küçük sürprizler." },
+      { id: "tutku",    emoji: "🔥", title: "Tutku",    blurb: "Daha cesur, mahrem; yalnız ikinize ait." },
+    ];
+
+    const CARDS = [
+      // Yakınlık
+      { id:"y1", level:"yakinlik", prompt:"Son zamanlarda seni en çok mutlu eden üç küçük şeyi anlat.", soft:"Sadece bir tanesini söyle." },
+      { id:"y2", level:"yakinlik", prompt:"İlk tanıştığımızda dikkatini ilk çeken şey neydi?", soft:"Tek kelimeyle yanıtla." },
+      { id:"y3", level:"yakinlik", prompt:"Birlikte yaşadığımız anılardan en çok hangisini yeniden yaşardın?", soft:"Adını söylemen yeterli." },
+      { id:"y4", level:"yakinlik", prompt:"Bende seni en çok hangi an kendine yakın hissediyorsun?", soft:"Aklına gelen ilk sahneyi tarif et." },
+      { id:"y5", level:"yakinlik", prompt:"Bu hafta seninle gurur duyduğum bir şeyi paylaşmama izin ver.", soft:"Sadece 'gurur duyuyorum' demek de yeter." },
+      { id:"y6", level:"yakinlik", prompt:"Hayatımızda asla değişmesini istemediğin bir şey nedir?", soft:"Kısaca, gerekçesiz söyle." },
+      { id:"y7", level:"yakinlik", prompt:"Bana son zamanlarda söyleyemediğin küçük bir teşekkür var mı?", soft:"İçinden geçen ilk şeyi söyle." },
+      { id:"y8", level:"yakinlik", prompt:"Gözlerine 30 saniye sessizce bak; ardından ne hissettiğini söyle.", soft:"Sadece 10 saniye bakın, konuşmak şart değil." },
+
+      // Şefkat
+      { id:"s1", level:"sefkat", prompt:"Eşini 30 saniye sımsıkı sarıl, hiçbir şey söyleme.", soft:"10 saniyelik bir sarılma da güzel." },
+      { id:"s2", level:"sefkat", prompt:"Avucunun içine başparmağıyla yavaşça daireler çizmesine izin ver.", soft:"Sadece ellerinizi birleştirin." },
+      { id:"s3", level:"sefkat", prompt:"Sırtına 2 dakika hafif bir masaj yap.", soft:"Sadece omuzlarına dokun." },
+      { id:"s4", level:"sefkat", prompt:"Saçlarını okşa; hiçbir şey söyleme.", soft:"Alnına nazikçe dokun." },
+      { id:"s5", level:"sefkat", prompt:"Alnından bir öpücük ver, sonra gözlerine bak.", soft:"Sadece alnını alnına dayayın." },
+      { id:"s6", level:"sefkat", prompt:"Yan yana uzanın, kalp atışlarını dinleyene kadar bekleyin.", soft:"Sadece yan yana oturun, ellerinizi tutun." },
+      { id:"s7", level:"sefkat", prompt:"Bir battaniyenin altında iki dakika boyunca sessizce sarılın.", soft:"Sadece elini tut." },
+
+      // Romantik
+      { id:"r1", level:"romantik", prompt:"Boynuna en yumuşak şekilde bir öpücük ver.", soft:"Yanağına bir öpücük yeter." },
+      { id:"r2", level:"romantik", prompt:"Kulağına en sevdiği şekilde 'seni seviyorum' fısılda.", soft:"Sadece gözlerine bakarak söyle." },
+      { id:"r3", level:"romantik", prompt:"Onu yavaşça öp; en az 5 saniye sürsün.", soft:"Kısa, hafif bir öpücük de olur." },
+      { id:"r4", level:"romantik", prompt:"Bedeninde en sevdiğin bir özelliği söyle, ardından oraya hafifçe dokun.", soft:"Sadece söyle, dokunmasan da olur." },
+      { id:"r5", level:"romantik", prompt:"Birlikte slow yapmak için bir şarkı seç; ilk dakikayı dans edin.", soft:"Sadece ayakta sarılarak sallanın." },
+      { id:"r6", level:"romantik", prompt:"Gözleri kapalıyken yüzünü parmak uçlarınla yavaşça tarif et.", soft:"Sadece elinin tersiyle yanağına dokun." },
+      { id:"r7", level:"romantik", prompt:"Ona bugün senin için neden özel olduğunu üç cümlede söyle.", soft:"Tek cümleyle özetle." },
+
+      // Tutku
+      { id:"t1", level:"tutku", prompt:"Onun bedeninde en çok sevdiğin yeri kulağına fısılda.", soft:"Sadece 'çok güzelsin' fısılda." },
+      { id:"t2", level:"tutku", prompt:"Gözlerini kapasın; bir dakika boyunca sadece sen dokun.", soft:"Sadece elini ve kolunu okşa." },
+      { id:"t3", level:"tutku", prompt:"Bir dakika boyunca sıra sende: nasıl dokunulmasını istediğini söyle, o dinlesin.", soft:"Sadece 'şu an iyi hissettiren bir şey' söyle." },
+      { id:"t4", level:"tutku", prompt:"Birlikte hayalini kurduğunuz bir akşamı bir cümleyle paylaş — yargısız.", soft:"Aklındaki yeri/atmosferi anlat, gerisini sakla." },
+      { id:"t5", level:"tutku", prompt:"Onun bu an için bir isteği var mı, sor ve sadece dinle.", soft:"İsteğini sormak yerine, onu rahat ettirecek bir şeyi söyle." },
+      { id:"t6", level:"tutku", prompt:"Gözlerini kapatsın; dokunduğun yeri tahmin etmesini iste.", soft:"Sadece eline ve koluna dokun." },
+      { id:"t7", level:"tutku", prompt:"Bu akşam birlikte denemek istediğin küçük bir şeyi söyle; o evet/hayır/sonra desin.", soft:"Sadece 'yakınlaşmak istiyorum' demen yeter." },
+    ];
+
+    // ===== State =====
+    const state = {
+      names: { A: "Sen", B: "Eşim" },
+      safeWord: "Mola",
+      unlocked: { yakinlik: true, sefkat: false, romantik: false, tutku: false },
+      activeLevel: "yakinlik",
+      deck: [],
+      currentCard: null,
+      softened: false,
+      turn: "A",
+      stats: { done: 0, soft: 0, passed: 0 },
+      passStreak: 0,
+      breakReason: "manual",
+      vote: null, // { level, partner: "A"|"B", choices: {A,B} }
+      phase: "onboarding",
+      voteJustRejected: false,
+    };
+
+    // ===== Helpers =====
+    function $(id) { return document.getElementById(id); }
+    function shuffle(a) {
+      const arr = a.slice();
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
+      return arr;
+    }
+    function showOnly(id) {
+      ["screen-onboarding","screen-vote","screen-playing","screen-break","screen-ended"]
+        .forEach(s => $(s).classList.toggle("hide", s !== id));
+      $("safe-bar").classList.toggle("hide", id !== "screen-playing" && id !== "screen-vote");
+    }
+    function setBodyLevel(lvl) {
+      document.body.className = "level-" + lvl;
+    }
+    function levelMeta(id) { return LEVELS.find(l => l.id === id); }
+
+    // ===== Onboarding =====
+    function refreshOnboarding() {
+      $("reject-note").classList.toggle("hide", !state.voteJustRejected);
+      $("start-btn").disabled = !$("consent").checked;
+    }
+    $("name-a").addEventListener("input", e => state.names.A = e.target.value.slice(0,16) || "Sen");
+    $("name-b").addEventListener("input", e => state.names.B = e.target.value.slice(0,16) || "Eşim");
+    $("safe-word").addEventListener("input", e => {
+      state.safeWord = e.target.value.slice(0,20) || "Mola";
+      $("safe-word-text").textContent = state.safeWord;
+      $("safe-bar-text").textContent = state.safeWord;
+    });
+    $("consent").addEventListener("change", refreshOnboarding);
+
+    $("start-btn").addEventListener("click", () => {
+      state.activeLevel = "yakinlik";
+      state.stats = { done: 0, soft: 0, passed: 0 };
+      state.passStreak = 0;
+      state.turn = "A";
+      state.voteJustRejected = false;
+      enterPlaying();
+    });
+
+    // ===== Playing =====
+    function enterPlaying() {
+      state.phase = "playing";
+      setBodyLevel(state.activeLevel);
+      state.deck = shuffle(CARDS.filter(c => c.level === state.activeLevel));
+      state.currentCard = null;
+      state.softened = false;
+      renderPills();
+      renderTurn();
+      renderCard();
+      renderStats();
+      showOnly("screen-playing");
+    }
+
+    function renderPills() {
+      const wrap = $("level-pills");
+      wrap.innerHTML = "";
+      LEVELS.forEach(lvl => {
+        const btn = document.createElement("button");
+        btn.className = "pill" + (lvl.id === state.activeLevel ? " active" : "");
+        const lock = state.unlocked[lvl.id] ? "" : " 🔒";
+        btn.textContent = `${lvl.emoji} ${lvl.title}${lock}`;
+        btn.addEventListener("click", () => {
+          if (lvl.id === state.activeLevel) return;
+          if (state.unlocked[lvl.id]) {
+            state.activeLevel = lvl.id;
+            state.stats = { done: 0, soft: 0, passed: 0 };
+            state.passStreak = 0;
+            state.turn = "A";
+            enterPlaying();
+          } else {
+            startVote(lvl.id);
+          }
+        });
+        wrap.appendChild(btn);
+      });
+      $("level-blurb").textContent = levelMeta(state.activeLevel).emoji + " " + levelMeta(state.activeLevel).blurb;
+    }
+    function renderTurn() {
+      $("turn-name").textContent = state.turn === "A" ? state.names.A : state.names.B;
+    }
+    function renderStats() {
+      $("stat-done").textContent = "✅ " + state.stats.done;
+      $("stat-soft").textContent = "🌿 " + state.stats.soft;
+      $("stat-pass").textContent = "⏭️ " + state.stats.passed;
+    }
+    function renderCard() {
+      const wrap = $("card-wrap");
+      wrap.innerHTML = "";
+      if (!state.currentCard) {
+        const b = document.createElement("button");
+        b.className = "draw-card";
+        b.textContent = "Kart çek ✨";
+        b.addEventListener("click", drawCard);
+        wrap.appendChild(b);
+        return;
+      }
+      const lvl = levelMeta(state.currentCard.level);
+      const card = document.createElement("div");
+      card.className = "card";
+      card.innerHTML = `
+        <div class="card-chip ${state.currentCard.level}">
+          ${lvl.emoji} ${lvl.title}${state.softened ? " · yumuşatıldı" : ""}
+        </div>
+        <p class="card-prompt"></p>
+        <div class="card-actions">
+          <button class="btn btn-emerald" data-act="do">✅ Yap</button>
+          <button class="btn btn-sky" data-act="soft" ${state.softened ? "disabled" : ""}>🌿 Yumuşat</button>
+          <button class="btn btn-ghost" data-act="pass">⏭️ Pas</button>
+        </div>
+        <p class="hint">Pas için açıklama gerekmez. Aşağıdaki <strong>${state.safeWord}</strong> tuşuyla istediğin an mola ver.</p>
+      `;
+      card.querySelector(".card-prompt").textContent = state.softened ? state.currentCard.soft : state.currentCard.prompt;
+      card.querySelector('[data-act="do"]').addEventListener("click", onDone);
+      card.querySelector('[data-act="soft"]').addEventListener("click", onSoften);
+      card.querySelector('[data-act="pass"]').addEventListener("click", onPass);
+      wrap.appendChild(card);
+    }
+
+    function drawCard() {
+      if (state.deck.length === 0) state.deck = shuffle(CARDS.filter(c => c.level === state.activeLevel));
+      state.currentCard = state.deck.shift();
+      state.softened = false;
+      renderCard();
+    }
+    function onDone() {
+      if (state.softened) state.stats.soft++;
+      else state.stats.done++;
+      state.passStreak = 0;
+      state.turn = state.turn === "A" ? "B" : "A";
+      renderTurn();
+      renderStats();
+      drawCard();
+    }
+    function onSoften() {
+      state.softened = true;
+      renderCard();
+    }
+    function onPass() {
+      state.stats.passed++;
+      state.passStreak++;
+      renderStats();
+      if (state.passStreak >= 3) {
+        state.passStreak = 0;
+        triggerBreak("streak");
+        return;
+      }
+      state.turn = state.turn === "A" ? "B" : "A";
+      renderTurn();
+      drawCard();
+    }
+
+    // ===== Safe word =====
+    $("safe-bar").addEventListener("click", () => triggerBreak("safeword"));
+
+    function triggerBreak(reason) {
+      state.breakReason = reason;
+      state.phase = "break";
+      $("break-reason").textContent = reason === "safeword"
+        ? "Güvenli kelimeyi söyledin. Şimdi sadece nefes alalım. İstersen burada bitirebilir, istersen devam edebiliriz."
+        : "Birkaç kart üst üste pas geçildi — bu son derece normal. Belki şimdi bir çay/kahve molası, sohbet, ya da seviyeyi bir basamak aşağı çekmek iyi gelir. ✨";
+      $("step-down-btn").classList.toggle("hide", reason !== "streak");
+      showOnly("screen-break");
+    }
+    $("resume-btn").addEventListener("click", () => {
+      state.phase = "playing";
+      showOnly("screen-playing");
+    });
+    $("end-btn").addEventListener("click", () => {
+      state.phase = "ended";
+      $("end-summary").innerHTML = `Birbirinize zaman ayırdığınız için teşekkürler. <strong>${state.stats.done}</strong> kart tamamladınız, <strong>${state.stats.soft}</strong> yumuşatıldı, <strong>${state.stats.passed}</strong> pas geçildi. Her seçim aynı derecede değerli.`;
+      showOnly("screen-ended");
+    });
+    $("step-down-btn").addEventListener("click", () => {
+      const order = ["yakinlik","sefkat","romantik","tutku"];
+      const idx = order.indexOf(state.activeLevel);
+      if (idx > 0) state.activeLevel = order[idx - 1];
+      enterPlaying();
+    });
+    $("restart-btn").addEventListener("click", () => {
+      state.unlocked = { yakinlik: true, sefkat: false, romantik: false, tutku: false };
+      state.stats = { done: 0, soft: 0, passed: 0 };
+      state.activeLevel = "yakinlik";
+      state.voteJustRejected = false;
+      state.phase = "onboarding";
+      $("consent").checked = false;
+      refreshOnboarding();
+      setBodyLevel("yakinlik");
+      showOnly("screen-onboarding");
+    });
+
+    // ===== Level vote (gizli oy) =====
+    function startVote(level) {
+      state.vote = { level, partner: "A", choices: { A: null, B: null } };
+      state.phase = "level-vote";
+      renderVote();
+      showOnly("screen-vote");
+    }
+    function renderVote() {
+      const lvl = levelMeta(state.vote.level);
+      $("vote-title").textContent = `${lvl.emoji} ${lvl.title} seviyesi için gizli oy`;
+      $("vote-who").textContent = state.vote.partner === "A" ? state.names.A : state.names.B;
+      $("vote-step").textContent = state.vote.partner === "A" ? "Sıra: 1. kişi (gizli oy)" : "Sıra: 2. kişi (gizli oy)";
+    }
+    function submitVote(choice) {
+      state.vote.choices[state.vote.partner] = choice;
+      if (state.vote.partner === "A") {
+        state.vote.partner = "B";
+        renderVote();
+        return;
+      }
+      const both = state.vote.choices.A === "yes" && state.vote.choices.B === "yes";
+      const lvl = state.vote.level;
+      state.vote = null;
+      if (both) {
+        state.unlocked[lvl] = true;
+        state.activeLevel = lvl;
+        state.stats = { done: 0, soft: 0, passed: 0 };
+        state.passStreak = 0;
+        state.turn = "A";
+        enterPlaying();
+      } else {
+        // anonimlik: kim hayır dedi gösterilmez
+        state.voteJustRejected = true;
+        state.phase = "onboarding";
+        refreshOnboarding();
+        showOnly("screen-onboarding");
+      }
+    }
+    $("vote-yes").addEventListener("click", () => submitVote("yes"));
+    $("vote-no").addEventListener("click", () => submitVote("no"));
+
+    // ===== Init =====
+    showOnly("screen-onboarding");
+    refreshOnboarding();
+  </script>
+</body>
+</html>
