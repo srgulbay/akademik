@@ -247,9 +247,9 @@ for i, g in enumerate(targets):
             fontsize=6.5, fontstyle="italic", fontweight="bold",
             color="black", zorder=5)
 
-ax.text(7.5, genome_y - 0.40,
-        "target regulons (biofilm, motility, virulence, efflux)",
-        ha="center", fontsize=6.5, style="italic", color="#444", zorder=4)
+ax.text(6.50, 4.45,
+        "downstream: biofilm, motility,\nvirulence, efflux",
+        ha="center", fontsize=6, style="italic", color="#444", zorder=4)
 
 # Arrow: AbaR -> lux-box/abaI (binds lux-box)
 arr_tx = FancyArrowPatch(
