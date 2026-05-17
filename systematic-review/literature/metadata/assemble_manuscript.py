@@ -245,12 +245,18 @@ parts.append("\n---\n")
 
 parts.append("## 3. Results\n\n")
 parts.append("### 3.1 Study selection\n\n")
-parts.append("The PRISMA 2020 study-selection flow is shown in **Figure 1**. The MEDLINE/PubMed search returned 340 records and was supplemented by OpenAlex (351 records) and Crossref (3,060 records) API queries; after de-duplication by DOI, PMID and fuzzy title-plus-year matching, 3,313 unique records were screened against the eligibility criteria. Following title/abstract screening and full-text eligibility assessment, 338 studies met the inclusion criteria (218 with full text retrieved and 122 evaluated at the abstract level). As a validation of indexing coverage, 264 of 340 PubMed records (78%) were independently re-discovered by OpenAlex and/or Crossref, and 101 records (30%) were corroborated across all three sources — supporting the inference that the principal QS literature on *A. baumannii* is well captured by the integrated search.\n\n")
+if COMPACT:
+    parts.append("The PRISMA 2020 selection flow is shown in **Figure 1**. The integrated search (PubMed n = 340; OpenAlex n = 351; Crossref n = 3,060) yielded 3,313 unique records after de-duplication. After two-stage screening, 338 studies met inclusion criteria (218 full text; 122 abstract level). 264 of 340 PubMed records (78%) were independently re-discovered by OpenAlex and/or Crossref, supporting integrated-search coverage.\n\n")
+else:
+    parts.append("The PRISMA 2020 study-selection flow is shown in **Figure 1**. The MEDLINE/PubMed search returned 340 records and was supplemented by OpenAlex (351 records) and Crossref (3,060 records) API queries; after de-duplication by DOI, PMID and fuzzy title-plus-year matching, 3,313 unique records were screened against the eligibility criteria. Following title/abstract screening and full-text eligibility assessment, 338 studies met the inclusion criteria (218 with full text retrieved and 122 evaluated at the abstract level). As a validation of indexing coverage, 264 of 340 PubMed records (78%) were independently re-discovered by OpenAlex and/or Crossref, and 101 records (30%) were corroborated across all three sources — supporting the inference that the principal QS literature on *A. baumannii* is well captured by the integrated search.\n\n")
 parts.append(f1)
 parts.append("\n")
 
 parts.append("### 3.2 Characteristics of included studies\n\n")
-parts.append("A summary of study-level characteristics is provided in **Table 1**. The publication trajectory (**Figure 2**) shows a steady acceleration from a foundational era (2003–2010, *n* = 9, including the seminal AbaI characterisation by Niu et al. [Niu 2008]) to a recent expansion (2024–2025, *n* = 81). Study designs are dominated by mechanistic in vitro work (n=85, 25%) and increasingly by omics-based investigations (n=69, 20%) reflecting maturation of high-throughput tooling. Clinical evidence remains a small but growing fraction (n=15, 4%). Topical coverage is dominated by biofilm biology (77%), interactions with antibiotic resistance (76%) and virulence-factor regulation (61%). The *abaI*/*abaR*/*abaM* axis appears in over half of the corpus (52%), confirming its position as the central regulatory module.\n\n")
+if COMPACT:
+    parts.append("Study-level characteristics are summarised in **Table 1**. Publication output (**Figure 2**) accelerated from a foundational era (2003-2010, n = 9, including the seminal AbaI characterisation [Niu 2008]) to a recent expansion (2024-2025, n = 81). In vitro work (n=85, 25%) and omics studies (n=69, 20%) dominate; clinical evidence is small but growing (n=15, 4%). Topical coverage is dominated by biofilm biology (77%), antibiotic-resistance interactions (76%) and virulence-factor regulation (61%); the *abaI*/*abaR*/*abaM* axis appears in 52% of the corpus.\n\n")
+else:
+    parts.append("A summary of study-level characteristics is provided in **Table 1**. The publication trajectory (**Figure 2**) shows a steady acceleration from a foundational era (2003–2010, *n* = 9, including the seminal AbaI characterisation by Niu et al. [Niu 2008]) to a recent expansion (2024–2025, *n* = 81). Study designs are dominated by mechanistic in vitro work (n=85, 25%) and increasingly by omics-based investigations (n=69, 20%) reflecting maturation of high-throughput tooling. Clinical evidence remains a small but growing fraction (n=15, 4%). Topical coverage is dominated by biofilm biology (77%), interactions with antibiotic resistance (76%) and virulence-factor regulation (61%). The *abaI*/*abaR*/*abaM* axis appears in over half of the corpus (52%), confirming its position as the central regulatory module.\n\n")
 parts.append(t1)
 parts.append("\n")
 parts.append(f2)
@@ -269,7 +275,14 @@ parts.append("\n")
 parts.append(s3_5_6)
 parts.append("\n")
 
-parts.append("""### 3.7 Antibiotic resensitization and synergy
+if COMPACT:
+    parts.append("""### 3.7 Antibiotic resensitization and synergy
+
+QSI co-administration restores antibiotic susceptibility in MDR/XDR isolates: FICI < 0.5 synergy with carbapenems, colistin or tigecycline has been reported in in vitro checkerboard assays, with 2-8-fold MIC reductions. The mechanism involves QS-dependent transcriptional control of RND efflux pumps (*adeABC*, *adeFGH*, *adeIJK*) [Xie 2025; Lpez 2017; He 2015]. Phage-antibiotic synergy yields 1-3 log10 CFU additional reductions in animal wound and pneumonia models [Su 2025; deVilliersdelaNoue 2025; Elshamy 2025]. No synergy dataset in the corpus satisfies the multi-isolate, time-kill, in vivo rigour required for FDA breakpoint or EUCAST committee consideration.
+
+""")
+else:
+    parts.append("""### 3.7 Antibiotic resensitization and synergy
 
 A consistent secondary outcome across the QSI literature is restoration of antibiotic susceptibility in MDR/XDR isolates. FICI < 0.5 (synergy) was reported for combinations of natural-product QSIs with carbapenems, colistin or tigecycline in several in vitro checkerboard assays in the corpus; representative effect magnitudes were in the 2–8-fold MIC reduction range. Mechanistic explanations invoke QS-dependent transcriptional control of RND efflux pumps (*adeABC*, *adeFGH*, *adeIJK*) — pharmacological inhibition of AbaR-mediated transcription thereby reduces efflux and lowers effective MICs [Xie 2025; Lpez 2017; He 2015]. Phage–antibiotic synergy is now well-established for *A. baumannii*: lytic phages disrupting biofilms expose previously sessile cells to bactericidal antibiotics, with 1–3 log10 CFU additional reductions reported in animal wound and pneumonia models [Su 2025; Arazi 2025; deVilliersdelaNoue 2025; Elshamy 2025]. Despite these encouraging signals, none of the synergy datasets in the corpus satisfy the rigour standards (multi-isolate, time-kill kinetics, in vivo confirmation) typically required for FDA breakpoint or EUCAST committee consideration.
 
