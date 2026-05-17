@@ -122,7 +122,9 @@ def arrow(ax, x0, y0, x1, y1):
 # ---------------------------------------------------------------------------
 def build_full_prisma():
     fig = plt.figure(figsize=(8, 10), dpi=300)
-    ax = fig.add_axes([0, 0, 1, 1])
+    # Leave a small inset margin so side-bar labels and the right-margin
+    # dashed arrow are not clipped at the page edge.
+    ax = fig.add_axes([0.01, 0.01, 0.98, 0.98])
     ax.set_xlim(0, 10)
     ax.set_ylim(0, 12)
     ax.set_axis_off()
