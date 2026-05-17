@@ -1,0 +1,21 @@
+PMID: 32065820
+Title: Biocide susceptibilities and biofilm-forming capacities of Acinetobacter baumannii clinical isolates from Malaysia.
+Authors: Nor A'shimi M., Alattraqchi A., Mohd Rani F., A Rahman N., Ismail S., Abdullah F., Othman N., Cleary D., Clarke S., Yeo C.
+Journal: Journal of infection in developing countries
+Year: 2019
+DOI: 10.3855/jidc.11455
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/32065820/
+DOI URL: https://doi.org/10.3855/jidc.11455
+
+--- Abstract ---
+INTRODUCTION: Acinetobacter baumannii is a Gram-negative nosocomial pathogen that has the capacity to develop resistance to all classes of antimicrobial compounds. However, very little is known regarding its susceptibility to biocides (antiseptics and disinfectants) and capacity to form biofilms, particularly for Malaysian isolates.
+
+AIM: To determine the susceptibility of A. baumannii isolates to commonly-used biocides, investigate their biofilm-forming capacities and the prevalence of biocide resistance and biofilm-associated genes.
+
+METHODOLOGY: . The minimum inhibitory concentration (MIC) values of 100 A. baumannii hospital isolates from Terengganu, Malaysia, towards the biocides benzalkonium chloride (BZK), benzethonium chloride (BZT) and chlorhexidine digluconate (CLX), were determined by broth microdilution. The isolates were also examined for their ability to form biofilms in 96-well microplates. The prevalence of biocide resistance genes qacA, qacE and qacDE1 and the biofilm-associated genes bap and abaI were determined by polymerase chain reaction (PCR).
+
+RESULTS: Majority of the A. baumannii isolates (43%) showed higher MIC values (> 50 µg/mL) for CLX than for BZK (5% for MIC > 50 µg/mL) and BZT (9% for MIC > 50 µg/mL). The qacDE1 gene was predominant (63%) followed by qacE (28%) whereas no isolate was found harbouring qacA. All isolates were positive for the bap and abaI genes although the biofilm-forming capacity varied among the isolates.
+
+CONCLUSION: The Terengganu A. baumannii isolates showed higher prevalence of qacDE1 compared to qacE although no correlation was found with the biocides' MIC values. No correlation was also observed between the isolates' biofilm-forming capacity and the MIC values for the biocides.

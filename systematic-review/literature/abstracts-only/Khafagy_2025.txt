@@ -1,0 +1,13 @@
+PMID: 40384051
+Title: Repurposing Nitroimidazoles: A New Frontier in Combatting Bacterial Virulence and Quorum Sensing via In Silico, In Vitro, and In Vivo Insights.
+Authors: Khafagy E., Saqr A., Almutairy B., Aldawsari M., Lila A., Ibrahim T., Hegazy W., Salem I.
+Journal: Drug development research
+Year: 2025
+DOI: 10.1002/ddr.70101
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40384051/
+DOI URL: https://doi.org/10.1002/ddr.70101
+
+--- Abstract ---
+The global antibiotic resistance crisis demands innovative strategies targeting bacterial virulence rather than survival. Quorum sensing (QS), a key regulator of virulence and biofilm formation, offers a promising avenue to mitigate resistance by disarming pathogens without bactericidal pressure. This study investigates the repurposing of nitroimidazoles as anti-QS and anti-virulence agents at subminimum inhibitory concentrations (sub-MICs). In Silico analyses, including molecular docking and molecular dynamics (MD) simulations, were performed to investigate ligand-receptor interactions with structurally distinct Lux-type QS receptors and assess binding stability and conformational dynamics over time. In Vitro assays evaluated the effects of representative nitroimidazoles, metronidazole (MET) and secnidazole (SEC), on QS-controlled phenotypes, including violacein production in Chromobacterium violaceum and biofilm formation and protease activity in Pseudomonas aeruginosa, Acinetobacter baumannii, Salmonella enterica, and Proteus mirabilis. In Vivo efficacy was assessed using a murine infection model and HeLa cell invasion assays. Molecular docking revealed high-affinity binding to QS receptors, corroborating their mechanistic interference. Sub-MIC MET/SEC significantly suppressed violacein synthesis, biofilm biomass, and protease secretion in Gram-negative pathogens. Both compounds reduced bacterial invasiveness in HeLa cells and In Vivo protected mice from lethal P. aeruginosa infections. Crucially, nitroimidazoles attenuated virulence without affecting bacterial viability, preserving microbial ecology. These findings position nitroimidazoles as dual-function agents; antimicrobial at bactericidal doses and anti-virulence at sub-MICs. Their validated efficacy across In Silico, In Vitro, and In Vivo models underscores their potential as adjunctive therapies, bridging the gap between drug repurposing and next-generation anti-infective development.

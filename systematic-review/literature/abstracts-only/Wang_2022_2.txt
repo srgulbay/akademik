@@ -1,0 +1,14 @@
+PMID: 35938813
+Title: CRISPR-Cas in Acinetobacter baumannii Contributes to Antibiotic Susceptibility by Targeting Endogenous AbaI.
+Authors: Wang Y., Yang J., Sun X., Li M., Zhang P., Zhu Z., Jiao H., Guo T., Li G.
+Journal: Microbiology spectrum
+Year: 2022
+DOI: 10.1128/spectrum.00829-22
+PMC: PMC9430643
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/35938813/
+DOI URL: https://doi.org/10.1128/spectrum.00829-22
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9430643/
+
+--- Abstract ---
+Acinetobacter baumannii is a well-known human opportunistic pathogen in nosocomial infections, and the emergence of multidrug-resistant Acinetobacter baumannii has become a complex problem for clinical anti-infective treatments. The ways this organism obtains multidrug resistance phenotype include horizontal gene transfer and other mechanisms, such as altered targets, decreased permeability, increased enzyme production, overexpression of efflux pumps, metabolic changes, and biofilm formation. A CRISPR-Cas system generally consists of a CRISPR array and one or more operons of cas genes, which can restrict horizontal gene transfer in bacteria. Nevertheless, it is unclear how CRISPR-Cas systems regulate antibiotic resistance in Acinetobacter baumannii. Thus, we sought to assess how CRISPR-Cas affects biofilm formation, membrane permeability, efflux pump, reactive oxygen species, and quorum sensing to clarify further the mechanism of CRISPR-Cas regulation of Acinetobacter baumannii antibiotic resistance. In the clinical isolate AB43, which has a complete I-Fb CRISPR-Cas system, we discovered that the Cas3 nuclease of this type I-F CRISPR-Cas system regulates Acinetobacter baumannii quorum sensing and has a unique function in changing drug resistance. As a result of quorum sensing, synthase abaI is reduced, allowing efflux pumps to decrease, biofilm formation to become weaker, reactive oxygen species to generate, and drug resistance to decrease in response to CRISPR-Cas activity. These observations suggest that the CRISPR-Cas system targeting endogenous abaI may boost bacterial antibiotic sensitivity. IMPORTANCE CRISPR-Cas systems are vital for genome editing, bacterial virulence, and antibiotic resistance. How CRISPR-Cas systems regulate antibiotic resistance in Acinetobacter baumannii is almost wholly unknown. In this study, we reveal that the quorum sensing regulator abaI mRNA was a primary target of the I-Fb CRISPR-Cas system and the cleavage activity of Cas3 was the most critical factor in regulating abaI mRNA degradation. These results advance our understanding of how CRISPR-Cas systems inhibit drug resistance. However, the mechanism of endogenous targeting of abaI by CRISPR-Cas needs to be further explored.

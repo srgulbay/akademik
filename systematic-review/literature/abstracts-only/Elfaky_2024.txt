@@ -1,0 +1,14 @@
+PMID: 38558886
+Title: Assessing the antibacterial potential of 6-gingerol: Combined experimental and computational approaches.
+Authors: Elfaky M., Okairy H., Abdallah H., Koshak A., Mohamed G., Ibrahim S., Alzain A., Hegazy W., Khafagy E., Seleem N.
+Journal: Saudi pharmaceutical journal : SPJ : the official publication of the Saudi Pharmaceutical Society
+Year: 2024
+DOI: 10.1016/j.jsps.2024.102041
+PMC: PMC10981156
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38558886/
+DOI URL: https://doi.org/10.1016/j.jsps.2024.102041
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10981156/
+
+--- Abstract ---
+The rise of antibiotic resistance in bacteria is becoming a global concern, particularly due to the dwindling supply of new antibiotics. This situation mandates the discovery of new antimicrobial candidates. Plant-derived natural compounds have historically played a crucial role in the development of antibiotics, serving as a rich source of substances possessing antimicrobial properties. Numerous studies have supported the reputation of 6-gingerol, a prominent compound found in the ginger family, for its antibacterial properties. In this study, the antibacterial activities of 6-gingerol were evaluated against Gram-negative bacteria, Acinetobacter baumannii and Klebsiella pneumoniae, with a particular focus on the clinically significant Gram-negative Pseudomonas aeruginosa and Gram-positive bacteria Staphylococcus aureus. Furthermore, the anti-virulence activities were assessed in vitro, in vivo, and in silico. The current findings showed that 6-gingerol's antibacterial activity is due to its significant effect on the disruption of the bacterial cell membrane and efflux pumps, as it significantly decreased the efflux and disrupted the cell membrane of S. aureus and P. aeruginosa. Furthermore, 6-gingerol significantly decreased the biofilm formation and production of virulence factors in S. aureus and P. aeruginosa in concentrations below MICs. The anti-virulence properties of 6-gingerol could be attributed to its capacity to disrupt bacterial virulence-regulating systems; quorum sensing (QS). 6-Gingerol was found to interact with QS receptors and downregulate the genes responsible for QS. In addition, molecular docking, and molecular dynamics (MD) simulation results indicated that 6-gingerol showed a comparable binding affinity to the co-crystalized ligands of different P. aeruginosa QS targets as well as stable interactions during 100 ns MD simulations. These findings suggest that 6-gingerol holds promise as an anti-virulence agent that can be combined with antibiotics for the treatment of severe infections.

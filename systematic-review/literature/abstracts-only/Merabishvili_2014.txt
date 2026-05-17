@@ -1,0 +1,14 @@
+PMID: 25111143
+Title: Characterization of newly isolated lytic bacteriophages active against Acinetobacter baumannii.
+Authors: Merabishvili M., Vandenheuvel D., Kropinski A., Mast J., De Vos D., Verbeken G., Noben J., Lavigne R., Vaneechoutte M., Pirnay J.
+Journal: PloS one
+Year: 2014
+DOI: 10.1371/journal.pone.0104853
+PMC: PMC4128745
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/25111143/
+DOI URL: https://doi.org/10.1371/journal.pone.0104853
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4128745/
+
+--- Abstract ---
+Based on genotyping and host range, two newly isolated lytic bacteriophages, myovirus vB_AbaM_Acibel004 and podovirus vB_AbaP_Acibel007, active against Acinetobacter baumannii clinical strains, were selected from a new phage library for further characterization. The complete genomes of the two phages were analyzed. Both phages are characterized by broad host range and essential features of potential therapeutic phages, such as short latent period (27 and 21 min, respectively), high burst size (125 and 145, respectively), stability of activity in liquid culture and low frequency of occurrence of phage-resistant mutant bacterial cells. Genomic analysis showed that while Acibel004 represents a novel bacteriophage with resemblance to some unclassified Pseudomonas aeruginosa phages, Acibel007 belongs to the well-characterized genus of the Phikmvlikevirus. The newly isolated phages can serve as potential candidates for phage cocktails to control A. baumannii infections.

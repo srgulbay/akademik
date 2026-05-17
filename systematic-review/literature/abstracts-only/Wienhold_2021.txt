@@ -1,0 +1,14 @@
+PMID: 35062236
+Title: Preclinical Assessment of Bacteriophage Therapy against Experimental Acinetobacter baumannii Lung Infection.
+Authors: Wienhold S., Brack M., Nouailles G., Krishnamoorthy G., Korf I., Seitz C., Wienecke S., Dietert K., Gurtner C., Kershaw O., Gruber A., Ross A., Ziehr H., Rohde M., Neudecker J., Lienau J., Suttorp N., Hippenstiel S., Hocke A., Rohde C., Witzenrath M.
+Journal: Viruses
+Year: 2021
+DOI: 10.3390/v14010033
+PMC: PMC8778864
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/35062236/
+DOI URL: https://doi.org/10.3390/v14010033
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8778864/
+
+--- Abstract ---
+Respiratory infections caused by multidrug-resistant Acinetobacter baumannii are difficult to treat and associated with high mortality among critically ill hospitalized patients. Bacteriophages (phages) eliminate pathogens with high host specificity and efficacy. However, the lack of appropriate preclinical experimental models hampers the progress of clinical development of phages as therapeutic agents. Therefore, we tested the efficacy of a purified lytic phage, vB_AbaM_Acibel004, against multidrug-resistant A. baumannii clinical isolate RUH 2037 infection in immunocompetent mice and a human lung tissue model. Sham- and A. baumannii-infected mice received a single-dose of phage or buffer via intratracheal aerosolization. Group-specific differences in bacterial burden, immune and clinical responses were compared. Phage-treated mice not only recovered faster from infection-associated hypothermia but also had lower pulmonary bacterial burden, lower lung permeability, and cytokine release. Histopathological examination revealed less inflammation with unaffected inflammatory cellular recruitment. No phage-specific adverse events were noted. Additionally, the bactericidal effect of the purified phage on A. baumannii was confirmed after single-dose treatment in an ex vivo human lung infection model. Taken together, our data suggest that the investigated phage has significant potential to treat multidrug-resistant A. baumannii infections and further support the development of appropriate methods for preclinical evaluation of antibacterial efficacy of phages.

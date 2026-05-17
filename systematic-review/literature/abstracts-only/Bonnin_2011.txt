@@ -1,0 +1,13 @@
+PMID: 21965430
+Title: AbaR-type transposon structures in Acinetobacter baumannii.
+Authors: Bonnin R., Poirel L., Nordmann P.
+Journal: The Journal of antimicrobial chemotherapy
+Year: 2011
+DOI: 10.1093/jac/dkr413
+PMC: 
+Publication types: Letter; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/21965430/
+DOI URL: https://doi.org/10.1093/jac/dkr413
+
+--- Abstract ---
+[No abstract available]

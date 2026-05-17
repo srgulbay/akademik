@@ -1,0 +1,13 @@
+PMID: 36442439
+Title: Synthesis and antibiofilm evaluation of N-acyl-2-aminopyrimidine derivatives against Acinetobacter baumannii.
+Authors: Jia X., Cheng C., Liu T., Zhao Y., Guo B., Tang L., Yang Y.
+Journal: Bioorganic & medicinal chemistry
+Year: 2022
+DOI: 10.1016/j.bmc.2022.117095
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/36442439/
+DOI URL: https://doi.org/10.1016/j.bmc.2022.117095
+
+--- Abstract ---
+The overuse of antibiotics will led to the increase of drug resistance. Especially, the multidrug-resistant A. baumannii became the leading cause of nosocomial infections with high rates of morbimortality. The drug resistance of A. baumannii is greatly attributed to its biofilm. To alleviate the burden of drug resistance, the anti-virulence signaling strategies was developed. By specifically interfering with the ability of the bacteria to recognize host signals that are needed to establish infection, the bacteria are less able to colonize the host. In this paper, 39 N-acyl-2-aminopyrimidine derivatives were synthesized and tested for their biofilm inhibition efficacy. The screening results reveal that some of the analogues (3ac, 8d) efficiently inhibited the biofilm formation of A. baumannii (IC50 as low as 3.8 μM), and the biofilm inhibition ability was further demonstrated with laser confocal results and extracellular polysaccharides inhibition test. Further motility test reveals our compounds are quorum sensing inhibitors. Besides, the synergistic effect of compounds 3ac and 8d with different antibiotics suggest its potential clinical significance, which was further enhanced by the long time biofilm inhibition test after coating with PLGA. Finally, we also look into the safety of the compounds with cytotoxicity assay.

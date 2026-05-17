@@ -1,0 +1,13 @@
+PMID: 38767683
+Title: Piceatannol: a renaissance in antibacterial innovation unveiling synergistic potency and virulence disruption against serious pathogens.
+Authors: Koshak A., Elfaky M., Albadawi D., Abdallah H., Mohamed G., Ibrahim S., Alzain A., Khafagy E., Elsayed E., Hegazy W.
+Journal: International microbiology : the official journal of the Spanish Society for Microbiology
+Year: 2024
+DOI: 10.1007/s10123-024-00532-8
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38767683/
+DOI URL: https://doi.org/10.1007/s10123-024-00532-8
+
+--- Abstract ---
+In the relentless battle against multi-drug resistant Gram-negative bacteria, piceatannol emerges as a beacon of hope, showcasing unparalleled antibacterial efficacy and a unique ability to disrupt virulence factors. Our study illuminates the multifaceted prowess of piceatannol against prominent pathogens-Proteus mirabilis, Pseudomonas aeruginosa, Acinetobacter baumannii, and Klebsiella pneumoniae. Notably, piceatannol demonstrated a remarkable ability to inhibit biofilm formation, reduce bacterial mobility, and diminish extracellular enzyme synthesis.Mechanistic insights into piceatannol's activity unraveled its impact on membrane potential, proton motive force, and ATP production. Furthermore, our study delved into piceatannol's anti-quorum sensing (QS) activity, showcasing its potential to downregulate QS-encoding genes and affirming its affinity to critical QS receptors through molecular docking. Crucially, piceatannol exhibited a low propensity for resistance development, positioning it as a promising candidate for combating antibiotic-resistant strains. Its mild effect on red blood cells (RBCs) suggests safety even at higher concentrations, reinforcing its potential translational value. In an in vivo setting, piceatannol demonstrated protective capabilities, significantly reducing pathogenesis in mice infected with P. aeruginosa and P. mirabilis. This comprehensive analysis positions piceatannol as a renaissance in antibacterial innovation, offering a versatile and effective strategy to confront the evolving challenges posed by resilient Gram-negative pathogens.

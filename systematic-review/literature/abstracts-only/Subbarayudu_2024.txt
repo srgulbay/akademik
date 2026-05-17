@@ -1,0 +1,13 @@
+PMID: 39375235
+Title: Impact of acidic and alkaline conditions on Staphylococcus aureus and Acinetobacter baumannii interactions and their biofilms.
+Authors: Subbarayudu S., Snega Priya P., Rajagopal R., Alfarhan A., Guru A., Arockiaraj J.
+Journal: Archives of microbiology
+Year: 2024
+DOI: 10.1007/s00203-024-04142-w
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39375235/
+DOI URL: https://doi.org/10.1007/s00203-024-04142-w
+
+--- Abstract ---
+Bacterial biofilms pose significant challenges due to their association with antibiotic resistance, metabolic adaptation, and survival under harsh conditions. Among notable pathogens forming biofilms, Staphylococcus aureus and Acinetobacter baumannii are concerning pathogens in nosocomial settings. However, their behaviour under acidic (pH 4.5) and alkaline (pH10.5) conditions, especially in co-culture setups, remains insufficiently understood. This study investigates these aspects, by examining growth rates, biofilm formation, pH shifts, phenotypic analysis, and gene expression profiles. The results showed A. baumannii exhibited reduced  growth and biofilm formation at pH 4.5, while S. aureus showed slow growth and low biofilm formation at pH10.5 in mono-cultures. S. aureus leaned towards an acidic pH (6-6.5), whereas A. baumannii shifted towards an alkaline pH (8-9). In co-culture environments, growth rates and biofilm formation increased across all pH conditions, converging towards a neutral pH over time. Phenotypic motility assays indicated that A. baumannii exhibited greater motility in alkaline conditions, while S. aureus showed increased staphyloxanthin production under acidic conditions. Gene expression analyses revealed that the fibronectin-binding protein A (FnbA) and N-acetylglucosaminyl-transferase (icaA) genes, responsible for initial attachment during biofilm formation, were highly expressed in acidic co-culture condition but poorly expressed in alkaline condition. In A. baumannii, the outer membrane protein A (OmpA) gene associated with adhesion and virulence, was upregulated in co-culture. The LuxR gene involved in quorum sensing was upregulated in acidic conditions and poorly expressed at pH 10.5. This study elucidates the metabolic adaptability and biofilm formation tendencies of S. aureus towards acidic conditions and A. baumannii towards alkaline conditions, providing insights for better management of biofilm-related infections.

@@ -1,0 +1,13 @@
+PMID: 39116980
+Title: The role of AbaI quorum sensing molecule synthase in host cell inflammation induced by Acinetobacter baumannii and its effect on zebrafish infection model.
+Authors: Jiang X., Shan X., Jia J., Yang X., Yang M., Hou S., Chen Y., Ni Z.
+Journal: International journal of biological macromolecules
+Year: 2024
+DOI: 10.1016/j.ijbiomac.2024.134568
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39116980/
+DOI URL: https://doi.org/10.1016/j.ijbiomac.2024.134568
+
+--- Abstract ---
+Acinetobacter baumannii is currently one of the most important opportunistic pathogens causing severe nosocomial infections worldwide. Quorum Sensing (QS) system is a widespread mechanism in bacteria to coordinate group behavior by sensing the density of bacterial populations and affect eukaryotic host cell. In Acinetobacter baumannii, AbaI protein is used as QS molecule synthetase to synthesize N- acyl homoserine lactones (AHLs). Currently, QS has made great progress in the study of drug resistance, but there is still a lack of complete understanding of its damage to host cells after adhesion and invasion. Thus, in this study, we examined the effects of abaI mutant (ΔabaI) on the functions of adhesion and invasion, cell viability, inflammation, apoptosis in A. baumannii infected A549 cells, to evaluate the effects of ΔabaI in a zebrafish model. We found the group infected with ΔabaI increased cell viability, reduced adhesion and invasion, cell injury, inflammatory cytokine production and apoptosis. By RNA-Seq, we explored the possibility that abaI stimulated A549 cells inflammation by A. baumannii infection via TLR4/MAPK signaling pathway. In addition, the ΔabaI significantly reduced pathogenicity and recruitment to neutrophils in zebrafish. These observations suggest that abaI plays a major role in A. baumannii infection.

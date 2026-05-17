@@ -1,0 +1,20 @@
+PMID: 37667809
+Title: Glabridin Functions as a Quorum Sensing Inhibitor to Inhibit Biofilm Formation and Swarming Motility of Multidrug-Resistant Acinetobacter baumannii.
+Authors: Lin H., Zhou C., Yu K., Lin Y., Wang L., Zhang Y., Liu S., Xu W., Sun Y., Zhou T., Cao J., Ye J.
+Journal: Infection and drug resistance
+Year: 2023
+DOI: 10.2147/IDR.S417751
+PMC: PMC10475287
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/37667809/
+DOI URL: https://doi.org/10.2147/IDR.S417751
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10475287/
+
+--- Abstract ---
+OBJECTIVE: Acinetobacter baumannii is a hazardous bacterium that causes hospital-acquired nosocomial infections, and the advent of multidrug-resistant A. baumannii (MDR-AB) strains is concerning. Novel antibacterial therapeutic strategies must be developed. The biological effects of glabridin on MDR-AB were investigated in this study.
+
+METHODS: The minimum inhibitory concentrations (MICs) of glabridin against eight clinical MDR-AB strains were determined using the broth microdilution technique. Crystal violet staining was used to assess biofilm development, which has significant contribution to bacterial resistance. Swarming motility was measured according to surface growth zone of MDR-AB on LB agar medium. qRT-PCR was used to evaluate the expression of quorum sensing genes abaI and abaR. Glabridin and routinely used therapeutic antimicrobial agents were tested for synergistic action using the checkerboard method.
+
+RESULTS: According to our findings, glabridin suppressed MDR-AB growth at high doses (512-1024 μg/mL). The 1/4 MIC of glabridin significantly decreased MDR-AB biofilm formation by 19.98% (P < 0.05), inhibited MDR-AB motility by 44.27% (P < 0.05), whereas the 1/2 MIC of glabridin dramatically reduced MDR-AB biofilm development by 27.43% (P < 0.01), suppressed MDR-AB motility by 50.64% (P < 0.05). Mechanistically, glabridin substantially downregulated the expression of quorum sensing-related genes abaI and abaR by up to 39.12% (P < 0.001) and 25.19% (P < 0.01), respectively. However, no synergistic effect between glabridin and antibacterial drugs was found.
+
+CONCLUSION: Glabridin might be a quorum sensing inhibitor that inhibits MDR-AB biofilm development and swarming motility.

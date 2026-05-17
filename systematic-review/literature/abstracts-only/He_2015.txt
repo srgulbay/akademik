@@ -1,0 +1,14 @@
+PMID: 26033730
+Title: Biofilm Formation Caused by Clinical Acinetobacter baumannii Isolates Is Associated with Overexpression of the AdeFGH Efflux Pump.
+Authors: He X., Lu F., Yuan F., Jiang D., Zhao P., Zhu J., Cheng H., Cao J., Lu G.
+Journal: Antimicrobial agents and chemotherapy
+Year: 2015
+DOI: 10.1128/AAC.00877-15
+PMC: PMC4505227
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/26033730/
+DOI URL: https://doi.org/10.1128/AAC.00877-15
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4505227/
+
+--- Abstract ---
+Chronic wound infections are associated with biofilm formation, which in turn has been correlated with drug resistance. However, the mechanism by which bacteria form biofilms in clinical environments is not clearly understood. This study was designed to investigate the biofilm formation potency of Acinetobacter baumannii and the potential association of biofilm formation with genes encoding efflux pumps, quorum-sensing regulators, and outer membrane proteins. A total of 48 clinically isolated A. baumannii strains, identified by enterobacterial repetitive intergenic consensus (ERIC)-PCR as types A-II, A-III, and A-IV, were analyzed. Three representative strains, which were designated A. baumannii ABR2, ABR11, and ABS17, were used to evaluate antimicrobial susceptibility, biofilm inducibility, and gene transcription (abaI, adeB, adeG, adeJ, carO, and ompA). A significant increase in the MICs of different classes of antibiotics was observed in the biofilm cells. The formation of a biofilm was significantly induced in all the representative strains exposed to levofloxacin. The levels of gene transcription varied between bacterial genotypes, antibiotics, and antibiotic concentrations. The upregulation of adeG correlated with biofilm induction. The consistent upregulation of adeG and abaI was detected in A-III-type A. baumannii in response to levofloxacin and meropenem (1/8 to 1/2× the MIC), conditions which resulted in the greatest extent of biofilm induction. This study demonstrates a potential role of the AdeFGH efflux pump in the synthesis and transport of autoinducer molecules during biofilm formation, suggesting a link between low-dose antimicrobial therapy and a high risk of biofilm infections caused by A. baumannii. This study provides useful information for the development of antibiofilm strategies.

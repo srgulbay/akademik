@@ -1,0 +1,13 @@
+PMID: 37907777
+Title: Effect of lipopeptide extracted from Bacillus licheniformis on the expression of bap and luxI genes in multi-drug-resistant Acinetobacter baumannii and Pseudomonas aeruginosa.
+Authors: Ghanipour F., Nazari R., Aghaei S., Jafari P.
+Journal: Amino acids
+Year: 2023
+DOI: 10.1007/s00726-023-03346-6
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/37907777/
+DOI URL: https://doi.org/10.1007/s00726-023-03346-6
+
+--- Abstract ---
+Recently, opportunistic pathogens like Acinetobacter baumannii and Pseudomonas aeruginosa have caused concern due to their ability to cause antibiotic resistance in weakened immune systems. As a result, researchers are always seeking efficient antimicrobial agents to tackle this issue. The hypothesis of the recent study was that probiotic products derived from bacteria would be effective in reducing drug resistance in other bacteria. This research aimed to investigate the antimicrobial properties of probiotic products from various bacterial strains, including Lactobacillus rhamnosus, Pediococcus acidilactisi, Bacillus coagulans, Bacillus subtilis, and Bacillus licheniformis. These were tested against multi-drug-resistant (MDR) standard strains A. baumannii and P. aeruginosa. B. licheniformis was found to be the most effective probiotic strain, possessing the LanA and LanM lantibiotic genes. The lipopeptide nature of the probiotic product was confirmed through high-performance liquid chromatography (HPLC) and Fourier-transform infrared spectroscopy (FTIR) techniques. The anti-biofilm and antimicrobial properties of this probiotic were measured using an SEM electron microscope and minimum inhibitory concentration (MIC) test. Real-time PCR (qPCR) was used to compare the expression of bap and luxI genes, which are considered virulence factors of drug-resistant bacteria, before and after treatment with antimicrobial agents. The MIC results showed that the probiotic product prevented the growth of bacteria at lower concentrations compared to antibiotics. In addition, the ΔΔCqs indicated that gene expression was significantly down-regulated following treatment with the obtained probiotic product. It was found that B. licheniformis probiotic products could reduce drug resistance in other bacteria, making it a potential solution to antibiotic resistance.

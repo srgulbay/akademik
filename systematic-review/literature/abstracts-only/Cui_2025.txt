@@ -1,0 +1,14 @@
+PMID: 40660701
+Title: Carnosol attenuates Acinetobacter baumannii virulence by interfering with indole-mediated quorum sensing.
+Authors: Cui B., Peng G., Wang M., Kong X., Wei H., Ling X., Wu G., Deng Y.
+Journal: Virulence
+Year: 2025
+DOI: 10.1080/21505594.2025.2530169
+PMC: PMC12269709
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/40660701/
+DOI URL: https://doi.org/10.1080/21505594.2025.2530169
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12269709/
+
+--- Abstract ---
+Many bacterial pathogens utilize quorum sensing (QS) signals to modulate the biological functions in a cell density-dependent manner. Acinetobacter baumannii is a harmful pathogen and a major cause of hospital-acquired infections due to its severe drug-resistance and pathogenic nature. Therefore, the development of innovative antibacterial strategies for A. baumannii infections is important. Earlier studies have proved that A. baumannii utilizes N-acyl-L-homoserine lactones (AHLs) and indole signalling systems to modulate its biological functions and virulence. Here, we report that carnosol, which is isolated from Salvia officinalis L. (S. officinalis), inhibited the pathogenicity of A. baumannii by interfering with indole-mediated quorum sensing. Phenotypic and virulence experiments have revealed that carnosol decreased the formation of biofilms, motility, and cytotoxicity of A. baumannii, without affecting its growth rate. Genetic and biochemical analysis results showed that carnosol reduced the regulatory effect of AbiR on the transcription of target genes by inhibiting the binding of AbiR to the promoters of these genes. Our results suggest that the indole QS system of A. baumannii could be used as a new target and that carnosol might be developed as a new anti-virulence agent against A. baumannii infections.

@@ -1,0 +1,14 @@
+PMID: 37564783
+Title: Assesment of polyphenolic compounds against biofilms produced by clinical Acinetobacter baumannii strains using in silico and in vitro models.
+Authors: Mumtaz L., Farid A., Yousef Alomar S., Ahmad N., Nawaz A., Andleeb S., Amin A.
+Journal: Saudi journal of biological sciences
+Year: 2023
+DOI: 10.1016/j.sjbs.2023.103743
+PMC: PMC10410175
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/37564783/
+DOI URL: https://doi.org/10.1016/j.sjbs.2023.103743
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10410175/
+
+--- Abstract ---
+Several types of microbial infections are caused by Acinetobacter baumanii that has developed resistance to antimicrobial agents. We therefore investigated the role of plant polyphenols against A. baumannii using in silico and in vitro models. The clinical strains of A. baumannii were investigated for determination of resistance pattern and resistance mechanisms including efflux pump, extended spectrum beta lactamase, phenotype detection of AmpC production, and Metallo-β-lactamase. The polyphenolic compounds were docked against transcription regulator BfmR (PDB ID 6BR7) and antimicrobial, antibiofilm, and anti-quorum sensing activities were performed. The antibiogram studies showed that all isolated strains were resistant. Strain A77 was positive in Metallo-β-lactamase production. Similarly, none of strains were producers of AmpC, however, A77, A76, A75 had active efflux pumps. Molecular docking studies confirmed a strong binding affinity of Rutin and Catechin towards transcription regulator 6BR7. A significant antimicrobial activity was recorded in case of quercetin and syringic acid (MIC 3.1 µg/mL) followed by vanillic acid and caffeic acid (MIC 12.5 µg/mL). All tested compounds presented a strong antibiofilm activity against A. baumanii strain A77 (65 to 90%). It was concluded that all tested polyphenols samples posess antimicrobial and antibiofilm activities, and hence they may be utilized to treat multidrug resistance A. baumannii infections.

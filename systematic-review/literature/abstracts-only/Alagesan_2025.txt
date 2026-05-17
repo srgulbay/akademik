@@ -1,0 +1,13 @@
+PMID: 40420564
+Title: Targeting TetR-family transcription regulators for combating tetracycline resistance in resilient Acinetobacter baumannii: in silico identification of potent inhibitors.
+Authors: Alagesan K., Nagarajan H., Ramachandran B., Vetrivel U., Jeyaraj Pandian C., Jeyaraman J.
+Journal: Journal of biomolecular structure & dynamics
+Year: 2025
+DOI: 10.1080/07391102.2025.2507812
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40420564/
+DOI URL: https://doi.org/10.1080/07391102.2025.2507812
+
+--- Abstract ---
+Acinetobacter baumannii stands out as a potent pathogenic microbe responsible for healthcare-associated infections characterized by elevated morbidity and mortality. This bacterium has acquired a range of mechanisms for resisting antibiotics, resulting in the emergence of strains that can withstand antibiotics from multiple classes. Effectively addressing this urgent concern requires finding ways to overcome these resistance mechanisms. In this context, our study focuses on TetR Transcriptional Factor Regulators (TetR-FTRs). It coordinates functions of tetracycline efflux pump proteins (TetA and TetR) and exert influence over metabolic pathways, quorum sensing, and biofilm formation. The primary objective is to identify potent inhibitors targeting TetR-FTRs through scaffold-based shape screening across thirteen distinct databases. A wide array of in silico techniques was employed, including molecular docking, molecular dynamics simulations, Swiss Similarity search, Virtual Screening, MM/GBSA analysis, ADMET assessment, PAINS assay, SIFT analysis, and MM/PBSA calculations. The initial Swiss similarity search yielded 2178 compounds for subsequent virtual screening, with the application of PAINS analysis rigorously pruning the list, eliminating 14 false positive hits. Further refinement through SIFT approach discriminated closely related interacting compounds into three distinct clusters - ChemBridge5963254, BDH33906706, and ZINC000013607604, which fulfilled all SIFT criteria. Comparative evaluation against reference compounds revealed favorable glide scores, lower binding free energies, and interactions with crucial active site residue Hsd128-Mg2+. Molecular dynamics simulations consistently exhibited stable binding for these clusters in contrast to reference compounds. Our analysis underscores three specific compounds, namely ChemBridge5963254, BDH33906706, and ZINC000013607604, as promising candidates for addressing tetracycline resistance and combating A. baumannii infections.

@@ -1,0 +1,19 @@
+PMID: 32165339
+Title: Potentiation effects of antimicrobial photodynamic therapy on quorum sensing genes expression: A promising treatment for multi-species bacterial biofilms in burn wound infections.
+Authors: Pourhajibagher M., Mahmoudi H., Rezaei-Soufi L., Alikhani M., Bahador A.
+Journal: Photodiagnosis and photodynamic therapy
+Year: 2020
+DOI: 10.1016/j.pdpdt.2020.101717
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/32165339/
+DOI URL: https://doi.org/10.1016/j.pdpdt.2020.101717
+
+--- Abstract ---
+BACKGROUND: As the increase in the prevalence of antimicrobial resistant bacterial strains, development of adjuvant antimicrobial approach for the treatment of burn wound infection is important. Therefore, the aim of this study was to assess the effectiveness of antimicrobial photodynamic therapy (aPDT) using indocyanine green (ICG) in reducing the bacterial load and expression profiling of the quorum sensing (QS) system associated with the biofilm formation in multi-species bacterial biofilms.
+
+MATERIALS AND METHODS: Multi-species bacterial suspension including Acinetobacter baumannii, Pseudomonas aeruginosa, and Staphylococcus aureus were photosensitized with ICG, which was excited at a wavelength of 810 nm. After evaluating the dose of ICG-aPDT contributing to the sub-significant reduction of colony forming unit (CFU)/mL, the gene expression levels of abaI, agrA, and lasI were assessed using real-time quantitative reverse transcription polymerase chain reaction. As well as, lipid peroxidation, superoxide radicals and reactive oxygen species (ROS) were measured and the morphological changes of multi-species bacteria were evaluated by scanning electron microscopy (SEM).
+
+RESULTS: According to the results, maximal sub-significant reduction dose of aPDT against CFUs/mL of multi-species bacterial cells was found with a combination of 31.2 μg/mL of ICG and irradiation by the diode laser for 1 min, with an estimated average output light energy 31.2 J/cm2. The expression levels of abaI, agrA, and lasI in A. baumannii, P. aeruginosa, and S. aureus were down-regulated to approximately 1.9-, 3.7-, and 4.9-fold, respectively. The amount of lipid peroxidation, superoxide radical production, and ROS generation significantly increased (P < 0.05). Also, the cell morphology under SEM showed that ICG-aPDT is a stressful condition for multi-species bacterial cells.
+
+CONCLUSIONS: ICG-aPDT with antimicrobial, anti-biofilm, and gene expression inhibitor characteristics, as well as, ROS generation can be used for the treatment of burn wound infections in vivo.

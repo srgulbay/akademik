@@ -1,0 +1,152 @@
+Title: Erythromycin disrupts Acinetobacter baumannii biofilms through destruction of the quorum sensing system
+PMID: 39252274
+PMCID: PMC
+DOI: 10.1097/MD.0000000000038341
+
+=== ABSTRACT ===
+# Background:
+
+This study was conducted to explore the effects of erythromycin on biofilms comprising Acinetobacter baumannii (A baumannii).
+
+
+# Methods:
+
+To clarify the effect of erythromycin on the biofilms of A baumannii, we collected pure Ab strains isolated and identified from a variety of sample types extracted from patients in the microbiological laboratory of our hospital from April to August 2023, and divided them into an experimental group (treated with erythromycin) and a control group (without erythromycin). The morphology and quantity of A baumannii biofilm were observed at 24h, 48h, 72h, and 5d post-treatment, respectively, and the expression of quorum sensing (QS) system gene (abaI, abaR) mRNA was detected by fluorescence quantitative PCR.
+
+
+# Results:
+
+The results showed that A baumanniis are prone to form multiple drug-resistant (MDR) bacteria, against which the most commonly used clinical antibiotics are ineffective. Overall, we found that the number of bacteria, the number of bacteria in the biofilm, and the number of biofilms formed gradually increased over time, with a statistical difference (P < .05). After the addition of erythromycin, significant improvements in biofilm formation were achieved, indicating that erythromycin can destroy A baumannii biofilms, inhibiting bacterial growth to a certain extent. The expression levels of abaI and abaR gradually increased over time, indicating that the role of the QS system became more apparent over time. Biofilm formation is related to the QS system of A baumanniis. After erythromycin treatment, abaI and abaR mRNA expression was downregulated in the experimental group.
+
+
+# Conclusion:
+
+Erythromycin disrupts A baumannii biofilms by destroying the quorum sensing system.
+
+=== FULL TEXT ===
+# 1. Introduction
+
+Biofilms are defined as a complex mixture of microorganisms that adhere to hard surfaces and are typically wrapped in a thick layer of extracellular polysaccharides, making them resistant to the host immune system and traditional antibiotics.[1,2] In hospitals, bacteria that bind to artificial surfaces can endure harsh conditions for a considerable period, making eradication of biofilms extremely difficuly.[3]
+
+Acinetobacter baumannii (A baumannii) is an opportunistic bacterial pathogen that accounts for 2–10% of all gram-negative hospital infections.[4] The American Society of Infectious Diseases has recorded it as 1 of the 6 most successful multidrug-resistant (MDR) microorganisms: Enterococcus faecalis, Staphylococcus aureus, Klebsiella pneumoniae, Pseudomonas aeruginosa, and Enterobacterium.[5] Additionally, antibodies can cause extensive and severe hospital infections, wound infections, urinary tract infections, and secondary meningitis. The most important of these are ventilator-associated pneumonia and blood infections, which have high mortality rates.[6]
+
+It has previously been reported that a variety of factors, such as aggregation β- (1–6) - N-acetylglucosamine extracellular polysaccharides, biofilm-related proteins, and protein glycosylation systems, all play an important role in the formation or maturation of biofilms.[7] In addition, extracellular appendages often participate in different stages of biofilm formation, as demonstrated by the csuA/BABCDE chaperone system, which is necessary for pili coding and the development of A baumannii biofilms.[8] Recently, it has also been proposed that more than one cell surface attachment system may be involved in maintaining the biofilms formed at the gas-liquid (membrane) interface, and that the type IV pili system may also play a role in biofilm development through participation in movement.[9] Currently, there is an urgent need for new strategies, as current treatments may become outdated owing to drug resistance.
+
+The quorum sensing (QS) system is a common mechanism by which bacteria regulate the physiological behavior of populations, and is related to bacterial density of the bacteria themselves.[10] The bacterial QS system regulates many specific functions, including bacterial biofilm resistance. Population sensing is important for bacteria to synthesize and secrete signal molecules known as autoinducer molecules (AI) which mediate interbacterial communication.[11] When the concentration of signal molecules reaches a specific threshold, certain genes in bacteria react accordingly, controlling the behavior and function of bacterial populations.[12] During our research on the QS system, we found that the QS system has a profound impact on bacterial drug resistance. Through in-depth research on the mechanisms of bacterial QS systems, we can further study the relationship between bacterial biofilms and QS systems, in order to better understand the mechanisms of drug resistance in QS systems and provide new concepts for clinical treatment.
+
+Macrolides are a class of broad-spectrum antibiotics which inhibit elongation of the peptide chain by binding to the 50S subunit of the bacterial ribosome, thereby affecting the synthesis of proteins and exerting their antibacterial activity.[13] Studies have shown that 14- and 15-membered macrolides can reduce and inhibit alginate synthesis by inhibiting mannose dehydrogenase required for alginate synthesis, thereby damaging biofilms.[14] In addition, macrolides can create holes in the bacterial biofilm, causing drugs to pass through the holes, increasing the concentration of drugs entering the bacterial membrane and increasing their damage to alginate and its polysaccharide-protein complex.[15] In this case, the activity of both the fimbriae and flagella will be affected accordingly, unable to play their own role, causing antibodies produced by the body to treat them as antigens to eliminate, inhibit, and destroy the biofilm.[16]
+
+The mechanism of QS systems in biofilms has gradually become a research hotspot, but research on the relationship between erythromycin damage to biofilms and QS systems has rarely been reported, either at home or abroad. In this study, the expression of mRNA in the QS system was detected after the action of erythromycin on biofilms, providing a preliminary understanding of the relationship between the QS systems and biofilms, and providing an experimental basis for the study of the mechanism of action of the QS system in biofilms and the related mechanisms of erythromycin-destroying biofilms, and providing new ideas for the further development of new drugs and control of the formation and dissemination of bacterial resistance.
+
+
+# 2. Methods
+
+
+## 2.1. Isolation and identification of strains
+
+The experimental strains comprised pure A baumannii strains isolated and identified from various types of patient samples by the microbiological laboratory of our hospital between April and August 2023, with sputum cultures and wound secretions as the main sources, all isolated strains were identified using the VITEK2-COMPACT fully automated microbial identification system (bioMérieux, Marcy l’Etoile, France).[17]
+
+
+## 2.2. Bacterial drug sensitivity test
+
+The VITEK2-COMPACT type fully automated microbial identification system was used for drug sensitivity testing of the strains. The selected antibiotics were piperacillin/tazobactam, cotrimoxazole, ceftazidime, cefepime, imipenem, cefoperazone/sulbactam, cefotaxime, levofloxacin, gentamicin, ceftriaxone, tobramycin, ciprofloxacin, meropenem, minocycline, amikacin, and ampicillin.
+
+
+## 2.3. Establishment of a bacterial biofilm
+
+First, the bacterial biofilm was observed by Alixin Blue Congo red staining, after which an in vitro model of the A baumannii biofilm was established.[18] The identified strains that could form biofilms were selected from the A baumannii strains stored at −20°C, and inoculated on a MacConkey plate. They were cultured at 35°C for 24 hours. A fresh colony was selected from the seed ring, and placed in LB liquid culture medium at 35°C for constant temperature oscillation overnight. Physiological saline was then used to adjust the concentration of the bacterial solution to approximately.5 McFarland (1.0 × 108cfu/mL), after which a piece was added to a 96 well plate, and add 180 pieces to each hole μ ILB Broth, 20 μ. The above bacterial solution was incubated at a constant temperature of 35°C, and the nutrient solution was replaced every 1 day. On the fourth day of incubation, erythromycin (concentration: 256 g mL−1) was added to the experimental group, while the control group was cultured without erythromycin for 24h, 48h, 72h, and 5d, and then rinsed with physiological saline 3 times to remove planktonic bacteria. Finally, biofilm formation was observed by scanning electron microscopy (SEM).[19]
+
+
+## 2.4. Determination of the expression levels of abaI and abaR at different times of A baumannii
+
+RNA was extracted from the bacterial experimental and control groups using the TRIzol reagent at the 24th, 48th, 72h, and 5d before and after the addition of erythromycin. Reverse transcription RNA using a RevertAid First Strand cDNA Synthesis Kit (Thermo Fisher Scientific). In the StepOne real-time PCR system (Thermo Fisher Scientific) and the NovoStart ® SYBR qPCR SuperMix Plus Fluorescent Quantitative PCR Kit (China Limited) were performed using PCR array analysis and quantitative real-time PCR on cDNA samples. The 2- ΔΔCT method was used to analyze the data.[20] The expression levels of abaI and abaR were calculated by normalizing the gene expression levels to those of housekeeping genes.[21,22] The primers used for this analysis are listed in Table 1.
+
+[TABLE: The primers used in this study.]
+
+
+# 3. Results
+
+
+## 3.1. A baumannii drug sensitivity test results
+
+Between April and August 2023, our hospital submitted 61 cases of A baumannii for clinical examination, including 24 cases of multidrug-resistant A baumannii strains, accounting for 39.34% of the A baumannii strains. Most clinical A baumanniis were obtained from sputum cultures and wound secretions, with most samples obtained from respiratory, geriatric, and burn departments. The drug sensitivity test results were as follows: The resistance rates to imipenem and cefotaxime were 32.8%; piperacillin/tazobactam, cefepime, ceftazidime, and amikacin were 31.1%; cotrimoxazole was 27.9%; cefoperazone/sulbactam was 8.2%; ceftriaxone and ampicillin was 34.4%; tobramycin was 37.7%; and levofloxacin, gentamicin, and ciprofloxacin were 36.1%, 14.8%, and 29.6 %, respectively (Fig. 1).
+
+[FIGURE: A baumannii drug sensitivity.]
+
+
+## 3.2. Biomembrane identification results
+
+Under a light blue background, the polysaccharide-protein around the bacterial body of the biofilm bacteria was dark red, and the color of bacteria without a biofilm was significantly lighter or darker blue than that of bacteria with a biofilm. Among the 61 A baumannii strains, 46 could form biofilms, yielding a film formation rate of 75.4%.
+
+SEM revealed that the number of bacteria increased, and they aggregated to form an extracellular matrix after 24h. At 48h, the number and aggregation pattern of the bacteria changed, and their arrangement began to accumulate in a stacked state. Owing to the extremely strong division of bacteria, the number of bacteria was significantly higher than before. Compared to 24h, the extracellular matrix continued to increase, mycelium cross-links between bacteria could be seen, and a small number of bacteria formed biofilms. After 72h, a large number of bacteria and substrates accumulated, and the mycelia between the bacteria crosslinked and embedded in each other, forming a biofilm. On day 5, the bacteria were covered with a large amount of extracellular matrix, and wrapped and adhered to each other, forming a clear biofilm. During the formation of the A baumannii biofilm, 3 randomly selected visual fields were selected for bacterial counting, and the number of bacteria, number of bacteria in the biofilm, and number of biofilms formed were counted, with results showing gradual increases with a statistical difference (P < .05) (Table 2, Fig. 2).
+
+[TABLE: Cell count during A baumannii Biofilm Formation (x̄±s).]
+
+[FIGURE: Cell count during the formation of biofilm by A baumannii.]
+
+After adding erythromycin, SEM observations showed that the number of bacteria in the control group continued to increase, and the bacteria became wrapped in biofilms and adhered to each other. The bacterial gaps became increasingly small until they disappeared. At 24h after the addition of erythromycin, the number of bacteria in the experimental group, the number of biofilms, and the number of bacteria in the biofilm decreased, and the bacterial gap increased compared to that in the control group, with slight changes in bacterial morphology. At 48h, the bacteria in the experimental group changed significantly compared to those in the control group, and the bacterial gap increased, the cross-linking between bacterial hyphae decreased, and the bacterial morphology changed. Some bacteria changed from columnar to spherical shapes. At 72h, biofilm formation in the experimental group decreased significantly, with almost no cross-linking between the bacteria. The bacterial morphology was spherical. At 5d, there was almost no biofilm, with only a small number of surviving bacteria, and the bacterial morphology was spherical, without columnar bacteria.
+
+After adding erythromycin, the bacterial count, biofilm count, and bacterial count in the biofilm were determined. There were significant differences between the experimental and control group at 24h, 48h, 72h, and 5d (P < .05), indicating that erythromycin can destroy the biofilm of A baumannii and inhibit bacterial growth to a certain extent (Tables 3 and 4, Figs. 3 and 4).
+
+[TABLE: Number of A baumannii bacteria after adding erythromycin(x̄±s).]
+
+[TABLE: Quantity of A baumannii biofilm after adding erythromycin (x̄±s).]
+
+[FIGURE: Number of A baumannii bacteria after treatment with erythromycin.]
+
+[FIGURE: Number of viable bacteria in A baumannii biofilms after treatment with erythromycin.]
+
+According to the corresponding 2- ΔΔCT values calculated by Livak method, the expression levels of abaI and abaR genes gradually increase over time, with an increase of 5.2 and 2.6 times in 5d compared to 24h. Moreover, over time, the role of the QS system became more apparent, indicating that the formation of biofilms was related to the QS system of A baumanniis (Fig. 5). After erythromycin treatment, the mRNA expression of abaI and abaR in the experimental group was downregulated, while the mRNA expression of abaI and abaR in the control group was higher than that in the experimental group, and downregulation occurred within 24h. However, the effect was not statistically significant (P > .05). At 48h, 72h, and 5d, the expression level in the experimental group was significantly downregulated (P < .05) (Fig. 6).
+
+[FIGURE: A baumannii gene changes in abaI and abaR over different time points.]
+
+[FIGURE: Changes in the abaI and abaR genes in A baumannii at different time points after erythromycin-mediated destruction.]
+
+
+# 4. Discussion
+
+In vitro drug sensitivity testing has become a useful tool for determining the most appropriate antibiotic treatment.[23,24]
+A baumannii-associated hospital infections are associated with high mortality rates; as such, reducing the mortality rate is a key therapeutic goal. To successfully overcome antimicrobial resistance, multiple treatment combinations are considered the first-line treatment.[25] Although the likelihood of treatment for A baumannii is reduced, patient mortality and hospital stays have increased, especially because of inadequate pneumonia and antimicrobial treatment. Specific antimicrobial treatment options for A baumannii bacteremia have not yet been established, and current research on this topic is lacking. However, β-Lactam antibiotics alone or in combination with aminoglycosides is the usual choice. Imipenem has also been reported to be useful.[21]
+
+However, with the increasing use of antibacterial drugs and immunosuppressants, drug resistance of A baumanniis has also increased.[26] From July to December 2019, our hospital submitted 61 cases of Abs for clinical examination, including 24 cases of MDR A baumannii strains, accounting for 39.34% of all analyzed strains. Most clinical A baumanniis were obtained from sputum cultures and wound secretions, and the departments submitted for examination included mainly aspiration, geriatrics, and burns. The results of drug sensitivity test results were as follows: The drug resistance rate to cefixime was 32.8%. The drug resistance rates to eyelacillin/tazobactam, cefepime, ceftazidime, and amikacin were 31.1%; cotrimoxazole was 27.9%; cefazone/sulbactam was 8.2%; ceftriaxone, ampicillin, tobramycin, levofloxacin, gentamicin, and ciprofloxacin was 34.4%; tobramycin was 36.1%; minocycline was 14.8%; and meropenem was 29.6.
+
+Qs systems are ubiquitous in bacteria, although different bacteria have different signal molecules that mediate different signal transduction pathways.[27] In this study, the Luxl/LuxR signal transduction pathway was selected as the QS system. The A baumannii genome was named abaI/abaIt. AbaI is the only known and confirmed regulatory gene of the QS system related to the formation of A baumannii biofilms at this stage.[28] When ahal is defective, biofilm formation decreases by 30–40%.[24] Through changes in the expression of the ahalaR gene, the relationship between it and bacterial resistance, biofilm, and drug action can be preliminarily studied. Overall, our experiments showed that the expression of the ahalabaR gene gradually increased over time, with a 5.2 and 2.6-fold increase in the expression of SA compared to t 24h. The mechanism of the Qs system in biological genera is key to research, and the biofilm resistance promoted by it has become a key issue of global concern.[29] Recently, solving the problem of biofilm resistance has become a popular research topic.
+
+Previous studies have confirmed that the destructive effect of azithromycin on P. aeruginosa biofilms is achieved by inhibiting the QS system, indicating that macrolides have an important impact on the treatment of biofilm infections.[30] In this experiment, the QS system was used as a starting point, and fluorescence quantitative PCR was applied to detect the mRNA expression of ahal and ahaR at different time points (24h, 48h, 72h, 5d) following the administration of erythromycin. The correlation between the damage caused by erythromycin to A baumannii biofilm and the QS system was preliminarily discussed, and the possible mechanism of erythromycin damage to A baumannii biofilm was explored; this research could provide an experimental basis and guidance for the rational clinical application of antibiotics and is conducive to the scientific research and development of clinical medicine drugs.
+
+To sum up, this experiment uses real-time fluorescence quantitative PCR to analyze mRNA expression. A preliminary study was conducted to investigate the changes in the expression of the abaI and ahuR genes in the QS system when erythromycin was applied to the A baumannii biofilm. The cells were divided into 2 groups: an experimental group (with erythromycin) and a control group (without erythromycin). At different time points (24, 48, 72, and 5 days), the relative expression of QS system genes in A baumanniis was detected using light-like quantitative PCR technology. The results showed that The mRNA expression levels of abaI and ahuR continued to increase in the control group. Following erythromycin treatment, ahaR mRNA expression was higher in the experimental group than in the control group. The mRNA expression levels of abaI and abaR in the experimental group were downregulated after 24h; however, this effect was not significant (P > .05). At 48h, 72h, and 5d, the expression level in the experimental group was significantly downregulated (P < .05), indicating that erythromycin can destroy the QS system gene expression, suggesting that erythromycin can destroy the QS system and play a certain role in destroying the biofilm. Bacterial biofilms and QS systems may become targets for new drugs, and provide new ideas for reducing drug resistance of tobacco bacteria and the production of new drugs.
+
+
+# 5. Conclusion
+
+In summary, A baumannii strains have shown a high drug resistance rate in recent years, and are prone to form MDR strains and biofilms. Erythromycin destroys the biomass of A baumannii and inhibits the growth of Acinetobacter absoluticus to a certain extent. After the addition of erythromycin, the mRNA expression levels of abaI and abaR decreased significantly compared with those without erythromycin. From these results, it can be inferred that erythromycin has a certain impact on her damage to Acinetobacter biofilm through the destruction of the QS system.
+
+
+# Acknowledgments
+
+We would like to thank editage (www.editage.cn) for English language editing.
+
+
+# Author contributions
+
+Conceptualization: Hang Dong, Jianguo Sun.
+
+Data curation: Hang Dong, Jianguo Sun, Qin Li, Panfeng Xu.
+
+Formal analysis: Hang Dong, Jianguo Sun, Yiling Liu, Qin Li.
+
+Methodology: Yiling Liu, Jianglong Huang.
+
+Resources: Yiling Liu, Qin Li, Panfeng Xu.
+
+Software: Qin Li, Panfeng Xu.
+
+Supervision: Yuanqing Wang.
+
+Validation: Jianglong Huang, Panfeng Xu, Yuanqing Wang.
+
+Visualization: Jianglong Huang, Yuanqing Wang.
+
+Writing – original draft: Hang Dong, Jianguo Sun.
+
+Writing – review & editing: Hang Dong, Jianguo Sun, Yiling Liu, Qin Li, Jianglong Huang, Panfeng Xu, Yuanqing Wang.

@@ -1,0 +1,14 @@
+PMID: 27001817
+Title: Candida albicans Airway Colonization Facilitates Subsequent Acinetobacter baumannii Pneumonia in a Rat Model.
+Authors: Tan X., Chen R., Zhu S., Wang H., Yan D., Zhang X., Farmakiotis D., Mylonakis E.
+Journal: Antimicrobial agents and chemotherapy
+Year: 2016
+DOI: 10.1128/AAC.02180-15
+PMC: PMC4879401
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/27001817/
+DOI URL: https://doi.org/10.1128/AAC.02180-15
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4879401/
+
+--- Abstract ---
+The objective of the study was to determine the effects of Candida albicans respiratory tract colonization on Acinetobacter baumannii pneumonia in a rat model. Rats were colonized with C. albicans by instillation of 3 × 10(6) CFU into their airways, while sterile saline was instilled in the control group. The colonized rats were further divided into two groups: treated with amphotericin B or not. The rats were subsequently infected with A. baumannii (10(8) CFU by tracheobronchial instillation). A. baumannii lung CFU counts, cytokine lung levels, and rates of A. baumannii pneumonia were compared between groups. In vitro expression of A. baumannii virulence genes was measured by reverse transcription (RT)-PCR after 24-hour incubation with C. albicans or with Mueller-Hinton (MH) broth alone. Rats with Candida colonization developed A. baumannii pneumonia more frequently and had higher A. baumannii CFU burdens and heavier lungs than controls. After A. baumannii infection, lung interleukin 17 (IL-17) concentrations were lower and gamma interferon (IFN-γ) concentrations were higher in Candida-colonized rats than in controls. Candida-colonized rats treated with amphotericin B had a decreased rate of A. baumannii pneumonia and lower IFN-γ levels but higher IL-17 levels than untreated rats. Expression of basC, barB, bauA, ptk, plc2, and pld2 was induced while expression of ompA and abaI was suppressed in A. baumannii cultured in the presence of C. albicans C. albicans colonization facilitated the development of A. baumannii pneumonia in a rat model. Among Candida-colonized rats, antifungal treatment lowered the incidence of A. baumannii pneumonia. These findings could be due to modification of the host immune response and/or expression of A. baumannii virulence genes by Candida spp.

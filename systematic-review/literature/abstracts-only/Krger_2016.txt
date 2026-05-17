@@ -1,0 +1,14 @@
+PMID: 28036056
+Title: Genetic Regulation of Virulence and Antibiotic Resistance in Acinetobacter baumannii.
+Authors: Kröger C., Kary S., Schauer K., Cameron A.
+Journal: Genes
+Year: 2016
+DOI: 10.3390/genes8010012
+PMC: PMC5295007
+Publication types: Review; Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/28036056/
+DOI URL: https://doi.org/10.3390/genes8010012
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5295007/
+
+--- Abstract ---
+Multidrug resistant microorganisms are forecast to become the single biggest challenge to medical care in the 21st century. Over the last decades, members of the genus Acinetobacter have emerged as bacterial opportunistic pathogens, in particular as challenging nosocomial pathogens because of the rapid evolution of antimicrobial resistances. Although we lack fundamental biological insight into virulence mechanisms, an increasing number of researchers are working to identify virulence factors and to study antibiotic resistance. Here, we review current knowledge regarding the regulation of virulence genes and antibiotic resistance in Acinetobacter baumannii. A survey of the two-component systems AdeRS, BaeSR, GacSA and PmrAB explains how each contributes to antibiotic resistance and virulence gene expression, while BfmRS regulates cell envelope structures important for pathogen persistence. A. baumannii uses the transcription factors Fur and Zur to sense iron or zinc depletion and upregulate genes for metal scavenging as a critical survival tool in an animal host. Quorum sensing, nucleoid-associated proteins, and non-classical transcription factors such as AtfA and small regulatory RNAs are discussed in the context of virulence and antibiotic resistance.

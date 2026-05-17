@@ -1,0 +1,14 @@
+PMID: 40871320
+Title: Biofilm Formation and the Role of Efflux Pumps in ESKAPE Pathogens.
+Authors: Sorenson T., Zack K., Joshi S.
+Journal: Microorganisms
+Year: 2025
+DOI: 10.3390/microorganisms13081816
+PMC: PMC12388334
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/40871320/
+DOI URL: https://doi.org/10.3390/microorganisms13081816
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12388334/
+
+--- Abstract ---
+Nosocomial infections caused by ESKAPE pathogens represent a significant burden to global health. These pathogens may exhibit multidrug resistance (MDR) mechanisms, of which mechanisms such as efflux pumps and biofilm formation are gaining significant importance. Multidrug resistance mechanisms in ESKAPE pathogens have led to an increase in the effective costs in health care and a higher risk of mortality in hospitalized patients. These pathogens utilize antimicrobial efflux pump mechanisms and bacterial biofilm-forming capabilities to escape the bactericidal action of antimicrobials. ESKAPE bacteria forming colonies demonstrate increased expression of efflux pump-encoding genes. Efflux pumps not only expel antimicrobial agents but also contribute to biofilm formation by bacteria through (1) transport of molecules and transcription factors involved in biofilm quorum sensing, (2) bacterial fimbriae structure transport for biofilm adhesion to surfaces, and (3) regulation of a transmembrane gradient to survive the difficult conditions of biofilm microenvironments. The synergistic role of these mechanisms complicates treatment outcomes. Given the mechanistic link between biofilms and efflux pumps, therapeutic strategies should focus on targeting anti-biofilm mechanisms alongside efflux pump inactivation with efflux pump inhibitors. This review explores the molecular interplay between efflux pumps and biofilm formation, emphasizing potential therapeutic strategies such as efflux pump inhibitors (EPIs) and biofilm-targeting agents.

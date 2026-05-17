@@ -1,0 +1,18 @@
+PMID: 25534766
+Title: Comparative genomic analysis of Acinetobacter baumannii clinical isolates reveals extensive genomic variation and diverse antibiotic resistance determinants.
+Authors: Liu F., Zhu Y., Yi Y., Lu N., Zhu B., Hu Y.
+Journal: BMC genomics
+Year: 2014
+DOI: 10.1186/1471-2164-15-1163
+PMC: PMC4367897
+Publication types: Comparative Study; Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/25534766/
+DOI URL: https://doi.org/10.1186/1471-2164-15-1163
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4367897/
+
+--- Abstract ---
+BACKGROUND: Acinetobacter baumannii is an important nosocomial pathogen that poses a serious health threat to immune-compromised patients. Due to its rapid ability to develop multidrug resistance (MDR), A. baumannii has increasingly become a focus of attention worldwide. To better understand the genetic variation and antibiotic resistance mechanisms of this bacterium at the genomic level, we reported high-quality draft genome sequences of 8 clinical isolates with various sequence types and drug susceptibility profiles.
+
+RESULTS: We sequenced 7 MDR and 1 drug-sensitive clinical A. baumannii isolates and performed comparative genomic analysis of these draft genomes with 16 A. baumannii complete genomes from GenBank. We found a high degree of variation in A. baumannii, including single nucleotide polymorphisms (SNPs) and large DNA fragment variations in the AbaR-like resistance island (RI) regions, the prophage and the type VI secretion system (T6SS). In addition, we found several new AbaR-like RI regions with highly variable structures in our MDR strains. Interestingly, we found a novel genomic island (designated as GIBJ4) in the drug-sensitive strain BJ4 carrying metal resistance genes instead of antibiotic resistance genes inserted into the position where AbaR-like RIs commonly reside in other A. baumannii strains. Furthermore, we showed that diverse antibiotic resistance determinants are present outside the RIs in A. baumannii, including antibiotic resistance-gene bearing integrons, the blaOXA-23-containing transposon Tn2009, and chromosomal intrinsic antibiotic resistance genes.
+
+CONCLUSIONS: Our comparative genomic analysis revealed that extensive genomic variation exists in the A. baumannii genome. Transposons, genomic islands and point mutations are the main contributors to the plasticity of the A. baumannii genome and play critical roles in facilitating the development of antibiotic resistance in the clinical isolates.

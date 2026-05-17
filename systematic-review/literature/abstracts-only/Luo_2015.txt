@@ -1,0 +1,18 @@
+PMID: 25888221
+Title: Enhancing pili assembly and biofilm formation in Acinetobacter baumannii ATCC19606 using non-native acyl-homoserine lactones.
+Authors: Luo L., Wu L., Xiao Y., Zhao D., Chen Z., Kang M., Zhang Q., Xie Y.
+Journal: BMC microbiology
+Year: 2015
+DOI: 10.1186/s12866-015-0397-5
+PMC: PMC4381447
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/25888221/
+DOI URL: https://doi.org/10.1186/s12866-015-0397-5
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4381447/
+
+--- Abstract ---
+BACKGROUND: Quorum Sensing (QS) systems influence biofilm formation, an important virulence factor related to the bacterial survival and antibiotic resistance. In Acinetobacter baumannii, biofilm formation depends on pili biosynthesis, structures assembled via the csuA/BABCDE chaperone-usher secretion system. QS signaling molecules are hypothesized to affect pili formation; however, the mechanism behind this remains unclear. This study aimed to demonstrate the possible role of QS signaling molecules in regulating pili formation and mediating the ability to form biofilms on abiotic surfaces.
+
+RESULTS: Real-time quantitative PCR analysis showed the expression of the csuA/BABCDE genes distinctly increased when co-cultured with C6-HSL (P < 0.05). Under the same experimental conditions, expression of BfmS and BfmR was significantly higher than the control strain (P < 0.05). A subsurface twitching assay showed a switch from a small to a large and structured clone that may result from enhanced twitching motility (P < 0.05). Transmission electron microscopy analysis of cells lifted from a MH broth co-cultured with C6-HSL showed more abundant pili-like structures than the control strain. We then tested the idea that the addition of a QS signal, and therefore induction of chaperone-usher secretion system genes, provides a greater benefit at higher biofilm densities. An assay for the total fluorescence intensity of the biofilm using Confocal Laser Scanning Microscopy revealed an obvious increase.
+
+CONCLUSION: Our study demonstrated that, increased transcription of the BfmS and BfmR genes, QS signaling molecules enhance the expression of the chaperone-usher secretion system, and this expression is required for twitching motility in A. baumannii. The concomitant pili expression and strain twitching allowed A. baumannii to attach easily to abiotic surfaces and form biofilms at an earlier timepoint.

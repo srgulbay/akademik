@@ -1,0 +1,14 @@
+PMID: 36010006
+Title: In Vitro Activity of Sulbactam-Durlobactam against Carbapenem-Resistant Acinetobacter baumannii Clinical Isolates: A Multicentre Report from Italy.
+Authors: Segatore B., Piccirilli A., Cherubini S., Principe L., Alloggia G., Mezzatesta M., Salmeri M., Di Bella S., Migliavacca R., Piazza A., Meroni E., Fazii P., Visaggio D., Visca P., Cortazzo V., De Angelis G., Pompilio A., Perilli M.
+Journal: Antibiotics (Basel, Switzerland)
+Year: 2022
+DOI: 10.3390/antibiotics11081136
+PMC: PMC9404735
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36010006/
+DOI URL: https://doi.org/10.3390/antibiotics11081136
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9404735/
+
+--- Abstract ---
+In the present study, the in vitro activity of the sulbactam-durlobactam (SUL-DUR) combination was evaluated against 141 carbapenem-resistant A. baumannii (CRAb) clinical strains collected from six Italian laboratories. Over half (54.6%) of these isolates were resistant to colistin. The SUL-DUR combination was active against these CRAb isolates with MIC50 and MIC90 values of 0.5 mg/L and 4 mg/L, respectively. Only eleven isolates were resistant to SUL-DUR with MIC values ranging from 8 to 128 mg/L. The SUL-DUR resistant A. baumannii exhibited several antimicrobial resistance genes (ARGs) such as blaOXA-20, blaOXA-58, blaOXA-66, blaADC-25, aac(6')-Ib3 and aac(6')-Ib-cr and mutations in gyrA (S81L) and parC (V104I, D105E). However, in these isolates, mutations Q488K and Y528H were found in PBP3. Different determinants were also identified in these CRAb isolates, including adeABC, adeFGH, adeIJK, abeS, abaQ and abaR, which encode multidrug efflux pumps associated with resistance to multiple antibacterial agents. This is the first report on the antimicrobial activity of SUL-DUR against carbapenem-resistant A. baumannii isolates selected from multiple regions in Italy.

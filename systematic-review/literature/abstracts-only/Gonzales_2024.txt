@@ -1,0 +1,14 @@
+PMID: 38724459
+Title: Disrupting quorum sensing as a strategy to inhibit bacterial virulence in human, animal, and plant pathogens.
+Authors: Gonzales M., Kergaravat B., Jacquet P., Billot R., Grizard D., Chabrière É., Plener L., Daudé D.
+Journal: Pathogens and disease
+Year: 2024
+DOI: 10.1093/femspd/ftae009
+PMC: PMC11110857
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/38724459/
+DOI URL: https://doi.org/10.1093/femspd/ftae009
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11110857/
+
+--- Abstract ---
+The development of sustainable alternatives to conventional antimicrobials is needed to address bacterial virulence while avoiding selecting resistant strains in a variety of fields, including human, animal, and plant health. Quorum sensing (QS), a bacterial communication system involved in noxious bacterial phenotypes such as virulence, motility, and biofilm formation, is of utmost interest. In this study, we harnessed the potential of the lactonase SsoPox to disrupt QS of human, fish, and plant pathogens. Lactonase treatment significantly alters phenotypes including biofilm formation, motility, and infection capacity. In plant pathogens, SsoPox decreased the production of plant cell wall degrading enzymes in Pectobacterium carotovorum and reduced the maceration of onions infected by Burkholderia glumae. In human pathogens, lactonase treatment significantly reduced biofilm formation in Acinetobacter baumannii, Burkholderia cepacia, and Pseudomonas aeruginosa, with the cytotoxicity of the latter being reduced by SsoPox treatment. In fish pathogens, lactonase treatment inhibited biofilm formation and bioluminescence in Vibrio harveyi and affected QS regulation in Aeromonas salmonicida. QS inhibition can thus be used to largely impact the virulence of bacterial pathogens and would constitute a global and sustainable approach for public, crop, and livestock health in line with the expectations of the One Health initiative.

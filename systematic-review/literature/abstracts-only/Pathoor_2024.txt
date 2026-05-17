@@ -1,0 +1,19 @@
+PMID: 39739165
+Title: 3-Hydroxybenzoic acid inhibits the virulence attributes and disrupts biofilm production in clinical isolates of Acinetobacter baumannii.
+Authors: Pathoor N., Ganesh P., Anshad A., Gopal R., Ponmalar E., Suvaithenamudhan S., Rudrapathy P., Shankar E.
+Journal: European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology
+Year: 2024
+DOI: 10.1007/s10096-024-05009-0
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39739165/
+DOI URL: https://doi.org/10.1007/s10096-024-05009-0
+
+--- Abstract ---
+PURPOSE: Acinetobacter baumannii (A. baumannii) is an emerging global public health threat owing to its ability to form biofilms. Here, we evaluated 3-hydroxybenzoic acid (3-HBA), a promising organic compound, for its ability to disrupt biofilm formation and virulence attributes in clinical isolates of A. baumannii.
+
+MATERIALS AND METHODS: The effect of 3-HBA on A. baumannii was assessed by determining the minimum inhibitory concentration (MIC) and certain other in vitro investigations viz., extracellular polymeric substance (EPS) estimation, crystal violet staining assay, motility assay, and the hydrogen peroxide (H2O2) assay to examine its impact on bacterial virulence. Biofilm formation was also evaluated at the air-liquid interface. In situ visualization investigations were employed to confirm biofilm dispersion at the lowest effective concentration. The cytotoxic effects of 3-HBA on MCF-7 cells were investigated using the MTT assay.
+
+RESULTS: At a sub-inhibitory concentration of 0.078 mg/mL, 3-HBA reduced biofilm formation in A. baumannii LSAB-04 and A. baumannii LSAB-06 by 61.22% and 59.21%, respectively, and decreased EPS production by 64% in LSAB-04 and 58.31% in LSAB-06. Microscopic examination confirmed significant biofilm dispersion. 3-HBA also significantly impaired swarming motility and increased their sensitivity to H2O2. The MTT assay showed a dose-dependent decrease in MCF-7 cell viability (43.67%) at a concentration of 0.078 mg/mL.
+
+CONCLUSION: Our findings underscore the likely role of 3-HBA as a promising A. baumannii biofilm-disrupting agent. Further, by downplaying against the virulence factors of A. baumannii, 3-HBA could be a compelling alternative to conventional antibiotics that however requires to be investigated.

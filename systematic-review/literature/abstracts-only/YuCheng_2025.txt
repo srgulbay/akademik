@@ -1,0 +1,13 @@
+PMID: 40513689
+Title: Storage stability prediction of spray dried Anti-Acinetobacter baumannii phage and phage cocktail powders.
+Authors: Yu Cheng A., Ching Choi D., Liu Y., Bai C., Yee Leung S.
+Journal: International journal of pharmaceutics
+Year: 2025
+DOI: 10.1016/j.ijpharm.2025.125842
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40513689/
+DOI URL: https://doi.org/10.1016/j.ijpharm.2025.125842
+
+--- Abstract ---
+Bacterial lung infections caused by Acinetobacter baumannii have traditionally been treated with oral and parental antibiotic treatments. However, the rapid emergence of multidrug-resistant (MDR) strains has led to increased mortality rates. Inhaled bacteriophage (phage) therapy, which utilizes lytic phages as therapeutic agents, has emerged as a promising alternative treatment option. However, the poor storage stability of phage products can affect their commercial viability. In this study, three anti-A. baumannii phages, including vB_AbaM-IME-AB2, vB_AbaM-IME-AB9, and vB_AbaM-IME-AB406 and their cocktail, were formulated into inhalable powders using a spray-drying technique. Two chosen excipient compositions (Formulation 1: 60% trehalose, 20% mannitol and 20% leucine, and Formulation 2: 40% trehalose, 40% mannitol and 20% leucine) were employed to stabilize phages in the powder form. The production loss of phage, particle size, particle morphology, and aerosol performance of prepared phage powders were analyzed to confirm their suitability for pulmonary delivery. Then, the feasibility of using an accelerated stability test based on the Arrhenius Equation to estimate the shelf-life of produced phage powders were demonstrated. Overall, the findings contribute to the development of inhalable phage powder formulations that can be used as a potential treatment for lung infections.

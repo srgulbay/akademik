@@ -1,0 +1,14 @@
+PMID: 29320462
+Title: Unsaturated Fatty Acids Affect Quorum Sensing Communication System and Inhibit Motility and Biofilm Formation of Acinetobacter baumannii.
+Authors: Nicol M., Alexandre S., Luizet J., Skogman M., Jouenne T., Salcedo S., Dé E.
+Journal: International journal of molecular sciences
+Year: 2018
+DOI: 10.3390/ijms19010214
+PMC: PMC5796163
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/29320462/
+DOI URL: https://doi.org/10.3390/ijms19010214
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5796163/
+
+--- Abstract ---
+The increasing threat of Acinetobacter baumannii as a nosocomial pathogen is mainly due to the occurrence of multidrug-resistant strains that are associated with the real problem of its eradication from hospital wards. The particular ability of this pathogen to form biofilms contributes to its persistence, increases antibiotic resistance, and promotes persistent/device-related infections. We previously demonstrated that virstatin, which is a small organic compound known to decrease virulence of Vibrio cholera via an inhibition of T4-pili expression, displayed very promising activity to prevent A. baumannii biofilm development. Here, we examined the antibiofilm activity of mono-unsaturated chain fatty acids, palmitoleic (PoA), and myristoleic (MoA) acids, presenting similar action on V. cholerae virulence. We demonstrated that PoA and MoA (at 0.02 mg/mL) were able to decrease A. baumannii ATCC 17978 biofilm formation up to 38% and 24%, respectively, presented a biofilm dispersing effect and drastically reduced motility. We highlighted that these fatty acids decreased the expression of the regulator abaR from the LuxIR-type quorum sensing (QS) communication system AbaIR and consequently reduced the N-acyl-homoserine lactone production (AHL). This effect can be countered by addition of exogenous AHLs. Besides, fatty acids may have additional non-targeted effects, independent from QS. Atomic force microscopy experiments probed indeed that PoA and MoA could also act on the initial adhesion process in modifying the material interface properties. Evaluation of fatty acids effect on 22 clinical isolates showed a strain-dependent antibiofilm activity, which was not correlated to hydrophobicity or pellicle formation ability of the tested strains, and suggested a real diversity in cell-to-cell communication systems involved in A. baumannii biofilm formation.

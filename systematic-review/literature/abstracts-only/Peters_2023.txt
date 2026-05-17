@@ -1,0 +1,14 @@
+PMID: 36992448
+Title: Characterization of Virulent T4-Like Acinetobacter baumannii Bacteriophages DLP1 and DLP2.
+Authors: Peters D., Davis C., Harris G., Zhou H., Rather P., Hrapovic S., Lam E., Dennis J., Chen W.
+Journal: Viruses
+Year: 2023
+DOI: 10.3390/v15030739
+PMC: PMC10051250
+Publication types: Journal Article; Research Support, Non-U.S. Gov't; Research Support, U.S. Gov't, Non-P.H.S.
+URL: https://pubmed.ncbi.nlm.nih.gov/36992448/
+DOI URL: https://doi.org/10.3390/v15030739
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10051250/
+
+--- Abstract ---
+The world is currently facing a global health crisis due to the rapid increase in antimicrobial-resistant bacterial infections. One of the most concerning pathogens is Acinetobacter baumannii, which is listed as a Priority 1 pathogen by the World Health Organization. This Gram-negative bacterium has many intrinsic antibiotic resistance mechanisms and the ability to quickly acquire new resistance determinants from its environment. A limited number of effective antibiotics against this pathogen complicates the treatment of A. baumannii infections. A potential treatment option that is rapidly gaining interest is "phage therapy", or the clinical application of bacteriophages to selectively kill bacteria. The myoviruses DLP1 and DLP2 (vB_AbaM-DLP_1 and vB_AbaM-DLP_2, respectively) were isolated from sewage samples using a capsule minus variant of A. baumannii strain AB5075. Host range analysis of these phages against 107 A. baumannii strains shows a limited host range, infecting 15 and 21 for phages DLP1 and DLP2, respectively. Phage DLP1 has a large burst size of 239 PFU/cell, a latency period of 20 min, and virulence index of 0.93. In contrast, DLP2 has a smaller burst size of 24 PFU/cell, a latency period of 20 min, and virulence index of 0.86. Both phages show potential for use as therapeutics to combat A. baumannii infections.

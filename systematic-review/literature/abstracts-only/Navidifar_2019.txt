@@ -1,0 +1,14 @@
+PMID: 31190904
+Title: Effects of sub-inhibitory concentrations of meropenem and tigecycline on the expression of genes regulating pili, efflux pumps and virulence factors involved in biofilm formation by Acinetobacter baumannii.
+Authors: Navidifar T., Amin M., Rashno M.
+Journal: Infection and drug resistance
+Year: 2019
+DOI: 10.2147/IDR.S199993
+PMC: PMC6512781
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/31190904/
+DOI URL: https://doi.org/10.2147/IDR.S199993
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6512781/
+
+--- Abstract ---
+Background: Sub-minimal inhibitory concentrations of antibiotics have been indicated to affect the biofilm formation in pathogens of nosocomial infections. This study aimed to investigate the effects of meropenem and tigecycline at their sub-minimum inhibitory concentrations (MICs) on the biofilm formation capacity of Acinetobacter baumannii (A. baumannii), as well as the expression levels of genes involved in biofilm formation, quorum sensing, pili assembly and efflux pumps. Materials and methods: In this study, four non-clonal strains (AB10, AB13, AB32 and AB55), which were different from the aspects of antibiotic susceptibility and biofilm formation from each other were selected for the evaluation of antimicrobial susceptibility, biofilm inducibility at sub-MICs of meropenem and tigecycline and the gene expression levels (the abaI, abaR, bap, pgaA, csuE, bfmS, bfmR, ompA, adeB, adeJ and adeG genes). Result: A significant increase in the MICs of all antibiotics was demonstrated in the biofilm cells in each four strains. The biofilm formation was significantly decreased in all the representative strains exposed to tigecycline. However, the biofilm inducibility at sub-MICs of meropenem was dependent on strain genotype. In concordance with these results, Pearson correlation analysis indicated a positive significant correlation between the biofilm formation capacity and the mRNA levels of genes encoding efflux pumps except adeJ, the genes involved in biofilm formation, pili assembly and quorum sensing following exposure to meropenem and tigecycline at their sub-MICs. Conclusion: These results revealed valuable data into the correlation between the gene transcription levels and biofilm formation, as well as quorum sensing and their regulation at sub-MICs of meropenem and tigecycline.

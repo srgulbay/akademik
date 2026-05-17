@@ -1,0 +1,14 @@
+PMID: 34031472
+Title: Antibiofilm and antivirulence potential of silver nanoparticles against multidrug-resistant Acinetobacter baumannii.
+Authors: Hetta H., Al-Kadmy I., Khazaal S., Abbas S., Suhail A., El-Mokhtar M., Ellah N., Ahmed E., Abd-Ellatief R., El-Masry E., Batiha G., Elkady A., Mohamed N., Algammal A.
+Journal: Scientific reports
+Year: 2021
+DOI: 10.1038/s41598-021-90208-4
+PMC: PMC8144575
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/34031472/
+DOI URL: https://doi.org/10.1038/s41598-021-90208-4
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144575/
+
+--- Abstract ---
+We aimed to isolate Acinetobacter baumannii (A. baumannii) from wound infections, determine their resistance and virulence profile, and assess the impact of Silver nanoparticles (AgNPs) on the bacterial growth, virulence and biofilm-related gene expression. AgNPs were synthesized and characterized using TEM, XRD and FTIR spectroscopy. A. baumannii (n = 200) were isolated and identified. Resistance pattern was determined and virulence genes (afa/draBC, cnf1, cnf2, csgA, cvaC, fimH, fyuA, ibeA, iutA, kpsMT II, PAI, papC, PapG II, III, sfa/focDE and traT) were screened using PCR. Biofilm formation was evaluated using Microtiter plate method. Then, the antimicrobial activity of AgNPs was evaluated by the well-diffusion method, growth kinetics and MIC determination. Inhibition of biofilm formation and the ability to disperse biofilms in exposure to AgNPs were evaluated. The effect of AgNPs on the expression of virulence and biofilm-related genes (bap, OmpA, abaI, csuA/B, A1S_2091, A1S_1510, A1S_0690, A1S_0114) were estimated using QRT-PCR. In vitro infection model for analyzing the antibacterial activity of AgNPs was done using a co-culture infection model of A. baumannii with human fibroblast skin cell line HFF-1 or Vero cell lines. A. baumannii had high level of resistance to antibiotics. Most of the isolates harbored the fimH, afa/draBC, cnf1, csgA and cnf2, and the majority of A. baumannii produced strong biofilms. AgNPs inhibited the growth of A. baumannii efficiently with MIC ranging from 4 to 25 µg/ml. A. baumannii showed a reduced growth rate in the presence of AgNPs. The inhibitory activity and the anti-biofilm activity of AgNPs were more pronounced against the weak biofilm producers. Moreover, AgNPs decreased the expression of kpsMII , afa/draBC,bap, OmpA, and csuA/B genes. The in vitro infection model revealed a significant antibacterial activity of AgNPs against extracellular and intracellular A. baumannii. AgNPs highly interrupted bacterial multiplication and biofilm formation. AgNPs downregulated the transcription level of important virulence and biofilm-related genes. Our findings provide an additional step towards understanding the mechanisms by which sliver nanoparticles interfere with the microbial spread and persistence.

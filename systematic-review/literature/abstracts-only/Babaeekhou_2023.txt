@@ -1,0 +1,13 @@
+PMID: 37596435
+Title: Photodynamic Therapy and Its Synergism with Melittin Against Drug-Resistant Acinetobacter baumannii Isolates with High Biofilm Formation Ability.
+Authors: Babaeekhou L., Ghane M., Mohammad Rafiee M.
+Journal: Current microbiology
+Year: 2023
+DOI: 10.1007/s00284-023-03356-3
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/37596435/
+DOI URL: https://doi.org/10.1007/s00284-023-03356-3
+
+--- Abstract ---
+Drug-resistant biofilm producer A. baumannii isolates are a global concern that warns researchers about the development of new treatments. This study was designed to analyze the effect of photodynamic therapy (PDT) as monotherapy and associated with melittin on multidrug-resistant A. baumannii isolates. Sub-lethal doses of photosensitizer, LED, and PDT were determined. The PDT effect on the biofilm and expression of biofilm-associated genes was evaluated by scanning electron microscopy and quantitative real-time PCR (qRT-PCR) methods, respectively. The synergistic effect of PDT and melittin on the survival of MDR/XDR strong biofilm producer isolates was evaluated by checkerboard assay. Survival rates were significantly decreased at the lowest concentration of 12.5-50 μg/ml in 4 min at an energy density of 93.75 J/cm2 (P < 0.05). The optimized PDT method had a bactericidal effect against all tested groups, and the mean expression levels of csu, abaI, bap, and ompA genes in the strong biofilm producers were decreased significantly compared to the control group. The combined effect of LED and melittin successfully reduced the MDR/XDR A. baumannii strong biofilm producers' growth from 3.1 logs. MB-mediated aPDT and combined treatment of PDT with melittin, which has been investigated for the first time in this study, can be an efficient strategy against MDR/XDR A. baumannii isolates with strong biofilm production capacity.

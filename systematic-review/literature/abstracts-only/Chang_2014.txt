@@ -1,0 +1,18 @@
+PMID: 25260865
+Title: Transcriptome profiling in imipenem-selected Acinetobacter baumannii.
+Authors: Chang K., Kuo H., Tang C., Chang C., Lu C., Liu C., Lin H., Chen K., Liou M.
+Journal: BMC genomics
+Year: 2014
+DOI: 10.1186/1471-2164-15-815
+PMC: PMC4192346
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/25260865/
+DOI URL: https://doi.org/10.1186/1471-2164-15-815
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4192346/
+
+--- Abstract ---
+BACKGROUND: Carbapenem-resistance in Acinetobacter baumannii has gradually become a global challenge. To identify the genes involved in carbapenem resistance in A. baumannii, the transcriptomic responses of the completely sequenced strain ATCC 17978 selected with 0.5 mg/L (IPM-2 m) and 2 mg/L (IPM-8 m) imipenem were investigated using RNA-sequencing to identify differences in the gene expression patterns.
+
+RESULTS: A total of 88 and 68 genes were differentially expressed in response to IPM-2 m and IPM-8 m selection, respectively. Among the expressed genes, 50 genes were highly expressed in IPM-2 m, 30 genes were highly expressed in IPM-8 m, and 38 genes were expressed common in both strains. Six groups of genes were simultaneously expressed in IPM-2 m and IPM-8 m mutants. The three gene groups involved in DNA recombination were up-regulated, including recombinase, transposase and DNA repair, and beta-lactamase OXA-95 and homologous recombination. The remaining gene groups involved in biofilm formation were down-regulated, including quorum sensing, secretion systems, and the csu operon. The antibiotic resistance determinants, including RND efflux transporters and multidrug resistance pumps, were over-expressed in response to IPM-2 m selection, followed by a decrease in response to IPM-8 m selection. Among the genes over-expressed in both strains, blaOXA-95, previously clustered with the blaOXA-51-like family, showed 14-fold (IPM-2 m) to 330-fold (IPM-8 m) over-expression. The expression of blaOXA-95 in IPM-2 m and IPM-8 m cells was positively correlated with the rate of imipenem hydrolysis, as demonstrated through Liquid Chromatography-Mass Spectrometry/Mass Spectrometry, suggesting that blaOXA-95 plays a critical role in conferring carbapenem resistance. In addition, A. baumannii shows an inverse relationship between carbapenem resistance and biofilm production.
+
+CONCLUSION: Gene recombination and blaOXA-95 play critical roles in carbapenem resistance in A. baumannii. Taken together, the results of the present study provide a foundation for future studies of the network systems associated with carbapenem resistance.

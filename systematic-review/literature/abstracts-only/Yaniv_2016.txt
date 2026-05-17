@@ -1,0 +1,13 @@
+PMID: 27882771
+Title: Functional marine metagenomic screening for anti-quorum sensing and anti-biofilm activity.
+Authors: Yaniv K., Golberg K., Kramarsky-Winter E., Marks R., Pushkarev A., Béjà O., Kushmaro A.
+Journal: Biofouling
+Year: 2016
+DOI: 10.1080/08927014.2016.1253684
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/27882771/
+DOI URL: https://doi.org/10.1080/08927014.2016.1253684
+
+--- Abstract ---
+Quorum sensing (QS), a cell-to-cell communication process, entails the production of signaling molecules that enable synchronized gene expression in microbial communities to regulate myriad microbial functions, including biofilm formation. QS disruption may constitute an innovative approach to the design of novel antifouling and anti-biofilm agents. To identify novel quorum sensing inhibitors (QSI), 2,500 environmental bacterial artificial chromosomes (BAC) from uncultured marine planktonic bacteria were screened for QSI activity using soft agar overlaid with wild type Chromobacterium violaceum as an indicator. Of the BAC library clones, 7% showed high QSI activity (>40%) against the indicator bacterium, suggesting that QSI is common in the marine environment. The most active compound, eluted from BAC clone 14-A5, disrupted QS signaling pathways and reduced biofilm formation in both Pseudomonas aeruginosa and Acinetobacter baumannii. The mass spectra of the active BAC clone (14-A5) that had been visualized by thin layer chromatography was dominated by a m/z peak of 362.1.

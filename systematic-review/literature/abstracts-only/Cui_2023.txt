@@ -1,0 +1,14 @@
+PMID: 37649583
+Title: A response regulator controls Acinetobacter baumannii virulence by acting as an indole receptor.
+Authors: Cui B., Guo Q., Li X., Song S., Wang M., Wang G., Yan A., Zhou J., Deng Y.
+Journal: PNAS nexus
+Year: 2023
+DOI: 10.1093/pnasnexus/pgad274
+PMC: PMC10465187
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/37649583/
+DOI URL: https://doi.org/10.1093/pnasnexus/pgad274
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10465187/
+
+--- Abstract ---
+Indole is an important signal employed by many bacteria to modulate intraspecies signaling and interspecies or interkingdom communication. Our recent study revealed that indole plays a key role in regulating the physiology and virulence of Acinetobacter baumannii. However, it is not clear how A. baumannii perceives and responds to the indole signal in modulating biological functions. Here, we report that indole controls the physiology and virulence of A. baumannii through a previously uncharacterized response regulator designated as AbiR (A1S_1394), which contains a cheY-homologous receiver (REC) domain and a helix-turn-helix (HTH) DNA-binding domain. AbiR controls the same biological functions as the indole signal, and indole-deficient mutant phenotypes were rescued by in trans expression of AbiR. Intriguingly, unlike other response regulators that commonly interact with signal ligands through the REC domain, AbiR binds to indole with a high affinity via an unusual binding region, which is located between its REC and HTH domains. This interaction substantially enhances the activity of AbiR in promoter binding and in modulation of target gene expression. Taken together, our results present a widely conserved regulator that controls bacterial physiology and virulence by sensing the indole signal in a unique mechanism.

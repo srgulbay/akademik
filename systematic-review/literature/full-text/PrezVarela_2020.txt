@@ -1,0 +1,10 @@
+Title: Characterization of RelA in Acinetobacter baumannii
+PMID: 32229531
+PMCID: PMC
+DOI: 10.1128/JB.00045-20
+
+=== ABSTRACT ===
+Acinetobacter baumannii is a pathogen of worldwide importance. Due to the increasing prevalence of antibiotic resistance, these infections are becoming increasingly difficult to treat. New therapies are required to combat multidrug-resistant isolates. The role of RelA in A. baumannii is largely unknown. This study demonstrates that like in other bacteria, RelA controls a variety of functions, including virulence. Strategies to inhibit the activity of RelA and the resulting production of ppGpp could inhibit virulence and may represent a new therapeutic approach.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

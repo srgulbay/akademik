@@ -1,0 +1,20 @@
+PMID: 39252274
+Title: Erythromycin disrupts Acinetobacter baumannii biofilms through destruction of the quorum sensing system.
+Authors: Dong H., Sun J., Liu Y., Li Q., Huang J., Xu P., Wang Y.
+Journal: Medicine
+Year: 2024
+DOI: 10.1097/MD.0000000000038341
+PMC: PMC11383728
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39252274/
+DOI URL: https://doi.org/10.1097/MD.0000000000038341
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11383728/
+
+--- Abstract ---
+BACKGROUND: This study was conducted to explore the effects of erythromycin on biofilms comprising Acinetobacter baumannii (A baumannii).
+
+METHODS: To clarify the effect of erythromycin on the biofilms of A baumannii, we collected pure Ab strains isolated and identified from a variety of sample types extracted from patients in the microbiological laboratory of our hospital from April to August 2023, and divided them into an experimental group (treated with erythromycin) and a control group (without erythromycin). The morphology and quantity of A baumannii biofilm were observed at 24h, 48h, 72h, and 5d post-treatment, respectively, and the expression of quorum sensing (QS) system gene (abaI, abaR) mRNA was detected by fluorescence quantitative PCR.
+
+RESULTS: The results showed that A baumanniis are prone to form multiple drug-resistant (MDR) bacteria, against which the most commonly used clinical antibiotics are ineffective. Overall, we found that the number of bacteria, the number of bacteria in the biofilm, and the number of biofilms formed gradually increased over time, with a statistical difference (P < .05). After the addition of erythromycin, significant improvements in biofilm formation were achieved, indicating that erythromycin can destroy A baumannii biofilms, inhibiting bacterial growth to a certain extent. The expression levels of abaI and abaR gradually increased over time, indicating that the role of the QS system became more apparent over time. Biofilm formation is related to the QS system of A baumanniis. After erythromycin treatment, abaI and abaR mRNA expression was downregulated in the experimental group.
+
+CONCLUSION: Erythromycin disrupts A baumannii biofilms by destroying the quorum sensing system.

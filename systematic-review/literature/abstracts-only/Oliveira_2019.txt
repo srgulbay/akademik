@@ -1,0 +1,14 @@
+PMID: 30463964
+Title: Functional Analysis and Antivirulence Properties of a New Depolymerase from a Myovirus That Infects Acinetobacter baumannii Capsule K45.
+Authors: Oliveira H., Costa A., Ferreira A., Konstantinides N., Santos S., Boon M., Noben J., Lavigne R., Azeredo J.
+Journal: Journal of virology
+Year: 2019
+DOI: 10.1128/JVI.01163-18
+PMC: PMC6364002
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/30463964/
+DOI URL: https://doi.org/10.1128/JVI.01163-18
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6364002/
+
+--- Abstract ---
+Acinetobacter baumannii is an important pathogen causative of health care-associated infections and is able to rapidly develop resistance to all known antibiotics, including colistin. As an alternative therapeutic agent, we have isolated a novel myovirus (vB_AbaM_B9) which specifically infects and makes lysis from without in strains of the K45 and K30 capsule types, respectively. Phage B9 has a genome of 93,641 bp and encodes 167 predicted proteins, of which 29 were identified by mass spectrometry. This phage holds a capsule depolymerase (B9gp69) able to digest extracted exopolysaccharides of both K30 and K45 strains and remains active in a wide range of pH values (5 to 9), ionic strengths (0 to 500 mM), and temperatures (20 to 80°C). B9gp69 was demonstrated to be nontoxic in a cell line model of the human lung and to make the K45 strain fully susceptible to serum killing in vitro Contrary to the case with phage, no resistance development was observed by bacteria targeted with the B9gp69. Therefore, capsular depolymerases may represent attractive antimicrobial agents against A. baumannii infections.IMPORTANCE Currently, phage therapy has revived interest for controlling hard-to-treat bacterial infections. Acinetobacter baumannii is an emerging Gram-negative pathogen able to cause a variety of nosocomial infections. Additionally, this species is becoming more resistant to several classes of antibiotics. Here we describe the isolation of a novel lytic myophage B9 and its recombinant depolymerase. While the phage can be a promising alternative antibacterial agent, its success in the market will ultimately depend on new regulatory frameworks and general public acceptance. We therefore characterized the phage-encoded depolymerase, which is a natural enzyme that can be more easily managed and used. To our knowledge, the therapeutic potential of phage depolymerase against A. baumannii is still unknown. We show for the first time that the K45 capsule type is an important virulence factor of A. baumannii and that capsule removal via the recombinant depolymerase activity helps the host immune system to combat the bacterial infection.

@@ -1,0 +1,14 @@
+PMID: 41599011
+Title: Taming Superbugs: Current Progress and Challenges in Combating ESKAPE Pathogens.
+Authors: Hetta H., Khalaf F., Kotb A., Alatawi M., Albalawi A., Alharbi A., Aljohani M., Aljohani S., Alatawi M., Abd Ellah N., Battah B., Donadu M., Mazzarello V.
+Journal: Pathogens (Basel, Switzerland)
+Year: 2025
+DOI: 10.3390/pathogens15010028
+PMC: PMC12845504
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/41599011/
+DOI URL: https://doi.org/10.3390/pathogens15010028
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12845504/
+
+--- Abstract ---
+The global incidence of multidrug-resistant (MDR) ESKAPE pathogens-comprising Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter species-has surged alarmingly in recent years, posing a significant challenge to healthcare systems worldwide. These organisms are notorious for their capacity to evade the effects of multiple classes of antibiotics, leading to treatment failures, increased morbidity and mortality, and escalating healthcare costs, all of which have placed unprecedented strain on existing infection control measures. This review encapsulates the progress in target-driven vaccine research, including the genomic discovery of highly conserved surface antigens, iron acquisition systems, biofilm- and quorum-sensing-related proteins, and computationally predicted epitopes, which are considered the most attractive targets for broad-spectrum vaccination. Novel vaccine platforms, such as outer membrane vesicles (OMVs), mRNA technologies, and multi-epitope constructs, will rapidly drive the translation of these targets into next-generation vaccine formulations. Nevertheless, challenges such as antigenic variation and immune evasion, as well as the need for a robust mucosal and cross-protective immune response, persist. The sustainability in interdisciplinary investigations are required, along with adjunctive measures and investment in the development of advanced discovery and delivery systems, to achieve the ultimate goal of successful vaccines against MDR ESKAPE infections and to mitigate the worldwide burden of antimicrobial resistance.

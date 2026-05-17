@@ -1,0 +1,14 @@
+PMID: 33668622
+Title: Genomic and Phenotypic Analysis of Multidrug-Resistant Acinetobacter baumannii Clinical Isolates Carrying Different Types of CRISPR/Cas Systems.
+Authors: Tyumentseva M., Mikhaylova Y., Prelovskaya A., Tyumentsev A., Petrova L., Fomina V., Zamyatin M., Shelenkov A., Akimkin V.
+Journal: Pathogens (Basel, Switzerland)
+Year: 2021
+DOI: 10.3390/pathogens10020205
+PMC: PMC7918744
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/33668622/
+DOI URL: https://doi.org/10.3390/pathogens10020205
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7918744/
+
+--- Abstract ---
+Acinetobacter baumannii is an opportunistic pathogen being one of the most important causative agents of a wide range of nosocomial infections associated with multidrug resistance and high mortality rate. This study presents a multiparametric and correlation analyses of clinical multidrug-resistant A. baumannii isolates using short- and long-read whole-genome sequencing, which allowed us to reveal specific characteristics of the isolates with different CRISPR/Cas systems. We also compared antibiotic resistance and virulence gene acquisition for the groups of the isolates having functional CRISPR/Cas systems, just CRISPR arrays without cas genes, and without detectable CRISPR spacers. The data include three schemes of molecular typing, phenotypic and genotypic antibiotic resistance determination, as well as phylogenetic analysis of full-length cas gene sequences, predicted prophage sequences and CRISPR array type determination. For the first time the differences between the isolates carrying Type I-F1 and Type I-F2 CRISPR/Cas systems were investigated. A. baumannii isolates with Type I-F1 system were shown to have smaller number of reliably detected CRISPR arrays, and thus they could more easily adapt to environmental conditions through acquisition of antibiotic resistance genes, while Type I-F2 A. baumannii might have stronger "immunity" and use CRISPR/Cas system to block the dissemination of these genes. In addition, virulence factors abaI, abaR, bap and bauA were overrepresented in A. baumannii isolates lacking CRISPR/Cas system. This indicates the role of CRISPR/Cas in fighting against phage infections and preventing horizontal gene transfer. We believe that the data presented will contribute to further investigations in the field of antimicrobial resistance and CRISPR/Cas studies.

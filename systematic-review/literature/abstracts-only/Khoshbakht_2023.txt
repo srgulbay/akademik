@@ -1,0 +1,13 @@
+PMID: 37474078
+Title: Novel approaches to overcome Colistin resistance in Acinetobacter baumannii: Exploring quorum quenching as a potential solution.
+Authors: Khoshbakht R., Panahi S., Neshani A., Ghavidel M., Ghazvini K.
+Journal: Microbial pathogenesis
+Year: 2023
+DOI: 10.1016/j.micpath.2023.106264
+PMC: 
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/37474078/
+DOI URL: https://doi.org/10.1016/j.micpath.2023.106264
+
+--- Abstract ---
+Acinetobacter baumannii is responsible for a variety of infections, such as nosocomial infections. In recent years, this pathogen has gained resistance to many antibiotics, and thus, carbapenems were used to treat infections with MDR A. baumannii strains in clinical settings. However, as carbapenem-resistant isolates are becoming increasingly prevalent, Colistin is now used as the last line of defense against resistant A. baumannii strains. Unfortunately, reports are increasing on the presence of Colistin-resistant phenotypes in infections caused by A. baumannii, creating an urgent need to find a substitute way to combat these resistant isolates. Quorum sensing inhibition, also known as quorum quenching, is an efficient alternative way of reversing resistance in different Gram-negative bacteria. Quorum sensing is a mechanism used by bacteria to communicate with each other by secreting signal molecules. When the population of bacteria increases and the concentration of signal molecules reaches a certain threshold, bacteria can implement mechanisms to adapt to a hostile environment, such as biofilm formation. Biofilms have many advantages for pathogens, such as antibiotic resistance. Different studies have revealed that disrupting the biofilm of A. baumannii makes it more susceptible to antibiotics. Although very few studies have been conducted on the biofilm disruption through quorum quenching in Colistin-resistant A. baumannii, these studies and similar studies bring hope in finding an alternative way of treating the Colistin-resistant isolates. In conclusion, quorum quenching has the potential to be used against Colistin-resistant A. baumannii.

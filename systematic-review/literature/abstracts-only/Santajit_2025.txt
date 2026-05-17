@@ -1,0 +1,20 @@
+PMID: 41064837
+Title: Phytochemical inhibition of quorum sensing and biofilm formation by Paederia foetida Linn. against multidrug-resistant Acinetobacter baumannii: An integrated in vitro and in silico investigation.
+Authors: Santajit S., Thavorasak T., Horpet D., Kong-Ngoen T., Permpoon U., Kim C., Nam T., Indrawattana N.
+Journal: Veterinary world
+Year: 2025
+DOI: 10.14202/vetworld.2025.2181-2193
+PMC: PMC12501579
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/41064837/
+DOI URL: https://doi.org/10.14202/vetworld.2025.2181-2193
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12501579/
+
+--- Abstract ---
+BACKGROUND AND AIM: Acinetobacter baumannii is a multidrug-resistant (MDR) pathogen notorious for its biofilm formation and persistence in clinical and veterinary settings. Its resistance is exacerbated by quorum sensing (QS) pathways that regulate virulence and biofilm maturation. Disrupting QS and biofilm integrity using plant-derived compounds presents a promising alternative to traditional antibiotics. This study aimed to evaluate the antibiofilm and anti-QS potential of Paederia foetida Linn. ethanolic extract against A. baumannii, integrating gas chromatography-mass spectrometry (GC-MS) profiling, molecular docking, and in vitro assays.
+
+MATERIALS AND METHODS: Leaves of P. foetida were extracted with ethanol and analyzed by GC-MS to identify major bioactive constituents. Molecular docking was conducted against five QS and biofilm-associated A. baumannii proteins (AF-A0A7S8WE28-F1-v4, AF-A0A059ZL64-F1-v4, AF-Q2VSW6-F1-v4, AF-A0A2P1B9S4-F1-v4, and AF-A0A5P9VY74-F1-v4). Absorption, distribution, metabolism, excretion, and toxicity (ADMET) profiles and drug-likeness of key compounds were assessed in silico. Antimicrobial activity was determined by broth microdilution (minimum inhibitory concentration [MIC]/minimum bactericidal concentration [MBC]), and biofilm inhibition was evaluated through crystal violet microtiter assays. Morphological damage was examined using field emission scanning electron microscopy (FE-SEM).
+
+RESULTS: GC-MS identified 30 phytoconstituents, with 5-hydroxymethyl-2-furaldehyde, 4H-pyran-4-one derivative, and eugenol as predominant compounds. Eugenol exhibited the highest binding affinity, particularly with AbaR (-6.3 kcal/mol). The extract showed significant antimicrobial activity (MIC = 7.81 mg/mL; MBC = 31.25 mg/mL) and dose-dependent inhibition of biofilm biomass (p < 0.001). FE-SEM imaging confirmed dose-responsive membrane damage and disruption of the biofilm. ADMET predictions revealed favorable oral bioavailability and low toxicity for selected compounds.
+
+CONCLUSION: P. foetida extract exhibits potent antibacterial, anti-QS, and antibiofilm activity against MDR A. baumannii, supported by its phytochemical diversity, favorable pharmacokinetics, and strong protein-ligand interactions. These findings suggest its promise as a plant-derived therapeutic aligned with the One Health framework to combat antimicrobial resistance in both human and veterinary medicine.

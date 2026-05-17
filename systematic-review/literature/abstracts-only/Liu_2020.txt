@@ -1,0 +1,14 @@
+PMID: 32849322
+Title: Antimicrobial Peptide Cec4 Eradicates the Bacteria of Clinical Carbapenem-Resistant Acinetobacter baumannii Biofilm.
+Authors: Liu W., Wu Z., Mao C., Guo G., Zeng Z., Fei Y., Wan S., Peng J., Wu J.
+Journal: Frontiers in microbiology
+Year: 2020
+DOI: 10.3389/fmicb.2020.01532
+PMC: PMC7431629
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/32849322/
+DOI URL: https://doi.org/10.3389/fmicb.2020.01532
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7431629/
+
+--- Abstract ---
+The drug resistance rate of Acinetobacter baumannii increases year on year, and the drugs available for the treatment of carbapenem-resistant A. baumannii (CRAB) infection are extremely limited. A. baumannii, which forms biofilms, protects itself by secreting substrates such as exopolysaccharides, allowing it to survive under adverse conditions and increasing drug resistance. Antimicrobial peptides are small molecular peptides with broad-spectrum antibacterial activity and immunomodulatory function. Previous studies have shown that the antimicrobial peptide Cec4 has a strong effect on A. baumannii, but the antibacterial and biofilm inhibition of this antimicrobial peptide on clinical carbapenem resistance A. baumannii is not thoroughly understood. In this study, it was indicated that most of the 200 strains of CRAB were susceptible to Cec4 with a MIC of 4 μg/ml. Cec4 has a strong inhibitory and eradication effect on the CRAB biofilm; the minimum biofilm inhibition concentration (MBIC) was 64-128 μg/ml, and the minimum biofilm eradication concentration (MBEC) was 256-512 μg/ml. It was observed that Cec4 disrupted the structure of the biofilm using scanning electron microscopy (SEM) and confocal laser scanning microscopy (CLSM). A comparative transcriptome analysis of the effects of the antimicrobial peptide Cec4 on CRAB biofilm, identified 185 differentially expressed genes, including membrane proteins, bacterial resistance genes, and pilus-related genes. The results show that multiple metabolic pathways, two-component regulation systems, quorum sensing, and antibiotic synthesis-related pathways in A. baumannii biofilms were affected after Cec4 treatment. In conclusion, Cec4 may represent a new choice for the prevention and treatment of clinical infections, and may also provide a theoretical basis for the development of antimicrobial peptide drugs.

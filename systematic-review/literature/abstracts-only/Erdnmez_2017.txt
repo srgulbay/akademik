@@ -1,0 +1,13 @@
+PMID: 28688010
+Title: Quorum sensing molecules production by nosocomial and soil isolates Acinetobacter baumannii.
+Authors: Erdönmez D., Rad A., Aksöz N.
+Journal: Archives of microbiology
+Year: 2017
+DOI: 10.1007/s00203-017-1408-8
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/28688010/
+DOI URL: https://doi.org/10.1007/s00203-017-1408-8
+
+--- Abstract ---
+Acinetobacter species remain alive in hospitals on various surfaces, both dry and moist, forming an important source of hospital infections. These bacteria are naturally resistant to many antibiotic classes. Although the role of the quorum sensing system in regulating the virulence factors of Acinetobacter species has not been fully elucidated, it has been reported that they play a role in bacterial biofilm formation. The biofilm formation helps them to survive under unfavorable growth conditions and antimicrobial treatments. It is based on the accumulation of bacterial communication signal molecules in the area. In this study, we compared the bacterial signal molecules of 50 nosocomial Acinetobacter baumannii strain and 20 A. baumannii strain isolated from soil. The signal molecules were detected by the biosensor bacteria (Chromobacterium violaceum 026, Agrobacterium tumefaciens A136, and Agrobacterium tumefaciens NTL1) and their separation was determined by thin-layer chromatography. As a result, it has been found that soil-borne isolates can produce 3-oxo-C8-AHL and C8-AHL, whereas nosocomial-derived isolates can produce long-chain signals such as C10-AHL, C12-AHL, C14-AHL and C16-AHL. According to these results, it is possible to understand that these signal molecules are found in the infection caused by A. baumannii. The inhibition of this signaling molecules in a communication could use to prevent multiple antibiotic resistance of these bacteria.

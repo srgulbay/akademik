@@ -1,0 +1,13 @@
+PMID: 39551112
+Title: Comparative genomic and phenotypic analysis of low- and high-virulent Acinetobacter baumannii strains: Insights into antimicrobial resistance and virulence potential.
+Authors: Oh M., Kim N., Islam M., Kim S., Lee D., Kim Y., Kwon K., Lee J.
+Journal: Microbial pathogenesis
+Year: 2024
+DOI: 10.1016/j.micpath.2024.107118
+PMC: 
+Publication types: Journal Article; Comparative Study
+URL: https://pubmed.ncbi.nlm.nih.gov/39551112/
+DOI URL: https://doi.org/10.1016/j.micpath.2024.107118
+
+--- Abstract ---
+Multi-drug resistant Acinetobacter baumannii poses a significant threat to public health. This study investigated the genomic features and phenotypic characteristics of two clinical A. baumannii strains, KBN10P01317 (low-virulent) and KBN10P01599 (high-virulent), which share the same sequence type and antimicrobial susceptibility profile. The phenotypic characteristics of A. baumannii strains were assessed by antimicrobial susceptibility testing and virulence trait examination in vitro and in vivo. Whole-genome sequencing was conducted for comparative genomic analysis, and the expression of virulence-associated genes was analyzed using quantitative polymerase chain reaction. Our comparative genomic analysis revealed that KBN10P01599 harbored a larger genome with a greater number of antimicrobial resistance genes, including two copies of the critical resistance gene blaOXA-23, which might contribute to its higher minimum inhibitory concentration for carbapenems (64 μg/ml) compared to KBN10P01317 (32 μg/ml). Although both A. baumannii strains possessed the same repertoire of virulence-associated genes, KBN10P01599 exhibited significantly enhanced expression of quorum sensing (abaI/R) and biofilm formation genes (csuCDE, bap, and pgaA), correlating with its virulence traits, including increased surface motility, biofilm formation, and adherence to host cells. The differences in the expression of virulence-associated genes between the two strains were partly attributed to the transposition of insertion sequence elements. These findings provide valuable insights into the genetic basis of the virulence potential and antimicrobial resistance in A. baumannii, highlighting the evolutionary changes that may occur within strains of the same clone.

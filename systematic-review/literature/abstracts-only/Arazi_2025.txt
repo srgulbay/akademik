@@ -1,0 +1,20 @@
+PMID: 41420149
+Title: Genomic and functional characterization of a novel lytic phage vB-AbaM-fThrA with anti-biofilm activity against CR-MDR Acinetobacter baumannii.
+Authors: Arazi P., Skurnik M., Mohsenipour Z., Abtahi H., Jahanbin B., Kianian F., Feizabadi M.
+Journal: BMC microbiology
+Year: 2025
+DOI: 10.1186/s12866-025-04525-z
+PMC: PMC12859838
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/41420149/
+DOI URL: https://doi.org/10.1186/s12866-025-04525-z
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12859838/
+
+--- Abstract ---
+BACKGROUND: Multidrug-resistant Acinetobacter baumannii causes increasingly fat5al infections in humans. Phage therapy is considered as a promising approach to treat the infections.
+
+METHODS: Here we present the isolation and characterization of a new lytic A. baumannii specific phage vB-AbaM-fThrA (fThrA for short) originating from hospital wastewater.
+
+RESULTS: Phage fThrA has a myovirus morphology with a relatively broad host range. The phage forms large and transparent plaques with a halo and showed high lysis power in in-vitro laboratory studies. Based on the genome sequence analysis phage fThrA is a new member of the Obolenskvirus genus with about 75.6% genomic similarity to its closest relative. The phage, tolerated well pH range from 4 to 10, and heating at 50 °C, but not 80 °C. At pH 2 ca. 50% of the phage survived for 1 h, an indication that the phage would be suitable for oral administration and phage therapy of the digestive tract. Phage fThrA was highly active against formation of biofilm and in destruction of the formed biofilm, an asset when used as a supplement to antibiotics in severe infections. Also, in genomic studies, no genes related to pathogenicity and lysogenicity were observed in the whole phage sequence.
+
+CONCLUSIONS: These features make phage fThrA as a promising candidate for phage therapy in-vivo.

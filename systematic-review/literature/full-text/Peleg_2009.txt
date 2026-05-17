@@ -1,0 +1,10 @@
+Title: Galleria mellonella as a Model System To Study Acinetobacter baumannii Pathogenesis and Therapeutics▿
+PMID: 19332683
+PMCID: PMC
+DOI: 10.1128/AAC.01533-08
+
+=== ABSTRACT ===
+Nonmammalian model systems of infection such as Galleria mellonella (caterpillars of the greater wax moth) have significant logistical and ethical advantages over mammalian models. In this study, we utilize G. mellonella caterpillars to study host-pathogen interactions with the gram-negative organism Acinetobacter baumannii and determine the utility of this infection model to study antibacterial efficacy. After infecting G. mellonella caterpillars with a reference A. baumannii strain, we observed that the rate of G. mellonella killing was dependent on the infection inoculum and the incubation temperature postinfection, with greater killing at 37°C than at 30°C (P = 0.01). A. baumannii strains caused greater killing than the less-pathogenic species Acinetobacter baylyi and Acinetobacter lwoffii (P < 0.001). Community-acquired A. baumannii caused greater killing than a reference hospital-acquired strain (P < 0.01). Reduced levels of production of the quorum-sensing molecule 3-hydroxy-C12-homoserine lactone caused no change in A. baumannii virulence against G. mellonella. Treatment of a lethal A. baumannii infection with antibiotics that had in vitro activity against the infecting A. baumannii strain significantly prolonged the survival of G. mellonella caterpillars compared with treatment with antibiotics to which the bacteria were resistant. G. mellonella is a relatively simple, nonmammalian model system that can be used to facilitate the in vivo study of host-pathogen interactions in A. baumannii and the efficacy of antibacterial agents.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

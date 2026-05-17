@@ -1,0 +1,14 @@
+PMID: 22629354
+Title: Stereochemical insignificance discovered in Acinetobacter baumannii quorum sensing.
+Authors: Garner A., Kim S., Zhu J., Struss A., Watkins R., Feske B., Kaufmann G., Janda K.
+Journal: PloS one
+Year: 2012
+DOI: 10.1371/journal.pone.0037102
+PMC: PMC3358330
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't; Retracted Publication
+URL: https://pubmed.ncbi.nlm.nih.gov/22629354/
+DOI URL: https://doi.org/10.1371/journal.pone.0037102
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3358330/
+
+--- Abstract ---
+Stereochemistry is a key aspect of molecular recognition for biological systems. As such, receptors and enzymes are often highly stereospecific, only recognizing one stereoisomer of a ligand. Recently, the quorum sensing signaling molecules used by the nosocomial opportunistic pathogen, Acinetobacter baumannii, were identified, and the primary signaling molecule isolated from this species was N-(3-hydroxydodecanoyl)-L-homoserine lactone. A plethora of bacterial species have been demonstrated to utilize 3-hydroxy-acylhomoserine lactone autoinducers, and in virtually all cases, the (R)-stereoisomer was identified as the natural ligand and exhibited greater autoinducer activity than the corresponding (S)-stereoisomer. Using chemical synthesis and biochemical assays, we have uncovered a case of stereochemical insignificance in A. baumannii and provide a unique example where stereochemistry appears nonessential for acylhomoserine lactone-mediated quorum sensing signaling. Based on previously reported phylogenetic studies, we suggest that A. baumannii has evolutionarily adopted this unique, yet promiscuous quorum sensing system to ensure its survival, particularly in the presence of other proteobacteria.

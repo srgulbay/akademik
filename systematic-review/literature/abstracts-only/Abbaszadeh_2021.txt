@@ -1,0 +1,21 @@
+PMID: 35851208
+Title: Genetic characterization of extensive drug resistant Acinetobacter baumannii: an appalling impediment.
+Authors: Abbaszadeh F., Hasani A., Rezaee M., Sadeghi J., Hasani A., Oskouee M., Vahhabi A.
+Journal: Folia medica
+Year: 2021
+DOI: 10.3897/folmed.63.e56566
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/35851208/
+DOI URL: https://doi.org/10.3897/folmed.63.e56566
+
+--- Abstract ---
+INTRODUCTION: Acinetobacter baumannii infections are a growing public-health concern. The bacterium's potentiality to acquire resistance to a number of commonly used antibiotics has turned it into a formidable pathogen.
+
+AIMS: Molecular characterization of extensive drug resistant (XDR) typing of A. baumannii clinical isolates by polymerase chain reaction.
+
+MATERIALS AND METHODS: Thirty XDR A. baumannii were investigated for the presence of genes encoding carbapenemase resistance, biofilm capacity, autoinducer synthase, virulence and surface motility by polymerase chain reaction (PCR). Later, the isolates were typed by plasmid-based replicon (Rep) (PBRT) and trilocus sequence typing.
+
+RESULTS: All 30 XDR A. baumannii strains displayed genes related to surface motility, autoinducer synthase, virulence determinant, biofilm related genes except PER, and bap, the frequency of which was 83.3% and 76.6%, respectively. Analysis of rep genes showed highest frequency of rep6 and rep2 genes, with frequency of 75% and 65%, respectively. All XDR A. baumannii strains belonged to SG I (European clone II) group.
+
+CONCLUSIONS: Our results show the extraordinary plasticity of XDR A. baumannii and suggest that the strains have gained endemicity in our hospital, which could be a great concern in the near future.

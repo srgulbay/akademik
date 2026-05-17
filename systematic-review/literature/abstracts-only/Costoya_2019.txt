@@ -1,0 +1,13 @@
+PMID: 30639217
+Title: Immobilization of antimicrobial and anti-quorum sensing enzymes onto GMA-grafted poly(vinyl chloride) catheters.
+Authors: Costoya A., Velázquez Becerra L., Meléndez-Ortiz H., Díaz-Gómez L., Mayer C., Otero A., Concheiro A., Bucio E., Alvarez-Lorenzo C.
+Journal: International journal of pharmaceutics
+Year: 2019
+DOI: 10.1016/j.ijpharm.2018.12.075
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/30639217/
+DOI URL: https://doi.org/10.1016/j.ijpharm.2018.12.075
+
+--- Abstract ---
+Catheter-associated infections still represent a challenging thread because of the likelihood of biofilm formation. The aim of this work was the surface modification of catheters to immobilize lysozyme and acylase under mild conditions while preserving antimicrobial and anti-quorum sensing performances. Glycidyl methacrylate (GMA) was grafted onto poly(vinyl chloride) (PVC) catheters by a pre-irradiation method. The effects of monomer concentration, pre-irradiation dose, reaction time, monomer concentration and reaction temperature were investigated. The grafting process was monitored using FTIR-ATR spectroscopy, differential scanning calorimetry, thermogravimetric analysis, and swelling data. Lysozyme was directly immobilized onto PVC-g-GMA maintaining the hydrolytic activity, which hindered Staphylococcus aureus adhesion. For acylase immobilization, the PVC-g-GMA catheters were reacted with ethylenediamine and glutaraldehyde in order to facilitate acylase covalent binding. Free acylase in solution demonstrated notably capability to act as quorum sensing inhibitor, as observed using Chromobacterium violaceum as biosensor, by degrading a wide variety of acylated homoserine lactones (AHLs), including those produced by Pseudomonas aeruginosa and Acinetobacter baumannii. Acylase-immobilized PVC-g-GMA catheters were challenged against degradation of AHLs and the activity monitored using both the biosensor and HPLC-MS. Relevantly, the functionalized catheters completely degraded all tested AHL signals, opening new ways of preventing biofilm formation on medical devices.

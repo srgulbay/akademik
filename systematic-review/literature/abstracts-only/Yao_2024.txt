@@ -1,0 +1,14 @@
+PMID: 39334982
+Title: Comparison of Hypervirulent and Non-Hypervirulent Carbapenem-Resistant Acinetobacter baumannii Isolated from Bloodstream Infections: Mortality, Potential Virulence Factors, and Combination Therapy In Vitro.
+Authors: Yao L., Liu N., Guo Y., Zhuo C., Yang X., Wang Y., Wang J., Li F., Li J., He N., Chen J., Lin Y., Xiao S., Zhuo C.
+Journal: Antibiotics (Basel, Switzerland)
+Year: 2024
+DOI: 10.3390/antibiotics13090807
+PMC: PMC11428969
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39334982/
+DOI URL: https://doi.org/10.3390/antibiotics13090807
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11428969/
+
+--- Abstract ---
+Hypervirulent carbapenem-resistant Acinetobacter baumannii (hv-CRAB) has emerged in bloodstream infections (BSI). Cases of BSI caused by hv-CRAB (hv-CRAB-BSI) had posed a significant threat to hospitalized patients. In this study, 31 CRAB strains isolated from Chinese BSI patients were analyzed, of which 24 were identified as hv-CRAB-BSI and 7 as non-hv-CRAB-BSI, using the Galleria mellonella infection model. Patients with hv-CRAB-BSI had higher rates of septic shock (79.2% vs. 14.3%, p = 0.004) and mortality (66.7% vs. 14.3%, p = 0.028). All strains were resistant to most antibiotics but sensitive to colistin. Hv-CRAB-BSI showed lower resistance to minocycline than non-hv-CRAB-BSI (54.2% vs. 100%, p = 0.03). Whole-genome sequencing revealed that the detection rates of immune modulation genes ptk and epsA in hv-CRAB-BSI were significantly higher than in non-hv-CRAB-BSI (91.7% vs. 28.6%, p = 0.002). Additionally, all ST457 hv-CRAB-BSI lacked abaR, and all ST1486 non-hv-CRAB-BSI lacked adeG. The checkerboard dilution method assessed the efficacies of various antibiotic combinations, revealing that although synergism was rarely observed, the combination of colistin and minocycline showed the best efficacy for treating CRAB-BSI, regardless of whether the infections were hv-CRAB-BSI or non-hv-CRAB-BSI. These findings highlight the importance of analyzing molecular characteristics and exploring effective treatment strategies for hv-CRAB-BSI.

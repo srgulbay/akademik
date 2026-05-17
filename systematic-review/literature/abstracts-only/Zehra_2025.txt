@@ -1,0 +1,13 @@
+PMID: 39778756
+Title: Relationship of biofilm formation with antibiotic resistance, virulence determinants and genetic diversity in clinically isolated Acinetobacter baumannii strains in Karachi, Pakistan.
+Authors: Zehra M., Asghar S., Ilyas R., Usmani Y., Khan R., Mirani Z., Ahmed A.
+Journal: Microbial pathogenesis
+Year: 2025
+DOI: 10.1016/j.micpath.2025.107283
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39778756/
+DOI URL: https://doi.org/10.1016/j.micpath.2025.107283
+
+--- Abstract ---
+Multi-drug resistant (MDR) Acinetobacter baumannii causes nosocomial infections due to a plethora of virulence determinants like biofilm formation which are pivotal to its survival and pathogenicity. Hence, investigation of these mechanisms in currently circulating strains is required for effective infection control and drug development. This study investigates the prevalence of antibiotic resistance and virulence factors and their relationship with biofilm formation in Acinetobacter baumannii strains in Karachi, Pakistan. Enterobacterial Repetitive Intergenic Consensus Polymerase Chain Reaction (ERIC PCR) was used for observing genetic variations. The results revealed that 100 % A. baumannii strains were MDR and 74.4 % had multiple antibiotic resistance index (MARi) of 0.875-1. There were 27 biofilm forming strains with a moderate correlation between biofilm formation and MARi. A high prevalence of abaI (86.04 %), bfmR (95.3 %), bfmS (97.6 %), csuE (90.69 %), ompA (74.4 %), and pgaA virulence genes (95.3 %) and resistance genes adeF (53.4 %), adeJ (74.4 %), ampC (51.1 %), tem-1 (51.1 %), and vim (65.1 %)) were observed in these strains. ERIC PCR revealed that 5 of 22 genetic types had strong biofilm form strains with similar virulence genes profiles. Conclusively, the study shows escalated resistance and virulence in clinical strains which warrants consistent epidemiological studies to prevent infections spread and future outbreaks.

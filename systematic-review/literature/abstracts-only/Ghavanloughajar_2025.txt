@@ -1,0 +1,14 @@
+PMID: 40705813
+Title: Human whole blood influences the expression of Acinetobacter baumannii genes related to translation and siderophore production.
+Authors: Ghavanloughajar H., Elmassry M., Brown A., Hamood A.
+Journal: PloS one
+Year: 2025
+DOI: 10.1371/journal.pone.0326330
+PMC: PMC12289009
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40705813/
+DOI URL: https://doi.org/10.1371/journal.pone.0326330
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12289009/
+
+--- Abstract ---
+Acinetobacter baumannii is a major cause of bloodstream infections, yet its adaptation and survival mechanisms in human blood remain poorly understood. While previous studies focused on individual blood components, the impact of human whole blood on A. baumannii gene expression has not been explored. To address this, we used an ex vivo model where A. baumannii was grown in human whole blood from healthy volunteers (WBHV) and compared its gene expression to that in Luria-Bertani (LB) broth using RNA-seq. Our lab has previously employed a similar WBHV vs. LB comparison in Pseudomonas aeruginosa, validating this approach. Our results showed that ribosome biogenesis was the most upregulated pathway in WBHV, with 51 out of 55 ribosomal protein genes exhibiting increased expression. We then examined virulence related genes and found upregulation in iron and zinc acquisition systems (acinetobactin, znuABC) and biofilm/quorum sensing regulators, including the csu operon. Given these findings, we hypothesized that WBHV exposure enhances virulence. Using the Galleria mellonella infection model, we confirmed that A. baumannii caused higher larval mortality when grown in WBHV than when grown in LB. Upregulation of the csu operon, involved in pili assembly, led us to investigate twitching motility, where we observed a significant increase in WBHV. Additionally, since A. baumannii exhibits high drug resistance through the regulation of various outer membrane proteins (OMPs), we analyzed OMP expression in response to WBHV. SDS-PAGE and LC-MS/MS analysis identified three OMPs-Omp33-36, CarO, and OmpA-that were downregulated in WBHV. As these proteins mediate carbapenem uptake, we tested imipenem resistance using a minimum bactericidal concentration (MBC) assay and found that WBHV exposure increased A. baumannii's MBC to imipenem, suggesting reduced susceptibility. Our findings provide valuable insights into the adaptive mechanisms of A. baumannii in human whole blood, highlighting potential targets for combating its persistence and antibiotic resistance in bloodstream infections.

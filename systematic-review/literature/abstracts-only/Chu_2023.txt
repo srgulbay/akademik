@@ -1,0 +1,13 @@
+PMID: 38043271
+Title: Perillaldehyde: A promising antibacterial agent for the treatment of pneumonia caused by Acinetobacter baumannii infection.
+Authors: Chu Z., Li Y., Wang L., Wei S., Yang S., Zeng H.
+Journal: International immunopharmacology
+Year: 2023
+DOI: 10.1016/j.intimp.2023.111311
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38043271/
+DOI URL: https://doi.org/10.1016/j.intimp.2023.111311
+
+--- Abstract ---
+Perillaldehyde is a monoterpene compound mainly from the medicinal plant Perilla frutescens (L.) Britt., which has hypolipidemic, antioxidant, antibacterial and anti-inflammatory functions. In this investigation, we discovered that Perillaldehyde had powerful antimicrobial activity against Acinetobacter baumannii 5F1, and its minimum inhibitory concentration was 287.08 μg/mL. A. baumannii is a conditionally pathogenic bacterium with a high clinical resistance rate and is a major source of hospital infections, especially in intensive care units, which is one of the main causes of pneumonia. Inflammatory immune response is characteristic of pneumonia caused by A. baumannii infection. The results of our in vitro experiments indicate that Perillaldehyde disrupts the cell membrane of A. baumannii 5F1 and inhibits its quorum sensing to inhibit biofilm formation, among other effects. With an experimental model of murine pneumonia, we investigated that Perillaldehyde decreased NLRP3 inflammasome activation and TNF-α expression in lung tissues by inhibiting the NF-κB pathway, and also impacted MAPKs protein signaling pathway through the activation of TLR4. Notably, the use of high doses of Perillaldehyde for the treatment of pneumonia caused by A. baumannii 5F1 infection resulted in a survival rate of up to 80 % in mice. In summary, we demonstrated that Perillaldehyde is promising as a new drug for the treatment of pneumonia caused by A. baumannii 5F1 infection.

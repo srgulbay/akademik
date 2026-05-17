@@ -1,0 +1,14 @@
+PMID: 33924559
+Title: Human Pleural Fluid and Human Serum Albumin Modulate the Behavior of a Hypervirulent and Multidrug-Resistant (MDR) Acinetobacter baumannii Representative Strain.
+Authors: Pimentel C., Le C., Tuttobene M., Subils T., Martinez J., Sieira R., Papp-Wallace K., Keppetipola N., Bonomo R., Actis L., Tolmasky M., Ramirez M.
+Journal: Pathogens (Basel, Switzerland)
+Year: 2021
+DOI: 10.3390/pathogens10040471
+PMC: PMC8069197
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/33924559/
+DOI URL: https://doi.org/10.3390/pathogens10040471
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8069197/
+
+--- Abstract ---
+Acinetobacter baumannii is a nosocomial pathogen capable of causing serious infections associated with high rates of morbidity and mortality. Due to its antimicrobial drug resistance profile, A. baumannii is categorized as an urgent priority pathogen by the Centers for Disease Control and Prevention in the United States and a priority group 1 critical microorganism by the World Health Organization. Understanding how A. baumannii adapts to different host environments may provide critical insights into strategically targeting this pathogen with novel antimicrobial and biological therapeutics. Exposure to human fluids was previously shown to alter the gene expression profile of a highly drug-susceptible A. baumannii strain A118 leading to persistence and survival of this pathogen. Herein, we explore the impact of human pleural fluid (HPF) and human serum albumin (HSA) on the gene expression profile of a highly multi-drug-resistant strain of A. baumannii AB5075. Differential expression was observed for ~30 genes, whose products are involved in quorum sensing, quorum quenching, iron acquisition, fatty acid metabolism, biofilm formation, secretion systems, and type IV pilus formation. Phenotypic and further transcriptomic analysis using quantitative RT-PCR confirmed RNA-seq data and demonstrated a distinctive role of HSA as the molecule involved in A. baumannii's response.

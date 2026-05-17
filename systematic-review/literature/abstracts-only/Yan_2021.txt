@@ -1,0 +1,14 @@
+PMID: 34452123
+Title: The Influence of Formulation Components and Environmental Humidity on Spray-Dried Phage Powders for Treatment of Respiratory Infections Caused by Acinetobacter baumannii.
+Authors: Yan W., He R., Tang X., Tian B., Liu Y., Tong Y., To K., Leung S.
+Journal: Pharmaceutics
+Year: 2021
+DOI: 10.3390/pharmaceutics13081162
+PMC: PMC8401170
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/34452123/
+DOI URL: https://doi.org/10.3390/pharmaceutics13081162
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8401170/
+
+--- Abstract ---
+The feasibility of using respirable bacteriophage (phage) powder to treat lung infections has been demonstrated in animal models and clinical studies. This work investigated the influence of formulation compositions and excipient concentrations on the aerosol performance and storage stability of phage powder. An anti-Acinetobacter baumannii phage vB_AbaM-IME-AB406 was incorporated into dry powders consisting of trehalose, mannitol and L-leucine for the first time. The phage stability upon the spray-drying process, room temperature storage and powder dispersion under different humidity conditions were assessed. In general, powders prepared with higher mannitol content (40% of the total solids) showed a lower degree of particle merging and no sense of stickiness during sample handling. These formulations also provided better storage stability of phage with no further titer loss after 1 month and <1 log titer loss in 6 months at high excipient concentration. Mannitol improved the dispersibility of phage powders, but the in vitro lung dose dropped sharply after exposure to high-humidity condition (65% RH) for formulations with 20% mannitol. While previously collected knowledge on phage powder preparation could be largely extended to formulate A. baumannii phage into inhalable dry powders, the environmental humidity may have great impacts on the stability and dispersion of phage; therefore, specific attention is required when optimizing phage powder formulations for global distribution.

@@ -1,0 +1,18 @@
+PMID: 36519127
+Title: Diversity of resistant determinants, virulence factors, and mobile genetic elements in Acinetobacter baumannii from India: A comprehensive in silico genome analysis.
+Authors: Kumkar S., Kamble E., Chavan N., Dhotre D., Pardesi K.
+Journal: Frontiers in cellular and infection microbiology
+Year: 2022
+DOI: 10.3389/fcimb.2022.997897
+PMC: PMC9742364
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/36519127/
+DOI URL: https://doi.org/10.3389/fcimb.2022.997897
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9742364/
+
+--- Abstract ---
+INTRODUCTION: The frequency of infections associated with multidrug resistant A. baumannii has risen substantially in India. The use of next-generation sequencing (NGS) techniques combined with comparative genomics has great potential for tracking, monitoring, and ultimately controlling the spread of this troublesome pathogen. Here, we investigated the whole genome sequences of 47 A. baumannii from India.
+
+METHODS: In brief, A. baumannii genomes were analyzed for the presence of antibiotic resistance genes (ARGs), virulence factors genes (VFGs), and mobile genetic elements (MGEs) using various in silico tools. The AbaR-type resistance islands (AbaRIs) were detected by examining the genetic environment of the chromosomal comM gene. Multilocus sequence types were determined using the Pasteur scheme. The eBURST and whole genome SNPs-based phylogenetic analysis were performed to analyze genetic diversity between A. baumannii genomes.
+
+RESULTS AND DISCUSSION: A larger number of A. baumannii isolates belonging to the ST2 genotype was observed. The SNPs-based phylogenetic analysis showed a diversity between compared genomes. The predicted resistome showed the presence of intrinsic and acquired ARGs. The presence of plasmids, insertion sequences, and resistance islands carrying putative ARGs conferring resistance to antibiotics, quaternary ammonium compounds, and heavy metals was predicted in 43 (91%) genomes. The presence of putative VFGs related to adherence, biofilm formation and iron uptake was observed in the study. Overall, the comprehensive genome analysis in this study provides an essential insight into the resistome, virulome and mobilome of A. baumannii isolates from India.

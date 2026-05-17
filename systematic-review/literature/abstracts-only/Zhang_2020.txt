@@ -1,0 +1,13 @@
+PMID: 32805359
+Title: Alcohol dehydrogenase modulates quorum sensing in biofilm formations of Acinetobacter baumannii.
+Authors: Zhang K., Yang X., Yang J., Qiao X., Li F., Liu X., Wei J., Wang L.
+Journal: Microbial pathogenesis
+Year: 2020
+DOI: 10.1016/j.micpath.2020.104451
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/32805359/
+DOI URL: https://doi.org/10.1016/j.micpath.2020.104451
+
+--- Abstract ---
+Acinetobacter baumannii (A. baumannii) is a common opportunistic nosocomial pathogen, which is able to produce biofilms on the surface of indwelling medical devices, and consequentially causes severe infections in clinical settings. In order to identify genes that involved in the biofilm formation of A. baumannii, the differential expression of genes between biofilms and planktonic cells was analyzed by RNAseq assay and validated in clinical isolates. The RNAseq data showed that 264 genes were up-regulated, while 240 genes were down-regulated in the biofilms of A. baumannii. Among them, the gene encoding alcohol dehydrogenase (ADH), a known molecule of bacterial quorum sensing (QS) system that plays a key role in biofilm formation bacteria, was one of the most up-regulated gene in both reference strains and clinical isolates. Functional studies using ADH inhibitor disulfiram and activator taurine further demonstrated that the presence of disulfiram significantly inhibit the cell growth, motility and biofilm formation, paralleled by a decreased expression of QS-related genes, including AbaI, A1S_0109, and A1S_0112, in a dose-dependent manner; vice versa, the addition of ADH activator taurine, and QS molecule C12- homoserine lactone synthase (HSL) led a dose-dependent increase of bacterial growth, motility and biofilm production, along with an increased expression of QS-related genes in both reference strains and clinical isolates of A. baumannii. These results suggested that the ADH was a key molecule able to modulate the QS system and promote the biofilm formation, growth and motility in A. baumannii.

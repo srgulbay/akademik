@@ -1,0 +1,1659 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Microbiol Spectr</journal-id><journal-id journal-id-type="iso-abbrev">Microbiol Spectr</journal-id><journal-id journal-id-type="pmc-domain-id">3931</journal-id><journal-id journal-id-type="pmc-domain">microbiolspectr</journal-id><journal-id journal-id-type="publisher-id">spectrum</journal-id><journal-title-group><journal-title>Microbiology Spectrum</journal-title></journal-title-group><issn pub-type="epub">2165-0497</issn><publisher><publisher-name>American Society for Microbiology (ASM)</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12073863</article-id><article-id pub-id-type="pmcid-ver">PMC12073863.1</article-id><article-id pub-id-type="pmcaid">12073863</article-id><article-id pub-id-type="pmcaiid">12073863</article-id><article-id pub-id-type="pmid">40231681</article-id><article-id pub-id-type="doi">10.1128/spectrum.03388-24</article-id><article-id pub-id-type="publisher-id">spectrum03388-24</article-id><article-id pub-id-type="publisher-id">spectrum.03388-24</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="biological-terms"><compound-subject><compound-subject-part content-type="code">antimicrobial-chemotherapy</compound-subject-part><compound-subject-part content-type="label">Antimicrobial
+Chemotherapy</compound-subject-part></compound-subject></subj-group></article-categories><title-group><article-title>Indole derivatives display antimicrobial and antibiofilm effects
+against extensively drug-resistant <italic toggle="yes">Acinetobacter
+baumannii</italic></article-title></title-group><contrib-group><contrib contrib-type="author" equal-contrib="yes"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0008-5499-8255</contrib-id><name name-style="western"><surname>Li</surname><given-names initials="J">Junwei</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib><contrib contrib-type="author" equal-contrib="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0007-4753-8229</contrib-id><name name-style="western"><surname>Xie</surname><given-names initials="L">Lulin</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3489-1959</contrib-id><name name-style="western"><surname>Lin</surname><given-names initials="F">Fei</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cor2" ref-type="corresp"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review and editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review and editing</role><email>feilin@cmc.edu.cn</email></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8896-4709</contrib-id><name name-style="western"><surname>Ling</surname><given-names initials="B">Baodong</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cor1" ref-type="corresp"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review and editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review and editing</role><email>lingbaodong@cmc.edu.cn</email></contrib><aff id="aff1"><label>1</label><institution-wrap><institution>Key Laboratory of
+Structure-Specific Small Molecule Drugs at Chengdu Medical College of
+Sichuan Province, School of Pharmacy, Chengdu Medical
+College</institution><institution-id institution-id-type="Ringgold">74787</institution-id><institution-id institution-id-type="ROR">https://ror.org/01c4jmp52</institution-id></institution-wrap>,
+<city>Chengdu</city>, <country>China</country></aff><aff id="aff2"><label>2</label><institution-wrap><institution>Department of
+Pharmacy, Clinical Medical College and The First Affiliated Hospital of
+Chengdu Medical College</institution><institution-id institution-id-type="Ringgold">580504</institution-id><institution-id institution-id-type="ROR">https://ror.org/03jckbw05</institution-id></institution-wrap>,
+<city>Chengdu</city>, <country>China</country></aff></contrib-group><contrib-group><contrib contrib-type="editor"><role>Editor</role><name name-style="western"><surname>Conlon</surname><given-names initials="B">Brian</given-names></name><aff><institution-wrap><institution>The University of North Carolina at Chapel
+Hill</institution></institution-wrap>, <city>Chapel Hill</city>,
+<state>North Carolina</state>, <country>USA</country></aff></contrib></contrib-group><author-notes><corresp id="cor1">Address correspondence to Baodong Ling, <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:lingbaodong@cmc.edu.cn">lingbaodong@cmc.edu.cn</email></corresp><corresp id="cor2">Address correspondence to Fei Lin , <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:feilin@cmc.edu.cn">feilin@cmc.edu.cn</email></corresp><fn fn-type="equal"><p>Junwei Li and Lulin Xie contributed equally to this article. Author order was
+determined both alphabetically and in order of increasing seniority.</p></fn><fn fn-type="COI-statement"><p>The authors declare no conflict of interest.</p></fn></author-notes><pub-date publication-format="electronic" date-type="collection"><month>5</month><year>2025</year></pub-date><pub-date date-type="pub" publication-format="electronic"><day>15</day><month>4</month><year>2025</year></pub-date><volume>13</volume><issue>5</issue><issue-id pub-id-type="pmc-issue-id">488027</issue-id><elocation-id>e03388-24</elocation-id><history><date date-type="received"><day>02</day><month>1</month><year>2025</year></date><date date-type="accepted"><day>24</day><month>3</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>15</day><month>04</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>13</day><month>05</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-05-14 16:25:16.060"><day>14</day><month>05</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2025 Li et al.</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>Li et al.</copyright-holder><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/" start_date="2025-04-15"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International
+license</ext-link>.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="spectrum.03388-24.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="spectrum.03388-24.pdf"/><abstract abstract-type="primary"><title>ABSTRACT</title><p><italic toggle="yes">Acinetobacter baumannii</italic> is a critical priority gram-negative
+bacterial species featured with multidrug resistance and biofilm formation.
+This study screened 46 indole derivative agents for their antimicrobial
+activities against clinical isolates of extensively drug-resistant
+<italic toggle="yes">A. baumannii</italic> (XDRAB) with various degrees of biofilm
+production. Three selected indole agents—5-iodoindole,
+3-methylindole, and 7-hydroxyindole—were revealed to display potent
+antimicrobial and antibiofilm activity, including synergistic interplay with
+anti-<italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> antimicrobial drugs
+against XDRAB. Sub-inhibitory concentrations of these agents (particularly
+7-hydroxyindole at 1/64 of MIC) not only inhibited XDRAB biofilm formation
+but also eradicated the mature biofilm. The survival rate of XDRAB-infected
+<italic toggle="yes">Galleria mellonella</italic> was improved with the treatment of
+7-hydroxyindole. Mechanistically, 7-hydroxyindole was found to reduce the
+expression of quorum sensing/biofilm-implicated genes <italic toggle="yes">abaI</italic>
+and <italic toggle="yes">abaR</italic>. Together, the findings highlight the potential of
+indole derivatives against <italic toggle="yes">A. baumannii</italic> infections.</p><sec><title>IMPORTANCE</title><p>Extensively drug-resistant <italic toggle="yes">Acinetobacter baumannii</italic> (XDRAB)
+isolates pose a major public health threat to antimicrobial therapy and are
+highly prevalent in hospital settings. This study identified and
+characterized indole derivative agents for their antimicrobial and
+antibiofilm activities against XDRAB. Sub-inhibitory indole agents such as
+7-hydroxyindole can both inhibit XDRAB biofilm formation and eradicate the
+mature biofilm. Indole agents warrant further investigation against
+hard-to-treat antimicrobial-resistant pathogens.</p></sec></abstract><kwd-group><title>KEYWORDS</title><kwd><italic toggle="yes">Acinetobacter baumannii</italic></kwd><kwd>extensive drug resistance</kwd><kwd>biofilm</kwd><kwd>indoles</kwd></kwd-group><funding-group specific-use="FundRef"><award-group award-type="grant" id="award-1"><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>Grant No. 81373454</award-id><principal-award-recipient>
+<name name-style="western"><surname>Ling</surname><given-names>Baodong</given-names></name>
+</principal-award-recipient></award-group><award-group award-type="grant" id="award-2"><funding-source>
+<institution-wrap><institution>Chengdu Medical College</institution><institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100017520</institution-id></institution-wrap>
+</funding-source><award-id>YCX2023-01-32</award-id><principal-award-recipient>
+<name name-style="western"><surname>Li</surname><given-names>Junwei</given-names></name>
+</principal-award-recipient></award-group></funding-group><counts><count count="1" count-type="supplementary-material"/><count count-type="authors" count="4"/><fig-count count="10"/><table-count count="2"/><equation-count count="1"/><ref-count count="71"/><page-count count="17"/><word-count count="8110"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2025</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>Infections associated with <italic toggle="yes">Acinetobacter baumannii</italic> pose a major
+threat to public health around the globe (<xref rid="B1" ref-type="bibr">1</xref><xref rid="B2" ref-type="bibr">–</xref><xref rid="B4" ref-type="bibr">4</xref>). This pathogen is featured with sophisticated mechanisms of
+antimicrobial resistance, which leads to significant intrinsic resistance and a
+propensity to develop acquired multidrug resistance (<xref rid="B3" ref-type="bibr">3</xref>, <xref rid="B5" ref-type="bibr">5</xref>, <xref rid="B6" ref-type="bibr">6</xref>). Indeed, extensively drug-resistant <italic toggle="yes">A.
+baumannii</italic> (XDRAB) is particularly worrisome for their contribution to
+hospital-acquired infections and impact on antibiotic therapy (<xref rid="B4" ref-type="bibr">4</xref>, <xref rid="B7" ref-type="bibr">7</xref>, <xref rid="B8" ref-type="bibr">8</xref>). The World Health Organization lists
+<italic toggle="yes">A. baumannii</italic> as one of the top critical priority pathogens that
+are of public health importance and require research, development, and strategies to
+prevent and control antimicrobial resistance (<xref rid="B9" ref-type="bibr">9</xref>). Various virulence factors and physiological traits are known to
+facilitate <italic toggle="yes">A. baumannii</italic> infection and adaptation to the hospital
+environment (<xref rid="B10" ref-type="bibr">10</xref>). A key risk factor from
+<italic toggle="yes">A. baumannii</italic>, including XDRAB, is the formation of bacterial
+biofilms (<xref rid="B5" ref-type="bibr">5</xref>, <xref rid="B10" ref-type="bibr">10</xref>). The latter is reported to be associated with 65% of bacterial
+infections (<xref rid="B11" ref-type="bibr">11</xref>). Biofilm cells also produce
+much higher levels of resistance than their planktonic counterparts (<xref rid="B12" ref-type="bibr">12</xref>, <xref rid="B13" ref-type="bibr">13</xref>).
+Furthermore, biofilms facilitate bacterial adaptation to hostile internal
+environments and enable evasion of the host immune system, resulting in recurrent
+infections and significantly complicating clinical therapy (<xref rid="B14" ref-type="bibr">14</xref>, <xref rid="B15" ref-type="bibr">15</xref>). Thus,
+intervention strategies against biofilms are of important potential in combating
+infections (<xref rid="B13" ref-type="bibr">13</xref>, <xref rid="B16" ref-type="bibr">16</xref>) . Our previous study showed that antimicrobial drugs
+(azithromycin and rifampicin) and other agents (zinc lactate, stannous fluoride, and
+furanone) were active <italic toggle="yes">in vitro</italic> at preventing biofilm formation of
+XDRAB but exhibited minimal activity against mature biofilms (<xref rid="B17" ref-type="bibr">17</xref>). Earlier research on antibiofilm agents has predominantly
+focused on inhibiting biofilm formation, with limited reports on agents capable of
+effectively disrupting or eradicating mature biofilms (<xref rid="B18" ref-type="bibr">18</xref>, <xref rid="B19" ref-type="bibr">19</xref>).</p><p>As heterocyclic organic agents, indoles are widespread in nature and function as
+important signaling molecules in diverse prokaryotes and eukaryotes (<xref rid="B20" ref-type="bibr">20</xref>, <xref rid="B21" ref-type="bibr">21</xref>).
+They also possess medicinal potential for therapeutic interventions to diverse
+medical conditions, including microbial infections (<xref rid="B22" ref-type="bibr">22</xref>, <xref rid="B23" ref-type="bibr">23</xref>). In recent years,
+attention has been drawn to indoles for their diverse and potent pharmacological
+properties against microbes (<xref rid="B24" ref-type="bibr">24</xref><xref rid="B25" ref-type="bibr">–</xref><xref rid="B27" ref-type="bibr">27</xref>). Studies have revealed that indole derivatives possess antimicrobial
+and biofilm-inhibiting activities against various pathogenic microorganisms,
+including <italic toggle="yes">Escherichia coli</italic> (<xref rid="B28" ref-type="bibr">28</xref>, <xref rid="B29" ref-type="bibr">29</xref>), <italic toggle="yes">Pseudomonas
+aeruginosa</italic> (<xref rid="B29" ref-type="bibr">29</xref>), <italic toggle="yes">Vibrio
+cholerae</italic> (<xref rid="B30" ref-type="bibr">30</xref>), and
+<italic toggle="yes">Candida albicans</italic> (<xref rid="B31" ref-type="bibr">31</xref>,
+<xref rid="B32" ref-type="bibr">32</xref>). Several <italic toggle="yes">bis</italic>-indole
+agents were demonstrated to exhibit activities against multidrug-resistant
+gram-positive and gram-negative bacterial species including <italic toggle="yes">A.
+baumannii</italic> (<xref rid="B33" ref-type="bibr">33</xref>, <xref rid="B34" ref-type="bibr">34</xref>). However, the potential of indoles against
+<italic toggle="yes">A. baumannii</italic> biofilms and related mechanisms remains largely
+unknown.</p><p>In this study, we screened and identified indole derivative agents with respect to
+their antimicrobial and antibiofilm activities against clinical isolates of XDRAB.
+The findings revealed that several indole agents not only exhibited significant
+anti-XDRAB activity but also were able to reduce or eradicate XDRAB biofilms,
+highlighting the potential of indole derivatives in controlling <italic toggle="yes">A.
+baumannii</italic> infections.</p></sec><sec sec-type="results" id="s2"><title>RESULTS</title><sec id="s2-1"><title>Anti-XDRAB activity of antimicrobial drugs and indole derivatives</title><p>A total of 70 clinical isolates were examined for their antimicrobial
+susceptibility phenotypes, followed by obtaining 81% (57/70) of isolates
+belonging to XDRAB (<xref rid="T1" ref-type="table">Table 1</xref> and <xref rid="SuF1" ref-type="supplementary-material">Tables S1 and S2</xref>) (<xref rid="B35" ref-type="bibr">35</xref>). Antimicrobial minimal inhibitory
+concentration (MIC) values are included in <xref rid="T1" ref-type="table">Table
+1</xref> and <xref rid="SuF1" ref-type="supplementary-material">Table
+S2</xref>. The rates of resistance to individual antimicrobial agents ranged
+from 34% to 86% (except no resistance to tigecycline when using the resistant
+breakpoint of MIC ≥ 8 µg/mL for <italic toggle="yes">Enterobacterales</italic>
+[<xref rid="B36" ref-type="bibr">36</xref>]) (<xref rid="SuF1" ref-type="supplementary-material">Table S3</xref>). These
+clinical isolates were also assessed for their biofilm formation abilities by
+grouping them as strong (17% [12/70]), medium (14% [10/79]), weak (60% [42/70])
+and no (9% [6/70]) biofilm producers (<xref rid="SuF1" ref-type="supplementary-material">Table S4</xref>).</p><table-wrap position="float" id="T1" orientation="portrait"><label>TABLE 1</label><caption><p>Antimicrobial activities of 16 antimicrobial drugs and three indole
+agents against XDRAB</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th align="left" valign="top" rowspan="2" colspan="1">Agents</th><th align="left" valign="top" colspan="6" rowspan="1">MIC (μg/mL) for
+XDRAB</th></tr><tr><th align="left" valign="top" colspan="1" rowspan="1">A19</th><th align="left" valign="top" colspan="1" rowspan="1">A35</th><th align="left" valign="top" colspan="1" rowspan="1">A43</th><th align="left" valign="top" colspan="1" rowspan="1">A46</th><th align="left" valign="top" colspan="1" rowspan="1">A49</th><th align="left" valign="top" colspan="1" rowspan="1">A50</th></tr></thead><tbody><tr><td align="left" valign="top" colspan="1" rowspan="1">Antimicrobial drugs</td><td align="left" valign="top" colspan="1" rowspan="1"/><td align="left" valign="top" colspan="1" rowspan="1"/><td align="left" valign="top" colspan="1" rowspan="1"/><td align="left" valign="top" colspan="1" rowspan="1"/><td align="left" valign="top" colspan="1" rowspan="1"/><td align="left" valign="top" colspan="1" rowspan="1"/></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Imipenem</td><td align="left" valign="top" colspan="1" rowspan="1">16</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">128</td><td align="left" valign="top" colspan="1" rowspan="1">128</td><td align="left" valign="top" colspan="1" rowspan="1">16</td><td align="left" valign="top" colspan="1" rowspan="1">128</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Meropenem</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">32</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">16</td><td align="left" valign="top" colspan="1" rowspan="1">16</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Ampicillin</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Ampicillin-sulbactam
+(2:1)</td><td align="left" valign="top" colspan="1" rowspan="1">256</td><td align="left" valign="top" colspan="1" rowspan="1">128</td><td align="left" valign="top" colspan="1" rowspan="1">256</td><td align="left" valign="top" colspan="1" rowspan="1">256</td><td align="left" valign="top" colspan="1" rowspan="1">32</td><td align="left" valign="top" colspan="1" rowspan="1">64</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Ceftazidime</td><td align="left" valign="top" colspan="1" rowspan="1">128</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">128</td><td align="left" valign="top" colspan="1" rowspan="1">1,024</td><td align="left" valign="top" colspan="1" rowspan="1">128</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Cefotaxime</td><td align="left" valign="top" colspan="1" rowspan="1">256</td><td align="left" valign="top" colspan="1" rowspan="1">256</td><td align="left" valign="top" colspan="1" rowspan="1">512</td><td align="left" valign="top" colspan="1" rowspan="1">512</td><td align="left" valign="top" colspan="1" rowspan="1">1,024</td><td align="left" valign="top" colspan="1" rowspan="1">512</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Cefoperazone-sulbactam
+(2:1)</td><td align="left" valign="top" colspan="1" rowspan="1">256</td><td align="left" valign="top" colspan="1" rowspan="1">256</td><td align="left" valign="top" colspan="1" rowspan="1">256</td><td align="left" valign="top" colspan="1" rowspan="1">256</td><td align="left" valign="top" colspan="1" rowspan="1">256</td><td align="left" valign="top" colspan="1" rowspan="1">256</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Amikacin</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Gentamicin</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td><td align="left" valign="top" colspan="1" rowspan="1">&gt;1,024</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Ciprofloxacin</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">128</td><td align="left" valign="top" colspan="1" rowspan="1">16</td><td align="left" valign="top" colspan="1" rowspan="1">32</td><td align="left" valign="top" colspan="1" rowspan="1">32</td><td align="left" valign="top" colspan="1" rowspan="1">64</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Levofloxacin</td><td align="left" valign="top" colspan="1" rowspan="1">16</td><td align="left" valign="top" colspan="1" rowspan="1">8</td><td align="left" valign="top" colspan="1" rowspan="1">16</td><td align="left" valign="top" colspan="1" rowspan="1">16</td><td align="left" valign="top" colspan="1" rowspan="1">8</td><td align="left" valign="top" colspan="1" rowspan="1">16</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Doxycycline</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">32</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">32</td><td align="left" valign="top" colspan="1" rowspan="1">64</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Minocycline</td><td align="left" valign="top" colspan="1" rowspan="1">16</td><td align="left" valign="top" colspan="1" rowspan="1">16</td><td align="left" valign="top" colspan="1" rowspan="1">8</td><td align="left" valign="top" colspan="1" rowspan="1">8</td><td align="left" valign="top" colspan="1" rowspan="1">4</td><td align="left" valign="top" colspan="1" rowspan="1">8</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Tetracycline</td><td align="left" valign="top" colspan="1" rowspan="1">512</td><td align="left" valign="top" colspan="1" rowspan="1">512</td><td align="left" valign="top" colspan="1" rowspan="1">512</td><td align="left" valign="top" colspan="1" rowspan="1">512</td><td align="left" valign="top" colspan="1" rowspan="1">512</td><td align="left" valign="top" colspan="1" rowspan="1">512</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Tigecycline</td><td align="left" valign="top" colspan="1" rowspan="1">2</td><td align="left" valign="top" colspan="1" rowspan="1">2</td><td align="left" valign="top" colspan="1" rowspan="1">2</td><td align="left" valign="top" colspan="1" rowspan="1">2</td><td align="left" valign="top" colspan="1" rowspan="1">1</td><td align="left" valign="top" colspan="1" rowspan="1">2</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> Polymyxin B</td><td align="left" valign="top" colspan="1" rowspan="1">4</td><td align="left" valign="top" colspan="1" rowspan="1">8</td><td align="left" valign="top" colspan="1" rowspan="1">4</td><td align="left" valign="top" colspan="1" rowspan="1">1</td><td align="left" valign="top" colspan="1" rowspan="1">4</td><td align="left" valign="top" colspan="1" rowspan="1">4</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Indoles</td><td align="left" valign="top" colspan="1" rowspan="1"/><td align="left" valign="top" colspan="1" rowspan="1"/><td align="left" valign="top" colspan="1" rowspan="1"/><td align="left" valign="top" colspan="1" rowspan="1"/><td align="left" valign="top" colspan="1" rowspan="1"/><td align="left" valign="top" colspan="1" rowspan="1"/></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> 5-Iodoindole</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">64</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> 3-Methylindole</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">64</td><td align="left" valign="top" colspan="1" rowspan="1">64</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1"> 7-Hydroxyindole</td><td align="left" valign="top" colspan="1" rowspan="1">512</td><td align="left" valign="top" colspan="1" rowspan="1">512</td><td align="left" valign="top" colspan="1" rowspan="1">512</td><td align="left" valign="top" colspan="1" rowspan="1">512</td><td align="left" valign="top" colspan="1" rowspan="1">512</td><td align="left" valign="top" colspan="1" rowspan="1">512</td></tr></tbody></table></table-wrap><table-wrap position="float" id="T2" orientation="portrait"><label>TABLE 2</label><caption><p>Synergistic antimicrobial effect of indole agents and antimicrobial drugs
+on six XDRAB strains</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th align="left" valign="top" rowspan="2" colspan="1">Indoles</th><th align="left" valign="top" rowspan="2" colspan="1">Antimicrobials</th><th align="left" valign="top" rowspan="2" colspan="1">FICI<xref rid="T2_FN1" ref-type="table-fn"><sup>a</sup></xref></th><th align="center" valign="top" colspan="3" rowspan="1">Interaction<xref rid="T2_FN2" ref-type="table-fn"><sup>b</sup></xref>
+(%)</th></tr><tr><th align="left" valign="top" colspan="1" rowspan="1">Synergy</th><th align="left" valign="top" colspan="1" rowspan="1">Additivity</th><th align="left" valign="top" colspan="1" rowspan="1">Indifference</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="6" colspan="1">5-Iodoindole</td><td align="left" valign="top" colspan="1" rowspan="1">Meropenem</td><td align="left" valign="top" colspan="1" rowspan="1">0.375–1</td><td align="left" valign="top" colspan="1" rowspan="1">50</td><td align="left" valign="top" colspan="1" rowspan="1">50</td><td align="left" valign="top" colspan="1" rowspan="1">0</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Imipenem</td><td align="left" valign="top" colspan="1" rowspan="1">0.25–0.75</td><td align="left" valign="top" colspan="1" rowspan="1">50</td><td align="left" valign="top" colspan="1" rowspan="1">50</td><td align="left" valign="top" colspan="1" rowspan="1">0</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Cefoperazone-sulbactam (2:1)</td><td align="left" valign="top" colspan="1" rowspan="1">0.375–1</td><td align="left" valign="top" colspan="1" rowspan="1">33</td><td align="left" valign="top" colspan="1" rowspan="1">67</td><td align="left" valign="top" colspan="1" rowspan="1">0</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Ampicillin-sulbactam (2:1)</td><td align="left" valign="top" colspan="1" rowspan="1">0.125–0.625</td><td align="left" valign="top" colspan="1" rowspan="1">83</td><td align="left" valign="top" colspan="1" rowspan="1">17</td><td align="left" valign="top" colspan="1" rowspan="1">0</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Tigecycline</td><td align="left" valign="top" colspan="1" rowspan="1">0.625–1.25</td><td align="left" valign="top" colspan="1" rowspan="1">0</td><td align="left" valign="top" colspan="1" rowspan="1">67</td><td align="left" valign="top" colspan="1" rowspan="1">33</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Polymyxin B</td><td align="left" valign="top" colspan="1" rowspan="1">0.625–1.25</td><td align="left" valign="top" colspan="1" rowspan="1">0</td><td align="left" valign="top" colspan="1" rowspan="1">67</td><td align="left" valign="top" colspan="1" rowspan="1">33</td></tr><tr><td align="left" valign="top" rowspan="6" colspan="1">3-Methylindole</td><td align="left" valign="top" colspan="1" rowspan="1">Meropenem</td><td align="left" valign="top" colspan="1" rowspan="1">0.1875–0.625</td><td align="left" valign="top" colspan="1" rowspan="1">83</td><td align="left" valign="top" colspan="1" rowspan="1">17</td><td align="left" valign="top" colspan="1" rowspan="1">0</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Imipenem</td><td align="left" valign="top" colspan="1" rowspan="1">0.1875–0.625</td><td align="left" valign="top" colspan="1" rowspan="1">83</td><td align="left" valign="top" colspan="1" rowspan="1">17</td><td align="left" valign="top" colspan="1" rowspan="1">0</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Cefoperazone-sulbactam (2:1)</td><td align="left" valign="top" colspan="1" rowspan="1">0.25–0.625</td><td align="left" valign="top" colspan="1" rowspan="1">50</td><td align="left" valign="top" colspan="1" rowspan="1">50</td><td align="left" valign="top" colspan="1" rowspan="1">0</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Ampicillin-sulbactam (2:1)</td><td align="left" valign="top" colspan="1" rowspan="1">0.375–0.625</td><td align="left" valign="top" colspan="1" rowspan="1">50</td><td align="left" valign="top" colspan="1" rowspan="1">50</td><td align="left" valign="top" colspan="1" rowspan="1">0</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Tigecycline</td><td align="left" valign="top" colspan="1" rowspan="1">0.625–1.5</td><td align="left" valign="top" colspan="1" rowspan="1">0</td><td align="left" valign="top" colspan="1" rowspan="1">17</td><td align="left" valign="top" colspan="1" rowspan="1">83</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Polymyxin B</td><td align="left" valign="top" colspan="1" rowspan="1">0.25</td><td align="left" valign="top" colspan="1" rowspan="1">100</td><td align="left" valign="top" colspan="1" rowspan="1">0</td><td align="left" valign="top" colspan="1" rowspan="1">0</td></tr><tr><td align="left" valign="top" rowspan="6" colspan="1">7-Hydroxyindole</td><td align="left" valign="top" colspan="1" rowspan="1">Meropenem</td><td align="left" valign="top" colspan="1" rowspan="1">0.188–0.562</td><td align="left" valign="top" colspan="1" rowspan="1">83</td><td align="left" valign="top" colspan="1" rowspan="1">17</td><td align="left" valign="top" colspan="1" rowspan="1">0</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Imipenem</td><td align="left" valign="top" colspan="1" rowspan="1">0.156–0.312</td><td align="left" valign="top" colspan="1" rowspan="1">100</td><td align="left" valign="top" colspan="1" rowspan="1">0</td><td align="left" valign="top" colspan="1" rowspan="1">0</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Cefoperazone-sulbactam (2:1)</td><td align="left" valign="top" colspan="1" rowspan="1">0.094–0.312</td><td align="left" valign="top" colspan="1" rowspan="1">100</td><td align="left" valign="top" colspan="1" rowspan="1">0</td><td align="left" valign="top" colspan="1" rowspan="1">0</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Ampicillin-sulbactam (2:1)</td><td align="left" valign="top" colspan="1" rowspan="1">0.047–0.625</td><td align="left" valign="top" colspan="1" rowspan="1">83</td><td align="left" valign="top" colspan="1" rowspan="1">17</td><td align="left" valign="top" colspan="1" rowspan="1">0</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Tigecycline</td><td align="left" valign="top" colspan="1" rowspan="1">0.625–1.5</td><td align="left" valign="top" colspan="1" rowspan="1">0</td><td align="left" valign="top" colspan="1" rowspan="1">17</td><td align="left" valign="top" colspan="1" rowspan="1">83</td></tr><tr><td align="left" valign="top" colspan="1" rowspan="1">Polymyxin B</td><td align="left" valign="top" colspan="1" rowspan="1">1.25</td><td align="left" valign="top" colspan="1" rowspan="1">0</td><td align="left" valign="top" colspan="1" rowspan="1">0</td><td align="left" valign="top" colspan="1" rowspan="1">100</td></tr></tbody></table><table-wrap-foot><fn id="T2_FN1"><label>
+<sup>a</sup>
+</label><p>FICI, fractional inhibitory concentration index.</p></fn><fn id="T2_FN2"><label>
+<sup>b</sup>
+</label><p>No antagonism observed.</p></fn></table-wrap-foot></table-wrap><p>Based on biofilm formation abilities, six XDRAB strains (i.e., A19, A35, A43,
+A46, A49, and A50; two isolates from each of the strong, medium, and weak
+biofilm producers) were selected for determining antimicrobial activities of
+indole derivative agents. The resistance profiles and biofilm formation of these
+six isolates are shown in <xref rid="T1" ref-type="table">Table 1</xref> and
+<xref rid="F1" ref-type="fig">Fig. 1</xref>, respectively. Notably, these
+isolates exhibited resistance to antipseudomonal carbapenems, extended-spectrum
+cephalosporins, β-lactam-β-lactamase inhibitor combinations,
+aminoglycosides, antipseudomonal fluoroquinolones, tetracyclines (except
+tigecycline), and polymyxin B (except one isolate being susceptible with MIC of
+1 µg/mL) (<xref rid="B37" ref-type="bibr">37</xref>) but were
+susceptible/intermediate to tigecycline.</p><fig position="float" fig-type="figure" id="F1" orientation="portrait"><label>Fig 1</label><caption><p>The biofilm formation abilities of six XDRAB isolates (<italic toggle="yes">n</italic>
+= 6, <inline-formula id="ui1"><alternatives><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="spectrum.03388-24.im001.jpg"/><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="u1" display="inline" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:mi>x</mml:mi><mml:mi/></mml:mrow><mml:mo>-</mml:mo></mml:mover></mml:math></alternatives></inline-formula>
+± <italic toggle="yes">s</italic>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="spectrum.03388-24.f001.jpg"><alt-text>Bar chart depicts biofilm formation abilities of six isolates. A19
+and A35 exhibit strong biofilm formation, A50 and A43 depict medium
+levels, while A46 and A49 have weak biofilm-forming ability, based on
+OD₅₇₀ measurements.</alt-text></graphic></fig><p>Subsequently, we screened a large number of indole agents (<xref rid="SuF1" ref-type="supplementary-material">Table S2</xref>) for their
+activities against the aforementioned six XDRAB isolates (<xref rid="T1" ref-type="table">Table 1</xref>). Of the 46 indole derivatives tested (<xref rid="SuF1" ref-type="supplementary-material">Table S1</xref>), 37 exhibited
+varying degrees of activity against XDRAB isolates, with MIC values ranging from
+64 to 1,024 µg/mL (<xref rid="SuF1" ref-type="supplementary-material">Table S5</xref>). Notably, MICs of 5-iodoindole, 5-fluoroindole,
+6-bromoindole, and 3-methylindole were 64 µg/mL, while the MIC of
+7-hydroxyindole was 512 µg/mL (<xref rid="T1" ref-type="table">Table
+1</xref> and <xref rid="SuF1" ref-type="supplementary-material">Table
+S5</xref>). Three indole agents—5-iodoindole, 3-methylindole, and
+7-hydroxyindole—were further investigated in this study, and their
+chemical structures are given in <xref rid="F2" ref-type="fig">Fig.
+2</xref>.</p><fig position="float" fig-type="figure" id="F2" orientation="portrait"><label>Fig 2</label><caption><p>Structures of three indole agents—5-iodoindole (<bold>A</bold>),
+3-methylindole (<bold>B</bold>), and 7-hydroxyindole
+(<bold>C</bold>)—that exhibit anti-XDRAB activity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="spectrum.03388-24.f002.jpg"><alt-text>Three chemical structures of substituted indole derivatives.
+Structure A has an iodine atom on the benzene ring, B contains two
+methyl groups, and C includes hydroxyl and carbonyl groups, indicating
+variations in functional substitution on the core scaffold.</alt-text></graphic></fig></sec><sec id="s2-2"><title>Synergistic antimicrobial effects of indole agents with conventional
+antimicrobial drugs</title><p>To understand the clinical therapeutic potential of indoles, we tested the
+synergistic antimicrobial effect of indole derivatives in combination with drugs
+used in the clinical treatment of <italic toggle="yes">A. baumannii</italic> infection. The
+results showed that three indoles tested—5-iodoindole, 3-methylindole,
+and particularly 7-hydroxyindole—exhibited synergistic antimicrobial
+activities with carbapenems or β-lactam-β-lactamase inhibitor
+combinations against six XDRAB strains (<xref rid="T2" ref-type="table">Table
+2</xref>). 3-methylindole and polymyxin B also showed synergy, while indoles
+and tigecycline produced no synergistic interaction. However, no antagonism
+among the tested combinations was observed (<xref rid="T2" ref-type="table">Table 2</xref>).</p></sec><sec id="s2-3"><title>Effects of indole agents on XDRAB biofilm</title><p>Because of activities against planktonic cells of XDRAB isolates (<xref rid="T1" ref-type="table">Table 1</xref>), three indole
+derivatives—5-iodoindole, 3-methylindole, and 7-hydroxyindole—were
+further tested for their effects on XDRAB biofilms. Three indoles at 1/2 MIC and
+1/4 MIC were found to inhibit XDRAB biofilm formation, with 7-hydroxyindole
+demonstrating the most potent effect (<xref rid="F3" ref-type="fig">Fig.
+3</xref>). Similarly, these indoles at 1× MIC, 1/2 MIC, and 1/4 MIC
+were also shown to significantly eradicate XDRAB mature biofilms. Intriguingly,
+at various concentrations tested, strong effects were often evident (<xref rid="F4" ref-type="fig">Fig. 4</xref>). The latter observation led us to
+further reduce sub-MIC levels of 7-hydroxyindole for the impact on both the
+inhibition of biofilm formation and the eradication of matured biofilm. Even at
+a reduced concentration of 1/64 MIC (i.e., 8 µg/mL), 7-hydroxyindole
+significantly reduced XDRAB biofilm formation (<xref rid="F5" ref-type="fig">Fig. 5</xref>), and notably, it was also able to effectively eradicate
+XDRAB mature biofilms (<xref rid="F6" ref-type="fig">Fig. 6</xref>).</p><fig position="float" fig-type="figure" id="F3" orientation="portrait"><label>Fig 3</label><caption><p>Biofilm formation inhibition of six XDRAB isolates (<bold>A19, A35, A43,
+A50, A46, and A49</bold>) by 5-iodoindole, 3-methylindole, and
+7-hydroxyindole at sub-MIC levels (<italic toggle="yes">n</italic> = 6,
+<inline-formula id="ui2"><alternatives><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="spectrum.03388-24.im002.jpg"/><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="u2" display="inline" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:mi>x</mml:mi><mml:mi/></mml:mrow><mml:mo>-</mml:mo></mml:mover></mml:math></alternatives></inline-formula>
+± <italic toggle="yes">s</italic>; *<italic toggle="yes">P</italic> &lt; 0.05,
+**<italic toggle="yes">P</italic> &lt; 0.01 versus none group).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="spectrum.03388-24.f003.jpg"><alt-text>Bar charts depict biofilm formation ability of six isolates
+treated with 5-iodoindole, 3-methylindole, and 7-hydroxyindole at
+sub-MIC levels. All treatments significantly reduced biofilm formation
+compared to untreated controls.</alt-text></graphic></fig><fig position="float" fig-type="figure" id="F4" orientation="portrait"><label>Fig 4</label><caption><p>Biofilm eradication of six XDRAB isolates (<bold>A19, A35, A43, A50, A46,
+and A49</bold>) by 5-iodoindole, 3-methylindole, and 7-hydroxyindole
+at sub-MIC levels (<italic toggle="yes">n</italic> = 6, <inline-formula id="ui3"><alternatives><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="spectrum.03388-24.im003.jpg"/><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="u3" display="inline" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:mi>x</mml:mi></mml:mrow><mml:mo>-</mml:mo></mml:mover></mml:math></alternatives></inline-formula>
+± <italic toggle="yes">s</italic>; *<italic toggle="yes">P</italic> &lt; 0.05,
+**<italic toggle="yes">P</italic> &lt; 0.01 versus none group).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="spectrum.03388-24.f004.jpg"><alt-text>Bar charts depict biofilm eradication by 5-iodoindole,
+3-methylindole, and 7-hydroxyindole across six isolates. All compounds
+reduced biofilm biomass in a dose-dependent manner, with 7-hydroxyindole
+showing the most consistent and potent effect.</alt-text></graphic></fig><fig position="float" fig-type="figure" id="F5" orientation="portrait"><label>Fig 5</label><caption><p>Biofilm formation inhibition of six XDRAB isolates (<bold>A19, A35, A43,
+A50, A46, and A49</bold>) by 7-hydroxyindole at sub-MIC levels
+(<italic toggle="yes">n</italic> = 6, <inline-formula id="ui4"><alternatives><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="spectrum.03388-24.im004.jpg"/><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="u4" display="inline" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:mi>x</mml:mi><mml:mi/></mml:mrow><mml:mo>-</mml:mo></mml:mover></mml:math></alternatives></inline-formula>
+± <italic toggle="yes">s</italic>; **<italic toggle="yes">P</italic> &lt; 0.01 versus
+none group).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="spectrum.03388-24.f005.jpg"><alt-text>Bar charts depict dose-dependent inhibition of biofilm formation
+by 5-iodoindole in six isolates. All tested concentrations from 1/2 MIC
+to 1/64 MIC significantly reduced biofilm levels compared to untreated
+controls across strains.</alt-text></graphic></fig><fig position="float" fig-type="figure" id="F6" orientation="portrait"><label>Fig 6</label><caption><p>Biofilm eradication of six XDRAB isolates (<bold>A19, A35, A43, A50, A46,
+and A49</bold>) by 7-hydroxyindole at sub-MIC levels
+(<italic toggle="yes">n</italic> = 6, <inline-formula id="ui5"><alternatives><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="spectrum.03388-24.im005.jpg"/><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="u5" display="inline" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:mi>x</mml:mi><mml:mi/></mml:mrow><mml:mo>-</mml:mo></mml:mover></mml:math></alternatives></inline-formula>
+± <italic toggle="yes">s</italic>; **<italic toggle="yes">P</italic> &lt; 0.01 versus
+none group).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="spectrum.03388-24.f006.jpg"><alt-text>Bar charts depict biofilm eradication by 5-iodoindole across six
+isolates at concentrations from 1 MIC to 1/64 MIC. Significant
+reductions in OD₅₇₀ are observed at all doses, with
+consistent antibiofilm activity at lower concentrations.</alt-text></graphic></fig></sec><sec id="s2-4"><title>Effects of 7-hydroxyindole on XDRAB biofilm assessed using ordinary optical
+microscope, confocal laser scanning microscopy, and scanning electron
+microscopy</title><p>To further investigate the effects of 7-hydroxyindole on biofilms, we selected
+high (1/8 MIC [64 µg/mL]) and low (1/32 MIC [16 µg/mL]) dose
+levels to treat XDRAB isolate A19 in both planktonic and biofilm states.
+Observations under an optical microscope revealed that isolate A19 in the
+planktonic state formed a dense biofilm structure on the cell slide. Upon the
+addition of 7-hydroxyindole at 1/64 MIC, biofilm formation was significantly
+reduced. When the concentration was increased to 1/8 MIC, biofilm formation was
+further diminished, demonstrating a concentration-dependent inhibitory effect
+(<xref rid="F7" ref-type="fig">Fig. 7A</xref>). At both concentrations,
+treatment with 7-hydroxyindole in the biofilm state also resulted in a
+significant eradication in preformed biofilm, and the eradicative effect was
+similarly concentration-dependent (<xref rid="F7" ref-type="fig">Fig.
+7B</xref>).</p><fig position="float" fig-type="figure" id="F7" orientation="portrait"><label>Fig 7</label><caption><p>Effects of 7-hydroxyindole at sub-MIC levels (1/32 and 1/64 MIC) on the
+biofilm of XDRAB isolate A19. The inhibitory effect on XDRAB biofilm in
+the planktonic state (<bold>A and C</bold>) and the eradication effect
+on XDRAB biofilm in the encapsulated state (<bold>B and D</bold>) were
+observed using conventional optical microscopy (A and B; scale bar = 50
+µm) and confocal laser scanning microscopy (C and D; scale bar =
+20 µm).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="spectrum.03388-24.f007.jpg"><alt-text>Microscopy images depict the effects of 5-iodoindole at untreated,
+low, and high doses. Crystal violet and fluorescence staining reveal
+reduced biofilm density and increased membrane damage with treatment,
+especially at high dose, indicated by fluorescence.</alt-text></graphic></fig><p>Confocal laser scanning microscopy (CLSM) further confirmed that 7-hydroxyindole
+significantly inhibits the formation of isolate A19 biofilm in the planktonic
+state, resulting in a notably sparser biofilm density compared to the untreated
+group (<xref rid="F7" ref-type="fig">Fig. 7C</xref>). In the biofilm removal
+experiments for isolate A19, the low dose of 7-hydroxyindole induced visible
+holes in the dense biofilm structure; this effect was more pronounced at the
+higher concentration. These findings suggest that 7-hydroxyindole effectively
+disrupted isolate A19 mature biofilms, with the eradication effect being
+concentration-dependent (<xref rid="F7" ref-type="fig">Fig. 7D</xref>).</p><p>The scanning electron microscopy (SEM) analysis revealed that the untreated XDRAB
+isolate A19 had a high number of biofilm cells that were densely packed, whereas
+the number of the biofilm cells was significantly reduced following treatment
+with 7-hydroxyindole, demonstrating a concentration-dependent effect (<xref rid="F8" ref-type="fig">Fig. 8</xref>).</p><fig position="float" fig-type="figure" id="F8" orientation="portrait"><label>Fig 8</label><caption><p>SEM observations of biofilm inhibition of XDRAB isolate A19 by
+7-hydroxyindole (scale bar = 5 µm).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="spectrum.03388-24.f008.jpg"><alt-text>SEMs depict bacterial morphology under untreated, low-dose, and
+high-dose 5-iodoindole. Untreated cells form dense clusters with smooth
+surfaces, while treated cells appear more dispersed with increased
+surface irregularities, especially at high doses.</alt-text></graphic></fig></sec><sec id="s2-5"><title>7-Hydroxyindole increases the survival of <italic toggle="yes">Galleria
+mellonella</italic> infected with XDRAB</title><p>To determine the effect of 7-hydroxyindole treatment on the virulence of XDRAB, a
+<italic toggle="yes">G. mellonella</italic> infection model was used, and the number of
+survivors of the different treatment groups was recorded for 72 hours. The six
+XDRAB isolates (A19, A35, A43, A46, A49, and A50) were each used to infect
+<italic toggle="yes">G. mellonella</italic>. The results showed that after
+7-hydroxyindole treatment, the survival rate of <italic toggle="yes">G. mellonella</italic>
+increased from 16.67% of the untreated group (XDRAB + NaCl) to 31.67% of the
+treated group (XDRAB + 7-hydroxyindole) (<xref rid="F9" ref-type="fig">Fig.
+9</xref>), but was inferior to the tigecycline-treated group (50.00%). The
+results were consistent with the <italic toggle="yes">in vitro</italic> observations on
+antimicrobial and antibiofilm activity of 7-hydroxyindole against XDRAB,
+resulting in an increased survival rate of <italic toggle="yes">G. mellonella</italic>.</p><fig position="float" fig-type="figure" id="F9" orientation="portrait"><label>Fig 9</label><caption><p>Effect of 7-hydroxyindole on the survival of <italic toggle="yes">G.
+mellonella</italic> infected with six XDRAB isolates
+(<italic toggle="yes">n</italic> = 60 per XDRAB-infected group with 10 per
+isolate; 10 per group without XDRAB inoculation). Compared to the
+untreated group (none): ns (no statistical significance),
+<italic toggle="yes">P</italic> &gt; 0.5, **<italic toggle="yes">P</italic> &lt;
+0.01.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="spectrum.03388-24.f009.jpg"><alt-text>Kaplan–Meier survival curve plots show that 7-hydroxyindole
+alone does not affect survival, while XDRAB significantly reduces it.
+Co-treatment with 7-hydroxyindole or tigecycline improves survival
+compared to XDRAB alone.</alt-text></graphic></fig></sec><sec id="s2-6"><title>7-Hydroxyindole affects the expression of quorum sensing-related
+genes</title><p>To explore the mechanism by which 7-hydroxyindole inhibits XDRAB biofilm
+formation, we examined its effects on the expression of quorum sensing-related
+genes affecting <italic toggle="yes">A. baumannii</italic> biofilm formation (<xref rid="B38" ref-type="bibr">38</xref>, <xref rid="B39" ref-type="bibr">39</xref>). Reverse transcription (RT)-qPCR was employed to assess the
+impact of 7-hydroxyindole on the expression of <italic toggle="yes">abaI</italic> and
+<italic toggle="yes">abaR</italic> of six XDRAB isolates and the reference strain
+ATCC17978. The two genes encode, respectively, a quorum sensing system
+auto-inducer synthase (AbaI) and an auto-inducer synthase receptor (AbaR)
+involved in biofilm formation and virulence (<xref rid="B38" ref-type="bibr">38</xref>). The findings indicated that 7-hydroxyindole significantly
+inhibited both <italic toggle="yes">abaI</italic> and <italic toggle="yes">abaR</italic> expression at 1/8
+MIC in all tested strains, except for strain A50 where the <italic toggle="yes">abaI</italic>
+and <italic toggle="yes">abaR</italic> expression were moderately down-regulated and
+up-regulated, respectively (<xref rid="F10" ref-type="fig">Fig. 10</xref>).</p><fig position="float" fig-type="figure" id="F10" orientation="portrait"><label>Fig 10</label><caption><p>Effect of 7-hydroxyindole on the expression of <italic toggle="yes">abaI</italic> and
+<italic toggle="yes">abaR</italic> of <italic toggle="yes">A. baumannii</italic> ATCC 17978
+and six XDRAB isolates (for each strain, <italic toggle="yes">n</italic> = 6,
+<inline-formula id="ui6"><alternatives><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="spectrum.03388-24.im006.jpg"/><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="u6" display="inline" overflow="scroll"><mml:mover accent="true"><mml:mrow><mml:mi>x</mml:mi><mml:mi/></mml:mrow><mml:mo>-</mml:mo></mml:mover></mml:math></alternatives></inline-formula>
+± <italic toggle="yes">s</italic>; *<italic toggle="yes">P</italic> &lt; 0.05,
+**<italic toggle="yes">P</italic> &lt; 0.01, ***<italic toggle="yes">P</italic> &lt;
+0.001 versus none group).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="spectrum.03388-24.f010.jpg"><alt-text>Bar graphs plot relative expression of abaI and abaR genes with
+and without 7-hydroxyindole across multiple strains. 7-hydroxyindole
+significantly downregulates both genes in most strains, except in A50
+where expression increased.</alt-text></graphic></fig></sec></sec><sec sec-type="discussion" id="s3"><title>DISCUSSION</title><p>XDRAB isolates are frequently prevalent in clinical settings around the globe and
+pose a major threat to effective antimicrobial therapy (<xref rid="B4" ref-type="bibr">4</xref>, <xref rid="B7" ref-type="bibr">7</xref>, <xref rid="B10" ref-type="bibr">10</xref>, <xref rid="B40" ref-type="bibr">40</xref>,
+<xref rid="B41" ref-type="bibr">41</xref>). In a recent national cohort of
+patients with XDRAB, neither combination therapy nor receipt of adequate treatment
+was found to improve outcomes, indicating the need for optimal management of this
+difficult-to-treat pathogen with few effective antimicrobial options (<xref rid="B42" ref-type="bibr">42</xref>). Indeed, <italic toggle="yes">A. baumannii</italic> is
+featured with multidrug and extensive drug resistance and with its adhesion to
+medical devices (e.g., catheters, endotracheal tubes of ventilators, dialysis
+equipment, and various surfaces) by forming biofilms (<xref rid="B43" ref-type="bibr">43</xref>, <xref rid="B44" ref-type="bibr">44</xref>). These features,
+together with antimicrobial use, are major risk factors related to XDRAB nosocomial
+infections or outbreaks (<xref rid="B44" ref-type="bibr">44</xref><xref rid="B45" ref-type="bibr">–</xref><xref rid="B46" ref-type="bibr">46</xref>). Consequently, antimicrobial activity against XDRAB and inhibiting
+XDRAB biofilm formation are crucial for controlling XDRAB infections. This study
+revealed the high prevalence of XDRAB (including carbapenem resistance) in our
+clinical setting (<xref rid="T1" ref-type="table">Table 1</xref> and <xref rid="SuF1" ref-type="supplementary-material">Table S3</xref>), consistent with
+global increasing trends regarding resistance in <italic toggle="yes">A. baumannii</italic>,
+which is highlighted by the World Health Organization and US Centers for Disease
+Control and Prevention as a major public health threat (<xref rid="B9" ref-type="bibr">9</xref>, <xref rid="B47" ref-type="bibr">47</xref>). Over 90% of the
+70 isolates in this study formed various degrees of biofilms, which aligns with the
+higher rate of biofilm production in <italic toggle="yes">A. baumannii</italic> (<xref rid="B44" ref-type="bibr">44</xref>).</p><p>Given that indole derivatives possess potential antimicrobial activities (<xref rid="B22" ref-type="bibr">22</xref>, <xref rid="B23" ref-type="bibr">23</xref>,
+<xref rid="B25" ref-type="bibr">25</xref>, <xref rid="B34" ref-type="bibr">34</xref>), we initiated an investigation to screen 46 indole agents for their
+antimicrobial and antibiofilm activities. These agents showed MIC values of
+64–1,024 µg/mL. Subsequently, we further focused on three indole
+derivatives: 5-iodoindole, 3-methylindole, and particularly, 7-hydroxyindole. These
+three indoles exhibit relatively strong activity against XDRAB isolates and also
+interplay with anti-<italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> antimicrobial
+drugs for synergistic effects. These agents at sub-MIC levels inhibited XDRAB
+biofilm formation. More importantly, 7-hydroxyindole was able to eradicate
+established biofilms.</p><p>The intrinsic antimicrobial activity of indole derivatives is expected based on
+available literature information (<xref rid="B22" ref-type="bibr">22</xref>, <xref rid="B48" ref-type="bibr">48</xref>). For instance, a range of
+<italic toggle="yes">bis</italic>-indole agents was found to exhibit antimicrobial activity
+against multidrug-resistant gram-positive and gram-negative bacterial species,
+including <italic toggle="yes">A. baumannii</italic> and <italic toggle="yes">P. aeruginosa</italic> (<xref rid="B29" ref-type="bibr">29</xref>, <xref rid="B33" ref-type="bibr">33</xref>,
+<xref rid="B34" ref-type="bibr">34</xref>, <xref rid="B49" ref-type="bibr">49</xref>). Our observations of the synergistic effects of indole
+agent-antimicrobial drug combinations reflect well the interplay between indole
+agents and conventional antimicrobial drugs (<xref rid="B29" ref-type="bibr">29</xref>, <xref rid="B49" ref-type="bibr">49</xref>). Another study also
+showed that 3-indoleacetonitrile enhanced susceptibility to imipenem and attenuated
+biofilm formation in <italic toggle="yes">A. baumannii</italic> (<xref rid="B50" ref-type="bibr">50</xref>). The indole derivatives are warranted for further investigations
+regarding their potential to be used at sub-inhibitory levels as antimicrobial
+adjuvants. Furthermore, the eradicating effects on XRAB mature biofilm, as
+demonstrated with sub-inhibitory levels of 7-hydroxyindole, indicate another
+important property of indole agents against gram-negative bacterial biofilm
+cells.</p><p>We further explored potential mechanisms related to the antimicrobial and/or
+antibiofilm activities of indole agents. First, antimicrobial activities of indole
+agents are predicted to be possibly attributable to multiple modes of action,
+including DNA targeting and membrane integrity disruption (<xref rid="B51" ref-type="bibr">51</xref>, <xref rid="B52" ref-type="bibr">52</xref>). The mechanisms
+of action of indole agents are mostly different from those of conventional
+antimicrobial drugs (<xref rid="B53" ref-type="bibr">53</xref>), thus allowing
+indoles to inhibit or kill XDRAB. Indoles can facilitate the uptake of
+antimicrobials in gram-negative bacteria and provide support for combination
+antimicrobial regimens (<xref rid="B50" ref-type="bibr">50</xref>, <xref rid="B54" ref-type="bibr">54</xref>). Intriguingly, a recent study on the
+structure-activity relation of an indole agent revealed the influence of indole
+substitution at positions 5 and 7 on their biological activity (<xref rid="B55" ref-type="bibr">55</xref>). These substitute positions are reflected
+in this study with the different groups of our two selected indole derivatives
+(5-iodoindole and 7-hydroxyindole). Biofilm formation in <italic toggle="yes">A.
+baumannii</italic> is multifactorial, including contributions from the quorum
+sensing system (<xref rid="B39" ref-type="bibr">39</xref>, <xref rid="B56" ref-type="bibr">56</xref>). In this regard, AbaI/AbaR form key components of the
+<italic toggle="yes">A. baumannii</italic> quorum sensing system and are homologs of
+LuxI/LuxR widely present in other gram-negative bacteria (<xref rid="B38" ref-type="bibr">38</xref>, <xref rid="B57" ref-type="bibr">57</xref>). Our results
+indicate that indoles significantly inhibited the expression of
+<italic toggle="yes">abaI</italic> and <italic toggle="yes">abaR</italic>, likely suggesting that a
+possible mechanism by which indole agents inhibit or eradicate XDRAB biofilms may at
+least involve disrupting the quorum sensing pathways of <italic toggle="yes">A.
+baumannii</italic>. Moreover, we consider that indole agents may be potentially
+used as biocides/disinfectants, which have demonstrated activities against
+<italic toggle="yes">A. baumannii</italic> including biofilms (<xref rid="B58" ref-type="bibr">58</xref>, <xref rid="B59" ref-type="bibr">59</xref>). In this regard,
+multidrug efflux pumps of the resistance-nodulation-cell division (RND) superfamily
+in <italic toggle="yes">A. baumannii</italic> play a major role in intrinsic and acquired
+multidrug resistance (<xref rid="B6" ref-type="bibr">6</xref>). Unlike various
+conventional antimicrobial drugs, biocides may not be preferred substrates for RND
+pumps (<xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B60" ref-type="bibr">60</xref>). However, biocide agents may affect the expression of RND pumps in
+<italic toggle="yes">A. baumannii</italic> as part of the bacterial stress response to
+bioactive agents (<xref rid="B60" ref-type="bibr">60</xref>). Migliaccio et al.
+(<xref rid="B58" ref-type="bibr">58</xref>) recently demonstrated modulation of
+efflux pump activity by resveratrol, chlorhexidine, and benzalkonium for inhibition
+of biofilm formation and preformed biofilm in <italic toggle="yes">A. baumannii</italic>. Thus,
+whether and how indole agents presented in this study could affect the expression of
+RND and other family drug efflux pumps is warranted for further investigation.
+Together, our study supports the potential for further exploring indole agents as
+antimicrobials, biocides, or adjuvants in combating antimicrobial-resistant
+pathogens, including the increasing threats associated with XDRAB.</p></sec><sec sec-type="materials|methods" id="s4"><title>MATERIALS AND METHODS</title><sec id="s4-1"><title>Bacterial strains, growth media, and antimicrobial agents</title><p>A total of 70 clinical isolates of <italic toggle="yes">A. baumannii</italic> were obtained
+from clinical specimens in 2018–2019 from the First Affiliated Hospital
+of Chengdu Medical College, Chengdu, China (<xref rid="SuF1" ref-type="supplementary-material">Tables S2 and S3</xref>). These
+isolates were assessed for their abilities to form biofilms (<xref rid="SuF1" ref-type="supplementary-material">Table S4</xref>). Six isolates
+(i.e., A19, A35, A43, A46, A49, and A50) with various degrees (strong, medium,
+and weak, respectively, two isolates from each category) were selected for
+assessing antimicrobial and antibiofilm effects of indole derivative agents.
+These isolates were identified to belong to sequence type ST 298 except isolate
+A49 as ST 195 based on multilocus sequence typing analysis as previously
+described (<xref rid="B59" ref-type="bibr">59</xref>) from genomic sequences of
+seven housekeeping genes <italic toggle="yes">gltA</italic>, <italic toggle="yes">gyrB</italic>,
+<italic toggle="yes">gdhB</italic>, <italic toggle="yes">recA</italic>, <italic toggle="yes">cpn60</italic>,
+<italic toggle="yes">gpi</italic>, and <italic toggle="yes">rpoD</italic> (<xref rid="B61" ref-type="bibr">61</xref>, <xref rid="B62" ref-type="bibr">62</xref>). Studies
+have shown that the ability to form biofilm differs among <italic toggle="yes">A.
+baumannii</italic> isolates assigned to distinct genotypes (<xref rid="B10" ref-type="bibr">10</xref>). <italic toggle="yes">A. baumannii</italic> ATCC
+17978, a reference strain (<xref rid="B63" ref-type="bibr">63</xref>, <xref rid="B64" ref-type="bibr">64</xref>), was used for gene expression testing.
+<italic toggle="yes">E. coli</italic> ATCC 25922 and <italic toggle="yes">Staphylococcus
+aureus</italic> ATCC 29213 are quality control strains for antimicrobial
+susceptibility testing (<xref rid="B37" ref-type="bibr">37</xref>).</p><p>Bacterial cells were cultured in Luria Bertani (LB) broth, LB agar medium,
+tryptone soy broth (TSB) medium, or cation-adjusted Muller-Hinton broth (CAMHB)
+as described in relevant experiments. Clinically relevant antimicrobials used
+for susceptibility testing include β-lactams (meropenem, imipenem,
+cefotaxime, ceftazidime, ampicillin-sulbactam, and cefoperazone-sulbactam),
+aminoglycosides (amikacin and gentamicin), fluoroquinolones (ciprofloxacin and
+levofloxacin), polymyxin (polymyxin B), and tetracyclines (doxycycline,
+minocycline, tetracycline, and tigecycline). A total of 46 indole agents,
+including 5-iodoindole, 3-methylindole, and 7-hydroxyindole, were tested.
+Details of bacterial strains, media, and chemicals (including indole agents and
+antimicrobial drugs) are present in <xref rid="SuF1" ref-type="supplementary-material">Table S1</xref>.</p></sec><sec id="s4-2"><title>Antimicrobial and indole agent susceptibility testing</title><p>The MIC values of antimicrobial drugs and indole derivatives against <italic toggle="yes">A.
+baumannii</italic> were determined by the broth microdilution method (<xref rid="B37" ref-type="bibr">37</xref>). Briefly, bacterial cells were grown on
+LB agar medium overnight at 37°C, subsequently resuspended in
+physiological saline to be adjusted to the 0.5 McFarland turbidity standard and
+then diluted 20 times. Antimicrobial drugs were prepared in water, and indole
+derivatives were dissolved in dimethyl sulfoxide. Stock solutions of these
+agents were then diluted to different concentrations using CAMHB medium.
+Finally, 180 µL of CAMHB, 10 µL of the corresponding antimicrobial
+drug or an indole derivative, and 10 µL of bacterial resuspension were
+added to the 96-well plate. Optical density at 600 nm (OD<sub>600</sub>) was
+measured after incubation at 37°C in the dark for 20–24 hours. An
+OD<sub>600</sub> value of less than 0.1 was regarded as no bacterial growth,
+colored drugs were observed macroscopically, and data were recorded.</p></sec><sec id="s4-3"><title>Antimicrobial synergy testing</title><p>The checkerboard method was applied to assess the synergistic effects of three
+indole derivatives and conventional antimicrobial drugs on six XDRAB. Similar to
+antimicrobial susceptibility testing described above, each plate well in this
+combination testing contained 170 µL CAMHB, 10 µL of serially
+diluted indole derivatives along the <italic toggle="yes">x</italic>-axis, 10 µL of
+antimicrobial along the <italic toggle="yes">y</italic>-axis, and 10 µL of bacterial
+resuspension, followed by incubation at 37°C for 20–24 hours. The
+fractional inhibitory concentration index (FICI) values were obtained by the
+following equation:</p><disp-formula id="uFD1">
+<alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="spectrum.03388-24.m001.jpg"/><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="um1" display="block" overflow="scroll"><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mrow><mml:mi mathvariant="normal">F</mml:mi><mml:mi mathvariant="normal">I</mml:mi><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">I</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi mathvariant="normal">M</mml:mi><mml:mi mathvariant="normal">I</mml:mi><mml:msub><mml:mi mathvariant="normal">C</mml:mi><mml:mrow><mml:mi mathvariant="normal">A</mml:mi><mml:mtext> </mml:mtext><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">o</mml:mi><mml:mi mathvariant="normal">m</mml:mi><mml:mi mathvariant="normal">b</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">t</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">o</mml:mi><mml:mi mathvariant="normal">n</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi mathvariant="normal">M</mml:mi><mml:mi mathvariant="normal">I</mml:mi><mml:msub><mml:mi mathvariant="normal">C</mml:mi><mml:mrow><mml:mi mathvariant="normal">A</mml:mi><mml:mtext> </mml:mtext><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">l</mml:mi><mml:mi mathvariant="normal">o</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mi mathvariant="normal">e</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mi mathvariant="normal">M</mml:mi><mml:mi mathvariant="normal">I</mml:mi><mml:msub><mml:mi mathvariant="normal">C</mml:mi><mml:mrow><mml:mi mathvariant="normal">B</mml:mi><mml:mtext> </mml:mtext><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">o</mml:mi><mml:mi mathvariant="normal">m</mml:mi><mml:mi mathvariant="normal">b</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">t</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">o</mml:mi><mml:mi mathvariant="normal">n</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi mathvariant="normal">M</mml:mi><mml:mi mathvariant="normal">I</mml:mi><mml:msub><mml:mi mathvariant="normal">C</mml:mi><mml:mrow><mml:mi mathvariant="normal">B</mml:mi><mml:mtext> </mml:mtext><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">l</mml:mi><mml:mi mathvariant="normal">o</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mi mathvariant="normal">e</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:mstyle></mml:math></alternatives>
+</disp-formula><p>Interpretation of the FICI values was as follows: synergy (FICI ≤ 0.5), no
+interaction (FICI &gt; 0.5–4.0) (FICI ≤ 0.5), and antagonism
+(FICI &gt; 4.0) (<xref rid="B65" ref-type="bibr">65</xref>). Within no
+interaction, additivity (&gt;0.5–1) and indifference
+(&gt;1–4) were determined.</p></sec><sec id="s4-4"><title>Biofilm formation of XDRAB and effects of indole derivatives</title><p>A crystal violet staining method was used to determine the biofilm formation
+ability of XDRAB and the effects of indole derivatives (<xref rid="B66" ref-type="bibr">66</xref>, <xref rid="B67" ref-type="bibr">67</xref>). Initially,
+70 isolates of <italic toggle="yes">A. baumannii</italic> were screened for their biofilm
+formation abilities, followed by grouping them as strong (OD<sub>570</sub>
+≥ 3OD<sub>570</sub> [Blank] + 3SD), medium (3OD<sub>570</sub> [Blank] +
+3SD &gt; OD<sub>570</sub> ≥ 2OD<sub>570</sub> [Blank] + 3SD), and
+weak (OD<sub>570</sub> ≥ OD<sub>570</sub> [Blank] + 3SD), biofilm
+producers (<xref rid="B67" ref-type="bibr">67</xref>). Briefly, bacterial cells
+grown overnight at 37°C were adjusted to 0.5 McFarland turbidity
+standard. Using a 96-well cell culture plate, 170 µL of TSB medium and 10
+µL of phosphate-buffered saline (PBS; no treatment control group) or
+different concentrations of an indole derivative solution were added to each
+well, followed by the inoculation of 20 µL of the bacterial suspension.
+To avoid the edge effect of the 96-well plate, the surrounding wells were
+removed, and five replicate wells were set for each strain. The culture plate
+was incubated at 37°C for 24 hours, and then the wells were emptied and
+washed three times with PBS. After complete drying, 150 µL of 0.5%
+crystal violet was added for 20 minutes, then washed three times with PBS, dried
+in air for 30 minutes, dissolved in 150 µL of 95% ethanol for 15 minutes,
+and finally OD<sub>570</sub> values were measured to quantify the amount of XDAB
+biofilm formation</p><p>For assessing the biofilm eradication effect, 180 µL of TSB medium and 20
+µL of bacterial solution were added, followed by incubation at
+37°C for 24 hours. After the biofilm was formed, the wells were emptied
+and washed three times with PBS. Subsequently, 190 µL PBS and 10
+µL of indole derivative solutions were added and cultured at 37°C
+for 24 hours. Finally, crystal violet staining and OD<sub>570</sub>
+determination were performed.</p></sec><sec id="s4-5"><title><italic toggle="yes">Galleria mellonella</italic> killing assay</title><p><italic toggle="yes">G. mellonella</italic> serves as a model system to examine <italic toggle="yes">A.
+baumannii</italic> pathogenesis (<xref rid="B68" ref-type="bibr">68</xref>).
+<italic toggle="yes">G. mellonella</italic> infection assay was conducted to assess the
+impact of 7-hydroxyindole on the killing by the six XDRAB isolates. Ten larvae
+per group or per isolate were randomly allocated. <italic toggle="yes">G. mellonella</italic>
+larvae with a length of approximately 15–25 mm and a weight ranging from
+250 to 350 mg were selected for the experiment, and injections were administered
+via a microsyringe into the penultimate right hind leg. Each larva was infected
+with 10 µL of a bacterial suspension containing approximately 2.5
+× 10<sup>6</sup> colony-forming units of XDRAB. After 30 minutes of
+infection, the treatment group was injected with 7-hydroxyindole (10 µL
+at 1× MIC). The control groups included an untreated group (received 0.9%
+sodium chloride) and an antimicrobial treated group (10 µL tigecycline at
+1× MIC). The treated larvae were reared in a constant temperature
+incubator set at 37℃, followed by the examination of the mortality of
+<italic toggle="yes">G. mellonella</italic> larvae every 24 hours post-treatment for 72
+hours.</p></sec><sec id="s4-6"><title>Effect of 7-hydroxyindole on XDRAB biofilm assessed using ordinary optical
+microscope, CLSM, and SEM</title><p>Cell slides with surface tissue culture treated were added to 24-well plates,
+followed by the addition of 850 µL of TSB medium, 100 µL of 0.5
+McFarland turbidity standard bacterial solution, and 50 µL of
+7-hydroxyindole (high dose: 1/8 MIC; low dose: 1/32 MIC; and 50 µL of
+0.125% dimethylsulfoxide as the blank control). The culture plate was incubated
+at 37°C for 24 hours, which allowed the strain to grow, adhere to the
+cell slide, and form biofilms. Subsequently, the wells were emptied and washed
+three times with PBS. In addition, for the detection of the eradication effect,
+only 900 µL TSB medium and 100 µL of the above bacterial solution
+were added and cultured at 37°C for 24 hours. Then, 950 µL PBS and
+50 µL of different concentrations of indole derivative solution were
+added and cultured at 37°C for 24 hours. For the conventional light
+microscopy examination, after washing away the floating bacterial cells, the
+biofilm cells were fixed with 2.5% glutaraldehyde for 20 minutes, stained with
+0.5% crystal violet for 15 minutes, and finally, washed three times with PBS and
+observed with a conventional light microscope. For CLSM examination, SYTO 9 (5
+μM) and propidium iodide (10 µM) dyes were used to stain bacterial
+cells for 15 minutes, followed by stain removal, washing with PBS, and slide
+preparation. For SEM examination, bacterial cells were fixed with 2.5%
+glutaraldehyde overnight at 4°C, followed by dehydration in graded eight
+ethanol solutions (30%–100%; 15 minutes each). Finally, biofilm specimens
+were dried and observed using SEM imaging (<xref rid="B69" ref-type="bibr">69</xref>, <xref rid="B70" ref-type="bibr">70</xref>).</p></sec><sec id="s4-7"><title>Gene expression assay</title><p>RT-qPCR was used to assess the effect of 7-hydroxyindole on the gene expression
+of quorum sensing/biofilm formation genes (<italic toggle="yes">abaI</italic> and
+<italic toggle="yes">abaR</italic>) of <italic toggle="yes">A. baumannii</italic> strains. The primers
+used are presented in <xref rid="SuF1" ref-type="supplementary-material">Table
+S6</xref>. Briefly, 50 µL of XDRAB cells (0.5 McFarland) and 50
+µL of 7-hydroxyindole at different concentrations were, respectively,
+added to 900 µL LB broth, followed by incubation at 37°C for 24
+hours. Total RNA was prepared using an RNA isolation kit (Vazyme Biological,
+Nanjing, China) from <italic toggle="yes">A. baumannii</italic>, followed by RT-qPCR that
+included the reverse transcription of RNA into cDNA using a cDNA synthesis kit
+(Vazyme) and qPCR using the fluorescent dye SYBR Color qPCR Master Mix (Vazyme).
+The 16S rRNA gene was used as the internal standard of mRNA quantification. The
+qPCR cycling conditions were as follows: pre-denaturation at 95°C for 3
+minutes, followed by 40 cycles of 95°C for 15 seconds and 60°C for
+30 seconds. The expression level of each gene was normalized, and the relative
+expression was calculated as 2<sup>−ΔΔCT</sup>. Fold
+changes in gene expression from 7-hydroxyindole-treated cells were compared to
+untreated cells that were propagated under the same conditions (<xref rid="B71" ref-type="bibr">71</xref>).</p></sec><sec id="s4-8"><title>Statistical analysis</title><p>The mean and standard deviation of the mean were calculated using SPSS 27.0.
+GraphPad Prism 10.2.3 was used for mapping (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.graphpad.com/" ext-link-type="uri">https://www.graphpad.com/</ext-link>). Data were analyzed with a one-way
+analysis of variance followed by Dunnett’s test. Data were considered
+statistically significant with <italic toggle="yes">P</italic> &lt; 0.05.</p></sec></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>The authors thank Dr. Xian-Zhi Li for critical review of the manuscript.</p></ack><sec sec-type="supplementary-material" id="s5-1"><title>SUPPLEMENTAL MATERIAL</title><p specific-use="print-only">The following material is available online at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.1128/spectrum.03388-24" ext-link-type="uri">https://doi.org/10.1128/spectrum.03388-24</ext-link>.</p><supplementary-material id="SuF1" position="float" content-type="local-data" orientation="portrait"><object-id pub-id-type="doi">10.1128/spectrum.03388-24.SuF1</object-id><label>Supplemental material</label><caption><title>spectrum.03388-24-s0001.docx</title><p>Tables S1 to S6.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="spectrum.03388-24-s0001.docx" position="float" orientation="portrait"/></supplementary-material><p specific-use="online-only">ASM does not own the copyrights to Supplemental Material
+that may be linked to, or accessed through, an article. The authors have granted ASM
+a non-exclusive, world-wide license to publish the Supplemental Material files.
+Please contact the corresponding author directly for reuse. </p></sec><ref-list><title>REFERENCES</title><ref id="B1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Bergogne-Bérézin</surname>
+<given-names>E</given-names></string-name>,
+<string-name name-style="western"><surname>Towner</surname>
+<given-names>KJ</given-names></string-name></person-group>.
+<year>1996</year>. <article-title>Acinetobacter spp. as nosocomial
+pathogens: microbiological, clinical, and epidemiological
+features</article-title>. <source>Clin Microbiol Rev</source>
+<volume>9</volume>:<fpage>148</fpage>–<lpage>165</lpage>. doi:<pub-id pub-id-type="doi">10.1128/CMR.9.2.148</pub-id><pub-id pub-id-type="pmid">8964033</pub-id>
+<pub-id pub-id-type="pmcid">PMC172888</pub-id></mixed-citation></ref><ref id="B2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Peleg</surname>
+<given-names>AY</given-names></string-name>,
+<string-name name-style="western"><surname>Seifert</surname>
+<given-names>H</given-names></string-name>,
+<string-name name-style="western"><surname>Paterson</surname>
+<given-names>DL</given-names></string-name></person-group>.
+<year>2008</year>. <article-title>Acinetobacter baumannii: emergence of a
+successful pathogen</article-title>. <source>Clin Microbiol Rev</source>
+<volume>21</volume>:<fpage>538</fpage>–<lpage>582</lpage>. doi:<pub-id pub-id-type="doi">10.1128/CMR.00058-07</pub-id><pub-id pub-id-type="pmid">18625687</pub-id>
+<pub-id pub-id-type="pmcid">PMC2493088</pub-id></mixed-citation></ref><ref id="B3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Harding</surname>
+<given-names>CM</given-names></string-name>,
+<string-name name-style="western"><surname>Hennon</surname>
+<given-names>SW</given-names></string-name>,
+<string-name name-style="western"><surname>Feldman</surname>
+<given-names>MF</given-names></string-name></person-group>.
+<year>2018</year>. <article-title>Uncovering the mechanisms of Acinetobacter
+baumannii virulence</article-title>. <source>Nat Rev Microbiol</source>
+<volume>16</volume>:<fpage>91</fpage>–<lpage>102</lpage>. doi:<pub-id pub-id-type="doi">10.1038/nrmicro.2017.148</pub-id><pub-id pub-id-type="pmid">29249812</pub-id>
+<pub-id pub-id-type="pmcid">PMC6571207</pub-id></mixed-citation></ref><ref id="B4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Wang</surname>
+<given-names>M</given-names></string-name>,
+<string-name name-style="western"><surname>Ge</surname>
+<given-names>L</given-names></string-name>,
+<string-name name-style="western"><surname>Chen</surname>
+<given-names>L</given-names></string-name>,
+<string-name name-style="western"><surname>Komarow</surname>
+<given-names>L</given-names></string-name>,
+<string-name name-style="western"><surname>Hanson</surname>
+<given-names>B</given-names></string-name>,
+<string-name name-style="western"><surname>Reyes</surname>
+<given-names>J</given-names></string-name>,
+<string-name name-style="western"><surname>Cober</surname>
+<given-names>E</given-names></string-name>,
+<string-name name-style="western"><surname>Alenazi</surname>
+<given-names>T</given-names></string-name>,
+<string-name name-style="western"><surname>Zong</surname>
+<given-names>Z</given-names></string-name>,
+<string-name name-style="western"><surname>Xie</surname>
+<given-names>Q</given-names></string-name>, <etal>et
+al.</etal></person-group>. <year>2024</year>. <article-title>Clinical
+outcomes and bacterial characteristics of carbapenem-resistant Acinetobacter
+baumannii among patients from different global regions</article-title>.
+<source>Clin Infect Dis</source>
+<volume>78</volume>:<fpage>248</fpage>–<lpage>258</lpage>. doi:<pub-id pub-id-type="doi">10.1093/cid/ciad556</pub-id><pub-id pub-id-type="pmid">37738153</pub-id>
+<pub-id pub-id-type="pmcid">PMC10874260</pub-id></mixed-citation></ref><ref id="B5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Fournier</surname>
+<given-names>PE</given-names></string-name>,
+<string-name name-style="western"><surname>Richet</surname>
+<given-names>H</given-names></string-name></person-group>.
+<year>2006</year>. <article-title>The epidemiology and control of
+Acinetobacter baumannii in health care facilities</article-title>.
+<source>Clin Infect Dis</source>
+<volume>42</volume>:<fpage>692</fpage>–<lpage>699</lpage>. doi:<pub-id pub-id-type="doi">10.1086/500202</pub-id><pub-id pub-id-type="pmid">16447117</pub-id>
+</mixed-citation></ref><ref id="B6"><label>6</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Ling</surname>
+<given-names>BD</given-names></string-name>,
+<string-name name-style="western"><surname>Zhang</surname>
+<given-names>L</given-names></string-name>,
+<string-name name-style="western"><surname>Li</surname>
+<given-names>X-Z</given-names></string-name></person-group>.
+<year>2016</year>. <part-title>Antimicrobial resistance and drug efflux
+pumps in <italic toggle="yes">Acinetobacter</italic></part-title>.
+In
+<person-group person-group-type="editor"><string-name name-style="western"><surname>Li</surname>
+<given-names>X-Z</given-names></string-name>,
+<string-name name-style="western"><surname>Elkins</surname>
+<given-names>C</given-names></string-name>,
+<string-name name-style="western"><surname>Zgurskaya</surname>
+<given-names>H</given-names></string-name></person-group> (ed),
+<source>Efflux-mediated antimicrobial resistance in bacteria</source>.
+<publisher-name>Adis, Springer Nature</publisher-name>.</mixed-citation></ref><ref id="B7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Fitzpatrick</surname>
+<given-names>MA</given-names></string-name>,
+<string-name name-style="western"><surname>Suda</surname>
+<given-names>KJ</given-names></string-name>,
+<string-name name-style="western"><surname>Poggensee</surname>
+<given-names>L</given-names></string-name>,
+<string-name name-style="western"><surname>Vivo</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Wirth</surname>
+<given-names>M</given-names></string-name>,
+<string-name name-style="western"><surname>Wilson</surname>
+<given-names>G</given-names></string-name>,
+<string-name name-style="western"><surname>Evans</surname>
+<given-names>M</given-names></string-name>,
+<string-name name-style="western"><surname>Evans</surname>
+<given-names>CT</given-names></string-name></person-group>.
+<year>2021</year>. <article-title>Epidemiology and clinical outcomes
+associated with extensively drug-resistant (XDR) Acinetobacter in US
+veterans’ affairs (VA) medical centers</article-title>.
+<source>Infect Control Hosp Epidemiol</source>
+<volume>42</volume>:<fpage>305</fpage>–<lpage>310</lpage>. doi:<pub-id pub-id-type="doi">10.1017/ice.2020.450</pub-id><pub-id pub-id-type="pmid">32993829</pub-id>
+<pub-id pub-id-type="pmcid">PMC8428801</pub-id></mixed-citation></ref><ref id="B8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Khongfak</surname>
+<given-names>S</given-names></string-name>,
+<string-name name-style="western"><surname>Thummeepak</surname>
+<given-names>R</given-names></string-name>,
+<string-name name-style="western"><surname>Leungtongkam</surname>
+<given-names>U</given-names></string-name>,
+<string-name name-style="western"><surname>Tasanapak</surname>
+<given-names>K</given-names></string-name>,
+<string-name name-style="western"><surname>Thanwisai</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Sitthisak</surname>
+<given-names>S</given-names></string-name></person-group>.
+<year>2022</year>. <article-title>Insights into mobile genetic elements and
+the role of conjugative plasmid in transferring aminoglycoside resistance in
+extensively drug-resistant Acinetobacter baumannii AB329</article-title>.
+<source>PeerJ</source>
+<volume>10</volume>:<elocation-id>e13718</elocation-id>. doi:<pub-id pub-id-type="doi">10.7717/peerj.13718</pub-id><pub-id pub-id-type="pmid">35855908</pub-id>
+<pub-id pub-id-type="pmcid">PMC9288165</pub-id></mixed-citation></ref><ref id="B9"><label>9</label><mixed-citation publication-type="webpage">
+<person-group person-group-type="author"><collab>WHO</collab></person-group>.
+<year>2024</year>. <source>WHO Bacterial priority pathogens list, 2024:
+bacterial pathogens of public health importance to guide research,
+development and strategies to prevent and control antimicrobial
+resistance</source>. <comment>Available from</comment>: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://iris.who.int/bitstream/handle/10665/376776/9789240093461-eng.pdf?sequence=1" ext-link-type="uri">https://iris.who.int/bitstream/handle/10665/376776/9789240093461-eng.pdf?sequence=1</ext-link><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(25)00118-5</pub-id><pub-id pub-id-type="pmid">40245910</pub-id></mixed-citation></ref><ref id="B10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Lucidi</surname>
+<given-names>M</given-names></string-name>,
+<string-name name-style="western"><surname>Visaggio</surname>
+<given-names>D</given-names></string-name>,
+<string-name name-style="western"><surname>Migliaccio</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Capecchi</surname>
+<given-names>G</given-names></string-name>,
+<string-name name-style="western"><surname>Visca</surname>
+<given-names>P</given-names></string-name>,
+<string-name name-style="western"><surname>Imperi</surname>
+<given-names>F</given-names></string-name>,
+<string-name name-style="western"><surname>Zarrilli</surname>
+<given-names>R</given-names></string-name></person-group>.
+<year>2024</year>. <article-title>Pathogenicity and virulence of
+Acinetobacter baumannii: factors contributing to the fitness in healthcare
+settings and the infected host</article-title>. <source>Virulence</source>
+<volume>15</volume>:<elocation-id>2289769</elocation-id>. doi:<pub-id pub-id-type="doi">10.1080/21505594.2023.2289769</pub-id><pub-id pub-id-type="pmid">38054753</pub-id>
+<pub-id pub-id-type="pmcid">PMC10732645</pub-id></mixed-citation></ref><ref id="B11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>de la
+Fuente-Nunez</surname>
+<given-names>C</given-names></string-name>,
+<string-name name-style="western"><surname>Cesaro</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Hancock</surname>
+<given-names>REW</given-names></string-name></person-group>.
+<year>2023</year>. <article-title>Antibiotic failure: beyond antimicrobial
+resistance</article-title>. <source>Drug Resist Updat</source>
+<volume>71</volume>:<fpage>101012</fpage>. doi:<pub-id pub-id-type="doi">10.1016/j.drup.2023.101012</pub-id><pub-id pub-id-type="pmid">37924726</pub-id>
+<pub-id pub-id-type="pmcid">PMC12224857</pub-id></mixed-citation></ref><ref id="B12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Hall</surname>
+<given-names>CW</given-names></string-name>,
+<string-name name-style="western"><surname>Mah</surname>
+<given-names>TF</given-names></string-name></person-group>.
+<year>2017</year>. <article-title>Molecular mechanisms of biofilm-based
+antibiotic resistance and tolerance in pathogenic bacteria</article-title>.
+<source>FEMS Microbiol Rev</source>
+<volume>41</volume>:<fpage>276</fpage>–<lpage>301</lpage>. doi:<pub-id pub-id-type="doi">10.1093/femsre/fux010</pub-id><pub-id pub-id-type="pmid">28369412</pub-id>
+</mixed-citation></ref><ref id="B13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Rumbaugh</surname>
+<given-names>KP</given-names></string-name>,
+<string-name name-style="western"><surname>Sauer</surname>
+<given-names>K</given-names></string-name></person-group>.
+<year>2020</year>. <article-title>Biofilm dispersion</article-title>.
+<source>Nat Rev Microbiol</source>
+<volume>18</volume>:<fpage>571</fpage>–<lpage>586</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41579-020-0385-0</pub-id><pub-id pub-id-type="pmid">32533131</pub-id>
+<pub-id pub-id-type="pmcid">PMC8564779</pub-id></mixed-citation></ref><ref id="B14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>McConnell</surname>
+<given-names>MJ</given-names></string-name>,
+<string-name name-style="western"><surname>Actis</surname>
+<given-names>L</given-names></string-name>,
+<string-name name-style="western"><surname>Pachón</surname>
+<given-names>J</given-names></string-name></person-group>.
+<year>2013</year>. <article-title>Acinetobacter baumannii: human infections,
+factors contributing to pathogenesis and animal models</article-title>.
+<source>FEMS Microbiol Rev</source>
+<volume>37</volume>:<fpage>130</fpage>–<lpage>155</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1574-6976.2012.00344.x</pub-id><pub-id pub-id-type="pmid">22568581</pub-id>
+</mixed-citation></ref><ref id="B15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Mea</surname>
+<given-names>HJ</given-names></string-name>,
+<string-name name-style="western"><surname>Yong</surname>
+<given-names>PVC</given-names></string-name>,
+<string-name name-style="western"><surname>Wong</surname>
+<given-names>EH</given-names></string-name></person-group>.
+<year>2021</year>. <article-title>An overview of Acinetobacter baumannii
+pathogenesis: motility, adherence and biofilm formation</article-title>.
+<source>Microbiol Res</source>
+<volume>247</volume>:<fpage>126722</fpage>. doi:<pub-id pub-id-type="doi">10.1016/j.micres.2021.126722</pub-id><pub-id pub-id-type="pmid">33618061</pub-id>
+</mixed-citation></ref><ref id="B16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Kaushik</surname>
+<given-names>V</given-names></string-name>,
+<string-name name-style="western"><surname>Tiwari</surname>
+<given-names>M</given-names></string-name>,
+<string-name name-style="western"><surname>Joshi</surname>
+<given-names>R</given-names></string-name>,
+<string-name name-style="western"><surname>Tiwari</surname>
+<given-names>V</given-names></string-name></person-group>.
+<year>2022</year>. <article-title>Therapeutic strategies against potential
+antibiofilm targets of multidrug-resistant Acinetobacter
+baumannii</article-title>. <source>J Cell Physiol</source>
+<volume>237</volume>:<fpage>2045</fpage>–<lpage>2063</lpage>.
+doi:<pub-id pub-id-type="doi">10.1002/jcp.30683</pub-id><pub-id pub-id-type="pmid">35083758</pub-id>
+</mixed-citation></ref><ref id="B17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Peng</surname>
+<given-names>Q</given-names></string-name>,
+<string-name name-style="western"><surname>Lin</surname>
+<given-names>F</given-names></string-name>,
+<string-name name-style="western"><surname>Ling</surname>
+<given-names>B</given-names></string-name></person-group>.
+<year>2020</year>. <article-title>In vitro activity of biofilm inhibitors in
+combination with antibacterial drugs against extensively drug-resistant
+Acinetobacter baumannii</article-title>. <source>Sci Rep</source>
+<volume>10</volume>:<elocation-id>18097</elocation-id>. doi:<pub-id pub-id-type="doi">10.1038/s41598-020-75218-y</pub-id><pub-id pub-id-type="pmid">33093606</pub-id>
+<pub-id pub-id-type="pmcid">PMC7581519</pub-id></mixed-citation></ref><ref id="B18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>de
+Breij</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Riool</surname>
+<given-names>M</given-names></string-name>,
+<string-name name-style="western"><surname>Cordfunke</surname>
+<given-names>RA</given-names></string-name>,
+<string-name name-style="western"><surname>Malanovic</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>de
+Boer</surname>
+<given-names>L</given-names></string-name>,
+<string-name name-style="western"><surname>Koning</surname>
+<given-names>RI</given-names></string-name>,
+<string-name name-style="western"><surname>Ravensbergen</surname>
+<given-names>E</given-names></string-name>,
+<string-name name-style="western"><surname>Franken</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>van
+der Heijde</surname>
+<given-names>T</given-names></string-name>,
+<string-name name-style="western"><surname>Boekema</surname>
+<given-names>BK</given-names></string-name>,
+<string-name name-style="western"><surname>Kwakman</surname>
+<given-names>PHS</given-names></string-name>,
+<string-name name-style="western"><surname>Kamp</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>El
+Ghalbzouri</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Lohner</surname>
+<given-names>K</given-names></string-name>,
+<string-name name-style="western"><surname>Zaat</surname>
+<given-names>SAJ</given-names></string-name>,
+<string-name name-style="western"><surname>Drijfhout</surname>
+<given-names>JW</given-names></string-name>,
+<string-name name-style="western"><surname>Nibbering</surname>
+<given-names>PH</given-names></string-name></person-group>.
+<year>2018</year>. <article-title>The antimicrobial peptide SAAP-148 combats
+drug-resistant bacteria and biofilms</article-title>. <source>Sci Transl
+Med</source>
+<volume>10</volume>:<elocation-id>eaan4044</elocation-id>. doi:<pub-id pub-id-type="doi">10.1126/scitranslmed.aan4044</pub-id><pub-id pub-id-type="pmid">29321257</pub-id>
+</mixed-citation></ref><ref id="B19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Nait
+Chabane</surname>
+<given-names>Y</given-names></string-name>,
+<string-name name-style="western"><surname>Mlouka</surname>
+<given-names>MB</given-names></string-name>,
+<string-name name-style="western"><surname>Alexandre</surname>
+<given-names>S</given-names></string-name>,
+<string-name name-style="western"><surname>Nicol</surname>
+<given-names>M</given-names></string-name>,
+<string-name name-style="western"><surname>Marti</surname>
+<given-names>S</given-names></string-name>,
+<string-name name-style="western"><surname>Pestel-Caron</surname>
+<given-names>M</given-names></string-name>,
+<string-name name-style="western"><surname>Vila</surname>
+<given-names>J</given-names></string-name>,
+<string-name name-style="western"><surname>Jouenne</surname>
+<given-names>T</given-names></string-name>,
+<string-name name-style="western"><surname>Dé</surname>
+<given-names>E</given-names></string-name></person-group>.
+<year>2014</year>. <article-title>Virstatin inhibits biofilm formation and
+motility of Acinetobacter baumannii</article-title>. <source>BMC
+Microbiol</source>
+<volume>14</volume>:<elocation-id>62</elocation-id>. doi:<pub-id pub-id-type="doi">10.1186/1471-2180-14-62</pub-id><pub-id pub-id-type="pmid">24621315</pub-id>
+<pub-id pub-id-type="pmcid">PMC4007623</pub-id></mixed-citation></ref><ref id="B20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Lee</surname>
+<given-names>JH</given-names></string-name>,
+<string-name name-style="western"><surname>Lee</surname>
+<given-names>J</given-names></string-name></person-group>.
+<year>2010</year>. <article-title>Indole as an intercellular signal in
+microbial communities</article-title>. <source>FEMS Microbiol Rev</source>
+<volume>34</volume>:<fpage>426</fpage>–<lpage>444</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1574-6976.2009.00204.x</pub-id><pub-id pub-id-type="pmid">20070374</pub-id>
+</mixed-citation></ref><ref id="B21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Kim</surname>
+<given-names>J</given-names></string-name>,
+<string-name name-style="western"><surname>Park</surname>
+<given-names>W</given-names></string-name></person-group>.
+<year>2015</year>. <article-title>Indole: a signaling molecule or a mere
+metabolic byproduct that alters bacterial physiology at a high
+concentration?</article-title>
+<source>J Microbiol</source>
+<volume>53</volume>:<fpage>421</fpage>–<lpage>428</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s12275-015-5273-3</pub-id><pub-id pub-id-type="pmid">26115989</pub-id>
+</mixed-citation></ref><ref id="B22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Chadha</surname>
+<given-names>N</given-names></string-name>,
+<string-name name-style="western"><surname>Silakari</surname>
+<given-names>O</given-names></string-name></person-group>.
+<year>2017</year>. <article-title>Indoles as therapeutics of interest in
+medicinal chemistry: bird’s eye view</article-title>. <source>Eur J
+Med Chem</source>
+<volume>134</volume>:<fpage>159</fpage>–<lpage>184</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.ejmech.2017.04.003</pub-id><pub-id pub-id-type="pmid">28412530</pub-id>
+</mixed-citation></ref><ref id="B23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Kaur</surname>
+<given-names>J</given-names></string-name>,
+<string-name name-style="western"><surname>Utreja</surname>
+<given-names>D</given-names></string-name>,
+<string-name name-style="western"><surname>Jain</surname>
+<given-names>N</given-names></string-name>,
+<string-name name-style="western"><surname>Sharma</surname>
+<given-names>S</given-names></string-name></person-group>.
+<year>2019</year>. <article-title>Recent developments in the synthesis and
+antimicrobial activity of indole and its derivatives</article-title>.
+<source>COS</source>
+<volume>16</volume>:<fpage>17</fpage>–<lpage>37</lpage>. doi:<pub-id pub-id-type="doi">10.2174/1570179415666181113144939</pub-id><pub-id pub-id-type="pmid">31965921</pub-id></mixed-citation></ref><ref id="B24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Holland</surname>
+<given-names>DC</given-names></string-name>,
+<string-name name-style="western"><surname>Carroll</surname>
+<given-names>AR</given-names></string-name></person-group>.
+<year>2023</year>. <article-title>Marine indole alkaloid diversity and
+bioactivity. what do we know and what are we missing?</article-title>
+<source>Nat Prod Rep</source>
+<volume>40</volume>:<fpage>1595</fpage>–<lpage>1607</lpage>.
+doi:<pub-id pub-id-type="doi">10.1039/d2np00085g</pub-id><pub-id pub-id-type="pmid">36790012</pub-id>
+</mixed-citation></ref><ref id="B25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Qiongxian</surname>
+<given-names>Y</given-names></string-name>,
+<string-name name-style="western"><surname>Jun</surname>
+<given-names>D</given-names></string-name>,
+<string-name name-style="western"><surname>Zhenfeng</surname>
+<given-names>Z</given-names></string-name>,
+<string-name name-style="western"><surname>Tongyou</surname>
+<given-names>L</given-names></string-name>,
+<string-name name-style="western"><surname>Zhicong</surname>
+<given-names>T</given-names></string-name>,
+<string-name name-style="western"><surname>Zhenyou</surname>
+<given-names>T</given-names></string-name></person-group>.
+<year>2024</year>. <article-title>The therapeutic potential of indole
+hybrids, dimers, and trimers against drug-resistant ESKAPE
+pathogens</article-title>. <source>Arch Pharm (Weinheim)</source>
+<volume>357</volume>:<elocation-id>e2400295</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/ardp.202400295</pub-id><pub-id pub-id-type="pmid">38924571</pub-id>
+</mixed-citation></ref><ref id="B26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Baruah</surname>
+<given-names>B</given-names></string-name>,
+<string-name name-style="western"><surname>Pegu</surname>
+<given-names>CD</given-names></string-name>,
+<string-name name-style="western"><surname>Deb</surname>
+<given-names>ML</given-names></string-name></person-group>.
+<year>2024</year>. <article-title>Indole as a versatile building block in
+cycloaddition reactions: synthesis of diverse heterocyclic
+frameworks</article-title>. <source>Top Curr Chem (Z)</source>
+<volume>382</volume>:<fpage>18</fpage>. doi:<pub-id pub-id-type="doi">10.1007/s41061-024-00463-y</pub-id><pub-id pub-id-type="pmid">38758483</pub-id></mixed-citation></ref><ref id="B27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Girgis</surname>
+<given-names>AS</given-names></string-name>,
+<string-name name-style="western"><surname>Panda</surname>
+<given-names>SS</given-names></string-name>,
+<string-name name-style="western"><surname>Kariuki</surname>
+<given-names>BM</given-names></string-name>,
+<string-name name-style="western"><surname>Bekheit</surname>
+<given-names>MS</given-names></string-name>,
+<string-name name-style="western"><surname>Barghash</surname>
+<given-names>RF</given-names></string-name>,
+<string-name name-style="western"><surname>Aboshouk</surname>
+<given-names>DR</given-names></string-name></person-group>.
+<year>2023</year>. <article-title>Indole-based compounds as potential drug
+candidates for SARS-CoV-2</article-title>. <source>Molecules</source>
+<volume>28</volume>:<elocation-id>6603</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/molecules28186603</pub-id><pub-id pub-id-type="pmid">37764378</pub-id>
+<pub-id pub-id-type="pmcid">PMC10537473</pub-id></mixed-citation></ref><ref id="B28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Nair</surname>
+<given-names>VG</given-names></string-name>,
+<string-name name-style="western"><surname>Srinandan</surname>
+<given-names>CS</given-names></string-name>,
+<string-name name-style="western"><surname>Rajesh</surname>
+<given-names>Y</given-names></string-name>,
+<string-name name-style="western"><surname>Narbhavi</surname>
+<given-names>D</given-names></string-name>,
+<string-name name-style="western"><surname>Anupriya</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Prabhusaran</surname>
+<given-names>N</given-names></string-name>,
+<string-name name-style="western"><surname>Nagarajan</surname>
+<given-names>S</given-names></string-name></person-group>.
+<year>2024</year>. <article-title>Biogenic amine tryptamine in human vaginal
+probiotic isolates mediates matrix inhibition and thwarts uropathogenic E.
+coli biofilm</article-title>. <source>Sci Rep</source>
+<volume>14</volume>:<elocation-id>15387</elocation-id>. doi:<pub-id pub-id-type="doi">10.1038/s41598-024-65780-0</pub-id><pub-id pub-id-type="pmid">38965339</pub-id>
+<pub-id pub-id-type="pmcid">PMC11224256</pub-id></mixed-citation></ref><ref id="B29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Sue</surname>
+<given-names>K</given-names></string-name>,
+<string-name name-style="western"><surname>Cadelis</surname>
+<given-names>MM</given-names></string-name>,
+<string-name name-style="western"><surname>Gill</surname>
+<given-names>ES</given-names></string-name>,
+<string-name name-style="western"><surname>Rouvier</surname>
+<given-names>F</given-names></string-name>,
+<string-name name-style="western"><surname>Bourguet-Kondracki</surname>
+<given-names>ML</given-names></string-name>,
+<string-name name-style="western"><surname>Brunel</surname>
+<given-names>JM</given-names></string-name>,
+<string-name name-style="western"><surname>Copp</surname>
+<given-names>BR</given-names></string-name></person-group>.
+<year>2023</year>. <article-title>Indole-3-acetamido-polyamines as
+antimicrobial agents and antibiotic adjuvants</article-title>.
+<source>Biomolecules</source>
+<volume>13</volume>:<elocation-id>1226</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/biom13081226</pub-id><pub-id pub-id-type="pmid">37627291</pub-id>
+<pub-id pub-id-type="pmcid">PMC10452110</pub-id></mixed-citation></ref><ref id="B30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Rajalaxmi</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Beema
+Shafreen</surname>
+<given-names>R</given-names></string-name>,
+<string-name name-style="western"><surname>Iyer</surname>
+<given-names>PM</given-names></string-name>,
+<string-name name-style="western"><surname>Sahaya Vino</surname>
+<given-names>R</given-names></string-name>,
+<string-name name-style="western"><surname>Balamurugan</surname>
+<given-names>K</given-names></string-name>,
+<string-name name-style="western"><surname>Pandian</surname>
+<given-names>SK</given-names></string-name></person-group>.
+<year>2016</year>. <article-title>An in silico, in vitro and in vivo
+investigation of indole-3-carboxaldehyde identified from the seawater
+bacterium Marinomonas sp. as an anti-biofilm agent against Vibrio cholerae
+O1</article-title>. <source>Biofouling</source>
+<volume>32</volume>:<fpage>1</fpage>–<lpage>12</lpage>. doi:<pub-id pub-id-type="doi">10.1080/08927014.2016.1154545</pub-id><pub-id pub-id-type="pmid">26939983</pub-id></mixed-citation></ref><ref id="B31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Pandolfi</surname>
+<given-names>F</given-names></string-name>,
+<string-name name-style="western"><surname>D’Acierno</surname>
+<given-names>F</given-names></string-name>,
+<string-name name-style="western"><surname>Bortolami</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>De
+Vita</surname>
+<given-names>D</given-names></string-name>,
+<string-name name-style="western"><surname>Gallo</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>De
+Meo</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Di
+Santo</surname>
+<given-names>R</given-names></string-name>,
+<string-name name-style="western"><surname>Costi</surname>
+<given-names>R</given-names></string-name>,
+<string-name name-style="western"><surname>Simonetti</surname>
+<given-names>G</given-names></string-name>,
+<string-name name-style="western"><surname>Scipione</surname>
+<given-names>L</given-names></string-name></person-group>.
+<year>2019</year>. <article-title>Searching for new agents active against
+Candida albicans biofilm: a series of indole derivatives, design, synthesis
+and biological evaluation</article-title>. <source>Eur J Med Chem</source>
+<volume>165</volume>:<fpage>93</fpage>–<lpage>106</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.ejmech.2019.01.012</pub-id><pub-id pub-id-type="pmid">30660829</pub-id>
+</mixed-citation></ref><ref id="B32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Kim</surname>
+<given-names>YG</given-names></string-name>,
+<string-name name-style="western"><surname>Lee</surname>
+<given-names>JH</given-names></string-name>,
+<string-name name-style="western"><surname>Park</surname>
+<given-names>S</given-names></string-name>,
+<string-name name-style="western"><surname>Lee</surname>
+<given-names>J</given-names></string-name></person-group>.
+<year>2022</year>. <article-title>The anticancer agent
+3,3’-diindolylmethane inhibits multispecies biofilm formation by
+acne-causing bacteria and Candida albicans</article-title>.
+<source>Microbiol Spectr</source>
+<volume>10</volume>:<elocation-id>e0205621</elocation-id>. doi:<pub-id pub-id-type="doi">10.1128/spectrum.02056-21</pub-id><pub-id pub-id-type="pmid">35107361</pub-id>
+<pub-id pub-id-type="pmcid">PMC8809333</pub-id></mixed-citation></ref><ref id="B33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Panchal</surname>
+<given-names>RG</given-names></string-name>,
+<string-name name-style="western"><surname>Ulrich</surname>
+<given-names>RL</given-names></string-name>,
+<string-name name-style="western"><surname>Lane</surname>
+<given-names>D</given-names></string-name>,
+<string-name name-style="western"><surname>Butler</surname>
+<given-names>MM</given-names></string-name>,
+<string-name name-style="western"><surname>Houseweart</surname>
+<given-names>C</given-names></string-name>,
+<string-name name-style="western"><surname>Opperman</surname>
+<given-names>T</given-names></string-name>,
+<string-name name-style="western"><surname>Williams</surname>
+<given-names>JD</given-names></string-name>,
+<string-name name-style="western"><surname>Peet</surname>
+<given-names>NP</given-names></string-name>,
+<string-name name-style="western"><surname>Moir</surname>
+<given-names>DT</given-names></string-name>,
+<string-name name-style="western"><surname>Nguyen</surname>
+<given-names>T</given-names></string-name>,
+<string-name name-style="western"><surname>Gussio</surname>
+<given-names>R</given-names></string-name>,
+<string-name name-style="western"><surname>Bowlin</surname>
+<given-names>T</given-names></string-name>,
+<string-name name-style="western"><surname>Bavari</surname>
+<given-names>S</given-names></string-name></person-group>.
+<year>2009</year>. <article-title>Novel broad-spectrum
+bis-(imidazolinylindole) derivatives with potent antibacterial activities
+against antibiotic-resistant strains</article-title>. <source>Antimicrob
+Agents Chemother</source>
+<volume>53</volume>:<fpage>4283</fpage>–<lpage>4291</lpage>.
+doi:<pub-id pub-id-type="doi">10.1128/AAC.01709-08</pub-id><pub-id pub-id-type="pmid">19635954</pub-id>
+<pub-id pub-id-type="pmcid">PMC2764145</pub-id></mixed-citation></ref><ref id="B34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Jacobs</surname>
+<given-names>MR</given-names></string-name>,
+<string-name name-style="western"><surname>Bajaksouzian</surname>
+<given-names>S</given-names></string-name>,
+<string-name name-style="western"><surname>Good</surname>
+<given-names>CE</given-names></string-name>,
+<string-name name-style="western"><surname>Butler</surname>
+<given-names>MM</given-names></string-name>,
+<string-name name-style="western"><surname>Williams</surname>
+<given-names>JD</given-names></string-name>,
+<string-name name-style="western"><surname>Peet</surname>
+<given-names>NP</given-names></string-name>,
+<string-name name-style="western"><surname>Bowlin</surname>
+<given-names>TL</given-names></string-name>,
+<string-name name-style="western"><surname>Endimiani</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Bonomo</surname>
+<given-names>RA</given-names></string-name></person-group>.
+<year>2011</year>. <article-title>Novel bis-indole agents active against
+multidrug-resistant Acinetobacter baumannii</article-title>. <source>Diagn
+Microbiol Infect Dis</source>
+<volume>69</volume>:<fpage>114</fpage>–<lpage>116</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.diagmicrobio.2010.08.014</pub-id><pub-id pub-id-type="pmid">21146724</pub-id>
+<pub-id pub-id-type="pmcid">PMC3725720</pub-id></mixed-citation></ref><ref id="B35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Magiorakos</surname>
+<given-names>AP</given-names></string-name>,
+<string-name name-style="western"><surname>Srinivasan</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Carey</surname>
+<given-names>RB</given-names></string-name>,
+<string-name name-style="western"><surname>Carmeli</surname>
+<given-names>Y</given-names></string-name>,
+<string-name name-style="western"><surname>Falagas</surname>
+<given-names>ME</given-names></string-name>,
+<string-name name-style="western"><surname>Giske</surname>
+<given-names>CG</given-names></string-name>,
+<string-name name-style="western"><surname>Harbarth</surname>
+<given-names>S</given-names></string-name>,
+<string-name name-style="western"><surname>Hindler</surname>
+<given-names>JF</given-names></string-name>,
+<string-name name-style="western"><surname>Kahlmeter</surname>
+<given-names>G</given-names></string-name>,
+<string-name name-style="western"><surname>Olsson-Liljequist</surname>
+<given-names>B</given-names></string-name>,
+<string-name name-style="western"><surname>Paterson</surname>
+<given-names>DL</given-names></string-name>,
+<string-name name-style="western"><surname>Rice</surname>
+<given-names>LB</given-names></string-name>,
+<string-name name-style="western"><surname>Stelling</surname>
+<given-names>J</given-names></string-name>,
+<string-name name-style="western"><surname>Struelens</surname>
+<given-names>MJ</given-names></string-name>,
+<string-name name-style="western"><surname>Vatopoulos</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Weber</surname>
+<given-names>JT</given-names></string-name>,
+<string-name name-style="western"><surname>Monnet</surname>
+<given-names>DL</given-names></string-name></person-group>.
+<year>2012</year>. <article-title>Multidrug-resistant, extensively
+drug-resistant and pandrug-resistant bacteria: an international expert
+proposal for interim standard definitions for acquired
+resistance</article-title>. <source>Clin Microbiol Infect</source>
+<volume>18</volume>:<fpage>268</fpage>–<lpage>281</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1469-0691.2011.03570.x</pub-id><pub-id pub-id-type="pmid">21793988</pub-id>
+</mixed-citation></ref><ref id="B36"><label>36</label><mixed-citation publication-type="webpage">
+<person-group person-group-type="author"><collab>FDA</collab></person-group>.
+<year>2024</year>. <source>FDA-recognized antimicrobial susceptibility test
+interpretive criteria</source>. <comment>Available from</comment>: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.fda.gov/drugs/development-resources/tigecycline-injection-products" ext-link-type="uri">https://www.fda.gov/drugs/development-resources/tigecycline-injection-products</ext-link></mixed-citation></ref><ref id="B37"><label>37</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><collab>CLSI</collab></person-group>.
+<year>2024</year>. <source>Performance Standards for Antimicrobial
+Susceptibility Testing; CLSI Supplement M100-Ed34</source>.
+<publisher-name>Clinical and Laboratory Standards
+Institute</publisher-name>, <publisher-loc>Pennsylvania,
+USA</publisher-loc>.</mixed-citation></ref><ref id="B38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Niu</surname>
+<given-names>C</given-names></string-name>,
+<string-name name-style="western"><surname>Clemmer</surname>
+<given-names>KM</given-names></string-name>,
+<string-name name-style="western"><surname>Bonomo</surname>
+<given-names>RA</given-names></string-name>,
+<string-name name-style="western"><surname>Rather</surname>
+<given-names>PN</given-names></string-name></person-group>.
+<year>2008</year>. <article-title>Isolation and characterization of an
+autoinducer synthase from Acinetobacter baumannii</article-title>. <source>J
+Bacteriol</source>
+<volume>190</volume>:<fpage>3386</fpage>–<lpage>3392</lpage>.
+doi:<pub-id pub-id-type="doi">10.1128/JB.01929-07</pub-id><pub-id pub-id-type="pmid">18281398</pub-id>
+<pub-id pub-id-type="pmcid">PMC2347373</pub-id></mixed-citation></ref><ref id="B39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Sun</surname>
+<given-names>X</given-names></string-name>,
+<string-name name-style="western"><surname>Ni</surname>
+<given-names>Z</given-names></string-name>,
+<string-name name-style="western"><surname>Tang</surname>
+<given-names>J</given-names></string-name>,
+<string-name name-style="western"><surname>Ding</surname>
+<given-names>Y</given-names></string-name>,
+<string-name name-style="western"><surname>Wang</surname>
+<given-names>X</given-names></string-name>,
+<string-name name-style="western"><surname>Li</surname>
+<given-names>F</given-names></string-name></person-group>.
+<year>2021</year>. <article-title>The abaI/abaR quorum sensing system
+effects on pathogenicity in Acinetobacter baumannii</article-title>.
+<source>Front Microbiol</source>
+<volume>12</volume>:<fpage>679241</fpage>. doi:<pub-id pub-id-type="doi">10.3389/fmicb.2021.679241</pub-id><pub-id pub-id-type="pmid">34322102</pub-id>
+<pub-id pub-id-type="pmcid">PMC8312687</pub-id></mixed-citation></ref><ref id="B40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Lin</surname>
+<given-names>L</given-names></string-name>,
+<string-name name-style="western"><surname>Ling</surname>
+<given-names>BD</given-names></string-name>,
+<string-name name-style="western"><surname>Li</surname>
+<given-names>X-Z</given-names></string-name></person-group>.
+<year>2009</year>. <article-title>Distribution of the multidrug efflux pump
+genes, adeABC, adeDE and adeIJK, and class 1 integron genes in
+multiple-antimicrobial-resistant clinical isolates of Acinetobacter
+baumannii-Acinetobacter calcoaceticus complex</article-title>. <source>Int J
+Antimicrob Agents</source>
+<volume>33</volume>:<fpage>27</fpage>–<lpage>32</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.ijantimicag.2008.06.027</pub-id><pub-id pub-id-type="pmid">18790612</pub-id>
+</mixed-citation></ref><ref id="B41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Chan</surname>
+<given-names>MC</given-names></string-name>,
+<string-name name-style="western"><surname>Chiu</surname>
+<given-names>SK</given-names></string-name>,
+<string-name name-style="western"><surname>Hsueh</surname>
+<given-names>PR</given-names></string-name>,
+<string-name name-style="western"><surname>Wang</surname>
+<given-names>NC</given-names></string-name>,
+<string-name name-style="western"><surname>Wang</surname>
+<given-names>CC</given-names></string-name>,
+<string-name name-style="western"><surname>Fang</surname>
+<given-names>CT</given-names></string-name></person-group>.
+<year>2014</year>. <article-title>Risk factors for healthcare-associated
+extensively drug-resistant Acinetobacter baumannii infections: a
+case-control study</article-title>. <source>PLoS ONE</source>
+<volume>9</volume>:<elocation-id>e85973</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0085973</pub-id><pub-id pub-id-type="pmid">24465819</pub-id>
+<pub-id pub-id-type="pmcid">PMC3897568</pub-id></mixed-citation></ref><ref id="B42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Fitzpatrick</surname>
+<given-names>MA</given-names></string-name>,
+<string-name name-style="western"><surname>Suda</surname>
+<given-names>KJ</given-names></string-name>,
+<string-name name-style="western"><surname>Poggensee</surname>
+<given-names>L</given-names></string-name>,
+<string-name name-style="western"><surname>Vivo</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Wilson</surname>
+<given-names>G</given-names></string-name>,
+<string-name name-style="western"><surname>Jones</surname>
+<given-names>MM</given-names></string-name>,
+<string-name name-style="western"><surname>Evans</surname>
+<given-names>M</given-names></string-name>,
+<string-name name-style="western"><surname>Safdar</surname>
+<given-names>N</given-names></string-name>,
+<string-name name-style="western"><surname>Evans</surname>
+<given-names>CT</given-names></string-name></person-group>.
+<year>2022</year>. <article-title>Treatment of extensively-drug resistant
+(XDR) Acinetobacter and impact on clinical outcomes in U.S. veterans affairs
+(VA) medical centers</article-title>. <source>Am J Infect Control</source>
+<volume>50</volume>:<fpage>1020</fpage>–<lpage>1025</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.ajic.2022.01.011</pub-id><pub-id pub-id-type="pmid">35108579</pub-id>
+<pub-id pub-id-type="pmcid">PMC9338173</pub-id></mixed-citation></ref><ref id="B43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Greene</surname>
+<given-names>C</given-names></string-name>,
+<string-name name-style="western"><surname>Vadlamudi</surname>
+<given-names>G</given-names></string-name>,
+<string-name name-style="western"><surname>Newton</surname>
+<given-names>D</given-names></string-name>,
+<string-name name-style="western"><surname>Foxman</surname>
+<given-names>B</given-names></string-name>,
+<string-name name-style="western"><surname>Xi</surname>
+<given-names>C</given-names></string-name></person-group>.
+<year>2016</year>. <article-title>The influence of biofilm formation and
+multidrug resistance on environmental survival of clinical and environmental
+isolates of Acinetobacter baumannii</article-title>. <source>Am J Infect
+Control</source>
+<volume>44</volume>:<fpage>e65</fpage>–<lpage>71</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.ajic.2015.12.012</pub-id><pub-id pub-id-type="pmid">26851196</pub-id>
+<pub-id pub-id-type="pmcid">PMC6993530</pub-id></mixed-citation></ref><ref id="B44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Roy</surname>
+<given-names>S</given-names></string-name>,
+<string-name name-style="western"><surname>Chowdhury</surname>
+<given-names>G</given-names></string-name>,
+<string-name name-style="western"><surname>Mukhopadhyay</surname>
+<given-names>AK</given-names></string-name>,
+<string-name name-style="western"><surname>Dutta</surname>
+<given-names>S</given-names></string-name>,
+<string-name name-style="western"><surname>Basu</surname>
+<given-names>S</given-names></string-name></person-group>.
+<year>2022</year>. <article-title>Convergence of biofilm formation and
+antibiotic resistance in Acinetobacter baumannii Infection</article-title>.
+<source>Front Med (Lausanne)</source>
+<volume>9</volume>:<elocation-id>793615</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fmed.2022.793615</pub-id><pub-id pub-id-type="pmid">35402433</pub-id>
+<pub-id pub-id-type="pmcid">PMC8987773</pub-id></mixed-citation></ref><ref id="B45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Diao</surname>
+<given-names>H</given-names></string-name>,
+<string-name name-style="western"><surname>Lu</surname>
+<given-names>G</given-names></string-name>,
+<string-name name-style="western"><surname>Zhang</surname>
+<given-names>Y</given-names></string-name>,
+<string-name name-style="western"><surname>Wang</surname>
+<given-names>Z</given-names></string-name>,
+<string-name name-style="western"><surname>Liu</surname>
+<given-names>X</given-names></string-name>,
+<string-name name-style="western"><surname>Ma</surname>
+<given-names>Q</given-names></string-name>,
+<string-name name-style="western"><surname>Yu</surname>
+<given-names>H</given-names></string-name>,
+<string-name name-style="western"><surname>Li</surname>
+<given-names>Y</given-names></string-name></person-group>.
+<year>2024</year>. <article-title>Risk factors for multidrug-resistant and
+extensively drug-resistant Acinetobacter baumannii infection of patients
+admitted in intensive care unit: a systematic review and
+meta-analysis</article-title>. <source>J Hosp Infect</source>
+<volume>149</volume>:<fpage>77</fpage>–<lpage>87</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jhin.2024.04.013</pub-id><pub-id pub-id-type="pmid">38710306</pub-id>
+</mixed-citation></ref><ref id="B46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Schlosser</surname>
+<given-names>B</given-names></string-name>,
+<string-name name-style="western"><surname>Weikert</surname>
+<given-names>B</given-names></string-name>,
+<string-name name-style="western"><surname>Fucini</surname>
+<given-names>GB</given-names></string-name>,
+<string-name name-style="western"><surname>Kohlmorgen</surname>
+<given-names>B</given-names></string-name>,
+<string-name name-style="western"><surname>Kola</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Weber</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Thoma</surname>
+<given-names>N</given-names></string-name>,
+<string-name name-style="western"><surname>Behnke</surname>
+<given-names>M</given-names></string-name>,
+<string-name name-style="western"><surname>Schwab</surname>
+<given-names>F</given-names></string-name>,
+<string-name name-style="western"><surname>Gastmeier</surname>
+<given-names>P</given-names></string-name>,
+<string-name name-style="western"><surname>Geffers</surname>
+<given-names>C</given-names></string-name>,
+<string-name name-style="western"><surname>Aghdassi</surname>
+<given-names>SJS</given-names></string-name></person-group>.
+<year>2024</year>. <article-title>Risk factors for transmission of
+carbapenem-resistant Acinetobacter baumannii in outbreak situations: results
+of a case-control study</article-title>. <source>BMC Infect Dis</source>
+<volume>24</volume>:<elocation-id>120</elocation-id>. doi:<pub-id pub-id-type="doi">10.1186/s12879-024-09015-7</pub-id><pub-id pub-id-type="pmid">38263063</pub-id>
+<pub-id pub-id-type="pmcid">PMC10807151</pub-id></mixed-citation></ref><ref id="B47"><label>47</label><mixed-citation publication-type="webpage">
+<person-group person-group-type="author"><collab>Centers for Disease Control and
+Prevention</collab></person-group>. <year>2024</year>.
+<source>Antibiotic resistance threats in the United States,
+2021-2022</source>. <comment>Available from</comment>: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdc.gov/antimicrobial-resistance/data-research/threats/update-2022.html" ext-link-type="uri">https://www.cdc.gov/antimicrobial-resistance/data-research/threats/update-2022.html</ext-link></mixed-citation></ref><ref id="B48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Kumari</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Singh</surname>
+<given-names>RK</given-names></string-name></person-group>.
+<year>2019</year>. <article-title>Medicinal chemistry of indole derivatives:
+current to future therapeutic prospectives</article-title>. <source>Bioorg
+Chem</source>
+<volume>89</volume>:<fpage>103021</fpage>. doi:<pub-id pub-id-type="doi">10.1016/j.bioorg.2019.103021</pub-id><pub-id pub-id-type="pmid">31176854</pub-id>
+</mixed-citation></ref><ref id="B49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Li</surname>
+<given-names>SA</given-names></string-name>,
+<string-name name-style="western"><surname>Cadelis</surname>
+<given-names>MM</given-names></string-name>,
+<string-name name-style="western"><surname>Sue</surname>
+<given-names>K</given-names></string-name>,
+<string-name name-style="western"><surname>Blanchet</surname>
+<given-names>M</given-names></string-name>,
+<string-name name-style="western"><surname>Vidal</surname>
+<given-names>N</given-names></string-name>,
+<string-name name-style="western"><surname>Brunel</surname>
+<given-names>JM</given-names></string-name>,
+<string-name name-style="western"><surname>Bourguet-Kondracki</surname>
+<given-names>ML</given-names></string-name>,
+<string-name name-style="western"><surname>Copp</surname>
+<given-names>BR</given-names></string-name></person-group>.
+<year>2019</year>. <article-title>6-Bromoindolglyoxylamido derivatives as
+antimicrobial agents and antibiotic enhancers</article-title>.
+<source>Bioorg Med Chem</source>
+<volume>27</volume>:<fpage>2090</fpage>–<lpage>2099</lpage>.
+doi:<pub-id pub-id-type="doi">10.1016/j.bmc.2019.04.004</pub-id><pub-id pub-id-type="pmid">30975502</pub-id>
+</mixed-citation></ref><ref id="B50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Kashyap</surname>
+<given-names>S</given-names></string-name>,
+<string-name name-style="western"><surname>Sidhu</surname>
+<given-names>H</given-names></string-name>,
+<string-name name-style="western"><surname>Sharma</surname>
+<given-names>P</given-names></string-name>,
+<string-name name-style="western"><surname>Capalash</surname>
+<given-names>N</given-names></string-name></person-group>.
+<year>2022</year>. <article-title>3-Indoleacetonitrile attenuates biofilm
+formation and enhances sensitivity to imipenem in Acinetobacter
+baumannii</article-title>. <source>Pathog Dis</source>
+<volume>80</volume>:<elocation-id>ftac029</elocation-id>. doi:<pub-id pub-id-type="doi">10.1093/femspd/ftac029</pub-id><pub-id pub-id-type="pmid">35867872</pub-id>
+</mixed-citation></ref><ref id="B51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Opperman</surname>
+<given-names>TJ</given-names></string-name>,
+<string-name name-style="western"><surname>Kwasny</surname>
+<given-names>SM</given-names></string-name>,
+<string-name name-style="western"><surname>Li</surname>
+<given-names>JB</given-names></string-name>,
+<string-name name-style="western"><surname>Lewis</surname>
+<given-names>MA</given-names></string-name>,
+<string-name name-style="western"><surname>Aiello</surname>
+<given-names>D</given-names></string-name>,
+<string-name name-style="western"><surname>Williams</surname>
+<given-names>JD</given-names></string-name>,
+<string-name name-style="western"><surname>Peet</surname>
+<given-names>NP</given-names></string-name>,
+<string-name name-style="western"><surname>Moir</surname>
+<given-names>DT</given-names></string-name>,
+<string-name name-style="western"><surname>Bowlin</surname>
+<given-names>TL</given-names></string-name>,
+<string-name name-style="western"><surname>Long</surname>
+<given-names>EC</given-names></string-name></person-group>.
+<year>2016</year>. <article-title>DNA targeting as a likely mechanism
+underlying the antibacterial activity of synthetic bis-indole
+antibiotics</article-title>. <source>Antimicrob Agents Chemother</source>
+<volume>60</volume>:<fpage>7067</fpage>–<lpage>7076</lpage>.
+doi:<pub-id pub-id-type="doi">10.1128/AAC.00309-16</pub-id><pub-id pub-id-type="pmid">27620482</pub-id>
+<pub-id pub-id-type="pmcid">PMC5118985</pub-id></mixed-citation></ref><ref id="B52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Sung</surname>
+<given-names>WS</given-names></string-name>,
+<string-name name-style="western"><surname>Lee</surname>
+<given-names>DG</given-names></string-name></person-group>.
+<year>2007</year>. <article-title>In vitro antimicrobial activity and the
+mode of action of indole-3-carbinol against human pathogenic
+microorganisms</article-title>. <source>Biol Pharm Bull</source>
+<volume>30</volume>:<fpage>1865</fpage>–<lpage>1869</lpage>.
+doi:<pub-id pub-id-type="doi">10.1248/bpb.30.1865</pub-id><pub-id pub-id-type="pmid">17917252</pub-id>
+</mixed-citation></ref><ref id="B53"><label>53</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Walsh</surname>
+<given-names>C</given-names></string-name></person-group>.
+<year>2003</year>. <source>Antibiotics: actions, origin,
+resistance</source>. <publisher-name>ASM Press</publisher-name>,
+<publisher-loc>Washington, D. C</publisher-loc>.</mixed-citation></ref><ref id="B54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Wu</surname>
+<given-names>T</given-names></string-name>,
+<string-name name-style="western"><surname>Wilhelm</surname>
+<given-names>MJ</given-names></string-name>,
+<string-name name-style="western"><surname>Li</surname>
+<given-names>Y</given-names></string-name>,
+<string-name name-style="western"><surname>Ma</surname>
+<given-names>J</given-names></string-name>,
+<string-name name-style="western"><surname>Dai</surname>
+<given-names>HL</given-names></string-name></person-group>.
+<year>2022</year>. <article-title>Indole facilitates antimicrobial uptake in
+bacteria</article-title>. <source>ACS Infect Dis</source>
+<volume>8</volume>:<fpage>1124</fpage>–<lpage>1133</lpage>. doi:<pub-id pub-id-type="doi">10.1021/acsinfecdis.1c00618</pub-id><pub-id pub-id-type="pmid">35297612</pub-id>
+</mixed-citation></ref><ref id="B55"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Cadelis</surname>
+<given-names>MM</given-names></string-name>,
+<string-name name-style="western"><surname>Liu</surname>
+<given-names>T</given-names></string-name>,
+<string-name name-style="western"><surname>Sue</surname>
+<given-names>K</given-names></string-name>,
+<string-name name-style="western"><surname>Rouvier</surname>
+<given-names>F</given-names></string-name>,
+<string-name name-style="western"><surname>Bourguet-Kondracki</surname>
+<given-names>ML</given-names></string-name>,
+<string-name name-style="western"><surname>Brunel</surname>
+<given-names>JM</given-names></string-name>,
+<string-name name-style="western"><surname>Copp</surname>
+<given-names>BR</given-names></string-name></person-group>.
+<year>2023</year>. <article-title>Structure-activity relationship studies of
+indolglyoxyl-polyamine conjugates as antimicrobials and antibiotic
+potentiators</article-title>. <source>Pharmaceuticals (Basel)</source>
+<volume>16</volume>:<elocation-id>823</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/ph16060823</pub-id><pub-id pub-id-type="pmid">37375770</pub-id>
+<pub-id pub-id-type="pmcid">PMC10302047</pub-id></mixed-citation></ref><ref id="B56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Guo</surname>
+<given-names>T</given-names></string-name>,
+<string-name name-style="western"><surname>Zhou</surname>
+<given-names>N</given-names></string-name>,
+<string-name name-style="western"><surname>Yang</surname>
+<given-names>L</given-names></string-name>,
+<string-name name-style="western"><surname>Wang</surname>
+<given-names>Z</given-names></string-name>,
+<string-name name-style="western"><surname>Huan</surname>
+<given-names>C</given-names></string-name>,
+<string-name name-style="western"><surname>Lin</surname>
+<given-names>T</given-names></string-name>,
+<string-name name-style="western"><surname>Bao</surname>
+<given-names>G</given-names></string-name>,
+<string-name name-style="western"><surname>Hu</surname>
+<given-names>J</given-names></string-name>,
+<string-name name-style="western"><surname>Li</surname>
+<given-names>G</given-names></string-name></person-group>.
+<year>2024</year>. <article-title>Acinetobacter baumannii biofilm was
+inhibited by tryptanthrin through disrupting its different stages and genes
+expression</article-title>. <source>iScience</source>
+<volume>27</volume>:<elocation-id>109942</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.isci.2024.109942</pub-id><pub-id pub-id-type="pmid">38812547</pub-id>
+<pub-id pub-id-type="pmcid">PMC11134903</pub-id></mixed-citation></ref><ref id="B57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Gerdt</surname>
+<given-names>JP</given-names></string-name>,
+<string-name name-style="western"><surname>Wittenwyler</surname>
+<given-names>DM</given-names></string-name>,
+<string-name name-style="western"><surname>Combs</surname>
+<given-names>JB</given-names></string-name>,
+<string-name name-style="western"><surname>Boursier</surname>
+<given-names>ME</given-names></string-name>,
+<string-name name-style="western"><surname>Brummond</surname>
+<given-names>JW</given-names></string-name>,
+<string-name name-style="western"><surname>Xu</surname>
+<given-names>H</given-names></string-name>,
+<string-name name-style="western"><surname>Blackwell</surname>
+<given-names>HE</given-names></string-name></person-group>.
+<year>2017</year>. <article-title>Chemical interrogation of LuxR-type quorum
+sensing receptors reveals new insights into receptor selectivity and the
+potential for interspecies bacterial signaling</article-title>. <source>ACS
+Chem Biol</source>
+<volume>12</volume>:<fpage>2457</fpage>–<lpage>2464</lpage>.
+doi:<pub-id pub-id-type="doi">10.1021/acschembio.7b00458</pub-id><pub-id pub-id-type="pmid">28829573</pub-id>
+<pub-id pub-id-type="pmcid">PMC5600713</pub-id></mixed-citation></ref><ref id="B58"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Migliaccio</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Stabile</surname>
+<given-names>M</given-names></string-name>,
+<string-name name-style="western"><surname>Triassi</surname>
+<given-names>M</given-names></string-name>,
+<string-name name-style="western"><surname>Dé</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>De
+Gregorio</surname>
+<given-names>E</given-names></string-name>,
+<string-name name-style="western"><surname>Zarrilli</surname>
+<given-names>R</given-names></string-name></person-group>.
+<year>2024</year>. <article-title>Inhibition of biofilm formation and
+preformed biofilm in Acinetobacter baumannii by resveratrol, chlorhexidine
+and benzalkonium: modulation of efflux pump activity</article-title>.
+<source>Front Microbiol</source>
+<volume>15</volume>:<elocation-id>1494772</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fmicb.2024.1494772</pub-id><pub-id pub-id-type="pmid">39736993</pub-id>
+<pub-id pub-id-type="pmcid">PMC11684338</pub-id></mixed-citation></ref><ref id="B59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Lin</surname>
+<given-names>F</given-names></string-name>,
+<string-name name-style="western"><surname>Xu</surname>
+<given-names>Y</given-names></string-name>,
+<string-name name-style="western"><surname>Chang</surname>
+<given-names>Y</given-names></string-name>,
+<string-name name-style="western"><surname>Liu</surname>
+<given-names>C</given-names></string-name>,
+<string-name name-style="western"><surname>Jia</surname>
+<given-names>X</given-names></string-name>,
+<string-name name-style="western"><surname>Ling</surname>
+<given-names>B</given-names></string-name></person-group>.
+<year>2017</year>. <article-title>Molecular characterization of reduced
+susceptibility to biocides in clinical isolates of Acinetobacter
+baumannii</article-title>. <source>Front Microbiol</source>
+<volume>8</volume>:<elocation-id>1836</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fmicb.2017.01836</pub-id><pub-id pub-id-type="pmid">29018420</pub-id>
+<pub-id pub-id-type="pmcid">PMC5622949</pub-id></mixed-citation></ref><ref id="B60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Li</surname>
+<given-names>X-Z</given-names></string-name>,
+<string-name name-style="western"><surname>Plésiat</surname>
+<given-names>P</given-names></string-name>,
+<string-name name-style="western"><surname>Nikaido</surname>
+<given-names>H</given-names></string-name></person-group>.
+<year>2015</year>. <article-title>The challenge of efflux-mediated
+antibiotic resistance in gram-negative bacteria</article-title>.
+<source>Clin Microbiol Rev</source>
+<volume>28</volume>:<fpage>337</fpage>–<lpage>418</lpage>. doi:<pub-id pub-id-type="doi">10.1128/CMR.00117-14</pub-id><pub-id pub-id-type="pmid">25788514</pub-id>
+<pub-id pub-id-type="pmcid">PMC4402952</pub-id></mixed-citation></ref><ref id="B61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Bartual</surname>
+<given-names>SG</given-names></string-name>,
+<string-name name-style="western"><surname>Seifert</surname>
+<given-names>H</given-names></string-name>,
+<string-name name-style="western"><surname>Hippler</surname>
+<given-names>C</given-names></string-name>,
+<string-name name-style="western"><surname>Luzon</surname>
+<given-names>MAD</given-names></string-name>,
+<string-name name-style="western"><surname>Wisplinghoff</surname>
+<given-names>H</given-names></string-name>,
+<string-name name-style="western"><surname>Rodríguez-Valera</surname>
+<given-names>F</given-names></string-name></person-group>.
+<year>2005</year>. <article-title>Development of a multilocus sequence
+typing scheme for characterization of clinical isolates of Acinetobacter
+baumannii</article-title>. <source>J Clin Microbiol</source>
+<volume>43</volume>:<fpage>4382</fpage>–<lpage>4390</lpage>.
+doi:<pub-id pub-id-type="doi">10.1128/JCM.43.9.4382-4390.2005</pub-id><pub-id pub-id-type="pmid">16145081</pub-id>
+<pub-id pub-id-type="pmcid">PMC1234098</pub-id></mixed-citation></ref><ref id="B62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Jolley</surname>
+<given-names>KA</given-names></string-name>,
+<string-name name-style="western"><surname>Bray</surname>
+<given-names>JE</given-names></string-name>,
+<string-name name-style="western"><surname>Maiden</surname>
+<given-names>MCJ</given-names></string-name></person-group>.
+<year>2018</year>. <article-title>Open-access bacterial population genomics:
+BIGSdb software, the PubMLST.org website and their
+applications</article-title>. <source>Wellcome Open Res</source>
+<volume>3</volume>:<elocation-id>124</elocation-id>. doi:<pub-id pub-id-type="doi">10.12688/wellcomeopenres.14826.1</pub-id><pub-id pub-id-type="pmid">30345391</pub-id>
+<pub-id pub-id-type="pmcid">PMC6192448</pub-id></mixed-citation></ref><ref id="B63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Jacobs</surname>
+<given-names>AC</given-names></string-name>,
+<string-name name-style="western"><surname>Thompson</surname>
+<given-names>MG</given-names></string-name>,
+<string-name name-style="western"><surname>Black</surname>
+<given-names>CC</given-names></string-name>,
+<string-name name-style="western"><surname>Kessler</surname>
+<given-names>JL</given-names></string-name>,
+<string-name name-style="western"><surname>Clark</surname>
+<given-names>LP</given-names></string-name>,
+<string-name name-style="western"><surname>McQueary</surname>
+<given-names>CN</given-names></string-name>,
+<string-name name-style="western"><surname>Gancz</surname>
+<given-names>HY</given-names></string-name>,
+<string-name name-style="western"><surname>Corey</surname>
+<given-names>BW</given-names></string-name>,
+<string-name name-style="western"><surname>Moon</surname>
+<given-names>JK</given-names></string-name>,
+<string-name name-style="western"><surname>Si</surname>
+<given-names>Y</given-names></string-name>, <etal>et
+al.</etal></person-group>. <year>2014</year>. <article-title>AB5075, a
+highly virulent isolate of Acinetobacter baumannii, as a model strain for
+the evaluation of pathogenesis and antimicrobial treatments</article-title>.
+<source>MBio</source>
+<volume>5</volume>:<elocation-id>e01076-14</elocation-id>. doi:<pub-id pub-id-type="doi">10.1128/mBio.01076-14</pub-id><pub-id pub-id-type="pmid">24865555</pub-id>
+<pub-id pub-id-type="pmcid">PMC4045072</pub-id></mixed-citation></ref><ref id="B64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Kröger</surname>
+<given-names>C</given-names></string-name>,
+<string-name name-style="western"><surname>MacKenzie</surname>
+<given-names>KD</given-names></string-name>,
+<string-name name-style="western"><surname>Alshabib</surname>
+<given-names>EY</given-names></string-name>,
+<string-name name-style="western"><surname>Kirzinger</surname>
+<given-names>MWB</given-names></string-name>,
+<string-name name-style="western"><surname>Suchan</surname>
+<given-names>DM</given-names></string-name>,
+<string-name name-style="western"><surname>Chao</surname>
+<given-names>T-C</given-names></string-name>,
+<string-name name-style="western"><surname>Akulova</surname>
+<given-names>V</given-names></string-name>,
+<string-name name-style="western"><surname>Miranda-CasoLuengo</surname>
+<given-names>AA</given-names></string-name>,
+<string-name name-style="western"><surname>Monzon</surname>
+<given-names>VA</given-names></string-name>,
+<string-name name-style="western"><surname>Conway</surname>
+<given-names>T</given-names></string-name>,
+<string-name name-style="western"><surname>Sivasankaran</surname>
+<given-names>SK</given-names></string-name>,
+<string-name name-style="western"><surname>Hinton</surname>
+<given-names>JCD</given-names></string-name>,
+<string-name name-style="western"><surname>Hokamp</surname>
+<given-names>K</given-names></string-name>,
+<string-name name-style="western"><surname>Cameron</surname>
+<given-names>ADS</given-names></string-name></person-group>.
+<year>2018</year>. <article-title>The primary transcriptome, small RNAs and
+regulation of antimicrobial resistance in Acinetobacter baumannii ATCC
+17978</article-title>. <source>Nucleic Acids Res</source>
+<volume>46</volume>:<fpage>9684</fpage>–<lpage>9698</lpage>.
+doi:<pub-id pub-id-type="doi">10.1093/nar/gky603</pub-id><pub-id pub-id-type="pmid">29986115</pub-id>
+<pub-id pub-id-type="pmcid">PMC6182133</pub-id></mixed-citation></ref><ref id="B65"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Odds</surname>
+<given-names>FC</given-names></string-name></person-group>.
+<year>2003</year>. <article-title>Synergy, antagonism, and what the
+chequerboard puts between them</article-title>. <source>J Antimicrob
+Chemother</source>
+<volume>52</volume>:<elocation-id>1</elocation-id>. doi:<pub-id pub-id-type="doi">10.1093/jac/dkg301</pub-id><pub-id pub-id-type="pmid">12805255</pub-id>
+</mixed-citation></ref><ref id="B66"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Stepanović</surname>
+<given-names>S</given-names></string-name>,
+<string-name name-style="western"><surname>Vuković</surname>
+<given-names>D</given-names></string-name>,
+<string-name name-style="western"><surname>Hola</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Di
+Bonaventura</surname>
+<given-names>G</given-names></string-name>,
+<string-name name-style="western"><surname>Djukić</surname>
+<given-names>S</given-names></string-name>,
+<string-name name-style="western"><surname>Cirković</surname>
+<given-names>I</given-names></string-name>,
+<string-name name-style="western"><surname>Ruzicka</surname>
+<given-names>F</given-names></string-name></person-group>.
+<year>2007</year>. <article-title>Quantification of biofilm in microtiter
+plates: overview of testing conditions and practical recommendations for
+assessment of biofilm production by staphylococci</article-title>.
+<source>APMIS</source>
+<volume>115</volume>:<fpage>891</fpage>–<lpage>899</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1600-0463.2007.apm_630.x</pub-id><pub-id pub-id-type="pmid">17696944</pub-id>
+</mixed-citation></ref><ref id="B67"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Abd
+El-Rahman</surname>
+<given-names>OA</given-names></string-name>,
+<string-name name-style="western"><surname>Rasslan</surname>
+<given-names>F</given-names></string-name>,
+<string-name name-style="western"><surname>Hassan</surname>
+<given-names>SS</given-names></string-name>,
+<string-name name-style="western"><surname>Ashour</surname>
+<given-names>HM</given-names></string-name>,
+<string-name name-style="western"><surname>Wasfi</surname>
+<given-names>R</given-names></string-name></person-group>.
+<year>2023</year>. <article-title>The RND efflux pump gene expression in the
+biofilm formation of Acinetobacter baumannii</article-title>.
+<source>Antibiotics (Basel)</source>
+<volume>12</volume>:<elocation-id>419</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/antibiotics12020419</pub-id><pub-id pub-id-type="pmid">36830328</pub-id>
+<pub-id pub-id-type="pmcid">PMC9952185</pub-id></mixed-citation></ref><ref id="B68"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Peleg</surname>
+<given-names>AY</given-names></string-name>,
+<string-name name-style="western"><surname>Jara</surname>
+<given-names>S</given-names></string-name>,
+<string-name name-style="western"><surname>Monga</surname>
+<given-names>D</given-names></string-name>,
+<string-name name-style="western"><surname>Eliopoulos</surname>
+<given-names>GM</given-names></string-name>,
+<string-name name-style="western"><surname>Moellering</surname>
+<given-names>RC</given-names></string-name>,
+<string-name name-style="western"><surname>Mylonakis</surname>
+<given-names>E</given-names></string-name></person-group>.
+<year>2009</year>. <article-title>Galleria mellonella as a model system to
+study Acinetobacter baumannii pathogenesis and therapeutics</article-title>.
+<source>Antimicrob Agents Chemother</source>
+<volume>53</volume>:<fpage>2605</fpage>–<lpage>2609</lpage>.
+doi:<pub-id pub-id-type="doi">10.1128/AAC.01533-08</pub-id><pub-id pub-id-type="pmid">19332683</pub-id>
+<pub-id pub-id-type="pmcid">PMC2687231</pub-id></mixed-citation></ref><ref id="B69"><label>69</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Xiao</surname>
+<given-names>J</given-names></string-name>,
+<string-name name-style="western"><surname>Klein</surname>
+<given-names>MI</given-names></string-name>,
+<string-name name-style="western"><surname>Falsetta</surname>
+<given-names>ML</given-names></string-name>,
+<string-name name-style="western"><surname>Lu</surname>
+<given-names>B</given-names></string-name>,
+<string-name name-style="western"><surname>Delahunty</surname>
+<given-names>CM</given-names></string-name>,
+<string-name name-style="western"><surname>Yates</surname>
+<given-names>JR</given-names></string-name>,
+<string-name name-style="western"><surname>Heydorn</surname>
+<given-names>A</given-names></string-name>,
+<string-name name-style="western"><surname>Koo</surname>
+<given-names>H</given-names></string-name></person-group>.
+<year>2012</year>. <article-title>The exopolysaccharide matrix modulates the
+interaction between 3D architecture and virulence of a mixed-species oral
+biofilm</article-title>. <source>PLoS Pathog</source>
+<volume>8</volume>:<elocation-id>e1002623</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.ppat.1002623</pub-id><pub-id pub-id-type="pmid">22496649</pub-id>
+<pub-id pub-id-type="pmcid">PMC3320608</pub-id></mixed-citation></ref><ref id="B70"><label>70</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Lázaro-Díez</surname>
+<given-names>M</given-names></string-name>,
+<string-name name-style="western"><surname>Remuzgo-Martínez</surname>
+<given-names>S</given-names></string-name>,
+<string-name name-style="western"><surname>Rodríguez-Mirones</surname>
+<given-names>C</given-names></string-name>,
+<string-name name-style="western"><surname>Acosta</surname>
+<given-names>F</given-names></string-name>,
+<string-name name-style="western"><surname>Icardo</surname>
+<given-names>JM</given-names></string-name>,
+<string-name name-style="western"><surname>Martínez-Martínez</surname>
+<given-names>L</given-names></string-name>,
+<string-name name-style="western"><surname>Ramos-Vivas</surname>
+<given-names>J</given-names></string-name></person-group>.
+<year>2016</year>. <article-title>Effects of subinhibitory concentrations of
+ceftaroline on methicillin-resistant Staphylococcus aureus (MRSA)
+biofilms</article-title>. <source>PLoS ONE</source>
+<volume>11</volume>:<elocation-id>e0147569</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0147569</pub-id><pub-id pub-id-type="pmid">26800524</pub-id>
+<pub-id pub-id-type="pmcid">PMC4723258</pub-id></mixed-citation></ref><ref id="B71"><label>71</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name name-style="western"><surname>Zeng</surname>
+<given-names>L</given-names></string-name>,
+<string-name name-style="western"><surname>Lin</surname>
+<given-names>F</given-names></string-name>,
+<string-name name-style="western"><surname>Ling</surname>
+<given-names>B</given-names></string-name></person-group>.
+<year>2023</year>. <article-title>Effect of traditional chinese medicine
+monomers interfering with quorum-sensing on virulence factors of extensively
+drug-resistant Acinetobacter baumannii</article-title>. <source>Front
+Pharmacol</source>
+<volume>14</volume>:<elocation-id>1135180</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fphar.2023.1135180</pub-id><pub-id pub-id-type="pmid">37063277</pub-id>
+<pub-id pub-id-type="pmcid">PMC10097947</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

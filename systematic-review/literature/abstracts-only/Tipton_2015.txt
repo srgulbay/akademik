@@ -1,0 +1,16 @@
+PMID: 26013481
+Title: Phase-Variable Control of Multiple Phenotypes in Acinetobacter baumannii Strain AB5075.
+Authors: Tipton K., Dimitrova D., Rather P.
+Journal: Journal of bacteriology
+Year: 2015
+DOI: 10.1128/JB.00188-15
+PMC: PMC4518826
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't; Research Support, U.S. Gov't, Non-P.H.S.
+URL: https://pubmed.ncbi.nlm.nih.gov/26013481/
+DOI URL: https://doi.org/10.1128/JB.00188-15
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4518826/
+
+--- Abstract ---
+UNLABELLED: Acinetobacter baumannii strain AB5075 produces colonies with two opacity phenotypes, designated opaque and translucent. These phenotypes were unstable and opaque and translucent colony variants were observed to interconvert at high frequency, suggesting that a phase-variable mechanism was responsible. The frequency of phase variation both within colonies and in broth cultures increased in a cell density-dependent manner and was mediated by the accumulation of an extracellular factor. This factor was distinct from the known A. baumannii signaling molecule 3-OH C12-homoserine lactone. Opaque and translucent colony variants exhibited a number of phenotypic differences, including cell morphology, surface motility, biofilm formation, antibiotic resistance, and virulence in a Galleria mellonella model. Additional clinical isolates exhibited a similar phase-variable control of colony opacity, suggesting that this may be a common feature of A. baumannii.
+
+IMPORTANCE: A novel phase-variable mechanism has been identified in Acinetobacter baumannii that results in an interconversion between opaque and translucent colony phenotypes. This phase variation also coordinately regulates motility, cell shape, biofilm formation, antibiotic resistance, and virulence. The frequency of phase variation is increased at high cell density via a diffusible extracellular signal. To our knowledge, this report presents the first example of phase variation in A. baumannii and also the first example of quorum sensing-mediated control of phase variation in a bacterium. The findings are important, as this phase-variable mechanism can be identified only via changes in colony opacity using oblique light; therefore, many researchers studying A. baumannii may unknowingly be working with different colony variants.

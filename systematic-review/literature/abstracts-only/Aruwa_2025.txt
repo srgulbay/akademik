@@ -1,0 +1,13 @@
+PMID: 40056709
+Title: Modulating Acinetobacter baumannii BfmR (RstA) drug target: Daniellia oliveri compounds as RstA quorum sensing inhibitors.
+Authors: Aruwa C., Dweba Y., Ayodele O., Sabiu S.
+Journal: Computational biology and chemistry
+Year: 2025
+DOI: 10.1016/j.compbiolchem.2025.108413
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40056709/
+DOI URL: https://doi.org/10.1016/j.compbiolchem.2025.108413
+
+--- Abstract ---
+Plant products have been integral to the derivation of interventive therapies to mitigate the current scourge of antimicrobial resistance (AMR). The South African plant, Daniellia oliveri, may yet hold promise against WHO-listed critical priority pathogens like Acinetobacter baumannii and its quorum sensing (QS) system, BfmR (RstA). Hence, we bio-prospected D. oliveri compounds in a bid to provide alternative antimicrobial therapeutics, specifically, potential quorum sensing inhibitors (QSIs). This study utilized a range of in silico validated tools for the cheminformatic analysis of RstA modulating properties of D. oliveri-associated compounds. The two (2) lead compounds identified (β-carotene, β-amyrin) had docking scores of -6.8 kcal/mol, relative to -6.7 kcal/mol observed for the azithromycin reference. Only cis-Calamenene and β-amyrin had pharmacokinetic features conformed to the rule of 5 (Ro5) for selection as potential oral drug candidates. β-carotene and rutin had the best quantum reactivity attributes (lowest energy gap, and highest electronegativity and global electrophilicity). Molecular dynamics (MD) simulation revealed that all lead ligands bound to RstA stabilized system compactness and thermodynamics. Although the azithromycin-RstA system had the least ∆Gbind (-40.48 kcal/mol), rutin had the next highest ∆Gbind (-31.53 kcal/mol) of all D. oliveri compounds. Overall, these lead Daniellia oliveri metabolites may yet have potential RstA inhibitory/modulatory action upon further structural modification, and in vitro and in vivo validation tests prior to formulation into oral, interventive QSIs targeting A. baumannii RstA modulation.

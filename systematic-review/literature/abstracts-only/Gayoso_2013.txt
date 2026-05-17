@@ -1,0 +1,13 @@
+PMID: 24299215
+Title: Molecular mechanisms involved in the response to desiccation stress and persistence in Acinetobacter baumannii.
+Authors: Gayoso C., Mateos J., Méndez J., Fernández-Puente P., Rumbo C., Tomás M., Martínez de Ilarduya O., Bou G.
+Journal: Journal of proteome research
+Year: 2013
+DOI: 10.1021/pr400603f
+PMC: 
+Publication types: Journal Article; Research Support, N.I.H., Extramural
+URL: https://pubmed.ncbi.nlm.nih.gov/24299215/
+DOI URL: https://doi.org/10.1021/pr400603f
+
+--- Abstract ---
+Desiccation tolerance contributes to the maintenance of bacterial populations in hospital settings and may partly explain its propensity to cause outbreaks. Identification and relative quantitation of proteins involved in bacterial desiccation tolerance was made using label-free quantitation and iTRAQ labeling. Under desiccating conditions, the population of the Acinetobacter baumannii clinical strain AbH12O-A2 decreased in the first week, and thereafter, a stable population of 0.5% of the original population was maintained. Using label-free quantitation and iTRAQ labeling, 727 and 765 proteins, respectively, were detected; 584 of them by both methods. Proteins overexpressed under desiccation included membrane and periplasmic proteins. Proteins associated with antimicrobial resistance, efflux pumps, and quorum quenching were overexpressed in the samples subjected to desiccation stress. Electron microscopy revealed clear morphological differences between desiccated and control bacteria. We conclude that A. baumannii is able to survive long periods of desiccation through the presence of cells in a dormant state, via mechanisms affecting control of cell cycling, DNA coiling, transcriptional and translational regulation, protein stabilization, antimicrobial resistance, and toxin synthesis, and that a few surviving cells embedded in a biofilm matrix are able to resume growth and restore the original population in appropriate environmental conditions following a "bust-and-boom" strategy.

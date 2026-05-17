@@ -1,0 +1,13 @@
+PMID: 41422868
+Title: Salvia abrotanoides leaves and flowers essential oils inhibit the quorum-sensing system of extensively drug-resistant (XDR) Acinetobacter baumannii.
+Authors: Masoomi M., Borhani M., Salehi M., Boozarpour S., Habibi M.
+Journal: Microbial pathogenesis
+Year: 2025
+DOI: 10.1016/j.micpath.2025.108256
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/41422868/
+DOI URL: https://doi.org/10.1016/j.micpath.2025.108256
+
+--- Abstract ---
+Bacteremia, meningitis, endocarditis, and pneumonia are some difficult-to-treat nosocomial infections caused by drug-resistant Acinetobacter baumannii. This study aimed to investigate Salvia abrotanoides essential oils against multidrug-resistant (MDR) and extensively drug-resistant (XDR) strains of A. baumannii, which have not previously been reported. Essential oils extracted from Salvia abrotanoides leaf (L. EO) and flower (F. EO) were analyzed for the antimicrobial, antioxidant, and cell cytotoxicity activity. GC/MS identified 19 new compounds not previously reported in the studied EOs. The IC50 values from the DPPH assay were 0.22 mg/mL for L. EO and 0.015 mg/mL for F. EO. The essential oils showed antimicrobial activity, with concentrations ranging from 1.4 to 1.75 mg/mL for MIC and from 2.8 to 7 mg/mL for MBC, effectively inhibiting growth and killing the tested MDR and XDR strains, respectively. Furthermore, at sub-MIC concentrations, both essential oils downregulated the expression of several key genes in A. baumannii, including bap, csuD, abaI, abaR, and barB, based on qRT-PCR results. ADMET analysis demonstrated that all studied plant ligands complied with Lipinski's rule of five and Veber's rule, indicating their potential as oral bioavailable drugs. Based on these findings, the essential oils of S. abrotanoides (F. EO and L. EO) are promising for the development of antimicrobial agents targeting the MDR and XDR strains of A. baumannii.

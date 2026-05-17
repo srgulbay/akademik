@@ -1,0 +1,21 @@
+PMID: 34931970
+Title: Evaluation of Antimicrobial Effects of Photo-sonodynamic Antimicrobial Chemotherapy Based on Nano-micelle Curcumin on Virulence Gene Expression Patterns in Acinetobacter baumannii.
+Authors: Pourhajibagher M., Talaei N., Bahador A.
+Journal: Infectious disorders drug targets
+Year: 2022
+DOI: 10.2174/1871526522666211220121725
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/34931970/
+DOI URL: https://doi.org/10.2174/1871526522666211220121725
+
+--- Abstract ---
+BACKGROUND: Abaumannii baumannii rapidly resistant to a wide range of antimicrobial agents. The combination of Antimicrobial Photodynamic Therapy (aPDT) and Sonodynamic Antimicrobial Chemotherapy (SACT), known as Photo-Sonodynamic Antimicrobial Chemotherapy (PSACT), has received considerable attention as one of the emerging and promising strategies against microbial infections.
+
+OBJECTIVE: This study aimed to investigate the antimicrobial effects of PSACT based on nano-micelle curcumin (N-MCur) on the virulence gene expression patterns in A. baumannii.
+
+MATERIALS AND METHODS: N-MCur as a photo-sonosensitizer was synthesized and confirmed. To determine sub-significant reduction dose of PSACT, sub-significant reduction dose of N-MCur and blue laser light during aPDT, and ultrasound power output during SACT was assessed. Finally, changes in the expression of genes involved in treated A. baumannii by minimum sub-significant reduction dose of PSACT were determined using quantitative real-time-PCR (qRT-PCR).
+
+RESULTS: PSACT using 12.5 mM N-MCur at the ultrasound power outputs of 28.7, 36.9, and 45.2 mW/cm2 with 4 min irradiation time of the blue laser, as well as 6.2 mM N-MCur at an ultrasound power output of 45.2 mW/cm2 plus 3 min blue laser irradiation time exhibited the significant dosedependent reduction against A. baumannii cell viability compared to the control group (P<0.05). After treatment of A. baumannii using 3.1 mM N-MCur + 2 min blue laser irradiation time + 28.7 mW/cm2 ultrasound as the minimum sub-significant reduction doses of PSACT, mRNA expression was significantly upregulated to 6.0-, 11.2-, and 13.7-folds in recA, blsA, and dnaK and downregulated to 8.6-, 10.1-, and 14.5-folds in csuE, espA, and abaI, respectively.
+
+CONCLUSION: N-MCur-mediated PSACT could regulate the expression of genes involved in A. baumannii pathogenesis. Therefore, PSACT can be proposed as a promising application to treat infections caused by A. baumannii.

@@ -1,0 +1,14 @@
+PMID: 30050039
+Title: Structural and Biochemical Characterization of AaL, a Quorum Quenching Lactonase with Unusual Kinetic Properties.
+Authors: Bergonzi C., Schwab M., Naik T., Daudé D., Chabrière E., Elias M.
+Journal: Scientific reports
+Year: 2018
+DOI: 10.1038/s41598-018-28988-5
+PMC: PMC6062542
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/30050039/
+DOI URL: https://doi.org/10.1038/s41598-018-28988-5
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6062542/
+
+--- Abstract ---
+Quorum quenching lactonases are enzymes that are capable of disrupting bacterial signaling based on acyl homoserine lactones (AHL) via their enzymatic degradation. In particular, lactonases have therefore been demonstrated to inhibit bacterial behaviors that depend on these chemicals, such as the formation of biofilms or the expression of virulence factors. Here we characterized biochemically and structurally a novel representative from the metallo-β-lactamase superfamily, named AaL that was isolated from the thermoacidophilic bacterium Alicyclobacillus acidoterrestris. AaL is a potent quorum quenching enzyme as demonstrated by its ability to inhibit the biofilm formation of Acinetobacter baumannii. Kinetic studies demonstrate that AaL is both a proficient and a broad spectrum enzyme, being capable of hydrolyzing a wide range of lactones with high rates (kcat/KM > 105 M-1.s-1). Additionally, AaL exhibits unusually low KM values, ranging from 10 to 80 µM. Analysis of AaL structures bound to phosphate, glycerol, and C6-AHL reveals a unique hydrophobic patch (W26, F87 and I237), involved in substrate binding, possibly accounting for the enzyme's high specificity. Identifying the specificity determinants will aid the development of highly specific quorum quenching enzymes as potential therapeutics.

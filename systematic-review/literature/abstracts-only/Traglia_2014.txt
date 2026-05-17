@@ -1,0 +1,14 @@
+PMID: 25164683
+Title: Whole-genome sequence analysis of the naturally competent Acinetobacter baumannii clinical isolate A118.
+Authors: Traglia G., Chua K., Centrón D., Tolmasky M., Ramírez M.
+Journal: Genome biology and evolution
+Year: 2014
+DOI: 10.1093/gbe/evu176
+PMC: PMC4202317
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/25164683/
+DOI URL: https://doi.org/10.1093/gbe/evu176
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4202317/
+
+--- Abstract ---
+Recent studies have demonstrated a high genomic plasticity in Acinetobacter baumannii, which may explain its high capacity to acquire multiple antibiotic resistance determinants and to survive in the hospital environment. Acinetobacter baumannii strain A118 (Ab A118) was isolated in the year 1995 from a blood culture of an intensive care unit patient. As this particular strain showed some peculiar characteristic such as being naturally competent and susceptible to numerous antibiotics, we performed whole-genome comparison (WGC) studies to gain insights into the nature and extent of the genomic differences. The Ab A118 genome is approximately 3,824 kb long with a 38.4% GC content and contains 3,520 coding sequences. WGC studies showed that the Ab A118 genome has 98% average nucleotide identity with that of A. baumannii ATCC 17978, and 96% average nucleotide identity with that of strains AYE and ACICU. At least 12 inversions, 275 insertions, and 626 deletions were identified when the Ab A118 genome was compared with those of strains ATCC 17978, AYE, and ACICU using MAUVE WGC. Multiple gene order arrangements were observed among the analyzed strains. MAUVE WGC analysis identified 19 conserved segments, known as locally colinear blocks. The number of single nucleotide polymorphisms found when comparing the Ab A118 genome with that of strains ATCC 17978, AYE, and ACICU was 43,784 (1.1496%), 44,130 (1.158%), and 43,914 (1.153%), respectively. Genes comEA, pilQ, pilD, pilF, comL, pilA, comEC, pilI, pilH, pilO, pilN, pilY1(comC), pilE, pilR, and comM, potentially involved in natural competence were found in the Ab A118 genome. In particular, unlike in most strains where comM is interrupted by an insertion of a resistance island (AbaR), in strain Ab A118 it is uninterrupted.

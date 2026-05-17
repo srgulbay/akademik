@@ -1,0 +1,14 @@
+PMID: 32848010
+Title: The H-NS Regulator Plays a Role in the Stress Induced by Carbapenemase Expression in Acinetobacter baumannii.
+Authors: Huang F., Fitchett N., Razo-Gutierrez C., Le C., Martinez J., Ra G., Lopez C., Gonzalez L., Sieira R., Vila A., Bonomo R., Ramirez M.
+Journal: mSphere
+Year: 2020
+DOI: 10.1128/mSphere.00793-20
+PMC: PMC7449629
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't; Research Support, U.S. Gov't, Non-P.H.S.
+URL: https://pubmed.ncbi.nlm.nih.gov/32848010/
+DOI URL: https://doi.org/10.1128/mSphere.00793-20
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7449629/
+
+--- Abstract ---
+Disruption of the histone-like nucleoid structuring protein (H-NS) was shown to affect the ability of Gram-negative bacteria to regulate genes associated with virulence, persistence, stress response, quorum sensing, biosynthesis pathways, and cell adhesion. Here, we used the expression of metallo-β-lactamases (MBLs), known to elicit envelope stress by the accumulation of toxic precursors in the periplasm, to interrogate the role of H-NS in Acinetobacter baumannii, together with other stressors. Using a multidrug-resistant A. baumannii strain, we observed that H-NS plays a role in alleviating the stress triggered by MBL toxic precursors and counteracts the effect of DNA-damaging agents, supporting its role in stress response.IMPORTANCE Carbapenem-resistant A. baumannii (CRAB) is recognized as one of the most threatening Gram-negative bacilli. H-NS is known to play a role in controlling the transcription of a variety of different genes, including those associated with the stress response, persistence, and virulence. In the present work, we uncovered a link between the role of H-NS in the A. baumannii stress response and its relationship with the envelope stress response and resistance to DNA-damaging agents. Overall, we posit a new role of H-NS, showing that H-NS serves to endure envelope stress and could also be a mechanism that alleviates the stress induced by MBL expression in A. baumannii This could be an evolutionary advantage to further resist the action of carbapenems.

@@ -1,0 +1,20 @@
+PMID: 39759767
+Title: Molecular Epidemiology and Genetic Characterization of Carbapenem-Resistant Acinetobacter baumannii Isolates from the ICU of a Tertiary Hospital in East China.
+Authors: Liu L., Huang Y., Wang Y., Jiang Y., Liu K., Pei Z., Li Z., Zhu Y., Liu D., Li X.
+Journal: Infection and drug resistance
+Year: 2024
+DOI: 10.2147/IDR.S491858
+PMC: PMC11699857
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39759767/
+DOI URL: https://doi.org/10.2147/IDR.S491858
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11699857/
+
+--- Abstract ---
+PURPOSE: To evaluate the clinical characteristics, antimicrobial resistance (AMR) phenotypes and genotypes, and homology features of carbapenem-resistant Acinetobacter baumannii (CRAB) in intensive care unit (ICU) and to provide basis for effectively prevention, control and treatment of nosocomial infections caused by CRAB.
+
+METHODS: A total of 39 CRAB strains isolated from hospitalized patients in the ICU and neurosurgical ICU (NICU) between 2020 and 2023 were subjected to antimicrobial susceptibility testing and whole-genome sequencing (WGS). Virulence factor genes (VFGs), antimicrobial resistance genes (ARGs), multilocus sequencing typing (MLST), complete genome multilocus sequencing typing (cgMLST), average nucleotide identity (ANI), and single nucleotide polymorphism (SNP) analyses were performed using WGS.
+
+RESULTS: All CRAB strains were 100% resistant to ciprofloxacin, ceftazidime, piperacillin/tazobactam, and ticarcillin/clavulanic acid. A total of 48 antimicrobial resistance genes (ARGs) were found in the 39 CRAB strains, including blaOXA-66, blaOXA-23, blaADC-30, blaADC-73, gyrA, ant(3″)-IIa, aph(3″)-Ib, aph(6)-Id, tetB, tetR, sul1, sul2, LpxC and LpxA which confered resistance to carbapenems, cephalosporins, fluoroquinolones, aminoglycosides, tetracycline and sulfonamides. There were 128 VFGs, including genes encoding the AdeFGH efflux pump, lipopolysaccharide (LpsBLC), outer membrane protein A (OmpA), penicillin-binding protein (PbpG), biofilm-associated proteins (bap, pgaBCD, CsuABCDE), type VI secretion system protein (Tss), quorum sensing protein (AbaI/AbaR). Six clonal lineages were identified by Oxford MLST method, whereas one sequence type (ST2) was identified using the Pasteur MLST method. ANI analysis, heat map of SNP analysis, and phylogenetic tree based on core SNP revealed six clusters, and the strain classification results were consistent with these different methods. Ten clonal lineages were identified by cgMLST.
+
+CONCLUSION: The CRAB strains were ST2 clones accompanied by severe resistance to commonly used antibiotics and abundant ARGs and VFGs in genotype. Strict measures should be implemented to prevent and control transmissions and infections. CgMLST and SNPs analyses showed excellent discriminatory power in homology analysis.

@@ -1,0 +1,14 @@
+PMID: 23690906
+Title: Retraction: Stereochemical insignificance discovered in Acinetobacter baumannii quorum sensing.
+Authors: Garner A., Kim S., Zhu J., Struss A., Watkins R., Feske B., Kaufmann G., Janda K.
+Journal: PloS one
+Year: 2013
+DOI: 10.1371/annotation/1345f9b0-016e-4123-9e72-6ccc4fa17ba2
+PMC: PMC3655197
+Publication types: Retraction Notice
+URL: https://pubmed.ncbi.nlm.nih.gov/23690906/
+DOI URL: https://doi.org/10.1371/annotation/1345f9b0-016e-4123-9e72-6ccc4fa17ba2
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3655197/
+
+--- Abstract ---
+[No abstract available]

@@ -1,0 +1,13 @@
+PMID: 38597994
+Title: Antimicrobial and Probiotic Potential of Lactobacilli Associated with Traditional Fermented Beverages.
+Authors: Huidrom S., Mukherjee P., Devi S.
+Journal: Current microbiology
+Year: 2024
+DOI: 10.1007/s00284-024-03656-2
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38597994/
+DOI URL: https://doi.org/10.1007/s00284-024-03656-2
+
+--- Abstract ---
+Fermented foods have been recognized as a source of probiotic bacteria which can have a positive effect when administered to humans and animals. Discovering new probiotics in fermented food products poses a global economic and health importance. In this study, we investigated the antimicrobial and probiotic potential of lactobacilli isolated from fermented beverages produced traditionally by ethnic groups in Northeast India. Out of thirty Lactobacilli, fifteen exhibited strong antimicrobial activity against Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter aerogenes with significant anti-biofilm and anti-quorum sensing activity. These isolates also showed characteristics associated with probiotic properties, such as tolerance to low pH and bile salts, survival in the gastric tract, auto-aggregation, and hydrophobicity without exhibiting hemolysis formation or resistance to certain antibiotics. The isolates were identified using gram staining, biochemical tests, and 16S rDNA sequencing. They exhibited probiotic potential, broad-spectrum of antibacterial activity, promising anti-biofilm, anti-quorum sensing activity, non-hemolytic, and tolerance to acidic pH and bile salts. Overall, four specific Lactobacillus isolates, Lactiplantibacillus plantarum BRD3A and Lacticaseibacillus paracasei RB10OW from fermented rice-based beverage, and Lactiplantibacillus plantarum RB30Y and Lacticaseibacillus paracasei MP11A from traditional local curd demonstrated potent antimicrobial and probiotic properties. These findings suggest that these lactobacilli isolates from fermented beverages have the potential to be used as probiotics with therapeutic benefits, highlighting the importance of traditional fermented foods for promoting gut health and infectious disease management.

@@ -1,0 +1,14 @@
+PMID: 32974360
+Title: Characterization, Antibiofilm, and Depolymerizing Activity of Two Phages Active on Carbapenem-Resistant Acinetobacter baumannii.
+Authors: Vukotic G., Obradovic M., Novovic K., Di Luca M., Jovcic B., Fira D., Neve H., Kojic M., McAuliffe O.
+Journal: Frontiers in medicine
+Year: 2020
+DOI: 10.3389/fmed.2020.00426
+PMC: PMC7461965
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/32974360/
+DOI URL: https://doi.org/10.3389/fmed.2020.00426
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7461965/
+
+--- Abstract ---
+Acinetobacter baumannii is a leading cause of healthcare-associated infections worldwide. Its various intrinsic and acquired mechanisms of antibiotic resistance make the therapeutic challenge even more serious. One of the promising alternative treatments that is increasingly highlighted is phage therapy, the therapeutic use of bacteriophages to treat bacterial infections. Two phages active against nosocomial carbapenem-resistant A. baumannii strain 6077/12, vB_AbaM_ISTD, and vB_AbaM_NOVI, were isolated from Belgrade wastewaters, purified, and concentrated using CsCl gradient ultracentrifugation. The phages were screened against 103 clinical isolates of A. baumannii from a laboratory collection and characterized based on plaque and virion morphology, host range, adsorption rate, and one-step growth curve. Given that phage ISTD showed a broader host range, better adsorption rate, shorter latent period, and larger burst size, its ability to lyse planktonic and biofilm-embedded cells was tested in detail. Phage ISTD yielded a 3.5- and 2-log reduction in planktonic and biofilm-associated viable bacterial cell count, respectively, but the effect was time-dependent. Both phages produced growing turbid halos around plaques indicating the synthesis of depolymerases, enzymes capable of degrading bacterial exopolysaccharides. Halos tested positive for presence of phages in the proximity of the plaque, but not further from the plaque, which indicates that the observed halo enlargement is a consequence of enzyme diffusion through the agar, independently of the phages. This notion was also supported by the growing halos induced by phage preparations applied on pregrown bacterial lawns, indicating that depolymerizing effect was achieved also on non-dividing sensitive cells. Overall, good rates of growth, fast adsorption rate, broad host range, and high depolymerizing activity, as well as antibacterial effectiveness against planktonic and biofilm-associated bacteria, make these phages good candidates for potential application in combating A. baumannii infections.

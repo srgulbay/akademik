@@ -1,0 +1,13 @@
+PMID: 35151875
+Title: Fighting Acinetobacter baumannii infections with the acylase PvdQ.
+Authors: Vogel J., Jansen L., Setroikromo R., Cavallo F., van Dijl J., Quax W.
+Journal: Microbes and infection
+Year: 2022
+DOI: 10.1016/j.micinf.2022.104951
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/35151875/
+DOI URL: https://doi.org/10.1016/j.micinf.2022.104951
+
+--- Abstract ---
+Acinetobacter baumannii is an opportunistic Gram-negative bacterial pathogen that poses a threat for frail patients worldwide. The high ability to withstand environmental stresses as well as its resistance towards a broad range of antibiotics make A. baumannii an effective hard-to-eradicate pathogen. One of the key mechanisms mediating tolerance against antibiotic treatment is the formation of biofilms, a process that is controlled by a multitude of different regulatory mechanisms. A key factor with major impact on biofilm formation is cell-to-cell communication by quorum-sensing, which in A. baumannii is mediated by acyl homoserine lactone signaling molecules. Here we show that the Ntn-Hydrolase PvdQ from Pseudomonas aeruginosa can reduce biofilm formation by the A. baumannii ATCC 17978 type strain and several clinical isolates on abiotic surfaces. Further, our study shows that a combination treatment of PvdQ-mediated quorum-quenching with the antibiotic gentamicin has a synergistic effect on the clearance of A. baumannii biofilms and possible biofilm dispersal. Moreover, we demonstrate in a Galleria mellonella larval infection model that PvdQ administration significantly prolongs survival of the larvae. Altogether, we conclude that the acylase-mediated irreversible cleavage of quorum-sensing signaling molecules as exemplified with PvdQ can set a profound limit to the progression of A. baumannii infections.

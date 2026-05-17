@@ -1,0 +1,10 @@
+Title: Mechanisms of Bacterial Tolerance and Persistence in the Gastrointestinal and Respiratory Environments
+PMID: 30068737
+PMCID: PMC
+DOI: 10.1128/CMR.00023-18
+
+=== ABSTRACT ===
+Pathogens that infect the gastrointestinal and respiratory tracts are subjected to intense pressure due to the environmental conditions of the surroundings. This pressure has led to the development of mechanisms of bacterial tolerance or persistence which enable microorganisms to survive in these locations.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

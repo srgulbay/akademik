@@ -1,0 +1,211 @@
+Title: Evolution of the Quorum network and the mobilome (plasmids and bacteriophages) in clinical strains of Acinetobacter baumannii during a decade
+PMID: 29410443
+PMCID: PMC
+DOI: 10.1038/s41598-018-20847-7
+
+=== ABSTRACT ===
+In this study, we compared eighteen clinical strains of A. baumannii belonging to the ST-2 clone and isolated from patients in the same intensive care unit (ICU) in 2000 (9 strains referred to collectively as Ab_GEIH-2000) and 2010 (9 strains referred to collectively as Ab_GEIH-2010), during the GEIH-REIPI project (Umbrella BioProject PRJNA422585). We observed two main molecular differences between the Ab_GEIH-2010 and the Ab_GEIH-2000 collections, acquired over the course of the decade long sampling interval and involving the mobilome: i) a plasmid harbouring genes for blaOXA 24/40 ß-lactamase and abKA/abkB proteins of a toxin-antitoxin system; and ii) two temperate bacteriophages, Ab105-1ϕ (63 proteins) and Ab105-2ϕ (93 proteins), containing important viral defence proteins. Moreover, all Ab_GEIH-2010 strains contained a Quorum functional network of Quorum Sensing (QS) and Quorum Quenching (QQ) mechanisms, including a new QQ enzyme, AidA, which acts as a bacterial defence mechanism against the exogenous 3-oxo-C12-HSL. Interestingly, the infective capacity of the bacteriophages isolated in this study (Ab105-1ϕ and Ab105-2ϕ) was higher in the Ab_GEIH-2010 strains (carrying a functional Quorum network) than in the Ab_GEIH-2000 strains (carrying a deficient Quorum network), in which the bacteriophages showed little or no infectivity. This is the first study about the evolution of the Quorum network and the mobilome in clinical strains of Acinetobacter baumannii during a decade.
+
+=== FULL TEXT ===
+# Introduction
+
+Acinetobacter baumannii is a successful nosocomial pathogen, especially in Intensive Care Units (ICUs), where sporadic disease outbreaks occur1,2. The species is now endemic in some ICUs and is the second or third most common pathogen in nosocomial settings3. This is due to the ability of nosocomial pathogens to persist in the hospital environment for long periods of time, as well as to the continued increase in multidrug resistance and to virulence and/or pathogenicity, which are mainly acquired via the mobile genomic elements (bacteriophages, plasmids and transposons referred to as the “mobilome”) that are the main driving forces for the genome4. Proliferation of mobile elements stimulates chromosomal recombination and rearrangement, leading to genome plasticity and contributing to enhanced genetic variability and adaptation5.
+
+Prophages (temperate bacteriophages) can introduce a plethora of genes that provide different functions to their hosts (e.g. motility, quorum sensing and stress tolerance)6. For instance, bacteriophages can protect their hosts against secondary infections through exclusion of superinfection as they prevent similar phage particles from attaching to the host7,8. Such lysogenic conversions can take the form of stable phenotypic changes or increased host plasticity, thereby improving bacterial survival under stress conditions via the Quorum Sensing (QS) network and the SOS response6,9.
+
+On the other hand, Quorum Quenching (QQ) mechanisms can effectively interfere with any of the key processes in QS systems and this capacity could potentially be exploited to quench QS and prevent microbial infections10. Naturally occurring QQ mechanisms act by blocking key steps of the QS system, such as signal generation, signal accumulation and signal reception. Microorganisms exist in a multi-species, competitive environment and have developed many survival strategies to gain benefits and compete for space, nutrition and ecological niches. One of these, QS interruption, is straightforward because bacteria that produce QQ agents can inhibit the QS-regulated behaviour of competing species and therefore obtain benefits or avoid being killed by other bacteria or viruses, so that the functional network comprises both QS and QQ mechanisms.
+
+An AHL acylase, AmiE, has recently been identified in Acinetobacter sp. strain Ooi2411,12. Our research group has recently described a new QQ enzyme (AidA) in a clinical isolate of Acinetobacter baumannii under 3-oxo-C12-HSL pressure13,14. Array studies revealed that only 13 proteins associated with 7 groups of families with the QQ phenotype were overexpressed in the presence of this molecule: the AidA enzyme (QQ mechanism), Glutathione-S-transferase (detoxification and DNA repair), RND transporter (efflux pump), Omp38 (OmpA), Enterocidin Ecn A/B family (stress response), Porin and 7 proteins involved in AHLs synthesis. The AidA enzyme was found to be associated with bacterial competition, as it is capable of hydrolyzing the signalling molecules used to mediate communication between species, including 3-oxo-C12-HSL13.
+
+Information about bacteriophages and the network of QS/QQ mechanisms adds to a growing appreciation that plasmid carriage can have complex effects on the bacterial phenotype. For example, plasmids have been shown to alter biofilm formation15,16, cell hydrophobicity17, stress tolerance and motility16. Plasmid carriage can also alter biotic interactions with bacteriophages, limiting the coevolution of bacteria and bacteriophages and altering the longer-term evolutionary trajectory of bacterial populations18. The plasmid-harbouring bacteria have evolved lower resistance to bacteriophages, and plasmid-carrying bacteriophages have evolved lower infectivity than plasmid-free populations18.
+
+In this study, we compared the genomes of eighteen clinical strains of A. baumannii belonging to the ST-2 clone and isolated from the same hospital and ICU (9 strains referred as Ab_GEIH-2000 and 9 strains referred as Ab_GEIH-2010) during the Spanish Multicentre Study (the GEIH-REIPI project). The aims of studying the collections of clinical A. baumannii strains were as follows: i) to investigate the molecular evolution of the strains by sequencing and carrying out genome analyses; ii) to develop linear sequences of the bacteriophages (Ab105-1φ and Ab105-2φ) from the representative strain of the Ab_GEIH-2010 collection (Ab105_GEIH-2010); iii) to characterize both bacteriophages (Ab105-1φ and Ab105-2φ) in the Ab_GEIH-2010 clinical strains; iv) to carry out functional analysis of the network of Quorum Sensing/Quorum Quenching systems in the isolates belonging to the Ab_GEIH-2000/2010 collections; and v) to determine the infective capacity of bacteriophages (Ab105-1φ and Ab105-2φ) in isolates from the Ab_GEIH-2000/2010 collections under stress conditions (3-oxo-C12-HSL) in relation to the QQ enzyme, AidA.
+
+
+# Results
+
+
+## Genomic and phenotypic features of the isolates of A.baumannii from Ab_GEIH-2000/2010 collections
+
+Table 1 shows the results of whole-genome sequencing (WGS) studies undertaken as part of the GEIH-REIPI Spanish Multicentre Acinetobacter baumannii Study II 2000–2010, Umbrella BioProject PRJNA422585 (Bioproject Acc.Number in NCBI server). In total, 44.44% of the Ab_GEIH-2000 strains contained the AbATCC329/pMMCU3 plasmid harbouring blaOXA 24/40 ß-lactamase and abKA/abkB genes, in contrast to 100% of the Ab_GEIH-2010 isolates. Moreover, the MICs for the strains under study are shown in Table 2. The MICs of imipenem (64 mg/L) and meropenem (>128 mg/L) were the same for all Ab_GEIH-2010 strains, but not for the Ab_GEIH-2000 strains. Interestingly, the Ab_GEIH-2010 strains showed higher susceptibility than the Ab_GEIH-2000 strains to amikacin (resistance which is associated with aminoglycoside-modifying enzymes).Table 1Genome Sequences. Whole genome studies carried out as part of the GEIH-REIPI Spanish Multicentre Acinetobacter baumannii Study II 2000–2010 (Umbrella BioProject PRJNA422585).aCDSs: Coding Sequences for protein. bAbATCC329/pMMCU3 plasmid harbouring blaOXA 24/40 ß-lactamase gene and abKA/abkB genes from the TA system.ST-2 StrainGenBank Acc.NumberaSize (GC%)ND50ContigsCDSsaRNA genesAbkAB toxin-antitoxinAb 155_GEIH-2000LJHA000000003,991,758 (39.0%)153263643,75963−Ab 158_GEIH-2000MSMC000000003,860,705 (39.6%)73018853,50722+Ab 161_GEIH-2000MSMB000000003,848,902 (39.6%)83758203,48324+Ab 166_GEIH-2000MSMG000000003,572,409 (39.8%)519711343,14120−Ab 169_GEIH-2000MSMF000000003,653,226 (39.5%)64859733,27321−Ab 175_GEIH-2000MSMI000000003,744,299 (39.7%)71068953,39221−Ab 177_GEIH-2000MSME000000003,896,859 (39.4%)147515113,61727−Ab 183_GEIH-2000MSMJ000000003,869,061 (39.5%)80967933,52324+Ab 192_GEIH-2000MSMH000000003,781,564 (39.4%)139735423,46624+Ab 105_GEIH-2010LJHB000000004,092,613 (39.0%)112770773,91867+Ab 33_GEIH-2010MSMK000000004,032,038 (39.3%)163684833,82624+Ab 49_GEIH-2010MSMM000000003,863,043 (39.4%)109376263,62028+Ab 54_GEIH-2010MSML000000003,972,430 (39.4%)119366553,70729+Ab 76_GEIH-2010MSLY000000003,862,509 (39.6%)74568883,52324+Ab 103_GEIH-2010MSLX000000003,883,445 (39.6%)82178503,55924+Ab 104_GEIH-2010MSMA000000003,960,610 (39.4%)123696503,69025+Ab 121_GEIH-2010MSLZ000000003,987,262 (39.3%)166265223,75825+Ab 122_GEIH-2010MSMD000000003,839,340 (39.6%)84348373,50524+Table 2Strains and susceptibility to several antimicrobials. CAZ: Ceftazidime; IMP: Imipenem; MER: Meropenem; SUL: Sulbactam; GEN: Gentamicin; TOB: Tobramycin; AMK: Amikacin; CIP: Ciprofloxacin; MIN: Minocicline; TIG: Tigecycline; COL: Colistin; DOR: Doripenem; DOX: Doxycycline; TET: Tetracycline; RIF: Rifampicin. Strains E. coli ATCC25922 and P. aeruginosa ATCC27853 strains were used as controls.ST-2 StrainCAZIMPMERSULGENTOBAMKCIPMINTIGCOLDORDOXTETRIFAb_GEIH-2000Ab 155_GEIH-2000<0.120.120.061280.250.510.54160.25<0.0683232Ab 158_GEIH-2000>256>128>12864>1288640.258320.25>12864>1282Ab 161_GEIH-2000>256>128>12832>12841286416320.25>128>64>1284Ab 166_GEIH-200032216232213216160.063264>1284Ab 169_GEIH-200064112>12845121288160.12>12864>1282Ab 175_GEIH-200016844>12841281280.5160.25>12841282Ab 177_GEIH-2000128484>1284646416160.12>12864>1284Ab 183_GEIH-2000>256128>12864>12864256648160.12>12864>1284Ab 192_GEIH-2000>256128<12832>1283212864880.25>12864>1284Ab_GEIH-2010Ab 105_GEIH-201012864>128128>12842>1288160.12>12864>1284Ab 33_GEIH-201012864>12832>12844>12816320.25>12864>1284Ab 49_GEIH-201025664>12832864326410.5<0.512832>1282Ab 54_GEIH-201012864>128128>12842>128880.12>12864>1284Ab 76_GEIH-201012864>12864>12842>1288160.25>12864>1284Ab 103_GEIH-201012864>12864>12821>1288160.25>12864>12864Ab 104_GEIH-2010128128>128128>12842>1281680.25>12864>12864Ab 121_GEIH-201012864>128128>12842>12816160.12>12864>1284Ab 122_GEIH-201012864>128128>12882>128880.25>12864>1284
+
+The phylogenetic tree from both collections (Ab_GEIH-2000/2010) is shown in the Fig. 1. We observed the genomic similarity between strains of Ab_GEIH-2000 versus the genomic similarity of Ab_GEIH-2010 isolates.Figure 1Phylogenetic tree with multiple alignment of Ab_GEIH-2000 and Ab_GEIH-2010 collections. The strains from Ab_GEIH-2000 are showed in blue versus isolates of Ab_GEIH-2010 in red colour.
+
+Moreover, comparison of the chromosomal sequences (Fig. 2) of the Ab_ GEIH-2000 and Ab_GEIH-2010 collections of strains revealed the following: i) the number of similar proteins (core-genome) was higher in the Ab_GEIH-2010 strains than in the Ab_GEIH-2000 strains (3654 proteins relative to 3301 proteins); ii) of these proteins (core-genome), 239 were located in bacteriophages in the Ab_GEIH-2010 strains, compared with 21 in the Ab_GEIH-2000 strains; and iii) of the 51 proteins present only in the Ab_GEIH-2010 strains (accessory genome), 40 proteins (79%) were located in the bacteriophages. Finally, comparison of the plasmidic sequences indicated the presence of 17 proteins only in the Ab_GEIH-2010 isolates (AbATCC329/pMMCU3 plasmid harbouring genes encoding OXA 24/40 ß-lactamase and AbKA/AbkB proteins)19.Figure 2(A) Genomic comparison of the Ab_GEIH-2000 and Ab_GEIH-2010 collections of strains. The strains are represented by different coloured ovals depending on whether they are included in the Ab_GEIH-2000 (blue) or Ab_GEIH-2010 (yellow) collections. The number shown in the non-overlapping portions of each oval is the number of unique coding DNA sequences (CDSs) in each strain (accessory genome). The total number of CDSs within each genome is shown in brackets below the strain name, and the size of the core genome (orthologous CDSs shared by all strains) is shown in the centre of the figure. The figure was constructed using Adobe Illustrator. (B) Genomic comparison of Ab_GEIH-2000 strains. The core genome (centre), the accessory genome of each strain (blue oval). The total number of CDSs within each genome is shown in brackets below the strain name. (C) Genomic comparison of the strains in the Ab_GEIH-2010 collection. The core genome (centre), the accessory genome of each isolate (yellow oval). The total number of CDSs within each genome is shown in brackets below the strain name.
+
+The genome of strain Ab105_GEIH-2010 (representative of the Ab_GEIH-2010 group of strains) included two temperate bacteriophages: Ab105-1ϕ (size 41,496 bp; 63 ORFs) and Ab105-2ϕ (size 61,304 bp; 93 ORFs). The sequences were deposited in GenBank under nucleotide sequence numbers KT588074 and KT588075, respectively. The phages showed the best BLAST matches in Siphoviridae bacteriophage family YMC/09/02/B1251 ABA BP (Bphi-B1251 [NC_019541.1]). All open reading frames (ORFs) comprising the two bacteriophage genomes, as determined by bioinformatic analysis and PCR techniques, are shown in Tables S2 and S3 (Supplementary files). Completely aligned phage genomes (ORFs) are shown in Fig. 3. Interestingly, the genome of the Ab155_GEIH-2000 strain (representative of Ab_GEIH-2000 strains) included phage proteins but no complete temperate bacteriophages.Figure 3Genome annotation representation for bacteriophages Ab 105-1ϕ (A) and Ab 105-2ϕ (B). The genes were predicted using GenemarkS software (trained with existing annotation of Acinetobacter baumannii MDR-TJ). The resulting genes were annotated by integrating the output of Blast2Go, RAST, PHAST or PHASTER, or were manually annotated using BLAST software. This information was used to group the genes in different categories. The plot was constructed using genome tools; each box represents a predicted ORF and the arrow indicates the direction of the gene.
+
+Finally, we observed the presence of Ab105-1ϕ and Ab105-2ϕ bacteriophages in all Ab_GEIH-2010 strains but not in the Ab_GEIH-2000 strains (Fig. 4).Figure 4Genome of bacteriophages Ab 105-1ϕ and Ab 105-2ϕ in Ab_GEIH-2000/2010 strains. The circos plot represents the genome of bacteriophages Ab 105-1ϕ and Ab 105-2ϕ, as follows, from the outer to the inner track: (1) names of the predicted ORFs; (2) genomes of both bacteriophages; (3) track of genes coloured as before; (4) similarity between the genomes of the two bacteriophages and the sequence of the other strains isolated in 2010. Red-coloured areas indicate no similarity in that region, i.e. this region is not present in the other genome or it was not detected with sufficient confidence. Green-coloured areas indicate a high level of confidence regarding the presence of the region; and (5) Equivalent plot for the strains isolated in 2000. In order to create the similarity tracks, we aligned the reads from each against the whole assembly, by using BWA software package. We used samtools to select those that map with high confidence in the phage regions and bedtools to measure the coverage. Those regions with coverage of more than 25× (expected around 150×) were flagged as very similar.
+
+
+## Response of A. baumannii Ab105_GEIH-2010 strain (carrying of Ab105-1ϕ and Ab105-2ϕ bacteriophages) under the SOS response (MMC)
+
+The SOS response (MMC) produced differences in microarray expression of the genes from the two bacteriophages of the Ab105_GEIH-2010. Under stress conditions by SOS response we observed an overexpression of 5% and 30% of genes by Ab105-1ϕ and Ab105-2ϕ bacteriophages respectively (Umbrella BioProject PRJNA422585). Only three ORFs were expressed in bacteriophage Ab105-1ϕ, while 28 ORFs were expressed in bacteriophage Ab105-2ϕ (30.10%) (Table 3). Moreover, up to 40 minutes after the addition of MMC (to induce the SOS response), overexpression of ORF27 (methyltransferase-SAM or AdoMet-MTase) with a relative expression (RE) of 200 times and ORF06 (MazG-like protein) with an RE of 81.3 times that of Ab105-2ϕ was observed by qRT-PCR. After 40 minutes, the RE of ORF 93 (DNA polymerase UmuC) increased by 10 times (phage Ab105-2ϕ).Table 3Microarrays studies. Expression of the Ab105_GEIH-2010 genome (determined by microarray analysis under the SOS response) and lytic/metabolic expression of Ab 105-1ϕ and Ab 105-2ϕ prophage genes. aProteins associated with viral defence against bacterial attack.ORFDescriptionGeneral FunctionExpression Level
+Ab 105-1ϕ prophage
+ORF08ATPaseAAA(domain protein)/Rec A-like family ATPasesViral replication10.7ORF09HP/UF—4.5ORF10HP/UF—3.4
+Ab 105-2ϕ prophage
+ORF01IntegraseLysogenic state3.26ORF02HP/UF—5.60
+ORF03
+
+SAM or AdoMet-MTase
+
+Viral defense
+a
+7.09ORF04HP/UF—6.83ORF05Phage protein—7.90
+ORF06
+
+MazG-like protein
+
+Viral defense
+a
+10.96ORF07HP/UF—10.39ORF08HP/UF—13.36ORF09ATPaseAAA(domain protein)/Rec A-like family ATPasesViral replication12.40ORF11HP/UF—16.75ORF18XRE family transcriptional regulator (repressor)Lytic/ lysogenic regulation4.35ORF19Transcriptional regulator (Lambda repressor-like)Lytic/ lysogenic regulation10.36ORF20HP/UF—9.17ORF21Phage replication, protein OViral replication5.15ORF22Replicative DNA helicaseViral replication3.94ORF23HP/UF—4.59ORF24IntegraseLysogenic state5.12ORF25MarR family-transcriptional regulatorLytic/ lysogenic regulation4.20ORF26HP/UF—4.09
+ORF27
+
+SAM or AdoMet-MTase
+
+Viral defence
+a
+4.00ORF28HP/UF—3.10ORF29HP/UF—3.22ORF30DnaJ-class molecular chaperone with C-terminal Zn finger domain, putativeDNA metabolism/replication3.83ORF32HP/UF—2.54ORF33HP/UF—2.16ORF58HP/UF—3.07ORF66Rha transcriptional regulatorLytic/ Lysogenic regulation2.04
+ORF80
+DNA polymerase UmuC (DNA-repair protein, UmuC-like, N-terminal)
+Viral defence
+a
+2.73
+
+On the other hand, in the arrays results from the Ab105_GEIH-2010, there were other overexpressed bacterial genes involved in the SOS response under MMC (Umbrella BioProject PRJNA422585). Among them, we highlight several genes related to DNA repair with high overexpression (>10 fold): i) Glutathione S-transferase ii) Deoxyuridine 5 -triphosphate nucleotidohydrolase (dUTPase); iii) ParB-like protein; and iv) Thymidylate synthase.
+
+Finally, the bacterial response after incubation with MMC is shown in Fig. 5. Bacterial lysis occurred in the presence of MMC but not in the absence of this compound. Finally, Fig. 5 also shows the characteristic morphology of the phages in the Siphoviridae family, with a long tail and an icosahedral capsid of diameter~ 60 nm (http://viralzone.expasy.org/).Figure 5Growth curves. (A) Ab_GEIH-2010 strains under the SOS response (induced by MMC). (B) Bacteriophages examined by TEM microscopy.
+
+
+## Responses of Ab_GEIH-2000/2010 collections under stress conditions (3-oxo-C12-HSL and H2O2)
+
+The results of expression of the abaI (QS) and the aidA (QQ) genes in all strains from the Ab_GEIH-2000 and Ab_GEIH-2010 collections under stress conditions are shown in Table 4. Activation of the QS system by the ROS response (presence of H2O2) produced overexpression of the abaI gene in all of the Ab_GEIH-2010 strains. In the presence of the 3-oxo-C12-HSL molecule (used to induce inhibition of the QS system), all of the Ab_GEIH-2010 strains overexpressed the aidA gene, while only 55.5% of the Ab_GEIH-2000 strains overexpressed this QQ enzyme and 44.4% of these strains overexpressed the abaI gene. Therefore, the Ab_GEIH-2010 strains showed QS-deficient cells relative to the Ab_GEIH-2010 strains, which had a functional QS system.Table 4Relative expression (RE) of the Quorum sensing genes (abaI and aidA). **Mutations or deletions in the sequence of abaR gene. In bold type, those isolates with no or low expression of aidA gene; aNCBI GenBank Database; bInhibition of the Quorum Sensing system by Quorum Quenching activity (induced by the presence of 3-oxo-C12-HSL); cActivation of the Quorum Sensing system via the ROS response (induced by the presence of H2O2). NA, Not Applicable.PROJECTStrain of A. baumannii clone ST-2
+abaR
+Acc. Number. Genbanka3-oxo-C12-HSLbH2O2cBacterial sensitivity to the Bacteriophages Ab105-1ϕ and Ab105-2ϕ
+abaI
+
+aidA
+
+abaI
+
+aidA
+
+abaI
+
+aidA
+Ab_GEIH-2000Ab 155_GEIH-2000ODA52665.1ODA52667.1ODA50170.11.201.503.000.50−Ab 158_GEIH-2000OLV45102.1OLV48145.1OLV47950.13.631.092.100.67−Ab 161_GEIH-2000OLV47680.1**OLV49329.1OLV44152.10.691.752.250.34−Ab 166_GEIH-2000−−−NANANANA
++
+Ab 169_GEIH-2000OLV61375.1**OLV61377.1OLV61862.10.502.111.971.00−Ab 175_GEIH-2000OLV76671.1**OLV72445.1−1.55NA2.89NA−Ab 177_GEIH-2000OLV61352.1OLV61354.1OLV60446.11.202.391.600.78
++
+Ab 183_GEIH-2000OLV73449.1OLV79706.1OLV77156.14.450.341.650.67−Ab 192_GEIH-2000OLV66603.1OLV66482.1−6.19NA1.80NA−Ab_GEIH-2010Ab 105_GEIH-2010ODA55972.1ODA55974.1ODA53988.10.923.941.550.36
++
+Ab 33_GEIH-2010OLV79037.1OLV79035.1OLV80563.11.102.501.500.50
++
+Ab 49_GEIH-2010OLV89715.1OLV84391.1OLV86104.11.236.492.100.14
++
+Ab 54_GEIH-2010OLV83069.1OLV83067.1OLV85628.11.092.505.160.20
++
+Ab 76_GEIH-2010OLV40014.1OLV29965.1OLV34275.10.641.802.200.25
++
+Ab 103_GEIH-2010OLV41119.1OLV35969.1OLV33173.11.441.771.800.10
++
+Ab 104_GEIH-2010OLV48295.1OLV40038.1OVL46713.11.142.622.140.23
++
+Ab 121_GEIH-2010OLV37874.1OLV38310.1OVL36028.10.801.703.140.20
++
+Ab 122_GEIH-2010OLV58946.1OLV53842.1OVL52031.10.403.731.750.33
++
+
+Finally, the absence of surface motility profile was also homogeneous (QQ phenotype) in the Ab_GEIH-2010 strains relative to the heterogeneity associated with the presence of surface motility in some isolates of the Ab_GEIH-2000 collection (Fig. 6).Figure 6Motility of the Ab_GEIH-2000 and Ab_GEIH-2010 strains. (a) Ab155_ GEIH-2000; (b) Ab158_GEIH-2000; (c) Ab161_GEIH-2000; (d) Ab166_GEIH-2010; (e) Ab169_GEIH-2000; (f) Ab175_GEIH-2000; (g) Ab177_GEIH-2000; (h) Ab183_GEIH-2000; (i) Ab192_GEIH-2000; (j) Ab33_GEIH-2010; (k) Ab49_GEIH-2010; (l) Ab54_ GEIH-2010; (m) Ab76_GEIH-2010; (n) Ab103_GEIH-2010; (ñ) Ab104_GEIH-2010; (o) Ab105_GEIH-2010; (p) Ab121_GEIH-2010 and (q) Ab122_GEIH-2010.
+
+
+## Impact of the Ab105-1ϕ and Ab105-2ϕ bacteriophages: infective capacity
+
+The Ab_GEIH-2010 strains, all of which carried a functional network of QS/QQ mechanisms (including the AidA protein), were infected with the bacteriophages (Ab105-1φ and Ab105- 2φ). In all Ab_GEIH-2010 isolates, as well as in strain Ab177_GEIH-2000 (which harboured a functional QS/QQ network including the AidA protein), the infective capacity (PFU/CFU) of the bacteriophages (Ab105-1φ and Ab105- 2φ) was not statistically significant different in the presence or absence of the 3-oxo-C12-HSL molecule. However, the bacteriophages were not able to infect those Ab_GEIH-2000 strains lacking the AidA protein (Ab175_GEIH-2000 and Ab192_GEIH-2000) or that displayed low expression thereof (Ab158_GEIH-2000 and Ab183_GEIH-2000), or those strains with mutations or deletions on the AbaR protein (Ab161_GEIH-2000 and Ab169_GEIH-2000) (Table 4). Moreover, a statistically significant increase in the infective capacity of the bacteriophages (Ab105-1φ and Ab105-2φ) was found in the only strain in the study that did not possess AidA, AbaI or AbaR proteins (Ab166_GEIH-2000), in the presence of the external 3-oxo-C12-HSL molecule (Fig. 7).Figure 7Effect of the QS/QQ network (carrying the AidA enzyme) on the bacteriophage infection capacity. Three strains of A. baumannii (Ab105_GEIH-2010, Ab177_GEIH-2000 and Ab166_GEIH-2000) were infected with Ab105-1φ and Ab105-2φ, both in the presence and absence of the 3-oxo-C12-HSL molecule (light grey and dark grey, respectively), used as a QS inhibitor in A. baumanni. **Indicates statistically significant differences (two-tailed Student t-test and Welch’s t-test, P < 0.05).
+
+
+# Discussion
+
+Viruses that infect bacteria (bacteriophages) can influence the dynamics of the bacterial community, the evolution of the bacterial genome and the biogeochemistry of the ecosystem. However, the degree of influence differs depending on whether the bacteriophages establish lytic, chronic or lysogenic infections. The analysis of different ecosystems by comprehensive modelling will help provide a better understanding of the diverse lifestyles and ecological impacts of lysogens in nature9,20. In this study of the genomic evolution in 18 A. baumannii strains belonging to ST-2 clone isolated in the same ICU in 2000 (9 strains referred to collectively as Ab_GEIH-2000) and in 2010 (9 strains referred to collectively as Ab_GEIH-2010), we found that the Ab_GEIH-2010 strains harboured two conserved temperate bacteriophages (Ab105-1ϕ and Ab105-2ϕ), which displayed lytic activity and activated the SOS response (in the presence of MMC). Microarray assays revealed overexpression of three viral proteins associated with protection of the virus against bacterial attack during the lytic activation of the bacteriophages. Moreover, qRT-PCR studies confirmed the overexpression of the genes coding the three proteins, 40 min after induction with MMC: i) the SAM-dependent methyltransferases or AdoMet-MTases (ORF27 from Ab 105-2ϕ), which have been associated with protection of the viral genome of the host restriction enzymes from the bacteria21,22; and ii) MazG (ORF06), which is a pyrophosphohydrolase enzyme located in bacteriophages that infect Burkholderia cenocepacia and in marine bacteriophages (especially cyanophages), thus facilitating viral infection in the environment23. In Escherichia coli, the MazG protein has been associated with a decrease in activity of the MazF toxin (MazEF toxin-antitoxin system), a defence mechanism that inhibits the spread of phage P124; and iii) the mutation-inducing UmuC protein may have significant implications for the evolution of virulence and antibiotic resistance25,26.
+
+Several are the studies where has been demonstrated by NGS analysis the high degree of variation in A. baumannii clinical isolates, including single nucleotide polymorphisms (SNPs) and large DNA fragment variations in the resistance island (RI) regions, the type VI secretion system (T6SS) and the bacteriophages27,28. One of the key determinants of the size, composition, structure and development of a microbial community is the predation pressure exerted by bacteriophages29. Bacteria have accordingly evolved a battery of anti-phage defence strategies30,31. Evidence that QS signalling may be involved in regulating the response to phages is increasing32. For example, in Escherichia coli in the presence of QS signals, i.e. N-acyl-L-homoserine lactones (AHLs), there is a significant reduction in levels of the phage receptor LamB33, which protects the bacterium against attack from the λ phage. Moreover, in Vibrio anguillarum, mutants that are permanently locked in a high-cell density state are almost completely immune to the phage KVP40, due to the QS-mediated downregulation of the OmpK receptor used by the phage34–36. In other pathogens such as Pseudomonas aeruginosa, the QS system has also been associated with populations evolving with bacteriophages37,38. It has recently been demonstrated that the presence of lysogenic bacteriophages acts as a powerful driving force for the selection of functional bacterial QS systems both in vitro and in vivo in Pseudomonas aeruginosa strains, by stabilizing bacterial cooperation and therefore virulence38. Interestingly, in all strains of the Ab_GEIH-2010 collection, a new QQ enzyme (AidA) and the AbaI protein were overexpressed in the presence of exogenous 3-oxo-C12-HSL (a QS inhibitor) and H2O2 (ROS response), respectively. These results indicated the presence of a functional QS/QQ network in these cells13. These molecular features were not present in the Ab_GEIH-2000 strains (lacking or displaying low expression of the AidA protein as well as mutations or deletions in AbaR protein), hence showing a QS/QQ-deficient38, which was not infected by the Ab105-1ϕ and Ab105-2ϕ bacteriophages.
+
+Interestingly, in a single strain which did not possess AidA, AbaI or AbaR, the low infective capacity of the bacteriophages (Ab105-1φ and Ab105-2φ) increased significantly (**P < 0.05, Student’s t-Test) in the presence of the external 3-oxo-C 12 -HSL molecule. The AidA enzyme was previously described by our research group in clinical strains of A. baumannii (non surface motile strains) associated with bacterial competition, as it is capable of hydrolyzing the signalling molecules (including 3-oxo-C12-HSL) mediated between species13. Weiland and colleagues described several QQ enzymes displaying hydrolytic activity against AHLs and AI-2 signals39,40. Therefore, several authors propose the use, together with lytic phage therapy, of QS modulators, i.e. quorum quenchers, to decrease the phage resistance mediated by the QS system38,41,42.
+
+Another molecular difference between the strains in the two collections (Ab_GEIH-2000 and Ab_GEIH-2010) was the presence/absence of a plasmid harbouring genes encoding the OXA 24/40 ß-lactamase (resistance to carbapenems) and AbkA/AbkB proteins. This AbkA/AbkB toxin-antitoxin (TA) system was described by Mosqueda et al. in 201419 in all plasmids carrying the blaOXA 24/40 ß-lactamase gene that confers resistance to carbapenems in strains of A. baumannii in Spanish hospitals. In plasmids, TA systems have been associated with plasmid stabilization43,44, although it has been hypothesised that TA loci serve only to maintain plasmid DNA at the expense of the host organism45. Other authors suggest that these systems have evolved to favour the competitive ability of plasmids in cell progeny46,47. This hypothesis has been corroborated by the results of computer modelling46. The clinical antibiotic-resistant Acinetobacter baumannii strains have been shown to display higher susceptibility to environmental phages than antibiotic-sensitive strains48. Our results regarding the clinical multiresistant strains in the Ab_GEIH-2010 collection, which showed higher sensitivity to the Ab105-1ϕ and Ab105-2ϕ phages, is also consistent with the aforementioned finding.
+
+In conclusion, two main molecular changes occurred during adaptation of clinical A. baumannii strains to a hospital environment during a decade: i) acquisition of a plasmid harbouring genes for OXA 24/40 ß-lactamase (associated with resistance to carbapenems) and AbKA/AbkB proteins (TA system), implicated in plasmid stabilization, and ii) acquisition of two temperate bacteriophages, Ab105-1ϕ (63 proteins) and Ab105-2ϕ (93 proteins), containing important proteins associated with protection of the viral genome against bacterial attack (the SAM-dependent methyltransferases or AdoMet-MTases, as well as MazG and UmuC). Interestingly, the Ab_GEIH-2000 strains showed a QS/QQ-deficient network relative to the functional QS/QQ network observed in Ab_GEIH-2010 strains under stress conditions, which could indicate the molecular evolution to a functional network of QS and QQ cells by these temperate bacteriophages (Ab105-1ϕ and Ab105-2ϕ) in the Ab_GEIH-2010 collection. The functional QS/QQ network included a new QQ enzyme, AidA, which acts as a bacterial defence mechanism and was overexpressed in the presence of a QS inhibitor (exogenous 3-oxo-C12-HSL). The aforementioned molecular characteristics have an important influence on the evolution of bacterial pathogens and how these adapt to the host environment.
+
+
+# Methods
+
+
+## Isolates of A.baumannii from Ab_GEIH-2000/2010 collections
+
+We studied eighteen genetically related clinical strains of A. baumannii (ST2 indicated by Multilocus Sequence Typing, MLST) isolated from patients in the same ICU of a Spanish hospital, in 2000 (Ab_GEIH-2000 group of strains) and 2010 (Ab_GEIH-2010 group of strains)49,50 (Umbrella BioProject PRJNA422585 Acc.Number in NCBI server). The strains were identified during the II Spanish Multicentre Study (GEIH-REIPI Acinetobacter baumannii 2000-2010) in which 654 strains of A. baumannii were isolated in 42 participating hospitals50,51.
+
+We determined the antibiotic susceptibility profile by microdilution, according to CLSI recommendations50. We used PCR to determine the presence of the OXA 24/40 ß-lactamase and an AbkA/AbkB toxin-antitoxin system in all strains from the Ab_GEIH-2000 and Ab_GEIH-2010 collections.
+
+
+## Analysis of the genomes from Ab_GEIH-2000/2010 collections by next generation sequencing (NGS)
+
+The Ab_GEIH-2000 and Ab_GEIH-2010 strains (including Ab105_GEIH-2010 and Ab155_GEIH-2000 isolates) were analyzed by next generation sequencing (NGS) in a Roche 454 GS FLX+ sequencer and Illumina MiSeq system. Isolates Ab155_GEIH-2000 and Ab105_GEIH-2010 reads were assembled using newbler Roche assembler. The other isolates were assembled using Velvet (Velvet v1.2.10 (https://www.ebi.ac.uk/~zerbino/velvet/). Putative ORFs were predicted from assembled contigs using the GeneMarkS gene prediction program52, which was previously trained with the Acinetobacter baumannii genome (GI:83207914). Blast2Go53 and RAST54 were used for functional annotation of each predicted protein. rRNA and tRNA were identified using RNAmmer55 and tRNAscan-SE 1.2156.
+
+The phylogenetic tree with multiple alignment was developed by Progressive Mauve software (http://www.darlinglab.org/mauve/mauve.html) and painted through dendroscope tool (http://www.dendroscope.org/).
+
+Construction of the pan genomes (all proteins), core genomes (similar proteins) and accessory genomes (no similar proteins) of the Ab_GEIH-2000 and Ab_GEIH-2010 strains was carried out using the PanSeq.57 and Spine tools58.
+
+The bacteriophage sequence was isolated from Ab105_GEIH-2010 (a strain representative of the Ab_GEIH-2010 collection) and manually assembled to improve the continuity of phage sequences. PCR amplification was used to confirm in silico assembly results used as a negative control for the Ab155_GEIH-2000 strain. Reconstructed phage tools59,60. All phage proteins detected were manually annotated using the Protein BLAST61 and InterProScan tools62 and displayed ≥50% protein homology. The in silico assembly results were confirmed by PCR amplification.
+
+The bacteriophage genomes of all strains analyzed in this study were compared following the indications of Krzywinski and collaborators63.
+
+
+## Study of the temperate bacteriophages of Ab105_GEIH-2010 (representative strain from Ab_GEIH-2010 collection)
+
+Mitomycin C (MMC)-induced bacteriophages were analyzed in the Ab105_ GEIH-2010 strains by three methods: (i) gene expression by microarrays and qRT-PCR; (ii) growth curves; and (iii) isolation of the bacteriophages and transmission electron microscopy (TEM) studies.
+
+
+### Gene expression studies by microarrays and qRT-PCR
+
+For the microarray studies, we obtained Dnase-treated RNA from a mid-exponential growth phase culture (optical density at 600 nm, 0.5). The cultures were treated with MMC (at a final concentration of 10 μg ml−1) and incubated for 1 h to induce an SOS response. The samples were removed for RNA extraction with the High Pure RNA Isolation Kit (Roche, Germany). The corresponding controls were processed in the same way but without addition of the above-mentioned compounds.
+
+The microarrays were specifically designed for the Ab 105_GEIH-2010 isolates by Bioarray Diagnostico Genético (Alicante, Spain) and using eArray (Agilent). The microarray assays were performed with 15,744 probes to study 4,017 genes. Labelling was carried out by two-colour microarray-based prokaryote analysis and Fair Play III labelling, version 1.3 (Agilent). Three independent RNAs per condition (biological replicates) were used in each experiment. Statistical analysis was carried out using Bioconductor, implemented in the RankProd software package for the R computing environment. A gene was considered induced when the ratio of the treated to the untreated preparation was ≥1.5 and the P value was <0.0513.
+
+Quantitative real-time PCR (qRT-PCR) was used to examine the expression of bacteriophage genes in relation to interaction with the bacterial host (host-virus interactions). We used the Lightcycler 480 RNA MasterHydrolysis Probe (Roche, Germany) for the qRT-PCR studies. The UPL Taqman Probes (Universal Probe Library-Roche, Germany), Taqman probes and primers used are listed in Table S1 (Supplementary files). We adjusted the concentrations of the samples to achieve efficiencies of 90–110% and performed all experiments in triplicate from three RNA extractions (50 ng per RNA sample). For each strain, we normalized the expression of all genes relative to the single-copy rpoB housekeeping gene. We then calibrated the normalized expression of each gene of interest relative to its expression by untreated Ab_GEIHs RNA, which was assigned a value of 1.0.
+
+
+### Growth curves
+
+About 100 ml LB broth was inoculated with 1:100 (v/v) of clinical strain Ab105_GEIH-2010 and was cultured overnight under shaking at 37 °C. In order to induce bacteriophages, one of the bacterial cultures, in which the optical density (OD) at 600 nm had reached 0.6, was exposed to MMC (Fischer Scientific, Loughborough, UK) at a final concentration of 10 µg/ml. Aliquots (1 ml) of the culture were removed for RNA extraction and the OD was measured every 20 minutes, and then every hour.
+
+
+### Isolation of the bacteriophages and TEM studies
+
+Broth culture of strain Ab105_GEIH-2010 was induced as previously described for bacteriophage induction. Lysates were centrifuged at 3400 × g for 10 min and the supernatant was filtered through a 0.22 nm filter (Millipore). NaCl was added, to a final concentration of 0.5 M, and the suspensions were mixed thoroughly and left on ice for 1 h. The suspensions were then centrifuged at 3400 × g for 40 min at 4 °C, and the supernatants were transferred to sterile tubes. PEG 6000 (10% wt/vol) was added and dissolved by rocking the tubes at room temperature for 1 h and subsequent overnight incubation at 4 °C. Bacteriophages were then precipitated at 3400 × g for 40 min at 4 °C and resuspended in SM buffer (0.1 M NaCl, 1 mM MgSO4, 0.2 M Tris-HCl, pH 7.5)64. The samples were stored at 4 °C until being processed for TEM. The samples were negatively stained with 1% aqueous uranyl acetate before being examined in a JEOL JEM-1011 electron microscope.
+
+
+## QS/QQ network in Ab_GEIH-2000/2010 collections: QS/QQ genes
+
+We used qRT-PCR to examine expression of the network of QS/QQ genes (the abaI gene from the QS system and the aidA gene from the QQ system)13. We obtained DNAse-treated RNA from cultures treated with either non-native 3-oxo-C12-HSL (associated with inhibition of the QS system)13,14 or H2O2 (ROS response implicated in activation of the QS system)13,65. We used the Lightcycler 480 RNA MasterHydrolysis Probe (Roche, Germany) for the qRT-PCR studies. The UPL Taqman Probes (Universal Probe Library-Roche, Germany), Taqman probes and primers used are listed in Table S1 (Supplementary files). We adjusted the concentrations of the samples to yield efficiencies of 90–110% and normalized them with housekeeping gene (rpoB), as previously mentioned.
+
+We also studied the surface motility (Quorum Sensing phenotype)13 of all strains. The motility assays were performed in plates of modified LB-LN (nutrient depleted)66 containing 2 g tryptone, 1 g yeast extract and 5 g NaCl. Assays were carried out with 0.25% Difco (BactoTM agar)13.
+
+
+## Extraction of bacteriophages of Ab105_GEIH-2010 (representative strain from Ab_GEIH-2010 collection)
+
+The lysogenic bacteriophages (Ab105-1φ and Ab105-2φ) were isolated from a culture of A. baumannii strain Ab105_GEIH-2010, obtained by culturing the bacterium in LB medium at 37 °C until it reached the late log phase of growth. In order to lyse the cells and obtain the bacteriophages contained within, the culture was first incubated in the presence of 10% chloroform for 30 minutes and centrifuged at 3000 × g for 15 minutes before the supernatant was recovered and filtered through Millipore 0.22 μm membranes. The bacteriophages were then concentrated by the double agar overlay method67 and used to infect A. baumannii strain Ab177_GEIH-2000, which did not harbour any bacteriophages. The plates were washed with 3 ml of phage buffer (10 mM Tris-HCL pH 7.5 and 1.8 MgSO 4) under stirring for 3 hours, after which the buffer was recovered and the phages were refiltered.
+
+
+## Estimation of bacterial sensitivity to bacteriophages from Ab_GEIH-2000/2010 collections
+
+All strains from the Ab_GEIH-2000/2010 collections were grown overnight. The cultures were subsequently diluted 1:100 in LB medium and in LB medium supplemented with 10 μM 3-oxo-C12-HSL (exogenous AHL that inhibits the detection of quorum in A. baumannii). When the OD at 600 nm reached 0.1, the cultures were infected with the previously purified bacteriophages of strain Ab105_GEIH-2010 at a multiplicity of infection (MOI) of 10 (calculated by dividing the number of bacteria [colony-forming units CFUs] the number of phages [plaque-forming units, PFUs], in a given volume of infection mixture). The cultures were then incubated at 37 °C and shaken at 180 rpm for 4 hours. An aliquot of each culture was used to establish the number of CFUs by means of serial dilution. The bacteriophages were then extracted as described above and finally the PFUs were enumerated by the double layer agar method using strain Ab177_GEIH-2000 as substrate for infection.
+
+
+## Nucleotide sequence accession number
+
+The WGS and arrays studies of the Ab_GEIH-2000 and Ab_GEIH-2010 strain collections form part of the II Spanish Multicentre Study. GEIH-REIPI Acinetobacter baumannii 2000-2010 project (Umbrella BioProject PRJNA422585).
+
+
+# Electronic supplementary material
+
+Supplementary Information

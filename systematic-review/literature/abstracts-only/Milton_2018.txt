@@ -1,0 +1,14 @@
+PMID: 29487854
+Title: Re-sensitizing Multidrug Resistant Bacteria to Antibiotics by Targeting Bacterial Response Regulators: Characterization and Comparison of Interactions between 2-Aminoimidazoles and the Response Regulators BfmR from Acinetobacter baumannii and QseB from Francisella spp.
+Authors: Milton M., Minrovic B., Harris D., Kang B., Jung D., Lewis C., Thompson R., Melander R., Zeng D., Melander C., Cavanagh J.
+Journal: Frontiers in molecular biosciences
+Year: 2018
+DOI: 10.3389/fmolb.2018.00015
+PMC: PMC5816815
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/29487854/
+DOI URL: https://doi.org/10.3389/fmolb.2018.00015
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5816815/
+
+--- Abstract ---
+2-aminoimidazole (2-AI) compounds inhibit the formation of bacterial biofilms, disperse preformed biofilms, and re-sensitize multidrug resistant bacteria to antibiotics. 2-AIs have previously been shown to interact with bacterial response regulators, but the mechanism of interaction is still unknown. Response regulators are one part of two-component systems (TCS). TCSs allow cells to respond to changes in their environment, and are used to trigger quorum sensing, virulence factors, and antibiotic resistance. Drugs that target the TCS signaling process can inhibit pathogenic behavior, making this a potent new therapeutic approach that has not yet been fully exploited. We previously laid the groundwork for the interaction of the Acinetobacter baumannii response regulator BfmR with an early 2-AI derivative. Here, we further investigate the response regulator/2-AI interaction and look at a wider library of 2-AI compounds. By combining molecular modeling with biochemical and cellular studies, we expand on a potential mechanism for interaction between response regulators and 2-AIs. We also establish that Francisella tularensis/novicida, encoding for only three known response regulators, can be a model system to study the interaction between 2-AIs and response regulators. We show that knowledge gained from studying Francisella can be applied to the more complex A. baumannii system, which contains over 50 response regulators. Understanding the impact of 2-AIs on response regulators and their mechanism of interaction will lead to the development of more potent compounds that will serve as adjuvant therapies to broad-range antibiotics.

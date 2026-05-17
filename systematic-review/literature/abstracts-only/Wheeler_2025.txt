@@ -1,0 +1,14 @@
+PMID: 40422247
+Title: MvfR Shapes Pseudomonas aeruginosa Interactions in Polymicrobial Contexts: Implications for Targeted Quorum-Sensing Inhibition.
+Authors: Wheeler K., Oh M., Fusco J., Mershon A., Kim E., De Oliveira A., Rahme L.
+Journal: Cells
+Year: 2025
+DOI: 10.3390/cells14100744
+PMC: PMC12109783
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/40422247/
+DOI URL: https://doi.org/10.3390/cells14100744
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12109783/
+
+--- Abstract ---
+Infections often occur in complex niches consisting of multiple bacteria. Despite the increasing awareness, there is a fundamental gap in understanding which interactions govern microbial community composition. Pseudomonas aeruginosa is frequently isolated from monomicrobial and polymicrobial human infections. This pathogen forms polymicrobial infections with other ESKAPEE pathogens and defies eradication by conventional therapies. By analyzing the competition within co-cultures of P. aeruginosa and representative secondary pathogens that commonly co-infect patients, we demonstrate the antagonism of P. aeruginosa against other ESKAPEE pathogens and the contribution of this pathogen's multiple quorum-sensing (QS) systems in these interactions. QS is a highly conserved bacterial cell-to-cell communication mechanism that coordinates collective gene expressions at the population level, and it is also involved in P. aeruginosa virulence. Using a collection of P. aeruginosa QS mutants of the three major systems, LasR/LasI, MvfR/PqsABCDE, and RhlR/RhlI, and mutants of several QS-regulated functions, we reveal that MvfR and, to a lesser extent, LasR and RhlR, control competition between P. aeruginosa and other microbes, possibly through their positive impact on pyoverdine, pyochelin, and phenazine genes. We show that MvfR inhibition alters competitive interspecies interactions and preserves the coexistence of P. aeruginosa with the ESKAPEE pathogens tested while disarming the pathogens' ability to form biofilm and adhere to lung epithelial cells. Our results highlight the role of MvfR inhibition in modulating microbial competitive interactions across multiple species, while simultaneously attenuating virulence traits. These findings reveal the complexity and importance of QS in interspecies interactions and underscore the impact of the anti-virulence approach in microbial ecology and its importance for treating polymicrobial infections.

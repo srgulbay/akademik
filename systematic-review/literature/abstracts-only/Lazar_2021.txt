@@ -1,0 +1,14 @@
+PMID: 34394026
+Title: Modulation of Quorum Sensing and Biofilms in Less Investigated Gram-Negative ESKAPE Pathogens.
+Authors: Lazar V., Holban A., Curutiu C., Chifiriuc M.
+Journal: Frontiers in microbiology
+Year: 2021
+DOI: 10.3389/fmicb.2021.676510
+PMC: PMC8359898
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/34394026/
+DOI URL: https://doi.org/10.3389/fmicb.2021.676510
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8359898/
+
+--- Abstract ---
+Pathogenic bacteria have the ability to sense their versatile environment and adapt by behavioral changes both to the external reservoirs and the infected host, which, in response to microbial colonization, mobilizes equally sophisticated anti-infectious strategies. One of the most important adaptive processes is the ability of pathogenic bacteria to turn from the free, floating, or planktonic state to the adherent one and to develop biofilms on alive and inert substrata; this social lifestyle, based on very complex communication networks, namely, the quorum sensing (QS) and response system, confers them an increased phenotypic or behavioral resistance to different stress factors, including host defense mechanisms and antibiotics. As a consequence, biofilm infections can be difficult to diagnose and treat, requiring complex multidrug therapeutic regimens, which often fail to resolve the infection. One of the most promising avenues for discovering novel and efficient antibiofilm strategies is targeting individual cells and their QS mechanisms. A huge amount of data related to the inhibition of QS and biofilm formation in pathogenic bacteria have been obtained using the well-established gram-positive Staphylococcus aureus and gram-negative Pseudomonas aeruginosa models. The purpose of this paper was to revise the progress on the development of antibiofilm and anti-QS strategies in the less investigated gram-negative ESKAPE pathogens Klebsiella pneumoniae, Acinetobacter baumannii, and Enterobacter sp. and identify promising leads for the therapeutic management of these clinically significant and highly resistant opportunistic pathogens.

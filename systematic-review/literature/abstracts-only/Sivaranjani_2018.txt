@@ -1,0 +1,13 @@
+PMID: 29869541
+Title: Inhibitory effect of α-mangostin on Acinetobacter baumannii biofilms - an in vitro study.
+Authors: Sivaranjani M., Srinivasan R., Aravindraja C., Karutha Pandian S., Veera Ravi A.
+Journal: Biofouling
+Year: 2018
+DOI: 10.1080/08927014.2018.1473387
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/29869541/
+DOI URL: https://doi.org/10.1080/08927014.2018.1473387
+
+--- Abstract ---
+The present study was designed to investigate the anti-biofilm potential of alpha-mangostin (α-MG) against Acinetobacter baumannii (AB). The biofilm inhibitory concentration (BIC) of α-MG against AB was found to be 2 μg ml-1. α-MG (0.5, 1 and 2 μg ml-1) exhibited non-bactericidal concentration-dependent anti-biofilm activities against AB. However, α-MG failed to disintegrate the mature biofilms of AB even at a 10-fold increased concentration from its BIC. Results from qRT-PCR and in vitro bioassays further demonstrated that α-MG downregulated the expression of bfmR, pgaA, pgaC, csuA/B, ompA, bap, katE, and sodB genes, which correspondingly affects biofilm formation and its associated virulence traits. The present study suggests that α-MG exerts its anti-biofilm property by interrupting initial biofilm formation and the cell-to-cell signaling mechanism of AB. Additional studies are required to understand the mode of action responsible for the anti-biofilm property.

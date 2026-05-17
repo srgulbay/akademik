@@ -1,0 +1,20 @@
+PMID: 39735565
+Title: Antimicrobial activity and synergistic effect of phage-encoded antimicrobial peptides with colistin and outer membrane permeabilizing agents against Acinetobacter baumannii.
+Authors: Rothong P., Leungtongkam U., Khongfak S., Homkaew C., Samathi S., Tandhavanant S., Ngoenkam J., Vitta A., Thanwisai A., Sitthisak S.
+Journal: PeerJ
+Year: 2024
+DOI: 10.7717/peerj.18722
+PMC: PMC11674141
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39735565/
+DOI URL: https://doi.org/10.7717/peerj.18722
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11674141/
+
+--- Abstract ---
+BACKGROUND: Acinetobacter baumannii poses a significant public health threat. Phage-encoded antimicrobial peptides (AMPs) have emerged as promising candidates in the battle against antibiotic-resistant A. baumannii.
+
+METHODS: Antimicrobial peptides from the endolysin of A. baumannii bacteriophage were designed from bacteriophage vB_AbaM_PhT2 and vB_AbaAut_ChT04. The peptides' minimum inhibitory concentration (MIC) and the synergistic effect of peptides with outer membrane-permeabilizing agents and colistin were determined. Cytotoxicity effects using HepG2 cell lines were evaluated for 24 h with various concentrations of peptides. Biofilm eradication assay was determined using the MIC concentration of each peptide. Galleria mellonella infection assay of phage-encoded antimicrobial peptides was investigated and recorded daily for 10 days.
+
+RESULTS: The current research indicates that three peptides, specifically PE04-1, PE04-1(NH2), and PE04-2, encoded from the endolysin of vB_AbaAut_ChT04 demonstrated significant antimicrobial activity, with minimum inhibitory concentrations (MIC) ranging from 156.25 to 312.5 µg/ml. The peptides showed antimicrobial activity against multidrug-resistant (MDR) and extensively drug-resistant (XDR) A. baumannii, Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Staphylococcus aureus, and Bacillus subtilis. We found a strong synergistic effect of three peptides with colistin and citric acid, which showed high inhibition percentages (>90%) and low fractional inhibitory concentration (FIC) indexes. The peptides exhibited a high ability to inhibit biofilm formation against twenty A. baumannii strains, with PE04-2 showing the most potent inhibition (91.92%). The cytotoxicity effects of the peptides on human hepatoma cell lines showed that the concentrations at the MIC level did not affect the cell viability. The peptides improved survival rates in the G. mellonella model, exceeding 80% by day 10.
+
+CONCLUSIONS/SIGNIFICANT FINDING: Peptides PE04-1, PE04-1(NH2), and PE04-2 showed sequence similarity to mammalian cathelicidin antimicrobial peptides. They are cationic peptides with a positive charge, exhibiting high hydrophobic ratios and high hydropathy values. The modified PE04-2 was designed by enhancing cationic through amino acid substitutions and shows powerful antibiofilm effects due to its cationic, amphipathic, and hydrophobic properties to destroy biofilm. The peptides improved survival rates in G. mellonella infection models and showed no cytotoxicity effect on human cell lines, ensuring their safety for potential therapeutic applications. In conclusion, this study highlights the antimicrobial ability of phage-encoded peptides against multidrug-resistant A. baumannii. It can be an innovative tool, paving the way for future research to optimize their clinical application.

@@ -1,0 +1,13 @@
+PMID: 40090498
+Title: Isolation and characterization a novel Acinetobacter bacteriophage with activity against several multidrug-resistant Gram-negative bacteria.
+Authors: İşlek Y., Hamzeli N., Aktaş A., Köksal Çakırlar F.
+Journal: Microbial pathogenesis
+Year: 2025
+DOI: 10.1016/j.micpath.2025.107488
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40090498/
+DOI URL: https://doi.org/10.1016/j.micpath.2025.107488
+
+--- Abstract ---
+Acinetobacter baumannii (A. baumannii) is a notorious nosocomial pathogen that is frequently associated with multidrug resistance around the world. Endolysin is a bacteriophage-produced hydrolytic enzyme. In this study, an urban waste water sample (1 L) was collected from Istanbul. A double-agar plating technique was used for host range analysis. The purified genomic DNA sequences were performed on the Miseq. De novo assembly of the crude sequences yielded a double-stranded DNA molecule with a length of 45,679 bp and a guanine-cytosine content of 37.6%. Genome annotation revealed that the vB_AbaM_YNAF genome comprises 85 open reading frames, 23 of which are functional and do not define any tRNA-rRNA genes. Electron microscopy examination and phylogenetic analysis of the genome revealed that vB_AbaM_YNAF represents a novel origin of an unclassified Obolenskvirus belonging to the class Caudoviricetes. vB_AbaM_YNAF infected one reference and three different multidrug-resistant (MDR) strains of each of A. baumannii and K. pneumoniae. However, it did not have any effect on a reference E. coli strain. Based on all of these findings, LysYAN could be a potential agent for treating MDR-Gram-negative bacteria. Further investigations on vB_AbaM_YNAF may be beneficial for designing an alternative weapon with probable wide host-range activity to fight MDR infections.

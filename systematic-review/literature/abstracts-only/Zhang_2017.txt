@@ -1,0 +1,20 @@
+PMID: 28462048
+Title: Pitfalls associated with evaluating enzymatic quorum quenching activity: the case of MomL and its effect on Pseudomonas aeruginosa and Acinetobacter baumannii biofilms.
+Authors: Zhang Y., Brackman G., Coenye T.
+Journal: PeerJ
+Year: 2017
+DOI: 10.7717/peerj.3251
+PMC: PMC5410158
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/28462048/
+DOI URL: https://doi.org/10.7717/peerj.3251
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5410158/
+
+--- Abstract ---
+BACKGROUND: The enzymatic degradation of quorums sensing (QS) molecules (called quorum quenching, QQ) has been considered as a promising anti-virulence therapy to treat biofilm-related infections and combat antibiotic resistance. The recently-discovered QQ enzyme MomL has been reported to efficiently degrade different N-acyl homoserine lactones (AHLs) of various Gram-negative pathogens. Here we investigated the effect of MomL on biofilms formed by two important nosocomial pathogens, Pseudomonas aeruginosa and Acinetobacter baumannii.
+
+METHODS: MomL was expressed in E.coli BL21 and purified. The activity of MomL on AHLs with hydroxyl substituent was tested. Biofilms of P. aeruginosa PAO1 and Acinetobacter strains were formed in 96-well microtiter plates. Biofilm formation was evaluated by crystal violet staining, plating and fluorescence microscopy. The effect of MomL on biofilm susceptibility to antibiotics was also tested. We further evaluated MomL in dual-species biofilms formed by P. aeruginosa and A. baumannii, and in biofilms formed in a wound model. The effect of MomL on virulence of A. baumannii was also tested in the Caenorhabditis elegans model.
+
+RESULTS: MomL reduced biofilm formation and increased biofilm susceptibility to different antibiotics in biofilms of P. aeruginosa PAO1 and A. baumannii LMG 10531 formed in microtiter plates in vitro. However, no significant differences were detected in the dual-species biofilm and in wound model biofilms. In addition, MomL did not affect virulence of A. baumannii in the C. elegans model. Finally, the effect of MomL on biofilm of Acinetobacter strains seems to be strain-dependent.
+
+DISCUSSION: Our results indicate that although MomL showed a promising anti-biofilm effect against P. aeruginosa and A. baumanii biofilms formed in microtiter plates, the effect on biofilm formation under conditions more likely to mimic the real-life situation was much less pronounced or even absent. Our data indicate that in order to obtain a better picture of potential applicability of QQ enzymes for the treatment of biofilm-related infections, more elaborate model systems need to be used.

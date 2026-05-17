@@ -1,0 +1,13 @@
+PMID: 40490126
+Title: Localization of AbaR4-type genomic islands and multidrug resistance plasmids in multiple Acinetobacter baumannii clones and Acinetobacter pittii from infections of dogs and cats.
+Authors: Chanchaithong P., Leelapsawas C., Sroithongkham P., Yindee J., Thummeepak R., Collaud A., Perreten V.
+Journal: Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases
+Year: 2025
+DOI: 10.1016/j.meegid.2025.105782
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/40490126/
+DOI URL: https://doi.org/10.1016/j.meegid.2025.105782
+
+--- Abstract ---
+The genomes of 39 clinical carbapenemase-producing A. baumannii (CP-Ab) and 2 A. pittii (CP-Ap) isolates from dogs and cats in Thailand (2016-2019) were analyzed for phylogenetic relationship and antimicrobial resistance gene (ARG) localization. Resistome and core genome multilocus sequence typing (cgMLST) analysis identified distinct ARG patterns within CP-Ab sequence type (ST) 2 (n = 4) and ST1575 (n = 1) of clonal complex (CC) 2, ST25 (n = 6), ST1576 (n = 1), and ST1581 (n = 2) of CC25, ST16 (n = 13), ST23 (n = 2), ST149 (n = 9), ST1093 (n = 1), along with CP-Ap (n = 2). Complete genome analysis of one CP-Ap strain and 15 representative CP-Ab strains from each clone identified strains with one to three copies of blaOXA-23 associated with Tn2006 and/or AbaR-type genomic islands (GIs). AbaR4 was chromosomally located in all other STs except CP-Ab of CC2, which carried AbaR4b. AbaR4 was found on conjugative blaOXA-23-containing plasmids in CP-Ab ST1093 and CP-Ap strains. Conjugative blaOXA-23-containing plasmids and multidrug resistance (MDR) mega-plasmids in CP-Ab ST149 and CC25 shared ancestry with the cryptic plasmid pCUVET16-467.1 in CP-Ab ST23. MDR mega-plasmids contained a bacteriophage exclusion (BREX) locus and Tn6172-derived elements. A Tn6172ISCR2::(ΔISCR2-ΔTn10-MARR) structure containing GR38 repM, a class 1 integron, and multiple ARGs were found in R3_T60 (GR38) MDR mega-plasmids of ST149 and formed an AbGRI1 structure in CC25 plasmids. These findings highlight the role of AbaR4 in carbapenem resistance and the evolution of Acinetobacter plasmids, facilitating the blaOXA-23 dissemination and the development of extensive drug resistance in multiple clones of clinical CP-Ab and CP-Ap strains originating from companion animals.

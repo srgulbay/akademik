@@ -1,0 +1,526 @@
+Title: Whole Transcriptome Analysis of Acinetobacter
+ baumannii Assessed by RNA-Sequencing Reveals Different mRNA Expression Profiles in Biofilm Compared to Planktonic Cells
+PMID: 24023660
+PMCID: PMC
+DOI: 10.1371/journal.pone.0072968
+
+=== ABSTRACT ===
+Acinetobacter
+
+baumannii
+ has emerged as a dangerous opportunistic pathogen, with many strains able to form biofilms and thus cause persistent infections. The aim of the present study was to use high-throughput sequencing techniques to establish complete transcriptome profiles of planktonic (free-living) and sessile (biofilm) forms of 
+
+A
+
+. baumannii
+ ATCC 17978 and thereby identify differences in their gene expression patterns. Collections of mRNA from planktonic (both exponential and stationary phase cultures) and sessile (biofilm) cells were sequenced. Six mRNA libraries were prepared following the mRNA-Seq protocols from Illumina. Reads were obtained in a HiScanSQ platform and mapped against the complete genome to describe the complete mRNA transcriptomes of planktonic and sessile cells. The results showed that the gene expression pattern of 
+
+A
+
+. baumannii
+ biofilm cells was distinct from that of planktonic cells, including 1621 genes over-expressed in biofilms relative to stationary phase cells and 55 genes expressed only in biofilms. These differences suggested important changes in amino acid and fatty acid metabolism, motility, active transport, DNA-methylation, iron acquisition, transcriptional regulation, and quorum sensing, among other processes. Disruption or deletion of five of these genes caused a significant decrease in biofilm formation ability in the corresponding mutant strains. Among the genes over-expressed in biofilm cells were those in an operon involved in quorum sensing. One of them, encoding an acyl carrier protein, was shown to be involved in biofilm formation as demonstrated by the significant decrease in biofilm formation by the corresponding knockout strain. The present work serves as a basis for future studies examining the complex network systems that regulate bacterial biofilm formation and maintenance.
+
+=== FULL TEXT ===
+# Introduction
+
+Acinetobacter
+
+baumannii
+ are non-fermentative, oxidase negative, non-flagellated gram-negative bacilli. Although this species is a normal inhabitant of the human skin flora, intestinal tract, and respiratory system, it has been shown to cause severe disease, including bacteremia and pneumonia, especially in patients hospitalized in intensive care units and reanimation wards [1–5]. Consequently, 
+
+A
+
+. baumannii
+ was recently listed as one of the six most dangerous opportunistic pathogens [6,7]. Its high genetic plasticity allows it to rapidly adapt to stressful or otherwise unfavorable conditions by acquiring mutations, plasmids, or transposable elements. Moreover, 
+
+A
+
+. baumannii
+ species exhibit a remarkable ability to develop antibiotic resistance, which may quickly evolve into a multiresistant pattern following the acquisition of different resistance mechanisms, including β-lactamases, efflux pumps, porins, penicillin-binding proteins (PBPs), and methylase enzymes [1,2,8–17].
+
+Bacteria often adopt sessile lifestyles in the form of matrix-enclosed habitats referred to as biofilms [18]. These are dynamic structures in which transitions between planktonic and sessile modes of growth occur in response to different environmental signals. The bacterial species inhabiting biofilms differ physiologically and behaviorally from their free-living counterparts [19]. Importantly, the structural characteristics of biofilms make them resistant to most antibiotics and host defenses [19–24]. This persistence provides a source of recurrent infections. In the case of 
+
+A
+
+. baumannii
+, the infection of mucous surfaces and bacterial contamination of medical devices, such as intravascular catheters or endotracheal intubation, may result in biofilm formation, increasing the risk of bloodstream and respiratory infections [9].
+
+An understanding of the ability of 
+
+A
+
+. baumannii
+ to form biofilms that adhere to and persist on a broad range of surfaces may offer the key to revealing its pathogenic mechanisms. Biofilm formation in 
+
+A
+
+. baumannii
+ has been shown to involve several regulatory processes, including those based on the sensing of bacterial cell density, the presence of different nutrients, and the concentration of free cations available to bacterial cells. Some of these extracellular signals may be sensed by two-component regulatory systems such as BfmRS. This transcriptional regulatory system activates expression of the usher-chaperone assembly apparatus responsible for the production of pili, which are needed for cell attachment and subsequent biofilm formation on polystyrene surfaces [25–27]. Recently, three new two-component sensor/regulator systems involved in biofilm formation in P. aeruginosa were identified [28]. In 
+
+A
+
+. baumannii
+, a homolog of the biofilm-associated protein (Bap) of Staphylococcus aureus has been described [29] and the involvement of the membrane protein OmpA in the development of solid biofilms on abiotic surfaces and in virulence was demonstrated [30,31].
+
+Several studies have reported changes in amino acid metabolism during biofilm development [32–35]. In their analyses of planktonic and sessile cells from biofilms of 
+
+A
+
+. baumannii
+ ATCC 17978, Cabral et al. [34] found differences in their proteomic profiles. In general, processes involved in bacterial adhesion and the formation and development of biofilms engage complex regulatory networks that coordinate the temporal expression of genes related to adhesion, motility, and the synthesis of matrix components. Although the ability of 
+
+A
+
+. baumannii
+ to form biofilms on abiotic surfaces contributes to the unique survival pattern of this pathogen in hospital settings, little is known about the mechanisms that promote and support biofilm formation. However, this knowledge is essential to the identification of new therapeutic targets and thus to the design of drugs effective against persistent diseases caused by multi-resistant biofilm-forming clones of 
+
+A
+
+. baumannii
+.
+
+Microarray technology has been used to obtain the complete transcriptional profiles of different microorganisms and offers an approach to studying biofilm formation [36,37]. For example, Whiteley et al. [38] found significant differences in gene expression between sessile and planktonic cells in Pseudomonas aeruginosa. Moreno-Paz et al. [19] demonstrated different profiles in cells of the iron-oxidizing bacteria Leptospirillium grown in biofilm vs. planktonic modes. In 
+
+A
+
+. baumannii
+, Hood et al. described the distinct transcriptional profile of the bacterium in response to NaCl [39] while Eijkelkamp et al. [40] were able to analyze its transcriptome in cultures grown under iron-limiting conditions (which prevents biofilm formation), reporting major transcriptional changes mostly related to iron acquisition but also to motility processes.
+
+Among the more recent techniques used to analyze the genome-wide RNA profiles of a number of organisms is deep sequencing, using the platforms 454 GS_FLX (Roche), Genome Analyzer or HiSeq (Illumina Inc.), and ABI SOLID (Life Technologies). These are open platforms not limited to the study of previously known genes, and they are sensitive as well as fast [41–48]. RNA sequencing using the Illumina system has developed as an extremely informative technique for the study of transcriptional profiles of microbes [45,49,50].
+
+The aim of the present study was to use bacterial mRNA and the Illumina RNA-sequencing technologies to gain insight into the mechanisms behind the remarkable ability of 
+
+A
+
+. baumannii
+ to form biofilms. We therefore obtained whole transcriptomes from planktonic and biofilm cells of 
+
+A
+
+. baumannii
+ strain ATCC 17978 and then compared them for differences in their gene expression profiles.
+
+
+# Materials and Methods
+
+
+## Strains and culture conditions
+
+A
+
+. baumannii
+ ATCC 17978 was routinely grown in Mueller-Hinton (MH) broth. E. coli TG1, used for cloning procedures, was grown in Luria-Bertani (LB) broth. Agar was added to a final concentration of 2% when necessary. All strains were grown at 37 °C with shaking (180 rpm), and stored at -80 °C in LB broth containing 10% glycerol. Kanamycin (50 µg/mL) and rifampicin (50 µg/mL) were from Sigma-Aldrich (St. Louis, MO) and were added to select transformant strains. Cultures of planktonic cells originated from a single colony of 
+
+A
+
+. baumannii
+ strain ATCC 17978 isolated in MH agar and then grown in 5 mL of MH broth overnight as described above. The resulting culture was diluted 100-fold in 500 mL of MH broth in 1-L flasks and again grown as described above, measuring the optical density at 600 nm (OD600nm) every 30 min. Cells were harvested during the exponential (OD600nm = 0.4) and late stationary phases (OD600nm = 2.0) of growth, 48 h after inoculation. Planktonic and sessile cells (obtained as described below) were resuspended in RNA Later reagent (Sigma-Aldrich), frozen using liquid nitrogen, and stored at -80 °C.
+
+
+## Biofilm generation in Pyrex plates
+
+A
+
+. baumannii
+ ATCC 17978 biofilms were obtained in the Fermentation Laboratory of the Agrobiotechnology Institute (Navarra, Spain). A sample from an overnight culture of 
+
+A
+
+. baumannii
+ grown in MH broth was used to inoculate 60-mL microfermentors (Institute Pasteur, Paris, France), which were then maintained at 37 °C for 24 h. The bacterium was grown in MH broth medium under a continuous-flow culture system and continuous aeration consisting of 40 mL of compressed, sterile air/h. Submerged Pyrex slides served as the growth substratum. Biofilms that formed on the Pyrex slides were removed with a cell scraper and frozen in liquid nitrogen at -80 °C.
+
+
+## Isolation of mRNA
+
+Three samples, corresponding to exponential and stationary phase cells and sessile cells from biofilms, were reduced to powder under liquid nitrogen while grinding using a mortar and pestle. Total RNA was then isolated using the mirVana miRNA isolation kit (Ambion) following the manufacturer’s protocols. Ten µg of each total RNA was further processed by removing 23S and 16S rRNAs using the MICROBExpress bacterial mRNA enrichment kit (Ambion). The rRNA-depleted samples (free of 16S and 23S rRNA) of exponentially growing, stationary phase, and biofilm cells were treated with DNAse I (Invitrogen), purified using phenol-chloroform, and concentrated by ethanol precipitation. Final concentrations and purity grades of the samples were determined using a NanoDrop ND-1000 (Thermo Scientific) and a BIOANALYZER 2100 (Agilent Technologies Inc., Germany).
+
+
+## Transcription assays
+
+A cDNA synthesis kit (Roche) was used to obtain double-stranded cDNA (ds-cDNA), following the manufacturer’s instructions. The rRNA-depleted samples together with 5’-phosphorylated degenerated hexamers and the AMV reverse transcriptase (both from Roche) were used to obtain the first cDNA strand. The second cDNA strand was then generated and treated with RNase. The ds-cDNA products were purified using the High Pure PCR purification kit (Roche). The samples were further quantified using a Nanodrop ND-1000 (Thermo Scientific) and a BIOANALYZER 2100 (Agilent Technologies Inc., Germany). The ds-cDNAs were then used in subsequent steps of the study.
+
+
+## Deep-sequencing procedures
+
+To characterize the complete transcriptomes of the studied samples, mRNA libraries from three cellular conditions (exponential and stationary phase planktonic cells and sessile cells from biofilms) were prepared following the Truseq RNA sample preparation protocols from Illumina Inc. at CIC bioGUNE’s genome analysis platform (Derio, Spain). Two biological replicates were studied for each sample.
+
+
+## Read processing and comparisons of gene expression profiles
+
+Fifty nucleotide reads from each mRNA library were obtained using HiScanSQ (Illumina Inc., CIC bioGUNE, Bilbao, Spain). Short reads were aligned against the complete genome of 
+
+A
+
+. baumannii
+ ATCC 17978 and plasmids pAB1 and pAB2 (GenBank accession codes: NC_009085.1, NC_009083.1 and NC_009084.1, respectively) using Bow tie [51], allowing a maximum of three mismatches within the first 50 bases. Reads were annotated with the R Bioconductor Genominator package and differences in expression levels estimated with the R DESeq package [52]. DESeq performs a count normalization to control the variation in the number of reads sequenced across samples. After normalization, fold changes and their significance (p values), indicating differential expression, were determined after a negative binomial distribution. Those mRNAs with p values (adjusted for a false discovery rate of 0.1%) < 0.001 were considered to be differentially expressed. Raw sequences were deposited at the NCBI Sequence Read Archive, under Bioproject accession number PRJNA191863 (experiment accessions codes SRX263965, SRX263966, SRX263968 and SRX263969 to SRX263977). Blast2GO [53] was used for the functional re-annotation of genes, the mapping of gene ontology terms, and the description of biological processes, molecular functions, cellular components, and metabolic pathways associated with the biofilm expression profiles.
+
+
+## Quantitative biofilm assay
+
+Biofilm formation was quantified using the procedure described by Tendolkar et al. [54], with slight modifications. A colony of 
+
+A
+
+. baumannii
+ was grown on MH agar medium for 18 h at 37 °C and used to inoculate 25 mL of liquid MH medium, supplemented with 50 µg kanamycin /mL when necessary. The culture was maintained overnight at 37 °C and 180 rpm. Cells were harvested by centrifugation (3500 g, 10 min), washed three times with 0.9% NaCl, and resuspended in fresh liquid medium without antibiotic. From this suspension, 100 µL (containing 108 CFU) were dispensed into each well of a 96-well flat-bottom polypropylene microtiter plate containing MH medium and then incubated at 37 °C for 24–48 h. Next, the cells were stained with 25 µL of a 1% w/v crystal violet solution for 15 min at room temperature, washed twice with sterile 0.9% w/v NaCl, solubilized with 200 µL of a 4: 1 v/v mixture of ethanol and acetone, and finally quantified at 570 nm. All biofilm assays were performed with at least six replicates for each strain. ANOVA tests were used to evaluate the statistical significance of the measured differences.
+
+
+## Gene disruption
+
+Plasmids were inserted into the target genes as previously described [55], with slight modifications. Briefly, kanamycin- and zeocin-resistant plasmid pCR-BluntII-TOPO (Invitrogen), unable to replicate in 
+
+A
+
+. baumannii
+, was used as a suicide vector. An internal fragment (~ 500 bp) of the target gene was PCR-amplified using the primers listed in Table 1 and genomic DNA from 
+
+A
+
+. baumannii
+ ATCC 17978 as template. The PCR products were cloned into the pCR-BluntII-TOPO vector and the recombinant plasmids (0.1 µg) were introduced into kanamycin- and zeocin-susceptible 
+
+A
+
+. baumannii
+ ATCC 17978 by electroporation. Mutants were selected on kanamycin-containing plates. Inactivation of the target gene by insertion of the plasmid via single-crossover recombination was confirmed by sequencing the PCR-amplified products using the primers listed in Table 1.
+
+[TABLE: Oligonucleotides and probes used in the present work.]
+
+
+## Construction of knockout strains
+
+Knockout strains were constructed using the plasmid pMo130 (Genbank accession code EU862243), containing the genes xylE, sacB and a kanamycin resistance marker, as a suicide vector [56]. Briefly, 851–932 bp upstream and downstream of the 
+
+A
+
+. baumannii
+ ATCC 17978 (Genbank accession code NC_009085.1) gene of interest were cloned into the pMo130 vector using the primers listed in Table 1. The resulting plasmid was used to transform 
+
+A
+
+. baumannii
+ by electroporation. Recombinant colonies representing the first crossover event were obtained using a combination of kanamycin selection and visual detection of XylE activity following the cathecol-based method described by Hamad et al. [56]. Bright yellow and kanamycin-resistant colonies were grown overnight in LB supplemented with 15% sucrose and then plated on the same agar medium. The second crossover event was confirmed by PCR using the primers listed in Table 1. Quantitative biofilm assays were used to determine the phenotype of the mutants.
+
+
+## Complementation of stable knockout mutant
+
+To complement the stable knockout mutant, the target gene was amplified from 
+
+A
+
+. baumannii
+ ATCC 17978 genomic DNA using the primers listed in Table 1 and then cloned into the XbaI restriction site of the pET-RA plasmid under the control of the β-lactamase CXT-M-14 gene promoter, as described by Aranda et al. [57]. The new construction was used to transform the mutant strain. Transformants were selected on rifampicin- and kanamycin-containing plates and confirmed by PCR using the primers listed in Table 1. The mutant strain containing the pET-RA plasmid was used as the control.
+
+
+## Real-time RT-PCR
+
+Real-time reverse transcription-PCR (RT-PCR) was carried out to determine the expression levels of a collection of genes using Taqman probes (TIB Mol Biol) listed in Table 1. In all cases, the expression levels were standardized relative to the transcription levels of the housekeeping gene gyrB. The primers used were those listed in Table 1. Total RNA was isolated from exponentially growing and stationary phase cultures and from the biofilms using the High Pure RNA isolation kit (Roche, Germany) and then treated with RNase-free DNase I (Invitrogen Corporation, CA). The samples were further purified using the RNeasy MinElute Cleanup kit (Qiagen, Germany). For qRT-PCR, the LightCycler 480 RNA Master hydrolysis probes kit and a LightCycler 480 RNA instrument (both from Roche, Germany) were used together with the following protocol: initial incubation of 65 °C, 3 min, followed by a denaturation step at 95 °C for 30 s, 45 cycles at 95 °C, 15 s and 60 °C, 45 s, and a final elongation step at 40 °C, 30 s. All assays were performed in triplicate. The statistical significance of the determined differences was confirmed by ANOVA tests.
+
+
+# Results
+
+
+## Determination of the complete transcriptomes of planktonic and biofilm cells
+
+The mRNA fractions purified from exponentially growing (Exp) and stationary-phase (Sta) cultures and from biofilms (Bio) of 
+
+A
+
+. baumannii
+ ATCC 17978 were analyzed to determine the respective gene expression level profiles and to identify differentially expressed genes. Six libraries, including two biological replicates per sample, were constructed (Exp 1, Exp 2, Sta 1, Sta 2, Bio 1, Bio 2) and paired-end sequenced using Illumina technology (50 bpx 2). Insert average sizes in the above mentioned libraries were 208, 240, 230, 239, 209 and 253 bp, respectively. Reads were aligned against the chromosome and plasmids of 
+
+A
+
+. baumannii
+ ATCC 17978. The number of reads that mapped against the genome is detailed in Table 2. Gene level read counts are shown in Figure S1, and MD plots and correlation between samples in Figure S2. The complete mRNA transcriptomic profiles of exponentially growing and stationary-phases cultures and from biofilm cells were obtained by Illumina procedures. Gene expression values are provided in the Supporting Information (Tables S1, S2, and S3). Table S1 shows the gene expression profile of cells obtained in exponential growth phase vs. stationary phase cultures. Table S2 and Table S3 show the gene expression profile of biofilm cells vs. exponentially growing and stationary phase cultures, respectively. Overall, the data confirmed the complete description of the whole transcriptome of each stage of growth. Approximately 97% of the genes described in the 
+
+A
+
+. baumannii
+ ATCC 17978 genome database (NC_009085.1) were transcribed using the method described herein.
+
+[TABLE: Total number of reads aligning with the regions of interest (coverage) of the six libraries constructed from the mRNA samples.]
+
+
+## Different mRNA expression patterns of cells grown in exponential phase, stationary phase and in biofilms
+
+The expression patterns of exponentially growing vs. stationary phase cells, stationary phase cells vs. biofilm cells, and exponentially growing cells vs. biofilm cells were compared to identify differentially expressed transcripts. Up-regulated and down-regulated genes were determined based on differences for which the p values were below 0.001. The results are shown in Supporting Information (Tables S4, S5, S6, S7, S8, S9). Although, as expected, many genes were constitutively expressed, the comparisons indicated the association of each cellular condition with a specific expression profile, with significant differences in the expression level of a large number of genes. Thus, in biofilm vs. stationary-phase cells, 31 genes were down-regulated and 35 up-regulated; in biofilm vs. exponentially growing cells 15 genes were down-regulated and 116 up-regulated, and in stationary-phase vs. exponentially growing cells 130 genes were up-regulated and 33 down-regulated in (p < 0.001 in all cases).
+
+
+## The gene expression profile of biofilm cells
+
+A comparison of gene expression levels in biofilms vs. stationary phase cells without applying any p value filter indicated that among the 1621 genes over-expressed in biofilms there were 408 genes whose expression was at least four-fold higher in sessile cells or completely inhibited in planktonic cells but with an expression level value of at least 2 in biofilm. With the aim of describing gene expression profile differences in terms of gene ontology, the complete proteome of 
+
+A
+
+. baumannii
+ strain ATCC1 7978 was re-annotated using Blast2GO. Biological processes, molecular functions, and cellular components associated with the set of 1621 up-regulated genes in biofilms, as determined using Blast2GO, are shown in Figure 1. The results showed that the largest group, made up of 129 genes, was involved in transcriptional regulation. Many genes were those involved in acyl carrier protein biosynthetic processes, amino acid metabolism, fatty acid metabolism, ion transport, carbohydrate biosynthesis, translation, transmembrane transport, and the stress response, among other biological processes. The cellular location of the majority of the proteins encoded by these 1621 genes was in most cases consistent with the proteins being integral to the inner membrane or members of a transcription factor complex. Fewer proteins were located in the outer membrane periplasmic space, in the cell outer membrane, or in a transcriptional repressor complex. Moreover, there were small groups of genes that encoded proteins associated with the peptidoglycan-based cell wall, the type II protein secretion system complex, the fatty acid synthase complex, or cell projection, among other cellular components. According to the molecular function ontology, most of the genes over-expressed in biofilms were related to transferase, hydrolase, and oxidoreductase activities and, to a lesser extent, to metal ion, ATP, coenzyme, or DNA binding activities, among other molecular functions.
+
+[FIGURE: Sequence distribution of the 1621 genes identified in the present work as up-regulated in biofilm vs. stationary phase cells.Genes involved in: A) biological processes, B) cellular components, and C) molecular functions. The results were filtered by the number of sequences (cutoff = 40, 5, and 80, respectively).]
+
+When the comparison of gene expression levels in biofilms vs. exponentially growing and stationary phase planktonic cells was filtered by p value (< 0.001), similar results were obtained (Figure S3). A list of genes differentially expressed (p < 0.001) in the biofilm vs. exponential and stationary cultures is presented in Table 3. Among them, genes coding an acyl carrier protein, an allophanate hydrolase and the RND efflux pump AdeT (A1S_0114, A1S_1278 and A1S_1755, respectively) were only expressed in biofilms and were totally inhibited in planktonic cells. Genes corresponding to hypothetical proteins (A1S_0302, A1S_0644, A1S_1293, and A1S_2893), a transmembrane arsenate pump protein (A1S_1454), the CsuD, CsuC, and CsuA/B proteins (A1S_2214, A1S_2215, and A1S_2218), the BasD protein (A1S_2382), a ferric acinetobactin binding protein (A1S_2386), a sulfate transport protein (A1S_2534), and maleylacetoacetate isomerase (A1S_3415) were also highly expressed in biofilms but totally inhibited in stationary cells. Many genes involved in amino acid metabolism and transport (such as A1S_0115, A1S_0429, A1S_1357, A1S_3134, A1S_3185, A1S_3402, A1S_3404, A1S_3405, A1S_3406, A1S_3407, or A1S_3413), or related to iron acquisition and transport (A1S_0653, A1S_0742, A1S_0980, A1S_1631, A1S_1657, A1S_2385, or A1S_2390, encoding a ferrous iron transport protein, an iron-regulated protein, a ferric enterobactin receptor, an iron-binding protein, a siderophore biosynthesis protein, a ferric acinetobactin receptor, and an acinetobactin biosynthesis protein, respectively), transcriptional regulators (A1S_1377 and A1S_1687), or encoding efflux pumps (A1S_0009 and A1S_0538) were also up-regulated in biofilm vs. planktonic cells. A gene coding for a fimbrial protein (A1S_1507) was highly up-regulated and the outer membrane protein A (A1S_2840) was down-regulated in biofilm cells vs. either exponential or stationary phase planktonic cells. An operon containing a group of genes related to phenylacetate metabolism (with identifiers A1S_1335 to A1S_1340) was up-regulated in biofilm cells vs. exponential cells but down-regulated vs. stationary cells. A homoserine lactone synthase (A1S_0109) was over-expressed in biofilms vs. either growth form of planktonic cells, as was a group of seven genes (from A1S_0112 to A1S_0118). Among the latter, A1S_0114 was an extreme case because of its very high level of expression in the biofilm (ca. 127) and lack of detectable expression in planktonic cells.
+
+[TABLE: Differentially expressed genes in biofilm-associated cells vs. both exponentially growing and stationary-phase cells.]
+
+
+## Genes only expressed in biofilm associated cells
+
+Fifty-five genes were exclusively expressed in sessile cells (Table 4), including 12 genes assigned to uncharacterized proteins and nine encoding transcriptional regulators (A1S_0547, A1S_1256, A1S_1430, A1S_1763, A1S_1958, A1S_2042, A1S_2151, A1S_2208 and A1S_3255). Other genes in this group belonged to the Csu operon (A1S_2216 and A1S_2217), encoded a membrane protein (A1S_0595), or were related to iron acquisition systems (A1S_0945, A1S_1719, A1S_2380, and A1S_2388). Genes coding for a DNA polymerase (A1S_2015), a DNA helicase (A1S_1585), an extracellular nuclease (A1S_1198), and an endonuclease (A1S_2408) as well as two genes involved in DNA methylation (A1S_1146 and A1S_1147) were likewise only expressed in biofilms. Other groups of genes comprised those involved in efflux systems (A1S_1117, A1S_1751, and A1S_1755), or amino acid metabolism and transport (A1S_0956 and A1S_2302), or encoded an acyl carrier protein (A1S_0114). The complete list is shown in Table 4.
+
+[TABLE: List of genes expressed only in biofilm cells and inhibited in planktonic cells.]
+
+Further analysis of these 55 genes using Blast2GO revealed that most were involved in regulation of transcription and fewer to processes such as electron transport, acyl carrier biosynthesis, transmembrane transport, DNA replication, and siderophore biosynthesis (Figure 2a). The main molecular functions ascribed to the 55 genes are shown in Figure 2b, with oxidoreductase, transporters, DNA binding, and transcription factors activities predominating. The cellular location of the proteins encoded by the 55 genes is illustrated in Figure 2c, which shows that most of the proteins were located in a transcription factor complex or in the cell membrane.
+
+[FIGURE: Sequence distribution of genes expressed only in biofilm-associated cells and inhibited in planktonic cells.Genes involved in A) biological processes, B) molecular functions, and C) cellular components. The results were filtered by the number of sequences (cutoff = 1, 4, and 1, respectively).]
+
+
+## Decrease in biofilm formation ability by gene disruption and knockout mutants
+
+Five genes over-expressed in the biofilm vs. planktonic cells, as previously confirmed by qRT-PCR (Table 5), were selected for gene disruption by insertion of the plasmid pCR-Blunt-II-TOPO via single crossover recombination, as described in Materials and methods. These genes were A1S_0114 (encoding an acyl carrier protein expressed only in biofilms and inhibited in planktonic cells), A1S_0302 (encoding a hypothetical protein whose expression was ca. 27-fold higher in biofilms than in stationary-phase cells), A1S_1507 (encoding a fimbrial protein with ca. 18-fold higher expression in biofilms than in planktonic cells), A1S_3168 (encoding a pilus assembly protein PilW expressed in biofilms and repressed in stationary-phase cells, see Table S3), and A1S_2042 (a transcriptional regulator of the TetR family expressed in biofilms but inhibited in planktonic cells). The resulting mutant strains were used to evaluate their ability to form biofilms compared to the wild-type strain. As shown in Figure 3, biofilm formation ability was severely hindered (~8-fold reduction) in all of the mutant strains.
+
+[TABLE: Expression levels of genes A1S_0114, A1S_0302, A1S_1507, A1S_2042, and A1S_3168 in biofilm and planktonic cells as measured by qRT-PCR.]
+
+[FIGURE: Quantification of biofilm formation by the wild-type strain (ATCC 17978) and strains with chromosomal disruptions in the genes A1S_0114, A1S_0302, A1S_1507, A1S_3168 and A1S_2042.]
+
+To obtain a stable mutant free of antibiotic resistance markers or potential polar effects, the A1S_0114 gene was deleted from the genome of 
+
+A
+
+. baumannii
+ ATCC 17978 using the pMo130 vector, as described in Material and methods. As shown in Figure 4, the biofilm formation ability of the stable A1S_0114 knock-out (KO) mutant was significantly reduced (< 3-fold) compared to the wild-type strain.
+
+[FIGURE: Quantification of biofilm formation by the wild-type strain (ATCC 17978), a stable knockout mutant strain lacking the gene A1S_0114 (ATCC Δ0114), the same mutant strain containing the pET-RA plasmid (ATCC Δ0114 + PETRA), and a mutant strain containing the pET-RA plasmid harboring the A1S_0114 gene (ATCC Δ0114 + PETRA + 0114).]
+
+The relationship of the gene A1S_0114 to genes related to homoserine lactone synthesis (A1S_0109, A1S_0112 and A1S_0113) was examined in qRT-PCR assays. As shown in Figure 5, genes A1S_0109, A1S_0112, A1S_0113 and A1S_0114 were over-expressed in the late stationary phase of growth compared to the exponential phase in the wild-type strain. When gene A1S_0114 was deleted from the chromosome (yielding the stable A1S_0114 KO mutant strain), the expression levels of genes related to homoserine lactone synthesis (A1S_0109, A1S_0112 and A1S_0113) were considerably reduced in the late stationary phase of growth (83, 68 and 73%, respectively) of the resulting mutant compared with the wild-type strain.
+
+[FIGURE: Comparison of the expression levels of genes related to homoserine lactone synthesis (A1S_0109, A1S_0112 and A1S_0113) in the wild-type strain 
+
+A
+
+. baumannii
+ 17978 and in the A1S_0114 knock-out (KO) strain as determined by real-time qRT-PCR assays.]
+
+
+# Discussion
+
+In the present work, we successfully used Illumina RNA-sequencing to establish the complete transcriptional profile of 
+
+A
+
+. baumannii
+ strain ATCC 17978 grown in planktonic and sessile (biofilm) modes. To obtain an overview of the temporal regulation of gene expression, planktonic cells were harvested during the exponential and late stationary phases of growth. A similar strategy was previously used in a proteomic study demonstrating the growth-dependent regulation of many proteins [58]. In another proteomic study of 
+
+A
+
+. baumannii
+ ATCC 17978 [34], planktonic and sessile cells were shown to exhibit distinct proteomic profiles, indicating that biofilms are not simply surface-attached stationary-phase cells.
+
+Our data revealed that although many genes were constitutively expressed in both biofilm and planktonic cells, others differed in their growth-dependent expression, with clearly distinct and specific expression patterns between sessile biofilm cells and cells in either phase of planktonic growth. Among the 1621genes over-expressed in biofilms, 55 genes were only expressed in sessile cells and were totally inhibited in planktonic cells. The majority of the 55 genes encoded proteins involved in functions and mechanisms already known to be related with biofilm formation and maintenance whereas others were detected in this study for the first time. The presence of 12 genes encoding uncharacterized proteins further highlights the deficits in our knowledge of the specific genes associated with biofilm in 
+
+A
+
+. baumannii
+. One of these genes (A1S_0302) was selected for gene disruption procedures because of its high level of expression in biofilm cells; indeed, the corresponding mutant strain was significantly deficient in biofilm formation. In addition, nine transcriptional regulators were found to be expressed only by biofilm cells, suggesting that biofilm formation and maintenance is controlled by specific molecules that are either not expressed, silenced, or not operative in planktonic cells. Gaddy and Actis [26] suggested that the regulatory process associated with biofilm formation includes the sensing of bacterial density, the presence of nutrients, and the concentration of free cations. Some of these extracellular signals are controlled by two-component regulatory systems such as BfmR/S. The bfmS gene encodes a sensor kinase that receives extracellular signals and phosphorylates the product of the bfmR gene, a response regulator. Tomaras et al. [27] studied the BfmR/S system in 
+
+A
+
+. baumannii
+ strain 19606, where this two-component regulator is required for the activation of the usher-chaperone assembly system involved in pili formation, a feature of biofilms. Based on their study of P. aeruginosa, Petrova et al. [59] proposed a role for BfmR in biofilm development, by limiting bacteriophage-mediated lysis and subsequent DNA release. According to our data, expression of the bfmR gene, identified as A1S_0748 by Liou et al. [60], was ca. five-fold higher in biofilm cells than in stationary cells. However, BfmR cannot be claimed as a biofilm-specific molecule of the strain 17978 since it was also expressed in the planktonic cells. No significant similarities were found in the databases for the nine transcriptional regulators described herein as biofilm specific. The mutant strain generated by the disruption of one of these genes (A1S_2042) showed an important decrease in biofilm formation ability relative to the wild-type strain. A1S_2042 appears to be a transcriptional regulator of the TetR family and could play an important role in biofilm regulation. Together with the other uncharacterized biofilm-specific transcriptional regulators, all of which were expressed at low but significant levels in biofilms, A1S_2042 merits further study to gain insight into the complex regulatory networks involved in biofilm formation and maintenance.
+
+The CsuA/BABCDE chaperone-usher pili assembly system is involved in the adherence of 
+
+A
+
+. baumannii
+ strain 19606 biofilm to abiotic surfaces [26,27]. In the present work, Csu A/B, C, D and E were highly over-expressed in biofilms vs. planktonic cells. Of particular interest is CsuA/B, which is predicted to form part of the type I pili rod [40]. While the gene encoding CsuA/B was not expressed in stationary cells, its expression was greatly enhanced (value of 1122) in biofilms, although it was also expressed in exponentially growing cells (value of ca 164). Moreover, we detected CsuA (A1S_2216) and CsuB (A1S_2217) transcripts only in biofilms and not in planktonic cells. These results indicate that the complete Csu operon is highly active in the biofilms analyzed in this study. Nevertheless, it should be noted that MacQueary and Actis [61], found strong variations in the CsuA/BABCDE chaperone-usher pili assembly system and other motility factors among different strains of 
+
+A
+
+. baumannii
+ attached to abiotic surfaces. This finding may pose a challenge in the treatment of the infections caused by this bacterium, if biofilm formation on abiotic surfaces is chosen as a target for the development of new antimicrobial agents.
+
+Two genes coding for a fimbrial protein (A1S_1507) and a pilus assembly protein PilW (A1S_3168), different from the CsuA/BABCDE chaperone-usher pili assembly system, were over-expressed in biofilm vs. planktonic cells. The disruption of these two genes in the genome of 
+
+A
+
+. baumannii
+ revealed their involvement in biofilm formation and suggested that the biofilm analyzed here could require multiple pili systems to maintain its cohesive structure. Pilus and fimbriae are important for the initial step of bacterial adhesion, which is followed by the production of exopolysaccharides, an important constituent of mature biofilms that suppresses neutrophil activity and contributes to resistance. Variation in the expression of factors involved in these pathways may account for the different capacity of bacterial strains to form biofilms and therefore to colonize or infect the host environment [62].
+
+A
+
+. baumannii
+ secretes a variety of molecules involved in iron acquisition including siderophores such as acinetobactin. The iron concentration in the medium acts as an important environmental signal that induces the expression of adhesion factors, thus playing a critical role in biofilm formation [63]. However, there is wide variability in the expression of iron uptake molecules, even between strains isolated during the same outbreak [61]. In our experimental model, several genes involved in iron acquisition were over-expressed in biofilm vs. planktonic cells, while some genes related to acinetobactin (A1S_2380 and A1S_2388) and ferredoxin (A1S_0945 or A1S_1719) were expressed only in biofilms and totally inhibited in planktonic cells. The exclusively expression of acinetobactin genes in biofilm cells could be explained in terms of iron starved conditions in the sessile cells compared with an iron-rich medium used for growing planktonic cells. Eijkelkamp et al. [40] found transcriptional changes in genes involved in motility when 
+
+A
+
+. baumannii
+ was grown under iron-limiting conditions. As shown by our data, the biofilm is a resistance mode where cells clearly over-express many genes related to iron acquisition systems. It is known that the ability of 
+
+A
+
+. baumannii
+ to obtain and utilize resources such as iron is an important factor for bacterial survival but it seems to also be essential for biofilm formation and maintenance, given that bacteria able to form biofilms actively search for iron [63]. This scenario was reflected in our study by the over-expression of many genes involved in iron acquisition and transport.
+
+The detection of two genes involved in DNA methylation and expressed exclusively in biofilms suggests a role for DNA methylation in the regulation of biofilm-associated processes. In addition, several genes encoding efflux system components were activated in the biofilm cells, including the gene encoding resistance-nodulation-cell division type efflux pump (RND pump), involved in bacterial resistance to a number of antibiotics. Our results indicate that the up-regulation of efflux pumps is a mechanism of antibiotic resistance that operates in the mature biofilm [34].
+
+Another factor previously described as involved in biofilm formation is the homolog of the staphylococcal protein Bap, studied in 
+
+A
+
+. baumnannii
+ 307-0294. The protein is a surface adhesin that mediates primary attachment to both biotic and abiotic surfaces and is involved in intercellular adhesion within the mature biofilm [29]. The 
+
+A
+
+. baumannii
+ 17978 genome (NC_009085.1) contains two loci homologous to the 5’ and 3’ ends of the bap locus defined in A. baumannii strain 307-0294 [29]. These two regions correspond to genes A1S_2724 and A1S_2696 (annotated as a hemaglutinin/hemolysin like protein and a hypothetical protein, respectively) [46] that were over-expressed in biofilms vs. exponential cells, suggesting that 
+
+A
+
+. baumannii
+ Bap-related proteins in the strain 17978 could also enhance the cell to cell interactions that support biofilm maturation.
+
+Amino acid metabolism also clearly differed in our biofilm experimental design with respect to planktonic cells, as several genes involved in the metabolism and transport of amino acids were differentially expressed. Our results not only corroborate the hypothesis formulated by Cabral et al. [34] regarding the importance of histidine metabolism in biofilm formation but also extend it, based on our detection of genes involved in amino acid metabolism that were differentially expressed in biofilm cells and were not previously detected by proteomic analysis.
+
+Cell surface membrane proteins may be essential to biofilm formation. Some of these proteins were differentially expressed in our biofilm cells, such as CarO (A1S_2538) and OprD-like (A1S_0201), which were up-regulated, while OmpA (A1S_2840) was down-regulated. These results conflict somewhat with those of Cabral et al. [34], who found that OmpA was up-regulated in biofilm cells. Gaddy et al. [30] also described the importance of OmpA in biofilm formation in 
+
+A
+
+. baumannii
+ strain 19606. The discrepancy in the results can be explained by strain-dependent variations or different adhesion phenomena in response to diverse biotic or abiotic surface materials, as previously described [64]. However, Marti et al. [63], analyzed the proteome of 
+
+A
+
+. baumannii
+ strain 77 and found three mass isoforms identified as OmpA. In accordance with our results, OmpA was down-regulated in the biofilm, leading the authors to suggest that this porin participates in the initiation step of biofilm formation and that the subsequent iron starvation conditions encountered during biofilm maturation trigger a decrease in its expression. This may have been the case in our experimental model. The extracellular matrix that surrounds the biolfim protects the resident bacterial cells against a number of agents but it also limits bacterial access to fresh nutrients. Accordingly, an increase in the expression of transmembrane channels may be essential for the entrance of important nutrients. In the present work, the under-expression of OmpA was complemented by an over-expression of the porins OprD-like and CarO, which may have helped to maintain the permeability of the cells in the biofilm.
+
+Although little is known about the factors involved in biofilm regulation, cell to cell signaling mediated by N-acyl-homoserine lactones has been implicated in gram-negative bacteria [65–67]. Indeed, we identified a group of genes (identifiers A1S_0112 to A1S_0118) over-expressed in biofilms vs. planktonic cells. This group of genes has been described as an operon related to quorum sensing and may be involved in the expression of the protein encoded by A1S_0109, the only homoserine lactone synthase described thus far in 
+
+A
+
+. baumannii
+ [46,68–70]. In our experimental model, this homoserine lactone synthase (A1S_0109) was over-expressed in biofilm vs. planktonic cells. Among the genes contained in the above-mentioned operon, A1S_0114 was exclusively expressed at high levels in biofilms but totally inhibited in planktonic cells. This gene encodes a small acidic acyl carrier protein (ACP) that is very abundant in bacteria, where it serves as an important acyl donor. ACP is first synthesized in its inactive form (apo-ACP) and then activated by an acyl carrier protein synthase [71]. In its activated form, ACP is essential for the synthesis of N-acyl-homoserine lactone, which is a substrate for the homoserine lactone synthase [72]. In this work, proteins encoded by the genes A1S_0112 and A1S_0113 were identified as an acyl-CoA synthetase and an acyl-CoA dehydrogenase, respectively, both of which are necessary for ACP activation. In the gene disruption and in the stable knock out A1S_0114 (ACP) mutants there was a notable decrease in biofilm formation ability compared to the wild-type strain, demonstrating the importance of this gene in biofilm formation. Our qRT-PCR results indicated reduced expression of the genes A1S_0112, A1S_0113 as well as the N-acyl-homoserine lactone synthase gene A1S_0109 in the stable A1S_0114 KO mutant, which presumably could affect quorum sensing and biofilm formation. Moreover, since our results were consistent with alterations in fatty acid metabolism in biofilms vs. planktonic cells an alternative explanation for the decrease in biofilm formation ability of the A1S_0114 mutant is that the encoded ACP acts as an acyl donor associated with general fatty acid metabolism.
+
+
+## Concluding remarks
+
+The main goal of this study was to provide insight into the molecular mechanisms underlying the ability of 
+
+A
+
+. baumannii
+ to form biofilms. The expression profiles described herein allow the definition of many genetic elements involved in the sessile lifestyle of 
+
+A
+
+. baumannii
+, including 55 genes exclusively expressed in biofilm. Five genes were disrupted in the chromosome and the corresponding mutant strains were significantly hindered in their biofilm formation ability, demonstrating their involvement in biofilm development. An ACP-encoding gene that belongs to an operon involved in quorum sensing mediated by a homoserine lactone was highly over-expressed in our biofilm experimental model and its inactivation significantly limited biofilm formation by cells of the corresponding mutant strain.
+
+The results described in this work constitute a basis for the identification of new therapeutic targets and the design of new drugs able to prevent infectious diseases related to biofilm production by 
+
+A
+
+. baumannii
+. It also serves as a starting point for future studies of the complex network systems involved in biofilm formation and maintenance, as well as the regulation of these processes.
+
+
+# Supporting Information
+
+Gene level counts.
+Left: boxplot (median, first and third quartiles and standard deviation) of the number of reads per gene. Right: density functions of the number of reads per gene.
+
+(TIF)
+
+Click here for additional data file.
+
+MD plots and correlation between samples.
+Upper right: MD plots showing (countsA+countsB)/2 against (countsA-countsB), with A and B being the samples shown on the diagonal.
+
+(TIF)
+
+Click here for additional data file.
+
+Sequence distribution of genes up-regulated in biofilm-associated cells.
+The data were filtered based on p < 0.001 and with respect to biological processes. A) Exponentially growing cells, filtered by the number of sequences (cutoff 6). B) Stationary phase cells, filtered by the number of sequences (cutoff 1).
+
+(TIF)
+
+Click here for additional data file.
+
+Gene expression data from the complete transcriptome analysis of 
+
+Acinetobacter
+
+baumannii
+ ATCC 17978, showing gene expression levels in exponentially growing vs. stationary phase cells.
+Id: name or code of the region of interest; baseMean: mean of the two next columns; baseMeanA: normalized number of counts for sample A; baseMeanB: normalized number of counts for sample B; Fold-change: baseMeanB/baseMeanA, log2Fold-change: log2 baseMeanB/baseMeanA, pval: p value, padj: p value adjusted for multiple testing, resVarA: variance of A, resVarB: variance of B.A: stationary phase cells. B: exponential phase cells. NA, non-applicable because of zero expression.
+
+(XLSX)
+
+Click here for additional data file.
+
+Gene expression data from the complete transcriptome analysis of 
+
+Acinetobacter
+
+baumannii
+ ATCC 17978, showing gene expression levels in biofilm-associated cells vs. exponentially growing cells.
+Id: name or code of the region of interest; baseMean: mean of the two next columns; baseMeanA: normalized number of counts for sample A; baseMeanB: normalized number of counts for sample B; Fold-change: baseMeanB/baseMeanA; log2Fold-change: log2 baseMeanB/baseMeanA; pval: p value; padj: p value adjusted for multiple testing; resVarA: variance of A; resVarB: variance of B.A: exponential phase cells. B: biofilm-associated cells. NA, non-applicable because of zero expression.
+
+(XLSX)
+
+Click here for additional data file.
+
+Gene expression data from the complete transcriptome analysis of 
+
+Acinetobacter
+
+baumannii
+ ATCC 17978, showing gene expression levels of biofilm-associated vs. stationary phase cells.
+Id: name or code of the region of interest; baseMean: mean of the two next columns; baseMeanA: normalized number of counts for sample A; baseMeanB: normalized number of counts for sample B; Fold-change: baseMeanB/baseMeanA; log2Fold-change: log2 baseMeanB/baseMeanA; pval: p value; padj: p value adjusted for multiple testing; resVarA: variance of A; resVarB: variance of B.A: stationary phase cells. B: biofilm-associated cells. NA: non-applicable because of zero expression.
+
+(XLSX)
+
+Click here for additional data file.
+
+The expression levels of genes down-regulated in biofilm-associated vs. stationary phase cells.
+The data were filtered based on p < 0.001. Id: name or code of the region of interest; baseMean: mean of the two next columns; baseMeanA: normalized number of counts for sample A; baseMeanB: normalized number of counts for sample B; Fold-change: baseMeanB/baseMeanA; log2Fold-change: log2 baseMeanB/baseMeanA; pval: p value; padj: p value adjusted for multiple testing; resVarA: variance of A; resVarB: variance of B.A: stationary phase cells. B: biofilm-associated cells.
+
+(XLSX)
+
+Click here for additional data file.
+
+The expression levels of genes up-regulated in biofilm-associated vs. stationary phase cells.
+The data were filtered based on p < 0.001. Id: name or code of the region of interest; baseMean: mean of the two next columns; baseMeanA: normalized number of counts for sample A; baseMeanB: normalized number of counts for sample B; Fold-change: baseMeanB/baseMeanA; log2Fold-change: log2 baseMeanB/baseMeanA; pval: p value; padj: p value adjusted for multiple testing; resVarA: variance of A; resVarB: variance of B.A: stationary phase cells. B: biofilm-associated cells.
+
+(XLSX)
+
+Click here for additional data file.
+
+The expression levels of genes down-regulated in exponentially growing vs. stationary phase cells.
+The data were filtered based on p < 0.001. Id: name or code of the region of interest; baseMean: mean of the two next columns; baseMeanA: normalized number of counts for sample A; baseMeanB: normalized number of counts for sample B; Fold-change: baseMeanB/baseMeanA; log2Fold-change: log2 baseMeanB/baseMeanA; pval: p value; padj: p value adjusted for multiple testing; resVarA: variance of A; resVarB: variance of B.A: stationary phase cells. B: exponential phase cells.
+
+(XLSX)
+
+Click here for additional data file.
+
+The expression levels of genes up-regulated in exponentially growing vs. stationary phase cells, filtered based on p < 0.001.
+Id: name or code of the region of interest; baseMean: mean of the two next columns; baseMeanA: normalized number of counts for sample A; baseMeanB: normalized number of counts for sample B; Fold-change: baseMeanB/baseMeanA; log2Fold-change: log2 baseMeanB/baseMeanA; pval: p value; padj: p value adjusted for multiple testing; resVarA: variance of A; resVarB: variance of B.A: stationary phase cells. B: exponential phase cells.
+
+(XLSX)
+
+Click here for additional data file.
+
+The expression levels of genes down-regulated in biofilm-associated vs. exponentially growing cells.
+The data were filtered based on p < 0.001. Id: name or code of the region of interest; baseMean: mean of the two next columns; baseMeanA: normalized number of counts for sample A; baseMeanB: normalized number of counts for sample B; Fold-change: baseMeanB/baseMeanA; log2Fold-change: log2 baseMeanB/baseMeanA; pval: p value; padj: p value adjusted for multiple testing; resVarA: variance of A; resVarB: variance of B.A: exponential phase cells. B: biofilm-associated cells.
+
+(XLSX)
+
+Click here for additional data file.
+
+The expression levels of genes up-regulated in biofilm-associated vs. exponentially growing cells.
+The data were filtered based on p < 0.001. Id: name or code of the region of interest; baseMean: mean of the two next columns; baseMeanA: normalized number of counts for sample A; baseMeanB: normalized number of counts for sample B; Fold-change: baseMeanB/baseMeanA; log2Fold-change: log2 baseMeanB/baseMeanA; pval: p value, padj: p value adjusted for multiple testing; resVarA: variance of A; resVarB: variance of B.A: exponential phase cells. B: biofilm-associated cells.
+
+(XLSX)
+
+Click here for additional data file.

@@ -1,0 +1,13 @@
+PMID: 31102552
+Title: Quorum-sensing system in Acinetobacter baumannii: a potential target for new drug development.
+Authors: Saipriya K., Swathi C., Ratnakar K., Sritharan V.
+Journal: Journal of applied microbiology
+Year: 2019
+DOI: 10.1111/jam.14330
+PMC: 
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/31102552/
+DOI URL: https://doi.org/10.1111/jam.14330
+
+--- Abstract ---
+Acinetobacter baumannii causes several nosocomial infections and poses major threat when it is multidrug resistant. Even pan drug-resistant strains have been reported in some countries. The intensive care unit (ICU) mortality rate ranged from 45.6% to 60.9% and it is as high as 84.3% when ventilator-associated pneumonia was caused by XDR (extensively drug resistant) A. baumannii. Acinetobacter baumannii constituted 9.4% of all Gram-negative organisms throughout the hospital and 22.6% in the ICUs according to a study carried out in an Indian hospital. One of the major factors contributing to drug resistance in A. baumannii infections is biofilm development. Quorum sensing (QS) facilitates biofilm formation and therefore the search for 'quorum quenchers' has increased recently. Such compounds are expected to inhibit biofilm formation and hence reduce/prevent development of drug resistance in the bacteria. Some of these compounds also target synthesis of some virulence factors (VF). Several candidate drugs have been identified and are at various stages of drug development. Since quorum quenching, inhibition of biofilm formation and inhibition of VF synthesis do not pose any threat to the DNA replication and cell division of the bacteria, chances of resistance development to such compounds is presumably rare. Thus, these compounds ideally qualify as adjunct therapeutics and could be administered along with an antibiotic to reduce chances of resistance development and also to increase the effectiveness of antimicrobial therapy. This review describes the state-of-art in QS process in Gram-negative bacteria in general and in A. baumannii in particular. This article elaborates the nature of QS mediators, their characteristics, and the methods for their detection and quantification. Various potential sites in the QS pathway have been highlighted as drug targets and the candidate quorum quenchers which inhibit the mediator's synthesis or function are enlisted.

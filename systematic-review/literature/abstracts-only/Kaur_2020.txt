@@ -1,0 +1,13 @@
+PMID: 32814501
+Title: Degradation of n-hexanoyl homoserine lactone with quorum quenching bacteria immobilised magnetic nanocomposite beads.
+Authors: Kaur J., Yogalakshmi K.
+Journal: Environmental technology
+Year: 2020
+DOI: 10.1080/09593330.2020.1811389
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/32814501/
+DOI URL: https://doi.org/10.1080/09593330.2020.1811389
+
+--- Abstract ---
+N-acyl homoserine lactones (AHLs) based quorum sensing controls various phenotype expressions, including biofilm formation, hence its interruption is considered to be an ideal option for membrane biofouling control. Bead entrapped quorum quenching bacteria was reported to be an efficient approach for degradation of signal molecules in recent years. In the present study, we investigated the potential of quorum quenching (QQ) bacteria immobilised magnetic nanocomposite beads (IMN) in degradation of signalling molecule, n-hexanoyl homoserine lactone (C6-HSL). Three QQ bacteria, named Acinetobacter baumannii JYQ2, Pseudomonas nitroreducens JYQ3 and Pseudomonas JYQ4 isolated from dairy industry waste activated sludge (WAS) were immobilised in the magnetic nanocomposite (IMN) beads. The scanning electron microscopy (SEM) of the IMN beads has indicated the successful entrapment of QQ bacteria within the alginate matrix. The GC-MS analysis showed that all the QQ bacteria immobilised magnetic nanocomposite (IMN) beads degraded the signalling molecule, n-hexanoyl homoserine lactone (C6-HSL) within 72 h of incubation. The nanocomposite beads containing the QQ bacteria Pseudomonas JYQ4 showed the maximum degradation percentage of 97 ± 0.13% leaving a residual HSL of 0.7 mg/L. All the other isolates showed C6-HSL degradation percentage in the range of 87% to 95%. The data suggest the potential of C6-HSL degradation by QQ bacteria IMN beads. Hence, the study offers possibilities of controlling biofilm developed on the membrane surface during wastewater treatment processes.

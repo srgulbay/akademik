@@ -1,0 +1,14 @@
+PMID: 30965610
+Title: Characterization and Transcriptome Studies of Autoinducer Synthase Gene from Multidrug Resistant Acinetobacter baumannii Strain 863.
+Authors: Ng C., How K., Tee K., Chan K.
+Journal: Genes
+Year: 2019
+DOI: 10.3390/genes10040282
+PMC: PMC6523755
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/30965610/
+DOI URL: https://doi.org/10.3390/genes10040282
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6523755/
+
+--- Abstract ---
+Quorum sensing (QS) is a cell-to-cell communication system that uses autoinducers as signaling molecules to enable inter-species and intra-species interactions in response to external stimuli according to the population density. QS allows bacteria such as Acinetobacter baumannii to react rapidly in response to environmental changes and hence, increase the chances of survival. A. baumannii is one of the causative agents in hospital-acquired infections and the number of cases has increased remarkably in the past decade. In this study, A. baumannii strain 863, a multidrug-resistant pathogen, was found to exhibit QS activity by producing N-acyl homoserine lactone. We identified the autoinducer synthase gene, which we named abaI, by performing whole genome sequencing analysis of A. baumannii strain 863. Using high resolution tandem triple quadrupole mass spectrometry, we reported that abaI of A. baumannii strain 863 produced 3-hydroxy-dodecanoyl-homoserine lactone. A gene deletion mutant was constructed, which confirmed the functionality of abaI. A growth defect was observed in the QS-deficient mutant strain. Transcriptome profiling was performed to determine the possible genes regulated by QS. Four groups of genes that showed differential expression were discovered, namely those involved in carbon source metabolism, energy production, stress response and the translation process.

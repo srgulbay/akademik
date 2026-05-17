@@ -1,0 +1,14 @@
+PMID: 40732238
+Title: Exploring the Role of Berberine as a Molecular Disruptor in Antimicrobial Strategies.
+Authors: Duda-Madej A., Viscardi S., Bazan H., Sobieraj J.
+Journal: Pharmaceuticals (Basel, Switzerland)
+Year: 2025
+DOI: 10.3390/ph18070947
+PMC: PMC12299710
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/40732238/
+DOI URL: https://doi.org/10.3390/ph18070947
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12299710/
+
+--- Abstract ---
+In recent years, one of the most important issues in public health is the rapid growth of antibiotic resistance among pathogens. Multidrug-resistant (MDR) strains (mainly Enterobacteriaceae and non-fermenting bacilli) cause severe infections, against which commonly used pharmaceuticals are ineffective. Therefore, there is an urgent need for new treatment options and drugs with innovative mechanisms of action. Natural compounds, especially alkaloids, are showing promising potential in this area. This review focuses on the ability of the isoquinoline alkaloid berberine (BRB) to overcome various resistance mechanisms against conventional antimicrobial agents. BRB has demonstrated significant activity in inhibiting efflux pumps of the RND (Resistance-Nodulation-Cell Division) family, such as MexAB-OprM (P. aeruginosa) and AdeABC (A. baumannii). Moreover, BRB was able to decrease quorum sensing activity in both Gram-positive and Gram-negative pathogens, resulting in reduced biofilm formation and lower bacterial virulence. Additionally, BRB has been identified as a potential inhibitor of FtsZ, a key protein responsible for bacterial cell division. Particularly noteworthy, though requiring further investigation, are reports suggesting that BRB might inhibit β-lactamase enzymes, including NDM, AmpC, and ESβL types. The pleiotropic antibacterial actions of BRB, distinct from the mechanisms of traditional antibiotics, offer hope for breaking bacterial resistance. However, more extensive studies, especially in vivo, are necessary to fully evaluate the clinical potential of BRB and determine its practical applicability in combating antibiotic-resistant infections.

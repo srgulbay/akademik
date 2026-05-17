@@ -1,0 +1,13 @@
+PMID: 35030534
+Title: The antimicrobial effect of quorum sensing autoinducers of Pseudomonas aeruginosa, C12-HSL and C4-HSL, against MDR Staphylococcus aureus isolates.
+Authors: Shahbandeh M., Moosazadeh Moghaddam M., Golmohammadi R., Mirnejad R.
+Journal: Comparative immunology, microbiology and infectious diseases
+Year: 2022
+DOI: 10.1016/j.cimid.2022.101747
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/35030534/
+DOI URL: https://doi.org/10.1016/j.cimid.2022.101747
+
+--- Abstract ---
+In the current study, we investigated the antibacterial activity of main quorum sensing autoinducers of Pseudomonas aeruginosa, C12-HSL and C4-HSL, against MDR Staphylococcus aureus isolates and their synergistic effects with some common antibiotics. Forty clinical isolates of S. aureus were collected and their antibiotic susceptibility pattern was evaluated. Then, 10 resistant isolates were selected for further studies. In the following, the antibacterial activity of quorum sensing C12-HSL and C4-HSL inducers of P. aeruginosa was evaluated against selected isolates based on the microdilution method and Time Killing assay as well as their synergistic activity with selected antibiotics. The ability of inductors to hemolysis and their cytotoxicity on CHO and HeLa cell lines was also assessed. For the assessment of antibacterial activity, Acinetobacter baumannii was used as negative control. The results demonstrated that C12 and C4 have antibacterial activity against MDR S. aureus isolates but had no effect on A. baumannii. Time Killing test showed that at 2X MIC concentration, the maximum inhibition (100%) is observed after 120 min for C12 and 240 min for C4. The IC50 of inducers was about 512 μg/ml. In addition, no synergistic effects were observed.

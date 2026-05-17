@@ -1,0 +1,14 @@
+PMID: 36149764
+Title: Antibacterial effects of vanilla ingredients provide novel treatment options for infections with multidrug-resistant bacteria - A recent literature review.
+Authors: Maisch N., Bereswill S., Heimesaat M.
+Journal: European journal of microbiology & immunology
+Year: 2022
+DOI: 10.1556/1886.2022.00015
+PMC: PMC9530676
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/36149764/
+DOI URL: https://doi.org/10.1556/1886.2022.00015
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9530676/
+
+--- Abstract ---
+Due to the increasing application of antibiotics not only in healthcare settings but also in conventional agriculture and farming, multidrug-resistant (MDR) bacterial pathogens are rising worldwide. Given the increasing prevalence of infections caused by MDR bacteria such as Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter species (ESKAPE pathogen complex), it is pivotal to explore novel alternative or adjunct treatment options such as phytochemicals with antibiotic properties. Vanillin and vanillin acid represent biologically active ingredients in vanilla that has been known for long for its health-beneficial including antimicrobial effects besides its role as flavoring agent. Therefore, we performed a literature search from the past 10 years summarizing the knowledge regarding the effects of vanilla constituents against bacterial including MDR pathogens. Our survey revealed that vanillin and vanillic acid exerted potent effects directed against distinct Gram-positive and Gram-negative bacteria by inhibiting growth, viability, biofilm formation, quorum sensing and virulence. Remarkably, when combining vanillin or vanillic acid with defined synthetic antibiotics pronounced synergistic effects directed against distinct pathogenic including ESCAPE strains could be observed. In conclusion, vanilla ingredients constitute promising alternative or adjunct options in the combat of infections caused by MDR bacterial pathogens.

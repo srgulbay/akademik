@@ -1,0 +1,13 @@
+PMID: 28238067
+Title: Acquisition of Tn6018-3' CS regions increases colistin MICs against Acinetobacter baumannii isolates harboring new variants of AbaRs.
+Authors: Savari M., Ekrami A., Shoja S., Bahador A.
+Journal: Folia microbiologica
+Year: 2017
+DOI: 10.1007/s12223-017-0507-x
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/28238067/
+DOI URL: https://doi.org/10.1007/s12223-017-0507-x
+
+--- Abstract ---
+Colistin is the last hope to treat extensively drug resistance (XDR) Acinetobacter baumannii (A. baumannii) infections, but resistance to colistin is currently reported in clinical centers all over the world. Here, we studied two colistin-resistant A. baumannii isolates with a difference in minimum inhibitory concentrations (MICs) that were isolated from a single burn patient during treatment in the hospitalization period. The international clonal (IC) lineage, multilocus sequence typing (MLST), and multiple loci variable number tandem repeat (VNTR) analysis (MLVA) typing were used to characterize the relatedness of A. baumannii isolates. Lipopolysaccharides (LPS) and PmrAB system analysis by PCR sequencing, polyacrylamide gel electrophoresis (PAGE), and real-time PCR were performed to determine the intactness and probable modifications of the LPS as the main resistance mechanisms to colistin. A combination of PCR, sequencing, and restriction fragment length polymorphism (RFLP) was used for A. baumannii resistance islands (AbaR) mapping as resistance-determinant reservoirs. Two isolates were identical at all MLST and VNTR marker loci that indicated the isolates were the same strain. In comparison to colistin-heteroresistant A. baumannii strain TEH267 (MIC = 1.5 mg/L), colistin-resistant A. baumannii strain TEH273 (MIC ≥256 mg/L) acquired two genomic regions including Tn6018-topA sequence and topA sequence-3' CS in its AbaR structure containing ispA and cadA genes which, it would appear, could be associated with eightfold increase in colistin MIC. Both isolates had new variants of AbaR-like structures which could be derivatives of the typical AbaR3. According to the results of this study, AbaRs could be associated with an increase in MIC to colistin.

@@ -1,0 +1,125 @@
+Title: Glabridin Functions as a Quorum Sensing Inhibitor to Inhibit Biofilm Formation and Swarming Motility of Multidrug-Resistant Acinetobacter baumannii
+PMID: 37667809
+PMCID: PMC
+DOI: 10.2147/IDR.S417751
+
+=== ABSTRACT ===
+# Objective
+
+Acinetobacter baumannii is a hazardous bacterium that causes hospital-acquired nosocomial infections, and the advent of multidrug-resistant A. baumannii (MDR-AB) strains is concerning. Novel antibacterial therapeutic strategies must be developed. The biological effects of glabridin on MDR-AB were investigated in this study.
+
+
+# Methods
+
+The minimum inhibitory concentrations (MICs) of glabridin against eight clinical MDR-AB strains were determined using the broth microdilution technique. Crystal violet staining was used to assess biofilm development, which has significant contribution to bacterial resistance. Swarming motility was measured according to surface growth zone of MDR-AB on LB agar medium. qRT-PCR was used to evaluate the expression of quorum sensing genes abaI and abaR. Glabridin and routinely used therapeutic antimicrobial agents were tested for synergistic action using the checkerboard method.
+
+
+# Results
+
+According to our findings, glabridin suppressed MDR-AB growth at high doses (512–1024 μg/mL). The 1/4 MIC of glabridin significantly decreased MDR-AB biofilm formation by 19.98% (P < 0.05), inhibited MDR-AB motility by 44.27% (P < 0.05), whereas the 1/2 MIC of glabridin dramatically reduced MDR-AB biofilm development by 27.43% (P < 0.01), suppressed MDR-AB motility by 50.64% (P < 0.05). Mechanistically, glabridin substantially downregulated the expression of quorum sensing-related genes abaI and abaR by up to 39.12% (P < 0.001) and 25.19% (P < 0.01), respectively. However, no synergistic effect between glabridin and antibacterial drugs was found.
+
+
+# Conclusion
+
+Glabridin might be a quorum sensing inhibitor that inhibits MDR-AB biofilm development and swarming motility.
+
+=== FULL TEXT ===
+# Introduction
+
+Acinetobacter baumannii is a gram-negative, non-fermenting bacillus. It’s a common opportunistic pathogen in hospital-acquired infections, and it can cause invasive infections including sepsis, abdominal infection, and secondary meningitis in critically sick patients and those with compromised immune systems.1 Furthermore, A. baumannii can quickly develop antimicrobial resistance as a result of widespread and irrational use of antibacterial medications, making the infection exceedingly difficult to treat.2 As a result, novel therapies and countermeasures to combat A. baumannii infection are urgently needed.
+
+Unlike antibacterial agents, quorum sensing inhibitors (QSIs) employ diverse mechanisms to target the quorum sensing system, including (i) inhibiting the synthesis of signal molecules; (ii) degrading signal molecules enzymatically; (iii) competing with signal molecules for receptor sites binding; (iv) interfering with signal molecules’ binding to gene promoters, thereby inhibiting gene expression; and (v) utilizing antibodies and macromolecules like cyclodextrins to scavenge autoinducers,3 thereby interfering with the virulence factors production in secretory system, the pathogenic bacteria biofilms formation, or the expression of pathogenic genes.4 This opens up new avenues for treating bacterial resistance and pathogen infection.
+
+Licorice is a leguminous perennial plant belonging to the genus Glycyrrhiza. Licorice flavonoids have piqued people’s interest in recent years, notably since the discovery of its anti-HIV action,5 and their pharmacological effects have been consistently explored. Glabridin, a prominent bioactive compound found in licorice flavonoids, holds significant importance, and it has been linked to a variety of health benefits, including anti-inflammatory, antioxidant, anti-tumorigenic, anti-atherogenic, anti-nephrotic, neuroprotective, and energy metabolism regulation.6 Interestingly, glabridin has been demonstrated to exhibit antibacterial and antifungal properties in studies.5,7
+Glycyrrhiza glabra flavonoids, another important component of licorice flavonoids, were found to effectively suppress the quorum sensing system and diminished the virulence of A. baumannii. This was achieved by downregulating the expression of the auto-inducer synthase gene abaI, thereby inhibiting the quorum sensing system and reducing the virulence of A. baumannii.8 However, the effect of glabridin on A. baumannii is unclear. Thus, we investigated the biological effects of glabridin on multidrug-resistant A. baumannii (MDR-AB) in this study.
+
+
+# Materials and Methods
+
+
+## Bacterial Strains and Antimicrobial Susceptibility Test
+
+Eight multidrug-resistant A. baumannii isolates were recovered from inpatients with bloodstream infections from the First Affiliated Hospital of Wenzhou Medical University. Imipenem, ceftazidime, ceftriaxone, ampicillin/sulbactam, gentamicin, tobramycin, ciprofloxacin, levofloxacin, tigecycline, and colistin were acquired from Wenzhou Kangtai Biotechnology Co., Ltd (Zhejiang, China) for this study, glabridin was purchased from Xi’an Tianguangyuan Biotechnology Co., Ltd (Shanxi, China). The antimicrobial susceptibility was assessed to determine MICs of antibiotics and glabridin using the broth microdilution method.7,9 The MICs were interpreted using CLSI 2023 guidelines.10
+
+
+## Effect of Glabridin on MDR-AB Growth
+
+The effect of varying concentrations of glabridin on the growth of MDR-AB was investigated following the previously described method with minor modifications.11 Briefly, the isolates were cultivated at 37°C with shaking while being exposed to different concentrations of glabridin. The optical density (OD600 nm) was measured at various time points (2, 4, 6, 8, 10, and 24 h) during the experiment.
+
+
+## Biofilm Formation Evaluation
+
+The biofilm-forming ability was assessed using the crystal violet staining method.12 Under stationary conditions, the 8 MDR-AB strains were cultured in LB medium (200 μL) within a 96-well plate, with the presence or absence of glabridin, and maintained at 37°C. After incubation, the 96-well plate was subjected to three washes with sterile distilled water to eliminate planktonic bacterial cells. Subsequently, the biofilms were stained with 200 μL of 1% crystal violet for 10 minutes. The bound stain was then extracted using 200 μL of 33% glacial acetic acid, and the quantification was performed by measuring the absorbance at OD570 nm after another round of washing.
+
+
+## Swarming Motility Assay
+
+The surface motility of the bacteria was assessed using LB agar treated with glabridin (0.5 mg/mL) following the previously described method with minor modifications.13 Two strains, namely BM-3994 and BM-4060, exhibiting relatively higher swarming motility, were cultivated until reaching the early stationary phase. A volume of 1 μL of the bacterial suspension was introduced onto the motility plate, followed by incubation at 37°C for 24 h, after which the surface growth zone was measured.
+
+
+## Quantitative Reverse Transcription PCR
+
+To extract RNA from the eight MDR-AB strains, the strains were exposed to 1/2 MIC concentration of glabridin and concurrently grown with a control group (with the absence of glabridin) for a duration of 2 h. The isolated RNA was employed as a template for reverse transcription, utilizing the RevertAid First Strand cDNA Synthesis Kit (Thermo Scientific, MA, USA). The expression levels of the quorum sensing system genes (abaI and abaR) were assessed using qRT-PCR, employing specific primers, on an ABI 7500 real-time PCR system (Thermo Scientific, MA, USA).14 All reactions were conducted in triplicate. The relative expression levels of the target genes were normalized to the reference gene 16S rRNA and determined using the 2-ΔΔCt method.15
+
+
+## Synergism Testing
+
+The checkerboard method was conducted to detect synergistic effectiveness of glabridin and imipenem, ceftazidime, ceftriaxone, gentamicin, tobramycin, ciprofloxacin, or levofloxacin.16 Briefly, a 96-well plate was utilized to create a matrix by separately diluting the antibacterial agent and glabridin in 2-fold increments along the X-axis and Y-axis. Each well received 100 μL of bacterial suspension, resulting in a final concentration of roughly 5×105 CFU/mL. After incubating the 96-well plates at 37 °C for 16–18 h, the MIC values were determined. The potential synergistic activity was assessed using the fractional inhibitory concentration index (FICI). Synergistic, additive, irrelevant, and antagonistic activities were determined based on FICI values: FICI ≤ 0.5 for synergistic, 0.5 < FICI ≤ 1.0 for additive, 1.0 < FICI ≤ 2.0 for irrelevant, and FICI > 2.0 for antagonistic. All experiments were conducted in triplicate.
+
+
+## Statistical Analysis
+
+Statistical analysis was performed using SPSS 23.0 and GraphPad Prism 9.0.0. The normal distribution was assessed using the Kolmogorov–Smirnov test, and the significance between the intervention groups and the control group was determined using Student’s t-test. P < 0.05 was regarded as statistically significant.
+
+
+# Results
+
+
+## The MICs of Antibacterial Agents and Glabridin Against MDR-AB
+
+Table 1 indicated the MICs of routinely employed antibacterial agents and glabridin against 8 MDR-AB strains. The results demonstrated that the majority of these isolates exhibited susceptibility solely to tigecycline and colistin. Glabridin’s MICs varied from 512 to 1024 μg/mL.Table 1The MICs (μg/mL) of Routinely Used Antibacterial Agents and Glabridin Against 8 Multidrug-Resistant A. baumannii StrainsStrainsIPMCAZCROSAMGENTOBCIPLEVTGCCOLGlabridinBM-394564>128>256>64/32>64>64>32320.50.5512BM-397364>128>256>64/32164>32160.50.251024BM-397464>128>256>64/32>64>64>3280.50.5512BM-399464326464/3284>321610.5512BM-402864>128>256>64/32>64>64>3280.50.5512BM-4060>64128>256>64/32>64>64>32160.50.251024BM-407964>128>256>64/32>64>64>3280.50.1251024BM-410464>128>256>64/32>64>64>32320.1250.25512Note: MICs units: μg/mL.Abbreviations: IPM, Imipenem; CAZ, Ceftazidime; CRO, Ceftriaxone; SAM, Ampicillin/Sulbactam; GEN, Gentamicin; TOB, Tobramycin; CIP, Ciprofloxacin; LEV, Levofloxacin; TGC, Tigecycline; COL, Colistin.
+
+
+## Glabridin Was Shown to Have No Effect on the Growth of MDR-AB
+
+The growth profile of the representative strain, BM-3945, was assessed to determine the impact of different concentrations of glabridin (1/16 MIC to 1/2 MIC) on growth. The results clearly indicated that the compounds did not have any detrimental effect on growth of the strain. (Figure 1). As a result, follow-up experiments were conducted at these doses.
+Figure 1Effects of glabridin on MDR-AB growth at various doses.
+
+
+## MDR-AB Biofilm Development Was Reduced by Glabridin
+
+Figure 2A demonstrated the concentration-dependent inhibitory effect of Glabridin on MDR-AB biofilm formation, and the inhibitory effects varied between strains. Biofilm development was dramatically repressed when the concentration of glabridin was increased in BM-3994, BM-4060, BM-4079, BM-3973, BM-3974, BM-4028, and BM-4104. Notably in BM-4079, where the concentration of glabridin reached 1/2 MIC, biofilm formation was decreased by 68.3% when compared to the control group. However, glabridin showed minimal inhibitory effects on biofilm formation in BM-3945 at various concentrations. Glabridin revealed a statistically significant inhibitory effect against MDR-AB at 1/4 MIC and 1/2 MIC doses when the data from the eight strains was pooled (Figure 2B). The 1/4 MIC of glabridin significantly reduced MDR-AB biofilm formation by 19.98% (P < 0.05), whereas the 1/2 MIC of glabridin significantly reduced MDR-AB biofilm development by 27.43% (P < 0.01).
+Figure 2Glabridin inhibited biofilm formation of MDR-AB. (A) Biofilm inhibition effect against representative strains of glabridin. (B) Pooled biofilm inhibition effect of glabridin. *P < 0.05, **P < 0.01.
+
+
+## Glabridin Suppressed the Motility of MDR-AB
+
+The effect of glabridin on A. baumannii motility was shown in Figure 3. With increasing glabridin concentration, the migrating distance of MDR-AB decreased. At 1/2 MIC concentration, the migrating distance of BM-3994 fell from 33 mm to 16 mm, a 51.5% decrease, while the migrating distance of BM-4060 decreased from 18 mm to 12 mm, a 33.3% decrease (Figure 3A). Glabridin’s suppressive effect achieved a statistically significant difference at 1/4 MIC and 1/2 MIC (Figure 3B). MDR-AB motility was decreased by 1/4 MIC of glabridin by 44.27% (P < 0.05), whereas 1/2 MIC of glabridin suppressed MDR-AB motility by 50.64% (P < 0.05).
+Figure 3Glabridin suppressed motility of MDR-AB. (A) Motility suppression effect against representative strains of glabridin. (B) Pooled motility suppression effect of glabridin. *P < 0.05.
+
+
+## Glabridin Effectively Inhibited the Expression of Quorum Sensing-Related Genes
+
+Through qRT-PCR analysis, we confirmed that glabridin exerts a suppressive influence on the quorum sensing system. As shown in Figure 4A, glabridin at 1/2 MIC was observed to decrease the expression of quorum sensing-associated genes abaI and abaR in BM-3994, BM4028, BM4060, BM-4079, and BM-4104. BM-3973 exhibited a moderate suppression, while no suppressive effect was observed in BM-3945 and BM-3974. When the expression data for abaI and abaR were pooled together after glabridin therapy, they showed a statistically significant reduction (Figure 4B). Glabridin significantly lowered abaI expression up to 39.12% (P < 0.001), while abaR expression was significantly suppressed up to 25.19% (P < 0.01).
+Figure 4Glabridin suppressed the expression of genes involved in quorum sensing. (A) Gene expression changes in representative strains after glabridin treatment. (B) Pooled gene expression data. **P < 0.01, ***P < 0.001.
+
+
+## There Was No Evidence of a Synergistic Interaction Between Glabridin and Antibacterial Agents
+
+The checkerboard method was employed to determine the synergistic effects of glabridin in combination with classical antibacterial agents, namely imipenem, ceftazidime, ceftriaxone, gentamicin, tobramycin, ciprofloxacin, and levofloxacin. Unfortunately, there was no evidence of synergistic interaction between glabridin and antibacterial drugs (Supplementary Table 1).
+
+
+# Discussion
+
+A. baumannii, a major public health hazard, modulates its pathogenic factors including biofilm formation and motility by expressing quorum sensing genes.17,18 Plant chemicals have been demonstrated in several studies to decrease quorum sensing, thus weakening pathogenicity and successfully controlling bacterial infections.19 This study focused on the biological effect of glabridin on MDR-AB isolates.
+
+Glabridin showed no effect on the development of clinically isolated MDR-AB below the MIC concentration, however at 1/4 and 1/2 MIC concentrations, it may inhibit the motility and biofilm forming capacities of MDR-AB in a dose-dependent manner. Some other plant extracts, such as chlorogenic acid,12 have a similar effect. However, glabridin had limited effect on the capacity of some strains to produce biofilms, which might be due to the differences in clinical strains.
+
+We investigated the associated genes of the quorum sensing system in MDR-AB, abaI and abaR, at sub-inhibitory doses of 1/2 MIC to further determine the anti-quorum sensing mechanism of glabridin. The expression of these genes had significantly decreased to varying degrees, according to our findings. However, glabridin had a lesser effect on the gene expression of certain strains. The quorum sensing circuit in A. baumannii encompasses formation of a complex between the activation protein and the autoinducer 3-OH-C12-HSL. This complex plays a pivotal role in regulating the transcription of diverse genes, including those associated with pathogenicity. By facilitating intercellular communication, this mechanism governs important biological processes within the bacterium.20 Quorum quenching can be achieved by a variety of processes, the most prevalent of which is imitation of acyl-homoserine-lactones (AHLs), such as imitation of furanone.21 Quorum sensing signals are degraded by lactonase and acyltransferase.22 In addition, the expression of these signals is inhibited by mutations occurring in the receptor protein’s signal binding region. This effect has been observed with BuT-DADMe-ImmA and triclosan, highlighting their role in preventing signal expression.23,24 According to studies, the citrus flavonoid naringin’s population quenching activity is related to decreased formation of Pseudomonas aeruginosa lactone molecules, as well as the impaired functioning of the RhlR receptor complex with C4-HSL.25 Glabridin suppresses the generation of AHLs in the quorum sensing system by lowering the synthesis of abaI enzymes, which affects the formation of the AbaR-AHL complex, and may be the cause of reduced motility activity and biofilm development.8
+
+Our study had some interesting findings, but it also had limitations. First, we only studied the biological effects of glabridin on multidrug-resistant A. baumannii, whether it has similar or unique effects on other pathogens is unclear. Second, there was no indication of a synergistic interaction between glabridin and antimicrobial agents, which may restrict its clinical use.
+
+
+# Conclusion
+
+The population quenching of glabridin led to a notable decrease in MDR-AB’s motility, as well as its ability to form biofilms, and the downregulation of the self-inducible synthase genes abaI and abaR. This might provide a theoretical foundation for the unique therapeutic options of MDR-AB.

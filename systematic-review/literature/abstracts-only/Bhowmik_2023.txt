@@ -1,0 +1,14 @@
+PMID: 37920891
+Title: Strategies to combat Gram-negative bacterial resistance to conventional antibacterial drugs: a review.
+Authors: Bhowmik P., Modi B., Roy P., Chowdhury A.
+Journal: Osong public health and research perspectives
+Year: 2023
+DOI: 10.24171/j.phrp.2022.0323
+PMC: PMC10626324
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/37920891/
+DOI URL: https://doi.org/10.24171/j.phrp.2022.0323
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10626324/
+
+--- Abstract ---
+The emergence of antimicrobial resistance raises the fear of untreatable diseases. Antimicrobial resistance is a multifaceted and dynamic phenomenon that is the cumulative result of different factors. While Gram-positive pathogens, such as methicillin-resistant Staphylococcus aureus and Clostridium difficile, were previously the most concerning issues in the field of public health, Gram-negative pathogens are now of prime importance. The World Health Organization's priority list of pathogens mostly includes multidrug-resistant Gram-negative organisms particularly carbapenem-resistant Enterobacterales, carbapenem-resistant Pseudomonas aeruginosa, and extensively drug-resistant Acinetobacter baumannii. The spread of Gram-negative bacterial resistance is a global issue, involving a variety of mechanisms. Several strategies have been proposed to control resistant Gram-negative bacteria, such as the development of antimicrobial auxiliary agents and research into chemical compounds with new modes of action. Another emerging trend is the development of naturally derived antibacterial compounds that aim for targets novel areas, including engineered bacteriophages, probiotics, metal-based antibacterial agents, odilorhabdins, quorum sensing inhibitors, and microbiome-modifying agents. This review focuses on the current status of alternative treatment regimens against multidrug-resistant Gram-negative bacteria, aiming to provide a snapshot of the situation and some information on the broader context.

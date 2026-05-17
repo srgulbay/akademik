@@ -1,0 +1,20 @@
+PMID: 35971084
+Title: Transcriptomic analysis reveals the regulatory role of quorum sensing in the Acinetobacter baumannii ATCC 19606 via RNA-seq.
+Authors: Xiong L., Yi F., Yu Q., Huang X., Ao K., Wang Y., Xie Y.
+Journal: BMC microbiology
+Year: 2022
+DOI: 10.1186/s12866-022-02612-z
+PMC: PMC9380347
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/35971084/
+DOI URL: https://doi.org/10.1186/s12866-022-02612-z
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9380347/
+
+--- Abstract ---
+BACKGROUND: Acinetobacter baumannii has emerged as the major opportunistic pathogen in healthcare-associated infections with high-level antibiotic resistance and high mortality. Quorum sensing (QS) system is a cell-to-cell bacterial communication mediated by the synthesis, secretion, and binding of auto-inducer signals. It is a global regulatory system to coordinate the behavior of individual bacteria in a population. The present study focused on the QS system, aiming to investigate the regulatory role of QS in bacterial virulence and antibiotic resistance.
+
+METHOD: The auto-inducer synthase gene abaI was deleted using the A. baumannii ATCC 19606 strain to interrupt the QS process. The RNA-seq was performed to identify the differentially expressed genes (DEGs) and pathways in the mutant (△abaI) strain compared with the wild-type (WT) strain.
+
+RESULTS: A total of 380 DEGs [the adjusted P value < 0.05 and the absolute value of log2(fold change) > log21.5] were identified, including 256 upregulated genes and 124 downregulated genes in the △abaI strain. The enrichment analysis indicated that the DEGs involved in arginine biosynthesis, purine metabolism, biofilm formation, and type VI secretion system (T6SS) were downregulated, while the DEGs involved in pathways related to fatty acid metabolism and amino acid metabolism were upregulated. Consistent with the expression change of the DEGs, a decrease in biofilm formation was observed in the △abaI strain compared with the WT strain. On the contrary, no obvious changes were found in antimicrobial resistance following the deletion of abaI.
+
+CONCLUSIONS: The present study demonstrated the transcriptomic profile of A. baumannii after the deletion of abaI, revealing an important regulatory role of the QS system in bacterial virulence. The deletion of abaI suppressed the biofilm formation in A. baumannii ATCC 19606, leading to decreased pathogenicity. Further studies on the role of abaR, encoding the receptor of auto-inducer in the QS circuit, are required for a better understanding of the regulation of bacterial virulence and pathogenicity in the QS network.

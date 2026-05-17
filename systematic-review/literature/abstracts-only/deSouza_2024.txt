@@ -1,0 +1,13 @@
+PMID: 38942450
+Title: Evaluating virulence features of Acinetobacter baumannii resistant to polymyxin B.
+Authors: de Souza C., Silvério de Oliveira W., Fleitas Martínez O., Dos Santos Neto N., Buccini D., Nieto Marín V., de Faria Júnior C., Rocha Maximiano M., Soller Ramada M., Franco O.
+Journal: Letters in applied microbiology
+Year: 2024
+DOI: 10.1093/lambio/ovae061
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38942450/
+DOI URL: https://doi.org/10.1093/lambio/ovae061
+
+--- Abstract ---
+The increasing resistance to polymyxins in Acinetobacter baumannii has made it even more urgent to develop new treatments. Anti-virulence compounds have been researched as a new solution. Here, we evaluated the modification of virulence features of A. baumannii after acquiring resistance to polymyxin B. The results showed lineages attaining unstable resistance to polymyxin B, except for Ab7 (A. baumannii polymyxin B resistant lineage), which showed stable resistance without an associated fitness cost. Analysis of virulence by a murine sepsis model indicated diminished virulence in Ab7 (A. baumannii polymyxin B resistant lineage) compared with Ab0 (A. baumannii polymyxin B susceptible lineage). Similarly, downregulation of virulence genes was observed by qPCR at 1 and 3 h of growth. However, an increase in bauE, abaI, and pgAB expression was observed after 6 h of growth. Comparison analysis of Ab0, Ab7, and Pseudomonas aeruginosa suggested no biofilm formation by Ab7. In general, although a decrease in virulence was observed in Ab7 when compared with Ab0, some virulence feature that enables infection could be maintained. In light of this, virulence genes bauE, abaI, and pgAB showed a potential relevance in the maintenance of virulence in polymyxin B-resistant strains, making them promising anti-virulence targets.

@@ -1,0 +1,13 @@
+PMID: 40098357
+Title: Insights into biofilm-mediated mechanisms driving last-resort antibiotic resistance in clinical ESKAPE pathogens.
+Authors: Chong C., Lau Y., Michels P., Lim C.
+Journal: Critical reviews in microbiology
+Year: 2025
+DOI: 10.1080/1040841X.2025.2473332
+PMC: 
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/40098357/
+DOI URL: https://doi.org/10.1080/1040841X.2025.2473332
+
+--- Abstract ---
+The rise of antibiotic-resistant bacteria poses a grave threat to global health, with the ESKAPE pathogens, which comprise Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp. being among the most notorious. The World Health Organization has reserved a group of last-resort antibiotics for treating multidrug-resistant bacterial infections, including those caused by ESKAPE pathogens. This situation calls for a comprehensive understanding of the resistance mechanisms as it threatens public health and hinder progress toward the Sustainable Development Goal (SDG) 3: Good Health and Well-being. The present article reviews resistance mechanisms, focusing on emerging resistance mutations in multidrug-resistant ESKAPE pathogens, particularly against last-resort antibiotics, and describes the role of biofilm formation in multidrug-resistant ESKAPE pathogens. It discusses the latest therapeutic advances, including the use of antimicrobial peptides and CRISPR-Cas systems, and the modulation of quorum sensing and iron homeostasis, which offer promising strategies for countering resistance. The integration of CRISPR-based tools and biofilm-targeted approaches provides a potential framework for managing ESKAPE infections. By highlighting the spread of current resistance mutations and biofilm-targeted approaches, the review aims to contribute significantly to advancing our understanding and strategies in combatting this pressing global health challenge.

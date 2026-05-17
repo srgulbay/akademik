@@ -1,0 +1,14 @@
+PMID: 30798561
+Title: Methods for Detecting N-Acyl Homoserine Lactone Production in Acinetobacter baumannii.
+Authors: Paulk Tierney A., Rather P.
+Journal: Methods in molecular biology (Clifton, N.J.)
+Year: 2019
+DOI: 10.1007/978-1-4939-9118-1_23
+PMC: PMC7240881
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, U.S. Gov't, Non-P.H.S.
+URL: https://pubmed.ncbi.nlm.nih.gov/30798561/
+DOI URL: https://doi.org/10.1007/978-1-4939-9118-1_23
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7240881/
+
+--- Abstract ---
+Acinetobacter baumannii cell-cell signaling is mediated by production and release of N-acyl homoserine lactones (AHLs), primarily N-(3-hydroxydodecanoyl)-L-homoserine lactone (3-hydroxy-C12-HSL). The secretion of this signal can be readily assessed via simple plate-based or thin-layer chromatography-based assays utilizing an Agrobacterium tumefaciens traG-lacZ containing biosensor. In this chapter, we describe methods to assay for secreted N-acyl homoserine lactone production in Acinetobacter baumannii.

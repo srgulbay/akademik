@@ -1,0 +1,13 @@
+PMID: 40164737
+Title: Terramide A: a novel ironophore targeting Acinetobacter baumannii with mechanistic insights into bacterial iron deprivation.
+Authors: Jiang H., Qi J., Wang J., Chen J., Feng D., Yang J., Liu X., Liu M., Zhou X., An Z., Lu Y., Ge C., Wang Y.
+Journal: The Journal of antibiotics
+Year: 2025
+DOI: 10.1038/s41429-025-00816-9
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/40164737/
+DOI URL: https://doi.org/10.1038/s41429-025-00816-9
+
+--- Abstract ---
+Acetobacter baumannii poses escalating clinical challenges due to its exceptional adaptability, demanding innovative antimicrobial strategies. This study pioneers an investigation into the antibacterial efficacy and molecular mechanism of Terramide A, a hydroxamate siderophore isolated from Aspergillus terreus, against notorious A. baumannii. Employing a multidisciplinary approach integrating phenotypic characterization with mechanistic interrogation, we demonstrate that Terramide A exerts significant inhibitory effects against A. baumannii and P. aeruginosa, pathogens critically dependent on siderophore-mediated iron acquisition for survival and virulence. Structural characterization underlines the hydroxamate moieties of Terramide A presumably supports its hypothesized role as a fungal siderophore, involving competitive iron sequestration and bacterial homeostasis. Subsequently, multi-omics investigation of susceptible strain AB19606 delineated a metabolic collapse cascade due to iron acquisition competition: (1) impairment of central metabolism and energy production through oxidative phosphorylation (OXPHO) inhibitions; (2) compromised stress adaptation and bacterial flexibility; (3) compensatory overactivation of siderophores biosynthesis and transportation, depleting metabolic intermediates and exacerbating stress; (4) coordinated suppression of virulence determinants, such as secretory systems and biofilm formation. These molecular derangements translated into phenotypic deficits, including quorum sensing, diminished autoinducer peptides production, and morphological/functional abnormalities. In vivo evaluation in a rat skin wound infection model further demonstrated that Terramide A promotes wound healing and mitigates inflammation, supporting its antibacterial efficacy. These findings establish Terramide A as a promising antibacterial agent and provide critical insights into iron-competitive antimicrobial strategies to exploit micro-nutrient deprivation and metabolic dysfunction. However, further research is needed to optimize the siderophore-based scaffold, clarify its mechanisms, and assess therapeutic potential.

@@ -1,0 +1,10 @@
+Title: Pyocyanin Stimulates Quorum Sensing-Mediated Tolerance to Oxidative Stress and Increases Persister Cell Populations in Acinetobacter baumannii
+PMID: 24891106
+PMCID: PMC
+DOI: 10.1128/IAI.01600-14
+
+=== ABSTRACT ===
+Acinetobacter baumannii and Pseudomonas aeruginosa are nosocomial pathogens with overlapping sites of infection. This work reports that the two can coexist stably in mixed-culture biofilms. In a study intended to improve our understanding of the mechanism of their coexistence, it was found that pyocyanin, produced by P. aeruginosa that generally eliminates competition from other pathogens, led to the generation of reactive oxygen species (ROS) in A. baumannii cells, which in response showed a significant (P ≤ 0.05) increase in production of enzymes, specifically, catalase and superoxide dismutase (SOD). This work shows for the first time that the expression of catalase and SOD is under the control of a quorum-sensing system in A. baumannii. In support of this observation, a quorum-sensing mutant of A. baumannii (abaI::Km) was found to be sensitive to pyocyanin compared to its wild type and showed significantly (P ≤ 0.001) lower levels of the antioxidant enzymes, which increased on addition of 5 μM N-(3-hydroxydodecanoyl)-l-homoserine lactone. Likewise, in wild-type A. baumannii, there was a significant (P < 0.01) decrease in the level of anti-oxidant enzymes in the presence of salicylic acid, a known quencher of quorum sensing. In the presence of amikacin and carbenicillin, A. baumannii formed 0.07 and 0.02% persister cells, which increased 4- and 3-fold, respectively, in the presence of pyocyanin. These findings show that pyocyanin induces a protective mechanism in A. baumannii against oxidative stress and also increases its persistence against antibiotics which could be of clinical significance in the case of coinfections with A. baumannii and P. aeruginosa.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

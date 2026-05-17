@@ -1,0 +1,19 @@
+PMID: 35503000
+Title: Ketoprofen, piroxicam and indomethacin-suppressed quorum sensing and virulence factors in Acinetobacter baumannii.
+Authors: Elshaer S., Shaldam M., Shaaban M.
+Journal: Journal of applied microbiology
+Year: 2022
+DOI: 10.1111/jam.15609
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/35503000/
+DOI URL: https://doi.org/10.1111/jam.15609
+
+--- Abstract ---
+AIM: Quorum sensing (QS) inhibition is a promising strategy to suppress bacterial virulence and control infection caused by Gram-negative and Gram-positive bacteria. This study explores the QS inhibiting activity of the non-steroidal anti-inflammatory drugs (NSAIDs) in Acinetobacter baumannii.
+
+METHODS AND RESULTS: Ketoprofen, piroxicam and indomethacin revealed QS inhibition via elimination of violacein production of the reporter strain Chromobacterium violaceum ATCC 12472 without affecting bacterial growth. The minimal inhibitory concentration (MIC) of ketoprofen, piroxicam and indomethacin was determined against A. baumannii strains ATCC 17978, ATCC 19606, A1, A11 and A27 by the microbroth dilution method. The MICs of ketoprofen against tested isolates were 0.7-6.25 mg ml-1 , piroxicam MICs were 1.25-2.5 mg ml-1 , and indomethacin MICs were 3.12-12.5 mg ml-1 . Those compounds significantly inhibited QS-associated virulence factors such as biofilm formation, and surface motility, as well as, significantly increased bacterial tolerance to oxidative stress without affecting bacterial growth. On the molecular level, the three compounds significantly inhibited the transcription of QS regulatory genes abaI/abaR and biofilm-regulated genes cusD and pgaB. Molecular docking analysis revealed the potent binding affinity of the three compounds with AbaI via hydrogen and/or hydrophobic bonds.
+
+CONCLUSION: These results indicate that NSAIDs, ketoprofen, piroxicam and indomethacin, could be potential inhibitors of the QS and could suppress the QS-related virulence factors of A. baumannii.
+
+SIGNIFICANCE AND IMPACT: Ketoprofen, piroxicam and indomethacin could provide promising implications and strategies for combating the virulence and pathogenesis of A. baumannii.

@@ -1,0 +1,13 @@
+PMID: 37574030
+Title: Sequential treatment effects on phage-antibiotic synergistic application against multi-drug-resistant Acinetobacter baumannii.
+Authors: Mukhopadhyay S., Zhang P., To K., Liu Y., Bai C., Leung S.
+Journal: International journal of antimicrobial agents
+Year: 2023
+DOI: 10.1016/j.ijantimicag.2023.106951
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/37574030/
+DOI URL: https://doi.org/10.1016/j.ijantimicag.2023.106951
+
+--- Abstract ---
+Bacteriophage (phage) therapy, exploiting phages which are the natural enemies of bacteria, has been re-introduced to treat multidrug-resistant (MDR) bacterial infections. However, some intrinsic drawbacks of phages are overshadowing their clinical use, particularly the narrow host spectrum and rapid emergence of resistance upon treatment. The use of phage-antibiotic combinations exhibiting synergistic bacterial killing [termed 'phage-antibiotic synergy' (PAS)] has therefore been proposed. It is well reported that the types and doses of phages and antibiotics are critical in achieving PAS. However, the impact of treatment order has received less research attention. As such, this study used an Acinetobacter baumannii phage vB_AbaM-IME-AB2 and colistin as a model PAS combination to elucidate the order effects in-vitro. While application of the phage 8 h before colistin treatment demonstrated the greatest antibacterial synergy, it failed to prevent the development of phage resistance. On the other hand, simultaneous application and antibiotic followed by phage application were able to suppress/delay the development of resistance effectively, and simultaneous application demonstrated superior antibacterial and antibiofilm activities. Further in-vivo investigation is required to confirm the impact of treatment order on PAS.

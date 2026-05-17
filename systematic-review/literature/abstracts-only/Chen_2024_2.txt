@@ -1,0 +1,19 @@
+PMID: 39270758
+Title: Clinical, phenotypic characterization and genomic analysis of the mucoid Acinetobacter baumannii from a teaching hospital.
+Authors: Chen J., Li G., Shao Y., Cheng Z., Wan F., Wu D., Wei D., Liu P., Du F., Liu Y.
+Journal: Microbial pathogenesis
+Year: 2024
+DOI: 10.1016/j.micpath.2024.106929
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39270758/
+DOI URL: https://doi.org/10.1016/j.micpath.2024.106929
+
+--- Abstract ---
+BACKGROUND: Acinetobacter baumannii (A. baumannii) has become a significant nosocomial pathogen globally over the past decade due to the increasing prevalence of antibiotic-resistant isolates. The formation of the mucoid phenotype is a crucial adaptive defense response to external pressure, but the clinical, phenotypic and genotypic characteristics and their relationship with sequence types (ST) and K locus (KL) types remain unclear.
+
+METHODS: In this study, we screened a total of 736 A. baumannii isolates, from which we identified and characterized 13 mucoid isolates. The study explored the clinical characteristics of patients with mucoid isolates, investigated the mucoid phenotype, performed capsule observation, quantified capsule production, and assessed antimicrobial susceptibility. Subsequently, whole-genome sequencing (WGS) was used to analyze the sequence types (ST), loci for capsular polysaccharide (KL), antibiotic resistance genes, virulence genes, and core-genome single-nucleotide polymorphisms (SNPs). Additionally, the virulence of all mucoid strains was evaluated through serum resistance assay, biofilm-forming assay, and Galleria mellonella survival assay.
+
+RESULTS: All mucoid A. baumannii isolates were found to be encapsulated and extremely drug-resistant. Among patients infected with these isolates, 92.3 % had pulmonary infections, and the 30-day mortality rate was 61.5 %. The analysis revealed that not all strains are highly virulent. Whole-genome sequencing (WGS) identified the sequence types as ST136, ST208, ST381, ST195, and ST281, and the capsular types as KL77, KL7, KL33, KL2, and KL3. The ST208 and KL7 isolates exhibited higher virulence and greater biofilm formation, with KL7 isolates also showing higher capsule production. Despite these differences, no significant variations in virulence genes were observed among the mucoid isolates, except for biofilm-associated and quorum-sensing genes. The highly virulent ST208/KL7 strains (AB276, AB313, and AB552) lacked biofilm-associated genes (csuA/BABCDE), indicating these genes do not directly cause differences in biofilm formation.
+
+CONCLUSION: The mucoid A. baumannii isolates were extensively drug-resistant, and infections caused by these isolates could lead to higher mortality. However, not all strains had high virulence, with variations likely related to specific sequence types (ST) and K locus (KL) types.

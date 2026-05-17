@@ -1,0 +1,13 @@
+PMID: 35947200
+Title: Characterization of Sequence Types and Mechanisms of Resistance to Tigecycline Among Acinetobacter baumannii Isolated from Children.
+Authors: Ghalavand Z., Eslami G., Hashemi A., Sadredinamin M., Yousefi N., Dehbanipour R.
+Journal: Current microbiology
+Year: 2022
+DOI: 10.1007/s00284-022-02976-5
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/35947200/
+DOI URL: https://doi.org/10.1007/s00284-022-02976-5
+
+--- Abstract ---
+The present study aimed to investigate the mechanisms of resistance to tigecycline and to determine sequence types of Acinetobacter baumannii isolates recovered from children, using the Multilocus Sequence Typing (MLST). A total of 74 A. baumannii isolates were recovered from patients at one of the children's hospital in Tehran, Iran. Antimicrobial susceptibility testing of the isolates was performed for different classes of antibiotics and minimum inhibitory concentrations of colistin and tigecycline were determined using broth microdilution method and E-test strips, respectively. The presence of ISAba1, AbaR, tet(39), and tetX and the expressions of adeB, adeG, and adeJ efflux pump genes were measured using Polymerase Chain Reaction (PCR) and quantitative real-time PCR (RT-PCR), respectively. The diversity of mutations across the regulatory genes of RND efflux pumps (adeRS, adeL, and adeN) and trm gene were determined using their PCR amplification and DNA sequencing in tigecycline-resistant isolates. In addition, STs of tigecycline-resistant isolates were determined using MLST method. Three A. baumannii isolates were resistant to tigecycline. Several amino acid substitutions were identified in AdeRS, AdeN, and Trm but no alteration was found in AdeL. Nevertheless, adeB, adeG, and adeJ overexpression were observed in 1, 2, and 1 isolates, respectively. The tigecycline-resistant isolates belonged to ST1720 and ST2285. This is the first study reporting on ST2285 in A. baumannii populations. Among 74 isolates, two tigecycline susceptible isolates carried tet(39) gene but no tetX gene was detected. We concluded that mutations in regulatory genes of RND efflux pumps and the trm gene may play some important role in A. baumannii resistance to tigecycline.

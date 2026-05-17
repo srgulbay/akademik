@@ -1,0 +1,14 @@
+PMID: 32229531
+Title: Characterization of RelA in Acinetobacter baumannii.
+Authors: Pérez-Varela M., Tierney A., Kim J., Vázquez-Torres A., Rather P.
+Journal: Journal of bacteriology
+Year: 2020
+DOI: 10.1128/JB.00045-20
+PMC: PMC7253615
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, U.S. Gov't, Non-P.H.S.
+URL: https://pubmed.ncbi.nlm.nih.gov/32229531/
+DOI URL: https://doi.org/10.1128/JB.00045-20
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7253615/
+
+--- Abstract ---
+In response to nutrient depletion, the RelA and SpoT proteins generate the signaling molecule (p)ppGpp, which then controls a number of downstream effectors to modulate cell physiology. In Acinetobacter baumannii strain AB5075, a relA ortholog (ABUW_3302) was identified by a transposon insertion that conferred an unusual colony phenotype. An in-frame deletion in relA (ΔrelA) failed to produce detectable levels of ppGpp when amino acid starvation was induced with serine hydroxamate. The ΔrelA mutant was blocked from switching from the virulent opaque colony variant (VIR-O) to the avirulent translucent colony variant (AV-T), but the rate of AV-T to VIR-O switching was unchanged. In addition, the ΔrelA mutation resulted in a pronounced hypermotile phenotype on 0.35% agar plates. This hypermotility was dependent on the activation of a LysR regulator ABUW_1132, which was required for expression of AbaR, a LuxR family quorum-sensing regulator. In the ΔrelA mutant, ABUW_1132 was also required for the increased expression of an operon composed of the ABUW_3766-ABUW_3773 genes required for production of the surfactant-like lipopeptide acinetin 505. Additional phenotypes identified in the ΔrelA mutant included (i) cell elongation at high density, (ii) reduced formation of persister cells tolerant to colistin and rifampin, and (iii) decreased virulence in a Galleria mellonella model.IMPORTANCEAcinetobacter baumannii is a pathogen of worldwide importance. Due to the increasing prevalence of antibiotic resistance, these infections are becoming increasingly difficult to treat. New therapies are required to combat multidrug-resistant isolates. The role of RelA in A. baumannii is largely unknown. This study demonstrates that like in other bacteria, RelA controls a variety of functions, including virulence. Strategies to inhibit the activity of RelA and the resulting production of ppGpp could inhibit virulence and may represent a new therapeutic approach.

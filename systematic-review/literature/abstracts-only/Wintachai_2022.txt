@@ -1,0 +1,14 @@
+PMID: 36423170
+Title: Isolation and Characterization of a Phapecoctavirus Infecting Multidrug-Resistant Acinetobacter baumannii in A549 Alveolar Epithelial Cells.
+Authors: Wintachai P., Surachat K., Chaimaha G., Septama A., Smith D.
+Journal: Viruses
+Year: 2022
+DOI: 10.3390/v14112561
+PMC: PMC9695679
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/36423170/
+DOI URL: https://doi.org/10.3390/v14112561
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9695679/
+
+--- Abstract ---
+Multidrug-resistant Acinetobacter baumannii (MDR A. baumannii) is an emerging pathogen in the ESKAPE group. The global burden of antimicrobial resistance has led to renewed interest in alternative antimicrobial treatment strategies, including phage therapy. This study isolated and characterized a phage vB_AbaM_ ABPW7 (vABPW7) specific to MDR A. baumannii. Morphological analysis showed that phage vABPW7 belongs to the Myoviridae family. Genome analysis showed that the phage DNA genome consists of 148,647 bp and that the phage is a member of the Phapecoctavirus genus of the order Caudovirales. A short latent period and a large burst size indicated that phage vABPW7 was a lytic phage that could potentially be used in phage therapy. Phage vABPW7 is a high-stability phage that has high lytic activity. Phage vABPW7 could effectively reduce biofilm formation and remove preformed biofilm. The utility of phage vABPW7 was investigated in a human A549 alveolar epithelial cell culture model. Phage vABPW7 was not cytotoxic to A549 cells, and the phage could significantly reduce planktonic MDR A. baumannii and MDR A. baumannii adhesion on A549 cells without cytotoxicity. This study suggests that phage vABPW7 has the potential to be developed further as a new antimicrobial agent against MDR A. baumannii.

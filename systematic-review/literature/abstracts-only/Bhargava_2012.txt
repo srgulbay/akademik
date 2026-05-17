@@ -1,0 +1,13 @@
+PMID: 22867087
+Title: N-acyl homoserine lactone mediated interspecies interactions between A. baumannii and P. aeruginosa.
+Authors: Bhargava N., Sharma P., Capalash N.
+Journal: Biofouling
+Year: 2012
+DOI: 10.1080/08927014.2012.714372
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/22867087/
+DOI URL: https://doi.org/10.1080/08927014.2012.714372
+
+--- Abstract ---
+Acinetobacter baumannii and Pseudomonas aeruginosa are pathogens capable of colonizing the same infection sites and employing N-acyl homoserine lactone (AHL) based quorum-sensing systems to co-ordinate biofilm formation. Hence, the effect of P. aeruginosa AHLs on biofilm formation by A. baumannii and vice versa were investigated using the biofilm impaired quorum sensing mutants, A. baumannii M2 (abaI::Km) and P. aeruginosa PAO-JP2. Complementing the mutants with heterologous, extracted and pure AHLs increased biofilm mass significantly. The surface area coverage and biovolume also increased significantly as observed by confocal scanning laser microscopy which corroborated scanning electron microscope analysis. Autoinducer synthase gene promoters of A. baumannii, P( abaI)-lacZ, and P. aeruginosa, P( lasI)-lacZ, were induced (p < 0.05) by heterologous AHLs. Growth of A. baumannii was not inhibited by pyocyanin of P. aeruginosa which may allow their co-existence and interaction in the clinical setting, thereby affecting the severity of combined infections and therapeutic measures to control them.

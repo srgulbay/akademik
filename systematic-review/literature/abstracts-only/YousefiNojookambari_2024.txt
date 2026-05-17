@@ -1,0 +1,14 @@
+PMID: 38230925
+Title: Sub-minimum inhibitory concentrations (sub-MICs) of colistin on Acinetobacter baumannii biofilm formation potency, adherence, and invasion to epithelial host cells: an experimental study in an Iranian children's referral hospital.
+Authors: Yousefi Nojookambari N., Eslami G., Sadredinamin M., Vaezjalali M., Nikmanesh B., Dehbanipour R., Yazdansetad S., Ghalavand Z.
+Journal: Microbiology spectrum
+Year: 2024
+DOI: 10.1128/spectrum.02523-23
+PMC: PMC10846280
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38230925/
+DOI URL: https://doi.org/10.1128/spectrum.02523-23
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10846280/
+
+--- Abstract ---
+Here, we described the efficacy of colistin sub-minimum inhibitory concentrations (sub-MICs) on biofilm-forming activity, host epithelial cell adherence, and invasion capacity of Acinetobacter baumannii strains collected from children admitted to the Children's Medical Center Hospital. Biofilm formation potency of A. baumannii clinical isolates was measured using a 96-well microtiter plate assay. Distribution of biofilm-related genes, including bap, abaI, ompA, csuE, and blaPER-1, was detected by PCR. The mRNA expression level of ompA and csuE was measured by qPCR in the presence of ¼ and ½ MICs of colistin. A. baumannii adhesion and invasion to eukaryotic host cells were phenotypically assayed at sub-MICs of colistin. Eighty percent (56/70) and 35.7% (25/70) of A. baumannii isolates were multidrug-resistant (MDR) and extensively drug-resistant (XDR) phenotypes, respectively. The strong, moderate, and weak biofilm producers of A. baumannii were 37.1% (26/70), 32.8%, (23/70), and 22.8% (16/70), respectively. The frequencies of biofilm-associated genes were 100% for abaI, ompA, and csuE, followed by 22.8% (16/70) and 24.3% (17/70) for bap and blaPER-1, respectively. The downregulation of csuE and ompA expression levels was observed in the sub-MIC of colistin. In vitro cell culture study showed a decreased capability of A. baumannii to adhere to the human epithelial cells at sub-inhibitory doses of colistin; however, none of the isolates could invade HEp-2 cells. Our study showed that the genes encoding biofilm-associated proteins undergo downregulation in expression levels after exposure to sub-MICs of colistin in A. baumannii. Longitudinal in vivo studies are needed to fully understand the clinical aspects of pathogenicity mechanisms and evolutionary dynamics of drug resistance.IMPORTANCESince the toxicity of colistin is dose dependent, there is a focus on strategies that reduce the dose while maintaining the therapeutic effect of the drug. Our findings about sub-inhibitory doses of colistin provide a novel insight into the logical use of colistin to treat and control Acinetobacter baumannii-related infections in clinical practice.

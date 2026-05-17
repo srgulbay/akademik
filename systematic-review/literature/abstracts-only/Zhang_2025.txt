@@ -1,0 +1,20 @@
+PMID: 39806310
+Title: Understanding the clinical and molecular epidemiological characteristics of carbapenem-resistant Acinetobacter baumannii infections within intensive care units of three teaching hospitals.
+Authors: Zhang P., Hao J., Zhang Y., Su J., Sun G., Xie J., Hu J., Li G.
+Journal: Annals of clinical microbiology and antimicrobials
+Year: 2025
+DOI: 10.1186/s12941-024-00766-4
+PMC: PMC11731405
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39806310/
+DOI URL: https://doi.org/10.1186/s12941-024-00766-4
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11731405/
+
+--- Abstract ---
+BACKGROUND: Carbapenem-resistant Acinetobacter baumannii (CRAB) is recognized as a common clinical conditional pathogen with blaOXA-23 gene-mediated multidrug-resistance that is a significant threat to public health safety. Timely and effective infection control measures are needed to prevent their spread.
+
+METHODS: We conducted a retrospective study of CRAB patients at three teaching hospitals from 2019 to 2022. We identified bacterial isolates, collected clinical data, and performed antimicrobial susceptibility testing. Genome characteristics of isolates were investigated by whole genome sequencing. Multilocus sequence typing and phylogenetic trees were used to assess the genetic similarity of isolates. Acquired antimicrobial resistance genes and virulence factors carried in the isolated group genome were analyzed by ResFinder, PubMLST and VFDB. Sequence alignment was used to analyze genetic environment around blaOXA-23. Phylogenetic tree was constructed to analyze the genetic relationship of isolates.
+
+RESULTS: A total of 92 non-repetitive CRAB isolates were collected, with sputum samples accounting for the majority (94.57%, n = 87) of samples. These were distributed into ST2, with ST2 identified to have the highest prevalence of infection, accounting for 99.99% (n = 91) of all isolates. The major resistance genes identified were blaOXA-23, blaOXA-66, blaOXA-51, and blaADC. Also, 92 CRAB strains showed high levels of resistance to common clinical antibiotics, but not minocycline. Meanwhile, most of the isolates carried virulence genes such as various ompA, csuA, csuB, csuC, csuD, abaI, abaR, lpxC, lpxA, and bmfRS. Single nucleotide polymorphism (SNP) analyses further indicated that the bacterial genome was progressively polymorphic with time. We analyzed the environment of the blaOXA-23 gene and found that CRAB accumulated in the context of prominent environmental antibiotic exposure and had longer survival times in the antibiotic environment, resulting in the tendency of bacteria to develop greater antibiotic resistance.
+
+CONCLUSIONS: We find that CRAB is prevalent within the ICU and is progressively resistant to antibiotics over time. Enhanced clinical understanding and timely management of CRAB infections will be crucial to minimize or even eliminate the spread of CRAB within the ICU setting.

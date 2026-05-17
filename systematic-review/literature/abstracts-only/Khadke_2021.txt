@@ -1,0 +1,14 @@
+PMID: 34572317
+Title: Assessment of Antibiofilm Potencies of Nervonic and Oleic Acid against Acinetobacter baumannii Using In Vitro and Computational Approaches.
+Authors: Khadke S., Lee J., Kim Y., Raj V., Lee J.
+Journal: Biomedicines
+Year: 2021
+DOI: 10.3390/biomedicines9091133
+PMC: PMC8466663
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/34572317/
+DOI URL: https://doi.org/10.3390/biomedicines9091133
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8466663/
+
+--- Abstract ---
+Acinetobacter baumannii is a nosocomial pathogen, and its biofilms are tolerant to desiccation, nutrient starvation, and antimicrobial treatment on biotic and abiotic surfaces, tissues, and medical devices. Biofilm formation by A. baumannii is triggered by a quorum sensing cascade, and we hypothesized that fatty acids might inhibit its biofilm formation by interfering with quorum sensing. Initially, we investigated the antibiofilm activities of 24 fatty acids against A. baumannii ATCC 17978 and two clinical isolates. Among these fatty acids, two unsaturated fatty acids, nervonic and oleic acid, at 20 μg/mL significantly inhibited A. baumannii biofilm formation without affecting its planktonic cell growth (MICs were >500 μg/mL) and markedly decreased the motility of A. baumannii but had no toxic effect on the nematode Caenorhabditis elegans. Interestingly, molecular dynamic simulations showed that both fatty acids bind to the quorum sensing acyl homoserine lactone synthase (AbaI), and decent conformational stabilities of interactions between the fatty acids and AbaI were exhibited. Our results demonstrate that nervonic and oleic acid inhibit biofilm formation by A. baumannii strains and may be used as lead molecules for the control of persistent A. baumannii infections.

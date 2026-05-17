@@ -1,0 +1,19 @@
+PMID: 40387740
+Title: Genome of a Carbapenem Resistant Acinetobacter baumannii Isolate of a new Sequence Type ST1724 from Saudi Arabia.
+Authors: Tolah A., Yasir M., Karim A., Karim A., Shukri H., Azhar E.
+Journal: Clinical laboratory
+Year: 2025
+DOI: 10.7754/Clin.Lab.2024.240926
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40387740/
+DOI URL: https://doi.org/10.7754/Clin.Lab.2024.240926
+
+--- Abstract ---
+BACKGROUND: The World Health Organization has classified carbapenem-resistant Acinetobacter baumannii as a pathogen of critical priority that poses a serious threat to human health. We report a draft genome sequence of colistin and carbapenem-resistant A. baumannii strain AB134 of a new sequence type ST1724.
+
+METHODS: A. baumannii strain AB34 was isolated from a tracheal aspirate specimen from a patient diagnosed with atherosclerotic disease and treated at a hospital in Saudi Arabia. Antimicrobial susceptibility was determined via microdilution using a VITEK 2 system. Genome sequencing was performed using a HiSeq 2500 platform (Illumina Inc., USA).
+
+RESULTS: A. baumannii strain AB134 was classified as a new sequence type (ST1724) comprised of 3,763 predicted genes and a guanine-cytosine content of 38.8%. The isolate was phenotypically resistant to 16 clinically important antibiotics, and 33 antimicrobial resistance genes were detected, including the beta-lactamase genes of blaOXA-23, blaOXA-66, blaADC-25, and blaTEM-1D. It carries the colistin resistance gene lpsB. In addition, 49 genes associated with virulence factors (biofilm formation, adherence, quorum sensing, iron uptake, and two-component system), and seven insertion sequences were detected in the AB134 genome.
+
+CONCLUSIONS: This report presents the first draft genome of ST1724 of carbapenem-resistant and extensively drug-resistant A. baumannii. The findings facilitate further understanding of the genomics of this pathogen, which is a leading cause of healthcare-associated infections worldwide.

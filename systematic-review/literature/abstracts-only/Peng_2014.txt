@@ -1,0 +1,18 @@
+PMID: 24996449
+Title: Characterization, sequencing and comparative genomic analysis of vB_AbaM-IME-AB2, a novel lytic bacteriophage that infects multidrug-resistant Acinetobacter baumannii clinical isolates.
+Authors: Peng F., Mi Z., Huang Y., Yuan X., Niu W., Wang Y., Hua Y., Fan H., Bai C., Tong Y.
+Journal: BMC microbiology
+Year: 2014
+DOI: 10.1186/1471-2180-14-181
+PMC: PMC4094691
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/24996449/
+DOI URL: https://doi.org/10.1186/1471-2180-14-181
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4094691/
+
+--- Abstract ---
+BACKGROUND: With the use of broad-spectrum antibiotics, immunosuppressive drugs, and glucocorticoids, multidrug-resistant Acinetobacter baumannii (MDR-AB) has become a major nosocomial pathogen species. The recent renaissance of bacteriophage therapy may provide new treatment strategies for combatting drug-resistant bacterial infections. In this study, we isolated a lytic bacteriophage vB_AbaM-IME-AB2 has a short latent period and a small burst size, which clear its host's suspension quickly, was selected for characterization and a complete genomic comparative study.
+
+RESULTS: The isolated bacteriophage vB_AbaM-IME-AB2 has an icosahedral head and displays morphology resembling Myoviridae family. Gel separation assays showed that the phage particle contains at least nine protein bands with molecular weights ranging 15-100 kDa. vB_AbaM-IME-AB2 could adsorb its host cells in 9 min with an adsorption rate more than 99% and showed a short latent period (20 min) and a small burst size (62 pfu/cell). It could form clear plaques in the double-layer assay and clear its host's suspension in just 4 hours. Whole genome of vB_AbaM-IME-AB2 was sequenced and annotated and the results showed that its genome is a double-stranded DNA molecule consisting of 43,665 nucleotides. The genome has a G + C content of 37.5% and 82 putative coding sequences (CDSs). We compared the characteristics and complete genome sequence of all known Acinetobacter baumannii bacteriophages. There are only three that have been sequenced Acinetobacter baumannii phages AB1, AP22, and phiAC-1, which have a relatively high similarity and own a coverage of 65%, 50%, 8% respectively when compared with our phage vB_AbaM-IME-AB2. A nucleotide alignment of the four Acinetobacter baumannii phages showed that some CDSs are similar, with no significant rearrangements observed. Yet some sections of these strains of phage are nonhomologous.
+
+CONCLUSION: vB_AbaM-IME-AB2 was a novel and unique A. baumannii bacteriophage. These findings suggest a common ancestry and microbial diversity and evolution. A clear understanding of its characteristics and genes is conducive to the treatment of multidrug-resistant A. baumannii in the future.

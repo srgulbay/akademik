@@ -1,0 +1,20 @@
+PMID: 31853190
+Title: Association Between Biofilm Formation, Structure, and the Expression Levels of Genes Related to biofilm formation and Biofilm-Specific Resistance of Acinetobacter baumannii Strains Isolated from Burn Infection in Ahvaz, Iran.
+Authors: Amin M., Navidifar T., Shooshtari F., Rashno M., Savari M., Jahangirmehr F., Arshadi M.
+Journal: Infection and drug resistance
+Year: 2019
+DOI: 10.2147/IDR.S228981
+PMC: PMC6914661
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/31853190/
+DOI URL: https://doi.org/10.2147/IDR.S228981
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6914661/
+
+--- Abstract ---
+BACKGROUND: The ability of biofilm formation is an effective way for Acinetobacter baumannii survival from stressed conditions. This present study was aimed to evaluate the association between biofilm formation, structure, the expression levels of genes related to biofilm formation and biofilm-specific resistance of A. baumannii strains isolated from burn infections in Ahvaz, Iran.
+
+METHODS: In this study, we assessed the antibiotic susceptibilities, ERIC-PCR typing, capacity of biofilm formation and biofilm structure of 64 A. baumannii isolates collected from burn infections. The distribution and the expression levels of genes involved in the biofilm formation including bap, ompA, abaI, pgaA and csuE were assessed by PCR and real-time PCR, respectively.
+
+RESULTS: We classified A. baumannii isolates in 14 clonal types of ERIC-PCR. Most A. baumannii isolates were resistant to all antibiotics tested except to tigecycline and colistin and had the biofilm formation capability but with different capacities. There was a significant inverse relationship between resistance to antibiotic agents and biofilm formation. The biofilm matrix of 50 strains consisted of polysaccharides together with DNA or proteins. The genes involved in the biofilm formation were detected in both biofilm-forming and non-biofilm forming; however, the expression levels of these genes were higher in biofilm producers compared with non-producers.
+
+CONCLUSION: The biofilm cells exhibited dramatically decreased susceptibility to antibiotic agents; hence, they have great significance for public health. Therefore, the determination of antibiotic susceptibilities in biofilm and planktonic mode, molecular typing, and capacity of biofilm formation in clinical setting is essential.

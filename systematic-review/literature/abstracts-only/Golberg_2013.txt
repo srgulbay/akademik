@@ -1,0 +1,13 @@
+PMID: 23777289
+Title: Coral-associated bacteria, quorum sensing disrupters, and the regulation of biofouling.
+Authors: Golberg K., Pavlov V., Marks R., Kushmaro A.
+Journal: Biofouling
+Year: 2013
+DOI: 10.1080/08927014.2013.796939
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/23777289/
+DOI URL: https://doi.org/10.1080/08927014.2013.796939
+
+--- Abstract ---
+Marine biofouling, the settlement of microorganisms and macroorganisms on structures submerged in seawater, although economically detrimental, is a successful strategy for survival in hostile environments, where coordinated bacterial communities establish biofilms via the regulation of quorum sensing (QS) communication systems. The inhibition of QS activity among bacteria isolated from different coral species was investigated to gain further insight into its potency in the attenuation, or even the prevention, of undesirable biofouling on marine organisms. It is hypothesized that coral mucus/microorganism interactions are competitive, suggesting that the dominant communities secrete QS disruptive compounds. One hundred and twenty bacterial isolates were collected from healthy coral species and screened for their ability to inhibit QS using three bioreporter strains. Approximately 12, 11, and 24% of the isolates exhibited anti-QS activity against Escherichia coli pSB1075, Chromobacterium violaceum CV026, and Agrobacterium tumefaciens KYC55 indicator strains, respectively. Isolates with positive activity against the bioluminescent monitor strains were scanned via a cytotoxic/genotoxic, E. coli TV1061 and DPD2794 antimicrobial panel. Isolates detected by C. violaceum CV026 and A. tumefaciens KYC55 reporter strains were tested for their ability to inhibit the growth of these reporter strains, which were found to be unaffected. Tests of the Favia sp. coral isolate Fav 2-50-7 (>98% similarity to Vibrio harveyi) for its ability to attenuate the formation of biofilm showed extensive inhibitory activity against biofilms of Pseudomonas aeruginosa and Acinetobacter baumannii. To ascertain the stability and general structure of the active compound, cell-free culture supernatants exposed to an increasing temperature gradient or to digestion by proteinase K, were shown to maintain potent QS attenuation and the ability to inhibit the growth of biofilms. Mass spectrometry confirmed the presence of a low molecular mass compound. The anti-QS strategy exemplified in the coral mucus is a model with potentially wide applications, including countering the ecological threat posed by biofilms. Manipulating synchronized bacterial behavior by detecting new QS inhibitors will facilitate the discovery of new antifouling compounds.

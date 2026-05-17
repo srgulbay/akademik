@@ -1,0 +1,14 @@
+PMID: 35733960
+Title: Repurposing the Sphingosine-1-Phosphate Receptor Modulator Etrasimod as an Antibacterial Agent Against Gram-Positive Bacteria.
+Authors: Zore M., Gilbert-Girard S., San-Martin-Galindo P., Reigada I., Hanski L., Savijoki K., Fallarero A., Yli-Kauhaluoma J., Patel J.
+Journal: Frontiers in microbiology
+Year: 2022
+DOI: 10.3389/fmicb.2022.926170
+PMC: PMC9207386
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/35733960/
+DOI URL: https://doi.org/10.3389/fmicb.2022.926170
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9207386/
+
+--- Abstract ---
+New classes of antibiotics are urgently needed in the fight against multidrug-resistant bacteria. Drug repurposing has emerged as an alternative approach to accelerate antimicrobial research and development. In this study, we screened a library of sphingosine-1-phosphate receptor (S1PR) modulators against Staphylococcus aureus and identified five active compounds. Among them, etrasimod (APD334), an investigational drug for the treatment of ulcerative colitis, displayed the best inhibitory activity against S. aureus when growing as free-floating planktonic cells and within biofilms. In follow-up studies, etrasimod showed bactericidal activity and drastic reduction of viable bacteria within 1 h of exposure. It also displayed a potent activity against other Gram-positive bacteria, including penicillin- and methicillin-resistant S. aureus strains, S. epidermidis, and Enterococcus faecalis, with a minimum inhibitory concentration (MIC) ranging from 5 to 10 μM (2.3-4.6 μg/mL). However, no inhibition of viability was observed against Gram-negative bacteria Acinetobacter baumannii, Escherichia coli, and Pseudomonas aeruginosa, showing that etrasimod preferably acts against Gram-positive bacteria. On the other hand, etrasimod was shown to inhibit quorum sensing (QS) signaling in Chromobacterium violaceum, suggesting that it may block the biofilm formation by targeting QS in certain Gram-negative bacteria. Furthermore, etrasimod displayed a synergistic effect with gentamicin against S. aureus, thus showing potential to be used in antibiotic combination therapy. Finally, no in vitro toxicity toward mammalian cells was observed. In conclusion, our study reports for the first time the potential of etrasimod as a repurposed antibacterial compound against Gram-positive bacteria.

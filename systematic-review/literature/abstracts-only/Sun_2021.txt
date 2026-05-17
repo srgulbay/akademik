@@ -1,0 +1,14 @@
+PMID: 34522977
+Title: Mechanism Underlying the Role of LuxR Family Transcriptional Regulator abaR in Biofilm Formation by Acinetobacter baumannii.
+Authors: Sun X., Xiang J.
+Journal: Current microbiology
+Year: 2021
+DOI: 10.1007/s00284-021-02654-y
+PMC: PMC8439540
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/34522977/
+DOI URL: https://doi.org/10.1007/s00284-021-02654-y
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8439540/
+
+--- Abstract ---
+Our study attempted to explore the mechanism underlying the role of LuxR family transcriptional regulator abaR in biofilm formation by Acinetobacter baumannii. The abaR gene was knocked out in ATCC 17978 strain using homologous recombination method. The growth curve and biofilm formation were measured in the wild type and abaR gene knockdown strains. Transcriptome sequencing was performed in the wild type and abaR gene knockdown strains following 8 h of culture. The growth curve in the abaR gene knockdown strain was similar to that of the wild-type strain. Biofilm formation significantly declined in the abaR gene knockdown strain at 8 and 48 h after culture. A total of 137 differentially expressed genes (DEGs) were obtained including 20 downregulated DEGs and 117 upregulated DEGs. Genes with differential expression were closely related to viral procapsid maturation (GO:0046797), acetoin catabolism (GO:0045150), carbon metabolism (ko01200), and the glycolysis/gluconeogenesis (ko00010)-related pathways. The results of the eight verified expression DEGs were consistent with the results predicted by bioinformatics. AbaR gene knockdown significantly affected biofilm formation by A. baumannii ATCC 17978 strain. The glycolysis/gluconeogenesis pathways were significantly dysregulated and induced by abaR gene knockdown in A. baumannii.

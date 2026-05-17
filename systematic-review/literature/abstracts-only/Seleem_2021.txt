@@ -1,0 +1,13 @@
+PMID: 34284088
+Title: Could the analgesic drugs, paracetamol and indomethacin, function as quorum sensing inhibitors?
+Authors: Seleem N., Atallah H., Abd El Latif H., Shaldam M., El-Ganiny A.
+Journal: Microbial pathogenesis
+Year: 2021
+DOI: 10.1016/j.micpath.2021.105097
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/34284088/
+DOI URL: https://doi.org/10.1016/j.micpath.2021.105097
+
+--- Abstract ---
+The current failure of antimicrobials in treating life-threatening diseases, the high rate of multidrug resistant pathogens and the slow progress in the development of new antibiotics directed scientists to develop antivirulence drugs that targets quorum sensing (QS). In many microbes, QS acts as a communication system which control pathogenicity of microbes. Analgesics can be beneficial in controlling virulence traits of microbes and hence they may augment the efficacy of antimicrobials. In this study, two analgesics were screened for the inhibition of QS in Chromobacterium violaceum CV026 and their effects on virulence production in Pseudomonas aeruginosa PAO1 strain and clinical isolates of Acinetobacter baumannii were evaluated. The traits investigated were biofilm formation, pyocyanin and rhamnolipid production, twitching, swarming or surface associated motilities, production of protease, phospholipase and gelatinase enzymes and sensitivity to oxidative stress. Relative expression of abaI gene was calculated by performing qRT-PCR. Docking analysis of paracetamol as QSI (quorum sensing inhibitor) of AbaI and AbaR proteins was performed. Paracetamol inhibited QS in CV026, but indomethacin devoids anti-QS activity. Paracetamol inhibited virulence factors of PAO1. It strongly inhibited biofilm formation, and swarming by 66.4% and 57.1%, respectively. While, it moderately to slightly inhibited rhamnolipid, pyocyanin, gelatinase, resistance to oxidative stress, protease and twitching motility by 33.3%, 33.1% 17.5%, 9.1%, 8.7% and 7.7%, respectively. For A. baumannii, paracetamol strongly inhibited biofilm by 39.7-93% and phospholipase enzyme by 8.7-100%, reduced twitching and surface motility by 6.7-82.5% and 7.7-29.4%, respectively, And slightly reduced sensitivity to oxidative stress by 3.3-36.4%. Paracetamol at sub-MIC suppressed the expression of abaI gene by 32% in A. baumannii. Docking studies suggested that paracetamol can bind to AbaR and AbaI proteins and bind more to AbaR, hence it may act by inhibiting AHL signal reception. As a conclusion, paracetamol, beside its analgesic activity, has anti-QS activity and could be used in the eradication of P. aeruginosa and A. baumannii infections in combination with antibiotics.

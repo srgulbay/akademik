@@ -1,0 +1,216 @@
+Title: Assessment of potassium ion channel during electric signalling in biofilm formation of Acinetobacter baumannii for finding antibiofilm molecule
+PMID: 36685419
+PMCID: PMC
+DOI: 10.1016/j.heliyon.2023.e12837
+
+=== ABSTRACT ===
+Acinetobacter baumannii is an opportunistic ESKAPE pathogen which causes nosocomial infections and can produce biofilms that act as resistant determinants. The role of quorum sensing (chemical signaling) in biofilm establishment has already been studied extensively, but the existence of electrochemical signaling during biofilm formation by A. baumannii has not yet been investigated. The current study evaluated the presence of electrical signaling, types of ion channels involved, and their role in biofilm formation using spectroscopic and microbiological methods. The findings suggest that the potassium ion channel has a significant role in the electrical signaling during the biofilm formation by A. baumannii. Further, in-silico screening, molecular mechanics, and molecular dynamic simulation studies identify a potential lead, ZINC12496555(a specific inhibitor), which targets the potassium ion channel protein of A. baumannii. Mutational analysis of the interacting residues showed alterations in the unfolding rate of this protein after the selected mutation, which shows its role in the stability of this protein. It was also observed that identified lead has high antibiofilm activity, no human off-targets, and non-cytotoxicity to cell lines. Thus, identified lead against the potassium channel of A baumannii may be used as an effective therapeutic for the treatment of A. baumannii infections after further experimental validation.
+
+=== FULL TEXT ===
+# Introduction
+
+Antibiotics aided and revolutionized the entire world until the excessive use of these antibacterial compounds in the form of drugs led to increased selection pressure, resulting in the emergence of drug resistance [1]. A. baumannii is a nosocomial pathogen found especially in intensive care units [2], causing hospital-acquired infections by medical implants and catheters [3], which has reluctantly increased the mortality rate in patients. The biofilm-producing A. baumannii leads to outbreaks of medical device-related infections. These single-celled organisms co-aggregate themselves while forming a structure called a biofilm [4]. A biofilm is a well-organized community [5], and this coordinated behavior is managed by small organic molecules called auto-inducer [6] such autoinducer peptides in Gram-positive, and acyl homoserine lactone in Gram-negative bacteria [7]. In biofilms, the planktonic counterparts of the bacteria A. baumannii attach to a substratum through proteins like Bap [8] and produce a polymeric matrix consisting of polysaccharides, proteins, and extracellular DNA, which aid the formation and growth of bacterial communities [9]. These biofilms restrict the penetration of antibiotics and other harmful compounds in bacteria [10]. Bacterial biofilms also increase competence for cellular DNA uptake, which allows them to modify their strains resulting in antibiotic resistance [11].
+
+The bacterial communities within the biofilm communicate in various ways known as Quorum sensing for their extended survival even in nutrient-limiting conditions and somehow manage to avoid competition within the biofilms. Recently, it is also seen that the stressed interior cells release potassium ion waves that would signal the peripheral cells to reduce their glutamate uptake or retain their ammonium so that most nutrition in the form of glutamate reaches the interior [12]. These cells within the biofilms interact by two methods, mainly quorum sensing [13] and recently studied electrochemical signaling via the potassium ion wave [14]. Potassium ion channels YugO gated by TrkA domain, and a potassium ion pump KtrA have recently been studied in the Bacillus subtilis [14]. Since electrical impulse generation is the major characteristic of the eukaryotic system, its existence in prokaryotes has made it even more intriguing. During the time of the stress condition, electrical signals in the form of efflux of K+ ions are released by K+ ion channel YugO gated by a Trk A, which readily hyperpolarize the cell membrane and a K+ pump Ktr A which is seen in a mutational study in Bacillus subtilis where mutated TrkA reduced the biofilm variability reluctantly and its strength [14]. Recent study by Xiong et al. on Bacillus subtilis showed that these potassium ion waves not only sensitize the distant cells but also increase their proton motive force which leads to increased oscillatory motility of the distant cells towards the preformed biofilm regardless of the species i.e. generic attractions, leading to the incorporation of diverse species into a pre-existing biofilm resulting in increased viability [15]. It is also seen that ion channel blockers enhance the macrophage killing activity against drug resistance M. tuberculosis [16]. It was also seen that potassium channel blockers have potential anti-tuberculosis agents and promote macrophage anti-TB response [17]. Hence, this suggests an emerging need to investigate the potassium ion wave in A. baumannii. Targeting the potassium ion wave can prove to be beneficial in blocking the propagation of electrical signaling in A. baumannii. Hence, the present study investigates the role of electrical signaling in the biofilm formation of A. baumannii. This study also involves the exploration of the type of ion channel (K+, Na+, Na+/K+) that is associated with electrical signaling during biofilm formation. This understanding aided in designing an inhibitor targeting the electrical signaling mediated biofilm establishment. The inhibition of electrical signalling mediated biofilm formation can play an important role in the treatment of A. baumannii infections leading to efficient therapeutics.
+
+
+# Results
+
+
+## Electrical signaling has a role in biofilm formation of A. baumanni
+
+Bacterial cells (1 × 105 CFU/well) were seeded in TSB and LB broth. Biofilm formation in TSB broth was compared with the LB broth, which confirms that TSB media promotes biofilm formation and maturation in A. baumannii. The electrical signaling alters the membrane potential, so we have monitored the change in membrane potential during biofilm formation in both conditions. Thioflavin T fluorescence of biofilm (AB culture in TSB) showed wavelength maxima at 450 nm as compared to the control (AB culture in LB) which shows a blunt wavelength peak (Supplementary Fig. SF1). This suggests a change in membrane potential during the biofilm formation.
+
+
+## Investigating the role of different pumps in the biofilm formation of A. baumannii
+
+The experiments were performed to check whether there was an ion channel involved in biofilm formation of A. baumannii. Sodium (Na+), Potassium (K+), and Na+/K+ channels might have some role in electrical signaling; hence, biofilm development was monitored in the presence of different ion channel blockers like lidocaine (Na+ channel blocker), ouabain (Na+/K+ channel blocker), K+ channel blockers such as dalfampridine (4AP), tetraethylammonium, and styrene-sulphonate. As per the literature, no specific inhibitors for bacterial potassium ion channel proteins are yet known; hence, these non-specific inhibitors were used to investigate the role of the possible ion channel. The untreated sample demonstrated maximum absorbance at 570 nm (OD 1.8), while the lowest absorbance at 570 nm was reported by Styrene-sulphonate (OD 0.8), and 4AP (OD 0.4) (Fig. 1). This led to the understanding that inhibition of potassium ion channel, by addition of K+ blockers, somehow reduced the biofilm signaling thus, reducing the biofilm formation by A. baumannii. This suggests the role of the potassium channel in the biofilm formation of A. baumannii.Fig. 1Assessing the correlation of membrane potential change with biofilm formation of A. baumannii. A) Relative display of biofilm formation in the presence of different ion channel pump inhibitors; B) Comparative display of the membrane potential change of biofilm under different conditions.Fig. 1
+
+
+## Role of potassium ion channel-dependent membrane potential change during biofilm formation
+
+After the treatment of the samples with various ion channel inhibitors such as Lidocaine, ouabain, 4AP, tetraethylammonium, & styrene-sulphonate, the role of the various pumps in changing the membrane potential was observed under a fluorescence spectrophotometer using Thioflavin T (λmax 450 nm). After 24 h of incubation with the inhibitors, it was observed that the samples incubated with dalfampridine (4 aminopyridine), a potassium channel blocker, showed a maximum decrease in fluorescence intensity. This suggests that the potassium ion channel is important for the change in the membrane potential during biofilm formation. Hence potassium channel-dependent membrane potential change or change in electrical signaling may possibly play a role in the biofilm formation of A. baumannii. Similarly, confocal images using Thioflavin T also support the reduction in the membrane potential after treatment with 4AP (Supplementary Fig. SF2).
+
+
+## Identification of the conserved potassium channel protein in A. baumannii
+
+Multiple sequence alignment of potassium channel proteins found in nine different strains of A. baumannii was performed using Clustal W online web service. Potassium ion channel protein of A. baumannii NCGM 237 with UniProt ID A0A0E1PS69(A0A0E1PS69_ACIBA) has been selected for further study as it has 98% sequence conservation with other potassium channel proteins (Supplementary Fig. SF3) and their amino acid sequence are significantly conserved with p-value <0.05. This protein has a conserved domain (amino acid 42–260) and belongs to the ion channel superfamily (Pfam:PF00520) or cation channel superfamily and forms a tetramer in the membrane. This family is known to have 4 or 6 transmembrane helices. The last two helices fank a loop that determines the ion selectivity. This protein consists of four transmembrane helical regions (amino acid 43–61, 119–135, 174–195, 235–260) and a coiled-coil region 260–280. The sequence of 341 amino acids was chosen for protein modelling and drug designing. This amino acid sequence was selected due to its high amino acid similarity and conservancy with different potassium channels present in different clones of A. baumannii.
+
+
+## Modelling of potassium channel protein and validation of the modelled structure
+
+The model of the potassium channel protein of A. baumannii (PCPAB) was generated. The secondary structure of the modelled protein was generated using PDBSum, and the Z-score of the modelled channel was found to be −1.59, which is calculated by using PROSA software. Secondary structures of modelled protein were represented in the wiring diagram, is shown in Fig. 2. The analysis showed that 341 amino acids of the modelled channel protein have 14 helices, 18 helix-helix interaction, 32 β turns, and 3 ϒ turns, where helixes covering the major portions 206aa (60.4%) present as α helix, 20aa (5.9%) present as 310 helix, and 115aa (33.7%) present as other types of helices. The Ramachandran plot analysis showed that about 90.9% amino acid residues were found in the most favoured region, 5.3% of amino acid residues were found in the allowed region, and 3.8% of amino acid residues were found in the disallowed region. All these results validated the model structure.Fig. 2Validation of modelled potassium channel protein of A. baumannii (PCPAB). A) Ribbon structure of modelled potassium channel, B) Ramachandran plot showing allowed and disallowed residue of modelled PCPAB, C) Validation of modelled structure using PROSA-web, D) Knowledge-based energy at different sequence position of modelled PCPAB.Fig. 2
+
+
+## Binding site determination and receptor grid generation
+
+The minimized protein structure was used to find the active site of PCPAB by Sitemap software. Sitemap analysis suggests a binding site with site score of 0.998, D-score of 0.999, size 392, phobic score of 0.672, philic score of 1.10, and donor to acceptor ratio of 1.198. All these properties suggested a good binding site in PCAB protein. The residues within 4 Å of the selected binding site were determined by PyMol software. The identified amino acid residues numbers of the binding pocket are 7–15, 22, 25–26, 28–29, 31–37, 42, 45–46, 48–49, 89, 93, 99–102, 104–107, 114–118, 120–121, 151, 154–158, 160, 161–162, 164–165, 169, 262, 265–266, 269–270, 271–276, 279–280, 283–284, 325, 327–330, 334–335. A receptor grid was generated using these amino acid residues, and the receptor grid was used for in-silico drug design.
+
+
+## ADMET analysis and Lipinski's filter analysis for leads used for in silico screening
+
+Ligand preparation of 4642 FDA-approved drugs and 268,790 ZBC secondary metabolites library was performed. The selected stereoisomers were considered for in-silico drug design (Supplementary Table 1). In FDA approved library, a total of 8772 stereoisomers were selected after ligand preparation step. All 8772 conformations were further evaluated for their drug-likeliness using ADMET parameters. Qikprop was used for the determination of various ADMET and physicochemical properties of ligands [18]. A total of 4642 stereoisomers have been filtered after ADMET analysis. Total 4642 stereoisomers were selected after ADMET analysis. The selected 4642 ADMET passed stereoisomers were directed for Lipinski's filtering, which selected 3303 stereoisomers. Similarly, 32 isomers were generated for 1,59,860 secondary metabolites from ZBC library, and ADMET filters a total of 2,68,790 stereoisomers. The selected ADMET passed ligands were undergone Lipinski's filtering, which selected 1,94,802 ligands stereoisomer. All the selected stereoisomers were further used for virtual high throughput screening.
+
+
+## In-silico virtual screening of selected leads
+
+Virtual screening for the ZBC library and FDA-approved library were performed using GLIDE module of Schrodinger suite. Lipinski filtered out 194,802 stereoisomers of ZBC library, that were analysed for HTVS analysis, which selects only 19,480 stereoisomers. The selected stereoisomers were analysed by SP docking that select 1948 stereoisomers and subjected to XP docking analysis. XP docking analysis selected 195 stereoisomers. These 195 were then subjected to MMGBSA. In FDA approved library, Lipinski filtered 3303 stereoisomers of FDA approved library was analysed by HTVS analysis which selected 330 stereoisomers. The selected stereoisomers were analysed for SP docking that passed 33 stereoisomers which were subjected to XP docking. XP docking analysis selected three compounds. The docking score and other characteristics of the selected leads are listed in Table 1. The different lead residues interacting with the protein are listed in supplementary Table 2.Table 1Result of molecular docking scores and binding free energy of lead compounds screening against the potassium channel protein of Acinetobacter baumannii.Table 1TitledG_Bind (K cal/mol)Glide G scoreGlide E modelComplex EnergySecondary metabolite libraryZINC12496555−83.32−10.83−56.96−12175.13ZINC67913616−82.76−9.86−55.69−12174.52ZINC67911074−80.77−9.79−43.10−12158.62ZINC13587680−80.70−9.78−49.07−12146.47ZINC67911369−80.23−10.94−43.61−12174.09ZINC38139748−80.02−10.44−51.48−12176.44Approved Drug libraryZINC03830709−57.80−9.88−51.01−12122.37ZINC03830894−46.44−9.93−45.01−12209.95ZINC03812865−44.15−10.86−44.04−12120.21Control nonspecific Potassium Channel Protein Inhibitor4-Aminopyridine−19.5−4.3−22.08
+
+
+## Validation of docking using ROC curve analysis
+
+To validate the docking, all 195 complexes of the ZBC library were subjected to enrichment calculation. ROC curves check the ability of the docking protocol to distinguish actives among the decoy set of compounds. The ROC value for the XP docked compound was 0.99. The area under the curve was found to be 0.91, which is greater than 0.5, which validates our results (Supplementary Fig. SF4).
+
+
+## Binding free energy estimation using MMGBSA-based molecular mechanics approach
+
+The 195 XP docking selected leads from the Zinc library (secondary metabolite library) were subjected to binding free energy calculations via MMGBSA analysis. Table 1 shows binding free energy of potassium channel protein with different lead molecules. ZINC12496555 has the lowest binding energy (−83.32 kcal/mol), which suggests that this lead has the highest binding with the potassium channel protein. Similarly, three XP-selected compounds of the ZINC library were subjected to MMGBSA analysis, and the result depicted that ZINC03830709 has the lowest binding energy of (−57.80). The comparative analysis was performed for both the library, and ZINC12496555, with the lowest binding energy among all the lead molecules hence was selected for further analysis (Fig. 3). The interactions involves six hydrogen bonds between ZINC12496555 and PCAB protein via Arg269 (1H-bond, 1.99 Å), Gln272 (2 H-bonds, 2.62 Å, 1.87 Å), Asn33 (1H-bond, 1.92 Å), Asn29 (1H-bond, 1.86 Å), Arg100 (1H-bond, 1.95 Å), and one salt bridge between ZINC12496555 and Arg269 (3.36 Å) of PCPAB. Similarly, it also forms 12 hydrophobic interactions involving Gln12, Met15, Thr22 Arg25, Phe26, Tyr28, Glu37, Glu99, Val11, Glu271, Glu273, Glu276. The selected lead molecule has better Gibbs free energy and better docking as compared to the nonspecific potassium channel inhibitor, i.e., 4AP (Supplementary Table 3).Fig. 3Docking analysis of ZINC12496555 with PCPAB. A) Surface view of potassium channel protein of A. baumannii showing docked lead ZINC12496555. B) Interaction diagram showing interacting amino acid residues of PCPAB with ZINC12496555.Fig. 3
+
+
+## Confirmation of interaction between ZINC12496555 and PCPAB by global redocking
+
+The interaction of ZINC12496555 with PCPAB was further confirmed by global docking using a PatchDock server that showed a docking score of 3542. The binding energy was calculated by FireDock, and the result shows a global energy of −56.32 kcal/mol and atomic contact energy (ACE) of −17.30 kcal/mol. Interestingly, we observed that during global docking, the best-docked pose of ZINC12496555 is at the same site, which was selected for docking using Schrodinger software, which further confirms the specificity of ZINC12496555 for the selected binding site. The ZINC12496555-PCAB complex was analysed by Ligplot + v2.2.4, and it was found that there are seven hydrogen bonds formed between ZINC12496555 and PCPAB via Arg269 (2 H-bond, 2.98 Å, and 2.84 Å), Gln272 (1H-bond, 2.82 Å), Asn33 (1H-bond, 2.88 Å), Asn29 (1H-bond, 2.79 Å), Arg100 (1H-bond, 2.94 Å), Thr22 (1H-bond, 3.07 Å). Similarly, there is nine hydrophobic interaction that involves Gln12, Met15, Phe26, Tyr28, Glu99, Val11, Glu271, Glu273, and Glu276. The interacting residues during GLIDE docking, and global docking were very similar that further confirm docking.
+
+
+## Favourable dissociation constant between ZINC12496555 with PCPAB
+
+The dissociation constant and interacting residues of the ZINC12496555-PCPAB complex were calculated. The result suggested that ZINC12496555 has a favourable Kd value with 2.2 × 10−7 M or 0.022 nM. The dissociation constant value further validates the interaction of ZINC12496555 with the potassium channel protein of A. baumannii.
+
+
+## Molecular dynamics simulation (MDS) analysis confirmed the interaction of ZINC12496555 with PCPAB
+
+Further, the interaction of lead with PCPAB was confirmed by MDS analysis using GROMACS and Desmond software. The 100ns MDS analysis via Gromacs showed that stable RMSD of PCPAB (in ligand complex state) suggests a stable interaction of lead with PCPAB complex (Fig. 4). Further, the interaction between PCPAB and ZINC12496555 was investigated using MDS analysis using Desmond software and found that it involves Arg269, Glu99, Gln272, Arg100, Ala106, Lys115, Arg266, Arg275, and at least eight interactions exist >30% MDS analysis (Supplementary Fig. SF5). iMODS was used to calculate the functional motions of biomolecules. The iMODS analysis PCPAB-ZINC12496555 complex suggested the protein having less deformability with some deformability at the hinge region, the eigenvalue of the docked complex shows the energy required for deforming the structure, and for PCAB-ZINC12496555 complex, it was found to be 6.770052 × 10−06. The covariance matrix between pairs of residue indicates the correlation, red color is correlated; white is uncorrelated, and blue is anti-correlated (Fig. 5). The molecular dynamics simulation using Gromacs and Desmond, as well as deformability analysis using iMODS suggests the stable interaction between lead ZINC12496555 and potassium channel protein of the A. baumannii.Fig. 4Molecular dynamics simulation analysis of PCPAB-ZINC12496555 complex using GROMACS software showing Root-mean-square deviation of protein PCPAB during simulation (A), Radius of gyration of protein PCPAB during simulation (B), Root-mean-square deviation of ligand ZINC12496555 during simulation (C), and interacting hydrogen bond formed between ZINC12496555 and PCPAB during simulations (D).Fig. 4Fig. 5Deformability analysis PCPAB- ZINC12496555 complex using iMODS software. A) Normal mode analysis (NMA) mobility displays the functional domain motions encoded by the lowest frequency mode. Different affine model based color arrow are shown for different mobility domains. B) Main chain deformability simulation, the hinges are region with high deformability, C) Eigenvalue of docked complex, showing energy required to deform the structures. D) The covariance matrix between pairs of residues (Red: correlated, White: uncorrelated, Blue: anti-correlated). (For interpretation of the references to color in this figure legend, the reader is referred to the Web version of this article.)Fig. 5
+
+
+## Mutation at interacting amino acid residues alters unfolding rate of PCPAB
+
+Alanine mutation scanning was used to monitor the role of interacting amino acids in the stability of the protein. Change in unfolding rates upon mutation was predicted using N- and C- terminal amino acid residues as control. The stability of a protein is inversely proportional to its unfolding rate. The effect of mutations on the stability of PCAB-ZINC12496555 complex suggested that mutation at most of the interacting residues like Arg269Ala, Gln272Ala, Lys115Ala, Arg266Ala showed an increment in logarithmic unfolding rates as compared to the control terminal mutations (Supplementary Table 4). These data suggest that the interaction of the lead ZINC12496555 with potassium channel protein via these amino acid residues may alter the stability of PCPAB protein as there are changes in the unfolding rate of PCPAB upon mutation at these interacting residues.
+
+
+## Designed lead has antibiofilm activity
+
+Anti-biofilm activity prediction of the lead was performed by a quantitative structure-activity relationship (QSAR) based prediction. The prediction result showed that lead ZINC12496555 (20-trifluoro Leukotriene B4) possess a high predicted antibiofilm activity (Supplementary Fig. SF6). To further confirm the interaction, the biofilm formation was estimated using the tissue culture plate method in the presence of leukotriene analog montelukast, and it was found that 20 mM concentration of the leukotriene analog has antibiofilm activity (Supplementary Fig. SF7) that further support that the designed lead may pose antibiofilm activity. In biofilm assay, it was also observed that this molecule inhibits biofilm formation and also disrupts the mature biofilm.
+
+
+## Designed lead has an association with the nervous system during pathway analysis
+
+To reduce off-target and deprioritization of lead molecules with the unwanted mode of action, the association of leads with biological pathways were predicted. The interaction of leads with metabolic pathway was modelled using KEGG and Reactome database, based on self-normalizing neural networks for the identification of pathway. The KEGG database screening showed that the lead interacts with xenobiotics metabolism (drug metabolism cytochrome P450, score 0.4) and the nervous system (serotonergic synapse, score 0.3). In addition, the Reactome database was identified in G alpha (s) signalling events (0.26) and hormones ligand-binding receptors (0.22). The KEGG database also suggests that lead's interaction with the nervous system which further supports lead selection.
+
+
+## Selected lead has no human off-targets as well as no cytotoxicity in the cell line
+
+Reduction in the efficacy of lead may be observed due to the presence of lead's off-targets in humans that may sometime cause cytotoxicity. Hence, human off-targets and cytotoxicity of ZINC12496555 in cell lines were predicted. The result showed that during the prediction of human's off-target, the selected lead did not show any human off-target potassium channels. Similarly, the ZINC12496555 was found to be non-cytotoxic to the non-tumor and tumor cell lines (at Pa> 0.7). This further enhanced the possibility of developing of ZINC12496555 as a potent inhibitor targeting the potassium channel protein of A. baumannii.
+
+
+# Discussion
+
+Acinetobacter baumannii uses different phenomena to tolerate antibiotics [19] as well as survival [[20], [64]] and biofilm formation is one of them [21,22]. Acinetobacter is known to use chemical molecules for the interaction in the biofilm matrix [23]. There are different antibiofilm molecules were investigated that inhibit this chemical communication [24,25]. The present study and other recent studies show that the organization of bacteria in a community is not only regulated by chemical modulators, but they have also seen to mediate through other ways. Multiple bacteria can undergo electrochemical communication by direct contact either by membrane-associated cytochromes [26] or along bacterial nanowires [27,28] hence this communication involves short-range interactions between bacterial communities [29]. A recent study shows the capability of the bacterial cells to detect K+ and Na+ ion gradients formed by electric field at the surface of electrode [30]. Hence, in the present study, we have tried to find out the corelation between the biofilm formation and generation of the electrical signals (membrane potential change) during the biofilm formation. Our focus was to find out which ion channel mediates this electrical signalling during biofilm formation. Experimental results using different channel inhibitors concluded that the presence of potassium ion channel inhibitor hamper biofilm formation, which can be corelated with membrane potential change. This suggests that potassium ion channel has a significant role in membrane potential changes during biofilm formation. Recently, ion channel medicated long-range electrical signals within Bacillus subtilis biofilm through spatially propagating waves of potassium was observed [14]. It was also observed that distant cell's membrane potential is altered by emitted extracellular potassium from biofilm, thereby directing their mobility for their attraction towards the biofilm [15]. Recently, it has been reported that the mutants of K+ uptakes also inhibit bacterial growth and metabolism [31]. It is also seen that the prokaryotic K+ channel is also involved in adaptation towards environmental changes [32]. It also shows the role of potassium ion channel-mediated electricidal signalling in the electroactive biofilm of Geobacter sulfurreducens [33], and potassium channel blocker tetraethylammonium (TEA) slowed its biofilm formation.
+
+To target the potassium ion channel of A. baumannii, a specific inhibitor for the potassium ion channel of A. baumannii was designed and reported in the present study. Multiple sequence alignment of nine ion channels from nine different strains of A. baumannii showed 98% conservancy that further enriched the selection of the target. In-silico modelling of potassium ion channel was performed, and in-silico virtual screening was performed to screen the best-suited inhibitor, which has the potential to specifically block the potassium ion channel of Acinetobacter baumannii. Screening of two libraries ZBC library (i.e., secondary metabolites and FDA approved), in-silico screening, binding energy calculation, and favourable dissociation constant resulted in selecting a compound ZINC12496555 targeting potassium ion channel of A. baumannii. The selected molecule ZINC12496555 was further validated by MDS analysis and iMODS analysis. The result showed that ZINC12496555 and protein complex are stable. The MDS analysis suggested that E99, R100, A106, K115, R266, R269, Q272 and R275 interact with ZINC12496555. These residues were found conserved in different potassium ion channels of A. baumannii (Supplementary Fig. SF3), and part of potassium ion selectivity determining flanking loops (99–117,260-280) of two transmembrane helices (amino acid119-135 and 235–260). It further supported the efficacy of lead molecules against potassium ion channels. In addition to this, quantitative structure-activity relationship (QSAR) based prediction showed that lead has high predicted antibiofilm activity and assessment of antibiofilm activity using tissue culture plate method showed leukotriene analog montelukast showed high antibiofilm activity. In order to know which biological pathway is associated with the lead molecule, the screening of the KEGG database was done. The result suggested the interaction of lead with the nervous system further supported the lead selection. Further, the human off-target analysis showed that the lead molecule showcased no off-targets potassium channel in humans, indicating the molecule's specificity to the bacterial potassium channel of A. baumannii. The cytotoxicity analysis of the lead molecule demonstrated no cytotoxicity to cell lines (at <0.7). These results further support that ZINC12496555 is a promising therapeutic candidate against A. baumannii.
+
+This study proposed ZINC12496555 as a lead against the potassium ion channel of A. baumannii which may have a great therapeutic benefit. The inhibitor needs to be further investigated with a purified potassium ion channel of A. baumannii using different biochemical analysis before being considered a specific inhibitor for PCAB of A. baumannii. Overall, this provides some evidence to reveal the role of potassium ion channel-mediated signalling in A. baumannii and will aid in opening a new avenue of exploration of the role of electrical signalling in the biofilm formation of A. baumannii. This study will also open a novel approach to target bacterial biofilm by inhibiting electrical signalling mediated by the potassium ion channel. Electrical signalling has remained a bastion of the eukaryotic system; however, this study and other similar studies have demonstrated that bacteria can use electrochemical communication in the coordination of population-level behaviors. All such studies show that behaviours in the brain share some links with phylogenetically ancient metabolic stress response strategies in biofilm communities. It will be also very interesting to see future discoveries within this emerging field of biofilm electrophysiology.
+
+
+# Methods
+
+In this study, a pre-identified clinical strain of A. baumannii i.e., RS307, was used. This strain is an MDR strain with MIC of >64 μg/ml for imipenem (i.e. carbapenem).
+
+
+## Estimation of biofilm formation
+
+100 μl primary culture in RS-307 (in LB broth) was added into 100 ml TSB with 1% glucose and cultured overnight at 37 °C. From this, 200 μl TSB sample was loaded in each of 96 well plates as per described in published methods [8]. Plates were incubated at 30 °C for 24 h. After this, the media was decanted, and the microplate was washed thrice with 200 μl sterile phosphate buffer saline pH 7.4. The microplate's well was dried and incubated with crystal violet (0.1% w/v in water). The crystal violet (CV) stain was removed, and the plate was dried. The CV-stained biofilm was solubilised by 33% glacial acetic acid, and OD570 was recorded using ELISA plate reader.
+
+
+## Role of electrochemical signaling in the biofilm formation
+
+TSB culture was used to grow the biofilm of Acinetobacter baumannii (RS307). The overnight incubated TSB culture in 96 well titer plate was taken, and 0.2 μl of 10 μM of Thioflavin T dye [15] was added to each well; the microplate was incubated for 1 h. The sample were mixed and subjected to fluorescence spectrophotometer, and changes in the membrane potential were observed [14]. The range of the excitation and emission was set to 360–500 nm. The excitation slit width of the spectrophotometer was 15, and the emission slit width was adjusted to 5.
+
+
+## Investigation of involvement of protein channel by inhibition assay
+
+Different inhibitors for various types of pumps were used to investigate the role of the channel in the potassium wave generation during biofilm formation. The electrical wave or membrane potential was monitored during biofilm formation under different conditions of inhibitors. Different potassium pump inhibitors such as dalfampridine or 4AP [63], tetraethylammonium bromide [34], styrene sulphonate salt [35], sodium pumps inhibitors like lidocaine [36] and sodium-potassium pumps like ouabain [37] were used. The reported inhibitory concentrations were 20 μM (lidocaine), 10 μM (ouabain), 1 mM (4AP) and 5 mM (tetraethylammonium bromide). Experiments were performed with 1×, 2×, 5×, 10× concentration of these molecules and results were analysed. In present study, result of 1× concentration of these molecules were presented.
+
+
+## Selection of the template, homologous modelling and validation
+
+The amino acid sequences of nine ion channel proteins from various strains of Acinetobacter baumannii were taken from Uniport [38] database and then aligned using CLUSTAL W [39] software. The significant amino acid sequence conservancy was analysed by phylogenetic tree analysis. Homology modelling was performed using an amino acid sequence of the selected potassium ion channel to derive a three-dimensional structure of the K+ channel using Phyre 2 (intensive mode) [40]. The model was validated as per the published method [41] using PSVS analysis [42] to calculate Ramachandran score and other characteristics like PROCHECK [43]. A web-based PROSA program was used to validate the model [44]. Secondary structures of modelled K+ channels were determined by PDBSUM software [45].
+
+
+## Protein preparation, binding site prediction, and grid generation
+
+Energy minimization was performed for the selected model of PCPAB using the protein preparation wizard of the Maestro. The output minimized PCPAB was used for the virtual screening studies. Sitemap software was used to determine the binding/active site of the K+ channel [46]. UCSF chimera was used to visualize the active site residues [47]. The residues around 4 Å were selected for the docking study. The receptor grid of the potassium channel was generated using an optimized & minimized PCPAB protein using selected 21 amino acid residues identified from the Sitemap as per the published methods [8].
+
+
+## Lead selection and ligands preparations
+
+The ligands chosen for docking were ZBC library secondary metabolite 1,59,860 lead molecules and 2924FDA approved drugs. These leads were retrieved from the Zinc database in SDF format. Before the screening, the ligand preparation [48] was performed for 1,59,860 lead molecules and 2924 FDA-approved drugs as per published methods [8]. Thirty-two stereoisomers were generated for each lead of this library. ADMET parameters and physicochemical properties were predicted by Qikprop. Lipinski's filter predicted the drug-likeness property. Lipinski filters the molecules based on molar mass (<500 Da), lipophilicity (QPlogPo/w < 5), hydrogen bond donor (Donor HB ≤ 5), hydrogen bond acceptor (Acceptor HB ≤ 10) and molar refractivity (between 40 and 130).
+
+
+## Virtual screening of specific lead against the potassium channel of A. baumannii
+
+The virtual screening workflow docking program was performed using the Glide module of Schrodinger suite as per the published methods [49,50]. Filtered lead molecules (1,94,802 ZBC and 3303 FDA-approved ligand conformations) were further screened against the protein grid of the potassium channel of A. baumannii. Ligands were analysed by HTVS, SP, and XP modes of docking. The best-docked pose with a lower G score may be the possible lead. The virtual screening workflow module retains 10% of the best leads for the next docking steps. The lead screening was performed as per published methods [51].
+
+
+## Validation of the docking protocol or enrichment calculation
+
+Enrichment calculator was used for validating the docking, which selects active lead by comparing it with inactive ligands (decoy). The decoys were mixed with XP docked selected leads and docked to the receptor grid of PCPAB using XP mode of docking. ROC curve as generated and area under curve or enrichment factor was calculated at 1% & 20%, as per the published method [52]. The active lead must be in the top 1% of the ranked docked complexes.
+
+
+## MM/GBSA calculations for selected XP docked leads
+
+XP-selected leads were analysed for binding energy using Prime MM/GBSA using the OPLS_2005 force field as per published methods [51]. The compound with more negative binding free energy has a better binding affinity with the PCPAB protein and was used for further study.
+
+
+## Estimation of binding affinity and dissociation constant
+
+The binding affinity and dissociation constant of the protein-ligand complex were further estimated at different simulation periods using Kdeep software [53].
+
+
+## Molecular dynamics simulation (MDS) analysis
+
+MDS was performed using GROMACS and Desmond software. The GROMACS was performed for 100ns as per the published method [54]. It helps in the determination of interatomic motions as well as the dynamics of the protein-ligand complex. The MDS analysis was further confirmed by Desmond software using the OPLS3e force field and TIP3P solvent and MDS as per the published method [55].
+
+
+## Analysis of unfolding rate of PCPAB after mutations
+
+The stability and unfolding rate are inversely proportional. Hence unfolding rate of PCPAB was estimated via Unfolding RaCe tool [56,57] for wild-type and mutant PCPAB at interacting amino acid residues, using an approach similar to the published method [55].
+
+
+## Anti-biofilm activity validation of lead
+
+The assessment of lead molecule was done for its anti-biofilm activity using “aBiofilm predictor”, a web-based tool [58]. This web-based tool was used to predict the biofilm-forming capacity of the lead molecule [24]. The experimental validation of the lead was performed as per the published method [8] using A. baumannii RS307. All reported values were calculated as the mean values ± S.D using Microsoft excel.
+
+
+## Prediction of lead's molecular pathway association
+
+Pathway association of lead was predicted using KEGG and Reactome database using PathwayMap which is based on deep self-normalizing neural network model [59]. The score varies from 0 to 1 where 1 is the highest interaction.
+
+
+## Identification of human off-targets of designed lead
+
+Swiss Target Prediction was used to predict any off-targets of selected lead in humans as per the published protocol [60].
+
+
+## Prediction of cytotoxicity of designed lead on cell lines
+
+In-silico cytotoxicity screening for lead molecules was done using a web-based CLC-Pred [61] as per the published method [62].
+
+
+## Statistical analysis
+
+The standard deviations have been calculated using Microsoft Excel. All reported values were presented as the mean values ± S.D.
+
+
+## Data availability statement information
+
+All the associated data are provided in the manuscript as well as in supplementary data.
+
+
+## Funding statement
+
+The present manuscript is performed in the absence of funding. The work has been submitted for funding to SERB (CRG/2022/000569), India, for further analysis.
+
+
+## Author contributions
+
+Conceived and designed: V.T., Performed the experiments: MT, SP, & V.T. Analysed the data: V.T., Wrote the manuscript: MT & VT., Proofread the final version: V.T.

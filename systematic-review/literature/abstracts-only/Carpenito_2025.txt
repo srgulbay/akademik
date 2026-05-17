@@ -1,0 +1,14 @@
+PMID: 40426583
+Title: LC-MS/MS Determination of Quorum Sensing Molecules in Plasma from Burn Patients with Septic Shock Sustained by Acinetobacter Baumannii.
+Authors: Carpenito N., Leporati M., Sciarrillo A., Pensa A., Gambino R., Musso G., Mella A., Biancone L., Risso D., Mariano F., Cosseddu D.
+Journal: Antibiotics (Basel, Switzerland)
+Year: 2025
+DOI: 10.3390/antibiotics14050517
+PMC: PMC12108150
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40426583/
+DOI URL: https://doi.org/10.3390/antibiotics14050517
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12108150/
+
+--- Abstract ---
+Background/Objectives: Quorum Sensing (QS) refers to the communication mechanism in bacterial cells, which occurs through the production and detection of small signaling molecules to coordinate activities and monitor population size. In Gram-negative bacteria, QS is typically mediated by N-acyl-homoserine lactones (HSLs) and 2-alkyl-4(1H)-quinolone metabolites (AQ). The present study aims to develop and validate an LC-MS/MS method for detecting QS molecules and apply it to the analysis of plasma samples from burn patients with septic shock caused by Acinetobacter baumannii. Methods: The LC-MS/MS method was developed and fully validated for the quantitative, simultaneous determination of five HSLs and four AQ molecules, ultimately derived from the plasma of three patients with septic shock, with samples collected over three consecutive days. Results: The developed method proved to be both specific and selective, demonstrating a good fit and linearity over the entire range of interest. Trueness and accuracy were satisfactory. The method showed excellent intra-assay precision (CV% was lower than 15%) and limits of quantification (LOQ) ranging from 0.02 to 0.79 ng/mL. In the patients' samples, the concentration of 3-OH-C12-HSL peaked at 1.5 ng/mL on the first day, and C7-PQS, C9-PQS, HHQ, and HQNO ranged from 0.5 to 1.5 ng/mL, peaking at 5 ng/mL in one patient on the third day. Conclusions: A method for the simultaneous determination of nine QS molecules by LC-MS/MS was developed and validated. When applied, it showed good performance for the analysis of plasma samples and could be a useful tool for an improvement in the diagnosis, prognosis, or treatment monitoring of infections in burn patients caused by Acinetobacter baumannii.

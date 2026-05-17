@@ -1,0 +1,14 @@
+PMID: 23985923
+Title: Outbreak of extensively drug-resistant Acinetobacter baumannii indigo-pigmented strains.
+Authors: Vilacoba E., Almuzara M., Gulone L., Rodriguez R., Pallone E., Bakai R., Centrón D., Ramírez M.
+Journal: Journal of clinical microbiology
+Year: 2013
+DOI: 10.1128/JCM.01388-13
+PMC: PMC3889758
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/23985923/
+DOI URL: https://doi.org/10.1128/JCM.01388-13
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3889758/
+
+--- Abstract ---
+Acinetobacter baumannii pigmented strains are not common in clinical settings. Here, we report an outbreak caused by indigo-pigmented A. baumannii strains isolated in an acute care hospital in Argentina from March to September 2012. Pan-PCR assays exposed a unique pattern belonging to the recently described regional CC113(B)/CC79(P) clonal complex that confirms the relevant relationships among the indigo-pigmented A. baumannii strains. All of them were extensively drug resistant and harbored different genetic elements associated with horizontal genetic transfer, such as the transposon Tn2006, class 2 integrons, AbaR-type islands, IS125, IS26, strA, strB, florR, and the small recombinase ISCR2 associated with the sul2 gene preceded by ISAba1.

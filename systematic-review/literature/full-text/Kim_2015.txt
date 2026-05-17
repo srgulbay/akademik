@@ -1,0 +1,10 @@
+Title: AbaR-Type Genomic Islands in Non-baumannii Acinetobacter Species Isolates from South Korea
+PMID: 26100696
+PMCID: PMC
+DOI: 10.1128/AAC.01175-15
+
+=== ABSTRACT ===
+To investigate the presence and structure of AbaR-type genomic islands (GIs) in non-Acinetobacter baumannii isolates, a total of 155 non-baumannii Acinetobacter isolates from a South Korean hospital were analyzed. GIs were found in three Acinetobacter nosocomialis and two Acinetobacter seifertii isolates. Their structures were similar to those in A. baumannii isolates from Asian countries, including South Korea. The existence of AbaR-type GIs in non-baumannii Acinetobacter isolates is believed to be due to interspecies transfer of GI.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

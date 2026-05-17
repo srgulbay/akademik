@@ -1,0 +1,14 @@
+PMID: 34183737
+Title: Blue light directly modulates the quorum network in the human pathogen Acinetobacter baumannii.
+Authors: Tuttobene M., Müller G., Blasco L., Arana N., Hourcade M., Diacovich L., Cribb P., Tomás M., Nieto-Peñalver C., Mussi M.
+Journal: Scientific reports
+Year: 2021
+DOI: 10.1038/s41598-021-92845-1
+PMC: PMC8239052
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/34183737/
+DOI URL: https://doi.org/10.1038/s41598-021-92845-1
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8239052/
+
+--- Abstract ---
+Quorum sensing modulates bacterial collective behaviors including biofilm formation, motility and virulence in the important human pathogen Acinetobacter baumannii. Disruption of quorum sensing has emerged as a promising strategy with important therapeutic potential. In this work, we show that light modulates the production of acyl-homoserine lactones (AHLs), which were produced in higher levels in the dark than under blue light at environmental temperatures, a response that depends on the AHL synthase, AbaI, and on the photoreceptor BlsA. BlsA interacts with the transcriptional regulator AbaR in the dark at environmental temperatures, inducing abaI expression. Under blue light, BlsA does not interact with AbaR, but induces expression of the lactonase aidA and quorum quenching, consistently with lack of motility at this condition. At temperatures found in warm-blooded hosts, the production of AHLs, quorum quenching as well as abaI and aidA expression were also modulated by light, though in this case higher levels of AHLs were detected under blue light than in the dark, in a BlsA-independent manner. Finally, AbaI reduces A. baumannii's ability to kill C. albicans only in the dark both at environmental as well as at temperatures found in warm-blooded hosts. The overall data indicate that light directly modulates quorum network in A. baumannii.

@@ -1,0 +1,257 @@
+Title: Assessing the antibacterial potential of 6-gingerol: Combined experimental and computational approaches
+PMID: 38558886
+PMCID: PMC
+DOI: 10.1016/j.jsps.2024.102041
+
+=== ABSTRACT ===
+The rise of antibiotic resistance in bacteria is becoming a global concern, particularly due to the dwindling supply of new antibiotics. This situation mandates the discovery of new antimicrobial candidates. Plant-derived natural compounds have historically played a crucial role in the development of antibiotics, serving as a rich source of substances possessing antimicrobial properties. Numerous studies have supported the reputation of 6-gingerol, a prominent compound found in the ginger family, for its antibacterial properties. In this study, the antibacterial activities of 6-gingerol were evaluated against Gram-negative bacteria, Acinetobacter baumannii and Klebsiella pneumoniae, with a particular focus on the clinically significant Gram-negative Pseudomonas aeruginosa and Gram-positive bacteria Staphylococcus aureus. Furthermore, the anti-virulence activities were assessed in vitro, in vivo, and in silico. The current findings showed that 6-gingerol’s antibacterial activity is due to its significant effect on the disruption of the bacterial cell membrane and efflux pumps, as it significantly decreased the efflux and disrupted the cell membrane of S. aureus and P. aeruginosa. Furthermore, 6-gingerol significantly decreased the biofilm formation and production of virulence factors in S. aureus and P. aeruginosa in concentrations below MICs. The anti-virulence properties of 6-gingerol could be attributed to its capacity to disrupt bacterial virulence-regulating systems; quorum sensing (QS). 6-Gingerol was found to interact with QS receptors and downregulate the genes responsible for QS. In addition, molecular docking, and molecular dynamics (MD) simulation results indicated that 6-gingerol showed a comparable binding affinity to the co-crystalized ligands of different P. aeruginosa QS targets as well as stable interactions during 100 ns MD simulations. These findings suggest that 6-gingerol holds promise as an anti-virulence agent that can be combined with antibiotics for the treatment of severe infections.
+
+=== FULL TEXT ===
+# Introduction
+
+The emergence of widespread bacterial resistance to antibiotics and the simultaneous decrease in the supply of effective antibiotics are interconnected issues that pose a serious threat to global healthcare. Bacterial resistance results in the emergence of superbugs impervious to existing antibiotics. Consequently, many infections become increasingly difficult and, in some cases, nearly impossible to treat (Hoiby et al., 2010, Carattoli, 2013, Deng et al., 2019). Traditional antibiotics employ a range of mechanisms to combat bacterial infections, which are diverse in their targets and modes of action (Li and Nikaido, 2004, Blair et al., 2015, Girlich et al., 2020). However, the effectiveness of traditional antibiotics can diminish over time due to bacterial resistance developed through processes like horizontal gene transfer and the development of mutations (Hoiby et al., 2010, Partridge et al., 2018). The dwindling supply of new antibiotics compounds this problem and mandates the discovery of new antibacterial and the development of new, efficient strategies to conquer bacterial resistance (Tacconelli et al., 2018, Foletto et al., 2021, Alandiyjany et al., 2022).
+
+Gram-positive and -negative bacteria employ diverse communities to control the virulence factors production during the different stages of infection, however, the quorum sensing (QS) systems play the principal roles in controlling bacterial virulence (Juhas et al., 2005, Li and Tian, 2012, Jiang and Li, 2013, Elfaky et al., 2022, Zeng et al., 2022). For instance, biofilm formation and production of diverse virulence factors are orchestrated in the population mainly by QS systems in both Gram-positive and -negative bacteria (Parsek et al., 1999, Rutherford and Bassler, 2012, Papenfort and Bassler, 2016, Hegazy and Abbas, 2017). QS systems function in an inducer-receptor manner. They rely on the production and detection of signaling molecules, often referred to as autoinducers, to facilitate communication and coordination among the bacterial cells in a population. When a threshold concentration of these signaling molecules is reached, it triggers specific responses and behaviors in the bacterial community. This mechanism enables bacteria to collectively adapt and coordinate actions like virulence factor production, based on their population density (Parsek et al., 1999, Solano et al., 2014). Therefore, disrupting QS could potentially lead to a significant reduction in bacterial virulence. This supposition, where interference with QS is considered a promising approach to reducing bacterial virulence, can facilitate the immune system's efforts to eradicate the bacteria (Rasmussen and Givskov, 2006, Jiang and Li, 2013, Remy et al., 2018). Anti-QS agents have been proposed as potential antibiotics or adjuvants to antibiotics, aiding in the management of bacterial infections (Almalki et al., 2022a, Cavalu et al., 2022, Lila et al., 2023).
+
+Natural compounds from plant sources have played a significant role in the history of antibiotics, serving as a source of compounds with antimicrobial properties (Nascimento et al., 2000, Ghosh et al., 2008). Numerous studies have confirmed the antibacterial properties of 6-gingerol, a prominent compound found in members of the ginger family such as ginger and grains of paradise (Ilic et al., 2014, Kumar et al., 2015, Beristain-Bauza et al., 2019, Teles et al., 2019). 6-Gingerol has been extensively studied for its potential therapeutic effects, including anti-inflammatory (Dugasani et al., 2010), antioxidant (Masuda et al., 2004), and anti-nausea properties (Mohd Yusof, 2016). Previous studies showed that 6-gingerol exhibited significant inhibition of biofilm formation in a fluconazole resistant strain of Candida albicans. It demonstrated the ability to decrease the virulence of the fungus (Lee et al., 2018). The antibiofilm activities of 6-gingerol have been studied, and its ability to disrupt quorum sensing (QS) mechanisms has been identified as the underlying cause of this attribute in multiple research findings (Girhepunje et al., 2017, Parmar et al., 2020, Shukla et al., 2021). In addition, 6-gingerol exhibited the capability to disrupt the quorum sensing (QS) mechanisms of Pseudomonas aeruginosa, thereby reducing biofouling in reverse osmosis water treatment systems (Ham et al., 2019).
+
+To the best of our knowledge, there are no detailed studies regarding the antibacterial and anti-virulence activities of 6-gingerol. The current study was aimed to evaluate 6-gingerol antibacterial activity, exploring the possible modes of its antibacterial actions against Gram-positive and -negative bacterial models: Staphylococcus aureus and Pseudomonas aeruginosa, respectively. Further, its anti-virulence and anti-QS activities including effect on production of virulence factors, biofilm formation, expression of QS-encoding genes and affinity to QS receptors have been studied in detail against S. aureus, P. aeruginosa, and other Gram-negative bacteria such as Acinetobacter baumannii and Klebsiella pneumonia. Detailed in vitro, in vivo, and in silico investigations have been performed to explore the 6-gingerol’s antibacterial and anti-virulence activities.
+
+
+# Materials and methods
+
+
+## Extraction of 6-gingerol
+
+Pure 6-Gingerol was isolated from A. melegueta seeds and identified by 1H and 13C NMR as previously reported (Supporting data
+Figs. S1–S4) (Abdou et al., 2021, Abdallah et al., 2022). NMR data were recorded on Bruker Avance DRX 850 MHz spectrometers (Bruker BioSpin/Billerica/MA/USA). The seeds were purchased from a local herbal shop in Cairo, Egypt, in 2021 and a specimen of the identified seeds (AM-1023) was retained at the Natural Products Department, Faculty of Pharmacy, King Abdulaziz University.
+
+
+## Chemicals and bacterial strains
+
+All the chemicals used were of pharmaceutical quality and obtained from Sigma-Aldrich (St. Louis, MO, USA). The media used were purchased from Oxoid (Hampshire, UK). The antibacterial activities were evaluated using Gram-negative bacterial model strains: Pseudomonas aeruginosa (ATCC 27853), Acinetobacter baumannii (ATCC 17978), and Klebsiella pneumoniae (ATCC 700603), and Gram-positive Staphylococcus aureus (ATCC 6538).
+
+
+## Growth conditions and determination of minimum inhibitory concentrations (MICs) and growth effect at sub-MIC
+
+The bacterial stock cultures were maintained on Muller-Hinton (MH) agar plates, and a broth microdilution assay was performed to determine the MICs according to the guidelines of the Clinical Laboratory and Standards Institute (Khayat et al., 2022). A loopful of fresh overnight bacterial culture was suspended in 5 mL normal saline and the turbidities were adjusted to the equivalent of 0.5 McFarland standard. The effect of the extracted 6-gingerol at sub-MIC (1/5 MIC) was evaluated on the growth of bacteria, as previously mentioned (Hegazy et al., 2022).
+
+
+## Evaluation of 6-gingerol anti-efflux pump activity
+
+To explore the gingerol effect on the efflux pump activity of S. aureus and P. aeruginosa, a real-time quantification of an energy-dependent assay was conducted as previously described (Reens et al., 2018; Abu Lila et al., 2023). Briefly, pellets collected from fresh overnight cultures in Luria-Bertani (LB) were washed with phosphate buffer saline (PBS) and 1 mM MgCl2 and resuspended in PBS to optical densities OD600 0.5. Bacterial suspensions were mixed with 10 μM fluorescence Nile Red dye (Cas No.7385–67-3, Sigma-Aldrich/St. Louis/MO/USA) for 2 hrs at 37 °C. The bacterial pellets were collected by centrifugation and resuspended in 1 mM MgCl2/PBS provided with 6-gingerol at MIC in 96-microtiter plates. Dye hydrolysis was estimated at 560/640 nm of excitation/emission. Glucose (2 mM) was added to the wells as an efflux pump activator and the efflux was estimated for 10 min. Glucose-treated Nile Red-stained bacterial cells and 6-gingerol-untreated Nile Red-stained cells were involved as controls. The increase of fluorescence inside the bacterial cells indicated the efflux pump inhibition. The experiment was conducted in triplicate and the relative fluorescence was normalized to the fluorescence intensity before glucose addition.
+
+
+## Evaluation of 6-gingerol effect on cell membrane
+
+The effect on bacterial membrane was assessed using carboxyfluorescein diacetate succinimidyl ester (CFDA-SE) dye as described previously (Mattio et al., 2019). Briefly, the optical densities of overnight cultures were adjusted to (OD600 = 0.5). The bacterial suspension was supplemented with 4 μM cFDA-SE (Cas No. 50347–59-4, Cayman Chemical/MI/USA), which is a precursor molecule of carboxyfluorescein diacetate succinimidyl ester (cFSE). Then, the bacterial suspensions were provided with 6-gingerol at MIC. For negative control, the cFSE-labeled cell suspension was likewise subjected to an equivalent volume of DMSO, which was used for dissolving 6-gingerol. The cell membrane active antibiotic kanamycin (125 µg/mL) was used as a positive control. After incubation for 30 min, 1 mL of the samples was centrifuged, and the supernatants were transferred to a 96-microtiter plate to quantify the fluorescence of cFSE at 490/520 nm of excitation/emission.
+
+
+## Evaluation of 6-gingerol effect on β-lactamase enzyme
+
+The 6-gingerol β-lactamase inhibition activity was assessed using a coulometric β-lactamase activity assay kit (product No. ab197008, Abcam/Md/USA). Fresh P. aeruginosa and S. aureus cultures were prepared and adjusted to OD600 = 0.5 and mixed or not with 6-gingerol at MIC. After overnight culturing, bacterial cells were collected to be resuspended in BL assay Buffer. The samples were sonicated for 5 min, kept on ice for 5 min, and centrifuged to remove insolubles, and collect the supernatants. The procedure of β-lactamase and calculations were performed according to the manufacturer's instructions.
+
+
+## Biofilm formation assay
+
+Bacterial biofilm formation with and without the 6-gingerol at sub-MIC (1/5 MIC) was evaluated, as reported earlier (Khayat et al., 2023). Briefly, overnight cultures were cultivated, diluted with 5 mL normal saline (0.85 % NaCl) and turbidity was adjusted to 1–5 x 106 CFU/mL; 200 μL of the prepared bacterial cultures were transferred into sterile 96-well microtiter plates and incubated at 37 °C for 24hrs. The planktonic bacteria were then removed, each well was rinsed twice by pipetting 1 mL sterile distilled water, and the plates were allowed to dry for 15 min at 37 °C in the incubator. 200 µL of 1 % crystal violet (CV) (prepared in 100 % ethanol) was added and incubated at 25 °C for another 15 min. CV was poured and plates were rinsed thrice by adding 1 mL of sterile distilled water. The plates were then allowed to dry at room temperature for 20 min. CV was solubilized by adding 200 µL of 30 % glacial acetic acid and the optical densities were measured at OD590 by a microplate reader. All assays were performed in triplicate. Sub-MIC of ciprofloxacin and dimethyl sulfoxide (1 % v/v) were used as positive and negative controls, respectively.
+
+
+## Evolution of 6-gingerol effect on bacterial motility
+
+As previously described, LB agar plates containing 6-gingerol at sub-MIC (1/5 MIC) concentration were prepared and inoculated at the center with 5 µL of optically adjusted fresh overnight P. aeruginosa (Thabit et al., 2022). Controls were prepared by central inoculation with untreated P. aeruginosa. Swarming motility zones were measured in mm.
+
+
+## Evaluation of 6-gingerol effect on protease production
+
+Protease production was assessed in the presence and absence of 6-gingerol at 1/5 MIC, following the previously described method (Saqr et al., 2021). In summary, P. aeruginosa overnight cultures with an optical density at 600 nm (OD600) of 0.4 were cultivated in LB broth with or without 6-gingerol at 1/4 × concentration. After overnight incubation at 37 °C, the supernatants were collected and combined with a mixture of 2 % casein in PBS (0.05 M) and NaOH (0.1 M) at pH 7.0, in a 1:1 ratio. The mixture was then incubated at 37 °C for 15 min. The reaction was halted by adding 2 mL of 0.4 M trichloroacetic acid for 25 min. Following centrifugation, the optical densities of the supernatants were measured at 660 nm.
+
+
+## Evaluation of 6-gingerol effect on hemolysins production
+
+The supernatants were collected from P. aeruginosa overnight cultures as described above, and hemolysin assay was performed with and without 6-gingerol at 1/5 MIC as previously shown (Almalki et al., 2022b, Cavalu et al., 2022). Briefly, the supernatant was mixed with 2 % erythrocyte suspensions sterile saline in the ratio of 1:1, and kept for 2 hrs at 37 °C. After centrifugation, the optical densities of the released hemoglobin were measured at 540 nm. Negative and positive controls were prepared using intact and fully lysed erythrocytes, respectively, achieved by the addition of 0.1 % sodium dodecyl sulfate.
+
+
+## Evaluation of 6-gingerol effect on the production of P. aeruginosa and S. aureus pigments
+
+The effect of the 6-gingerol at 1/5 MIC on pyocyanin (Cavalu et al., 2022) and staphyloxanthin (Almalki et al., 2022c) biosynthesis was detected as formerly described.
+
+
+## Effect of 6-gingerol on the expression of QS-encoding genes
+
+RNA was extracted from P. aeruginosa fresh overnight cultures, both treated and untreated with 6-gingerol at 1/5 MIC, using an RNA extraction and purification kit from Life Technologies (Carlsbad, CA, USA). The collected RNA samples were quantified using a NanoDrop ND-1000 spectrophotometer (Wilmington, DE, USA) and stored at −80 °C (Askoura et al., 2022). The expression levels were normalized to the housekeeping gene ropD, and the expressions were determined using the comparative threshold cycle (ΔΔCt) method, with the primers previously reported in other studies (Saqr et al., 2021). cDNA was synthesized using a reverse transcriptase kit from Applied Biosystems (Waltham, MA, USA), and the resulting cDNA was amplified using the Syber Green I PCR Master Kit from Fermentas (Waltham, MA, USA), using the Step One instrument from Applied Biosystems (Waltham, MA, USA).
+
+
+## In silico study
+
+
+### Molecular docking
+
+In this research, the structures of various targets related to P. aeruginosa, including QscR (PDB ID: 3SZT), LasR (PDB ID: 2UV0), PqsR (PDB ID: 4JVD), RhlR (PDB ID: 7R3H), MexB (PDB ID: 3W9J), and AmpC (PDB ID: 4WZ4), were acquired from the Protein Data Bank. The preparation of these structures was carried out using the Protein Preparation Wizard in Maestro. The determination of binding sites around the bound ligands was conducted using the Receptor Grid Generation tool in Maestro. 6-Gingerol was prepared using the LigPrep tool in Maestro. Gingerol and the bound references were docked into the active sites of the targets using the extra precision mode of the Glide tool.
+
+
+### Molecular dynamics (MD) simulations
+
+In our study, we used the Desmond tool, which is part of the Schrodinger software suite, to perform molecular dynamics (MD) simulations. These simulations examined how 6-gingerol and a reference bound ligand (N-3-oxo-dodecanoyl-L-Homoserine Lactone) interacted with the QscR protein.
+
+During the simulation process, we employed TIP3P as a solvent model in an orthorhombic box, that extended outward by 10 Ã… in all directions. To describe the behavior of molecules accurately, we used the OPLS4 force field. Our simulation conditions were set to match those found at 1 atmosphere of pressure and a temperature of 300 Kelvin, within the NTP ensemble class.
+
+In total, our simulation ran for 100 ns (ns), and we collected data at regular intervals of 100 picoseconds, resulting in 1000 recorded frames. To analyze the trajectories during the simulation, we used the simulation interaction diagram of Maestro. Additionally, we delved into various aspects of the MD simulation, such as measuring the root mean square deviation (RMSD) of the protein, the root means square fluctuation (RMSF) of both the protein and the bound ligand, and the interactions between the protein and ligand.
+
+
+## In-vivo evaluation
+
+To evaluate the in vivo anti-virulence activity of 6-gingerol at 1/5 MIC, a mouse protection assay was used, as described in previous studies (Aldawsari et al., 2021, Saqr et al., 2021, Thabit et al., 2022). Fresh cultures of P. aeruginosa or S. aureus were prepared and allowed to grow in the presence or absence of gingerol at sub-MIC concentration. The optical densities of the cultures were adjusted to an OD600 of 0.4. Three-week-old Mus musculus mice were divided into six groups of five mice each. The first and second groups served as negative controls and were not inoculated; nor did they receive intra-peritoneal (Ip) injections of sterile PBS. The third and fourth groups were Ip injected with DMSO-treated P. aeruginosa or S. aureus, serving as positive controls. The fifth and sixth groups were Ip injected with P. aeruginosa, or S. aureus treated with gingerol at sub-MIC concentration. The survival of the mice was monitored over five consecutive days to observe any fatalities.
+
+
+## Microdilution checkerboard assay
+
+The interaction between gingerol and the tested antibiotics against P. aeruginosa and S. aureus was evaluated using a checkerboard assay (Sun et al., 2009, Elfaky et al., 2023). Briefly, serial dilutions of gingerol were vertically placed in a microtiter plate, while dilutions of tested antibiotics were horizontally placed to attain the checkerboard pattern. Bacterial cells were diluted to 106 cells/mL and added to each well. After overnight incubation at 37 °C, 5 µL was drawn from each well and plated to determine viable cells (Sun et al., 2015). The fractional inhibitory concentration index (FICI) was calculated (Khayyat et al., 2021). Antibiotic potentiation were evaluated to check their efficacy in the presence of gingerol, and the MICs of antibiotics were determined in the presence of gingerol (Singh et al., 2018).
+
+
+## Statistics
+
+All tests were conducted in triplicate, and the results reported as mean ± standard error of mean. Unless otherwise mentioned, all results were analyzed using Student's t-test, where p < 0.05 was considered statistically significant.
+
+
+# Results
+
+
+## Isolation and characterization of 6-gingerol
+
+6-Gingerol (Fig. S1) was isolated as a yellow oil with molecular weight 294 (Fig. S2). 1H NMR spectra showed three aromatic protons at δH 6.68 (d, J = 1.7 Hz, H-2′), 6.82 (d, J = 8.5 Hz, H5′), and 6.66 (dd, J = 1.7, 8.5 Hz, H-6′), indicating the presence of 1,3,4-trisubstituted phenyl ring. In addition, the spectra displayed an oxymethine proton at δH 4.03 correlated in HSQC with carbon at δC 67.6. The positioning of the hydroxyl group at C-5 was confirmed through a strong correlation between H-5 at δH 4.03 and carbons at δC 211.5 of the carbonyl group. Moreover, the spectra displayed the characteristic peak of terminal methyl at 0.88 (t, J = 7.6 Hz, H-10), in addition to seven methylene groups at δH 2.83 (t, J = 7.7 Hz, H-1), 2.73 (t, J = 7.7 Hz, H-2), 2.46 (dd, J = 2.5, 17.0 Hz, H-4a), 2.55 (dd, J = 9.0, 17.0 Hz, H-4b), and 1.18–1.20 (m, H-6–9) (Table S1). The structure identity of this compound was confirmed by comparing the obtained data with the published data (Ma et al., 2009, Abdou et al., 2021) (Figs. S3 and S4).
+
+
+## Antibacterial activity of 6-gingerol
+
+The lowest concentration of 6-gingerol that inhibited the growth of P. aeruginosa, A. baumannii, and K. pneumoniae, was 0.4 mg/mL, while it inhibited the growth of S. aureus at 0.2 mg/mL.
+
+
+### Anti-efflux activity of 6-gingerol
+
+The influence on bacterial efflux was assayed by real-time quantification of an energy-dependent efflux of Nile Red dye (Fig. 1). 6-Gingerol at MIC reduced the S. aureus efflux, as the fluorescence of dye was significantly increased (indicating its accumulation into cells due to anti-efflux activity) (p < 0.01). On the other hand, 6-gingerol had no significant effect on the P. aeruginosa efflux.Fig. 1Inhibition of energy-dependent efflux pumps. The efflux of Nile Red was assayed in the presence of 6-gingerol at MIC in comparison to untreated Nile Red stained and glucose treated-Nile Red-stained P. aeruginosa and S. aureus. 6-Gingerol significantly enhanced the efflux of tested bacterial stains (* p < 0.05).
+
+
+### Cell membrane damage activity of 6-gingerol
+
+The fluorescent dye CFDA-SE is commonly employed to evaluate the damage effects on the cell membrane. This dye can enter cells and hydrolyzed to yield carboxyfluorescein derivative (cFSE) that remains trapped inside the cells; its leakage indicates the cell membrane damage. The current results showed a significant increase in the intensity of the fluorescence, indicating the ability of 6-gingerol to damage the cell membranes of P. aeruginosa and S. aureus (Fig. 2).Fig. 26-Gingerol increased the leakage of cFSE due to membrane damages. The leakage of fluorescent dye was increased significantly as compared to untreated P. aeruginosa and S. aureus controls (*** p < 0.001). Kanamycin-treated bacterial cell suspensions were used as positive controls.
+
+
+### Effect of 6-gingerol on the production of β-lactamase
+
+The effect of 6-gingerol on the production of β-lactamases was quantified calorimetrically. Though 6-gingerol showed a significant effect on the production of β-lactamase in S. aureus, there was no significant effect on its production in P. aeruginosa (Fig. 3).Fig. 36-Gingerol effect on the production of β-lactamase. The β-lactamase activity was assayed in the P. aeruginosa and S. aureus cultures treated or not with 6-gingerol at MIC. However, 6-gingerol showed significant reducing effect on the production of β-lactamase in S. aureus (* p < 0.05), it had no significant influence in P. aeruginosa.
+
+
+## Anti-virulence activity of 6-gingerol
+
+To ensure that the anti-virulence activities were solely attributed to 6-gingerol, excluding its effect on bacterial growth, the bacterial viable counts were performed in the presence of sub-MIC (1/5 MIC) of 6-gingerol, compared to untreated bacteria. The sub-MIC of 6-gingerol did not show any notable impact on bacterial growth, nor did it significantly affect bacterial counts in the presence or absence of 6-gingerol at sub-MIC levels (Fig. 4). Consequently, all the subsequent experiments were performed using 6-gingerol at sub-MIC.Fig. 4The effect of 6-gingerol at sub-MIC on the growth of (A) P. aeruginosa, (B) A. baumannii, (C) K. pneumoniae, and (D) S. aureus. There were no significant differences between the viable counts of the treated and untreated tested strains. (ns: * p > 0.05).
+
+
+### Anti-biofilm activity
+
+The crystal violet method was employed to evaluate the impact of sub-MIC concentrations of 6-gingerol on biofilm formation. The absorbances of crystal violet staining, which indicated the presence of adhered biofilm-forming bacteria, were measured. It was observed that 6-gingerol significantly reduced the absorbance, suggesting the inhibition of biofilm formation. The results revealed that 6-gingerol exhibited a notable ability to decrease biofilm formation in P. aeruginosa, A. baumannii, K. pneumoniae, and S. aureus. (Fig. 5A).Fig. 5The anti-virulence activity of 6-gingerol at sub-MIC. (A) Antibiofilm activity: 6-gingerol at sub-MIC significantly diminished the production of biofilm in P. aeruginosa, A. baumannii, K. pneumoniae, and S. aureus. (B) Effect on bacterial motility: 6-gingerol significantly reduced the P. aeruginosa swarming motility. (C) Effect on the production of virulent enzymes: gingerol significantly decreased the production of P. aeruginosa protease and hemolysins. (D) Effect on production of virulent factors: 6-gingerol significantly diminished the production of the P. aeruginosa virulent pigment pyocyanin and S. aureus virulent pigment staphyloxanthin. The data are presented as a percent change from untreated controls. (*** p < 0.001).
+
+
+### Effect on P. aeruginosa motility
+
+The extent of the swarming zones formed by P. aeruginosa was measured on MH agar plates with or without the addition of sub-MIC concentrations of 6-gingerol. The presence of 6-gingerol significantly reduced the motility of P. aeruginosa. (Fig. 5B).
+
+
+### Effect on production of virulent enzymes
+
+P. aeruginosa is characterized by its wide arsenal of virulence factors, including protease and hemolysins that play a role in the spread and establishment of infections. 6-Gingerol decreased the production of protease and hemolysins in P. aeruginosa (Fig. 5C).
+
+
+### Effect on the production of S. aureus and P. aeruginosa virulent pigments
+
+The staphyloxanthin and pyocyanin pigments produced by S. aureus and P. aeruginosa, respectively play key roles in the pathogenesis of the host. Accordingly, the release of these two virulent pigments was assayed in the presence of 6-gingerol at sub-MIC, compared to untreated controls. It was found that 6-Gingerol significantly reduced the production of these virulent pigments (Fig. 5D).
+
+
+## Anti-QS activity of 6-gingerol
+
+QS systems orchestrate the production of bacterial biofilm and other bacterial virulence factors as enzymes and virulent pigments.
+
+
+### Assessing the expression of QS-encoding genes in P. aeruginosa
+
+To assess the anti-quorum sensing (QS) activity of 6-gingerol, Rt-PCR was conducted to quantify the impact of 6-gingerol on the expression of genes involved in QS (Fig. 6). The results demonstrated that 6-gingerol exhibited a significant capability to downregulate the expression of all tested QS-encoding genes.Fig. 6Effect of 6-gingerol on the expression of QS genes in P. aeruginosa. 6-Gingerol significantly downregulated the expression of QS receptors and autoinducer encoding genes. (** p < 0.01, *** p < 0.001).
+
+
+### Virtual evaluation of 6-gingerol affinity to QS targets
+
+
+#### Molecular docking
+
+This docking study aimed to evaluate how well 6-gingerol binds to different targets associated with P. aeruginosa. The docking scores of 6-gingerol were compared to those of co-crystalized reference compounds to investigate its potential antibacterial mechanism against P. aeruginosa (Fig. 7).Fig. 72D and 3D interactions of 6-gingerol in complex with various targets related to P. aeruginosa. (A) QscR, (B) LasR, (C) PqsR, and (D) RhlR.
+
+The results indicated that 6-gingerol displayed varying levels of binding affinity to the different P. aeruginosa QS targets. A more negative docking score indicated a stronger binding affinity to the proteins (Table 1). For QscR, gingerol achieved a docking score of −10.158 kcal/mol, slightly outperforming the reference compound (-9.878 kcal/mol), suggesting competitive binding. Gingerol showed slightly weaker binding to LasR compared to the reference compound, with docking scores of −9.709 kcal/mol and −10.097 kcal/mol, respectively.Table 1XP docking scores of 6-gingerol and the bound references with various targets related to Pseudomonas aeruginosa.NamePubChem IDDocking Scores (kcal/mol)QscR(PDB ID: 3SZT)LasR(PDB ID: 2UV0)PqsR(PDB ID: 4JVD)RhlR(PDB ID: 7R3H)6-Gingerol442,793−10.158−9.709−6.498−8.436Co-crystalized reference–−9.878−10.097−6.698−6.062
+
+In the case of PqsR, 6-gingerol exhibited a docking score of −6.498 kcal/mol, similar to the reference compound (-6.698 kcal/mol), indicating a comparable binding affinity. For RhlR, 6-gingerol obtained a docking score of −8.436 kcal/mol, whereas the reference compound scored −6.062 kcal/mol, indicating competitive binding.
+
+We examined the interactions between 6-gingerol and the targets. 6-Gingerol formed hydrogen bonds with specific amino acid residues in the binding pockets of the proteins, such as SER38, TYR58, and GLY40 in QscR, TYR56 and LEU125 in LasR, GLN194, LEU197, and ILE208 in PqsR, and TYR64 in RhlR. Additionally, 6-gingerol engaged in hydrophobic interactions with all the targets, which further supported stable binding modes.
+
+
+#### Molecular dynamics (MD) simulations
+
+The selection of QscR as the target for the MD studies was based on the docking scores of 6-gingerol compared to the other protein targets. Further, the docking study showed the formation of multiple hydrogen bonds between gingerol and the QscR protein.
+
+MD simulations were performed for 100 ns, and within the initial 45 ns, fluctuations were observed in both 6-gingerol and the reference compound while they were bound to QscR (Fig. 8). Throughout the entire simulation, the 6-gingerol-QscR complex exhibited a stable interaction, with RMSD values consistently below 4 Å until the end of the simulation. On the other hand, the reference-QscR complex maintained RMSD values around 5 Å throughout the 100 ns simulation.Fig. 8The protein–ligand RMSD plot of 6-gingerol and the reference complexed with QscR (PDB ID: 3SZT). A: 6-gingerol, B: bound ligand (N-3-oxo-dodecanoyl-L-Homoserine Lactone).
+
+The RMSF values, which indicated protein fluctuations, were similar for both the 6-gingerol-QscR and reference-QscR complexes, with an average value of 1.085 Å and a standard deviation of 0.4771. This indicated that the protein remained stable during the simulations (Fig. 9).Fig. 9The protein RMSF plot of 6-gingerol and the reference complexed with QscR (PDB ID: 3SZT). A: 6-gingerol, B: bound ligand (N-3-oxo-dodecanoyl-L-Homoserine Lactone).
+
+Further analysis of the RMSF values for 6-gingerol and the reference compound when bound to QscR revealed average values of 1.706 Å (with a standard deviation of 0.5636) and 1.465 Å (with a standard deviation of 0.2945), respectively. These findings suggested that both compounds exhibited similar fluctuation patterns during their interaction with QscR (Fig. 10).Fig. 10The ligand RMSF plot of 6-gingerol and the reference complexed with QscR (PDB ID: 3SZT). A: gingerol, B: bound ligand (N-3-oxo-dodecanoyl-L-Homoserine Lactone).
+
+In the 6-gingerol-QscR complex, hydrogen bonds were observed with amino acids like ASN98 (40 %), TYR66 (10 %), ARG65, TRP62, and SER38. Additionally, water bridges were formed with TYR66 (20 %), ASP75, ASN98, PHE101, LYS63, SER56, PHE39, and SER38. In contrast, the reference-QscR complex primarily formed hydrogen bonds with SER38 (79 %) and SER129 (60 %) (Fig. 11).Fig. 11Protein-ligand contact histogram of 6-gingerol, and the reference complexed with QscR (PDB ID: 3SZT). A: 6-gingerol, B: bound ligand (N-3-oxo-dodecanoyl-L-Homoserine Lactone).
+
+
+## Evaluation of 6-gingerol synergistic effect with antibiotics
+
+To evaluate the synergistic effect of 6-gingerol in combination with different antibiotics, cefepime, cefaperazone, and ciprofloxacin were chosen to be tested. The MICs of tested antibiotics against both P. aeruginosa and S. aureus were determined in combination with 6-gingerol at sub-MIC (1/5 MIC) (Table 2). The current results showed FICs ≤ 0.5, indicating synergistic effects.Table 2Interaction between 6-gingerol and antibiotics.AntibioticP. aeruginosaS. aureusMICMICgenFICMICMICgenFICCiprofloxacin210.50.50.1250.25Cefepime820.25420.5Cefoperazone3240.125128320.25Imipenem1640.25840.5Piperacillin/tazobactam1680.5840.5FIC: Fractional inhibitory concentration = MICgen drug in combination/MIC drug alone. The result of the combination may be antagonistic (FIC > 4), indifferent (FIC > 0.5 to 4), or synergistic (FIC ≤ 0.5). MICs and MICgen are in µg/mL.
+
+
+## In vivo anti-virulence activity of the 6-gingerol
+
+An in vivo protection assay was performed to evaluate the anti-virulence activities of 6-gingerol at sub-MIC against S. aureus and P. aeruginosa. The deaths in each mice group were documented over five successive days and the results were plotted using the Kaplan–Meier method and the log-rank test was used to determine any trends statistically (Khayat et al., 2022). In the negative control groups, no deaths were observed. In the mice group injected with S. aureus, three out of the five mice died, while only one died of the five in the group injected with S. aureus treated with 6-gingerol (Fig. 12A). In the mice group injected with untreated P. aeruginosa, four out of five mice died, while one death was observed in the mice group injected with treated P. aeruginosa (Fig. 12B). These results showed a significant diminishing effect of 6-gingerol on the capacity of S. aureus and P. aeruginosa to induce in vivo pathogenesis, log-rank test for trend p = 0.0346 and 0.0032, respectively.Fig. 12In vivo protection assay. Mice groups were injected with (A) S. aureus or (B) P. aeruginosa treated or not with 6-gingerol at sub-MIC. Interestingly, 6-gingerol significantly decreased the S. aureus or P. aeruginosa capacities to induce pathogenesis to the injected mice and protected the mice, log-rank test for trend p = 0.0346 and 0.0032, respectively. *: p < 0.05, **: p < 0.01.
+
+
+# Discussion
+
+Despite the significant success of antibiotics in controlling bacterial infections since their initial discovery, the development of resistance in bacteria is an inherent and evolutionary process. Bacteria possess the capability to adapt and evolve resistance mechanisms in response to the selective pressure imposed by antibiotics. This phenomenon causes a global and substantial concern. In light of this situation, the discovery of new antimicrobials is not merely a choice but a necessity. Many antimicrobial compounds have their origins in plants, highlighting the importance of exploring natural sources for potential solutions to combat antibiotic resistance and bacterial infections (Agha et al., 2016, Aldawsari et al., 2021, Khayat et al., 2023). Grains of paradise has been reported to possess antibacterial properties, with its prominent active compound, 6-gingerol, believed to be a potentially effective antibacterial candidate.
+
+The antibacterial activity of the 6-gingerol has been documented in several studies as reviewed (Girhepunje et al., 2017, Yahyazadeh et al., 2021). Particular attention has been paid to highly alkylated gingerols, specifically 10-gingerol and 12-gingerol, which have demonstrated significant effectiveness in inhibiting the growth of oral pathogens (Park et al., 2008). Further, it has been observed that 6-gingerol showed promising potential adjuvant in combination with the first-line anti-TB drug isoniazid, suggesting 6-gingerol's possible role in enhancing the efficacy of tuberculosis treatment (Bhaskar et al., 2020). In the present study, 6-gingerol showed antibacterial activity against Gram-negative P. aeruginosa, A. baumannii, and K. pneumoniae and Gram-positive S. aureus with MICs lower than 0.4 mg/mL. Typically, the antibacterial activities of antibiotics are attributed to their capability to target essential bacterial components or processes (Blair et al., 2015). One of the most important bacterial targets is the bacterial cell membrane. The current findings showed the significant damaging effect of 6-gingerol on cell membrane viability in both P. aeruginosa and S. aureus. Further, the docking study suggested that 6-gingerol exhibited mild binding affinity to MexB efflux protein in P. aeruginosa (Li and Nikaido, 2004) in compliance with the in vitro findings, as 6-gingerol significantly diminished P. aeruginosa and S. aureus efflux. Notably, 6-gingerol did not influence the production of β-lactamases.
+
+Mitigating bacterial virulence without affecting bacterial growth may reduce the selective pressure that leads to the development of resistance (Rutherford and Bassler, 2012, Askoura et al., 2021). This approach can potentially help minimize the risk of bacteria evolving resistance mechanisms (Rasmussen and Givskov, 2006, Khayat et al., 2022). Considering the pivotal role of QS in regulating the production of virulence factors in both Gram-positive and -negative bacteria, targeting QS mechanisms holds the promise of reducing bacterial virulence effectively (Thabit et al., 2022, Khayat et al., 2023). Quorum sensing (QS) systems operate through an inducer-receptor mechanism (Parsek et al., 1999). Due to its structural resemblance to QS signal molecules such as N-oxododecanoyl-l-homoserine lactone (OdDHL) and N-butyryl-l-homoserine lactone (BHL), 6-gingerol is capable of competing with these QS signal molecules for binding to their specific receptors. This enables 6-gingerol to effectively reduce bacterial virulence (Ham et al., 2021). Further, the synthesized 6-gingerol and its derivatives, including those found naturally in ginger root, showed considerable ability to bind to the LasR QS receptor, and the abundant Lux-type QS in Gram-negative bacteria (Choi et al., 2017). Numerous studies have reported the anti-quorum sensing (QS) activities of 6-gingerol, which have been shown to significantly reduce the virulence of QS-controlled bacteria. These activities are achieved by impacting bacterial motility and biofilm formation, as well as the production of virulence enzymes, pigments, and other factors (Kim et al., 2015, Choi et al., 2017).
+
+P. aeruginosa is an opportunistic Gram-negative bacterium known for its extensive repertoire of virulence factors (Bottomley et al., 2007, Filloux, 2011, El-Mowafy et al., 2014). These virulence factors are regulated mainly in P. aeruginosa through sensing the autoinducers by Lux-type QS receptors LasR and RhLR, and QscR which responds to the LasI autoinducers, besides PqsR (Nalca et al., 2006, Venturi, 2006, Lintz et al., 2011, Thabit et al., 2022). In the current study, the anti-QS activities of 6-gingerol have been assessed through a detailed docking study into several QS targets in P. aeruginosa. The docking study found 6-gingerol exhibiting promising binding affinity to various targets associated with the four P. aeruginosa QS receptors. It demonstrated competitive binding compared to co-crystalized reference compounds in most cases. The formation of key interactions, including hydrogen bonds and hydrophobic interactions, further supported the potential anti-QS activity of 6-gingerol. Molecular dynamic studies revealed dynamic interactions in the 6-gingerol-QscR complex, with both compounds exhibiting fluctuations and stable binding to the protein. The interaction patterns observed in the 6-gingerol-QscR complex differed somewhat from those in the reference-QscR complex. These findings contribute to our understanding of 6-gingerol’s potential as an anti-virulence agent when it binds to QscR. Interestingly, 6-gingerol decreased the expression of the QS-encoding genes in P. aeruginosa which supports the in silico findings.
+
+Confirming the results of virtual studies and the downregulating effect of 6-gingerol on the QS genes, 6-gingerol demonstrated a significant diminishing effect on the production of QS-controlled virulence factors. To exclude any effect of 6-gingerol on bacterial growth, the anti-virulence activities were assessed at sub-MIC concentrations. Impressively, 6-gingerol significantly diminished the biofilm formation in all the tested bacterial stains, and bacterial motility. Further, 6-gingerol reduced the production of essential virulence factors such as protease, hemolysins, and pyocyanin in P. aeruginosa and satphyloxanthin in S. aureus. These in vitro results were emphasized by in vivo investigation which addressed the significant decrease in the P. aeruginosa and S. aureus capacities to induce pathogenesis in mice when treated with 6-gingerol at sub-MICs, conferring protection to injected mice. Further, 6-gingerol synergistically decreased the MICs of the antibiotics tested against P. aeruginosa and S. aureus. Considering the above results, 6-gingerol is a promising anti-virulence and anti-QS candidate that could serve as an adjuvant to antibiotics in the treatment of aggressive Gram-negative and -positive infections.
+
+
+# Conclusions
+
+In a nutshell, 6-gingerol is one of the prominent active constituents of ginger family that acquires considerable antibacterial potency against Gram-negative and -positive bacteria mainly due to its ability to disrupt bacterial cell membranes, besides its effect on hindering the efflux pumps. 6-Gingerol significantly disrupted the S. aureus and P. aeruginosa cell membranes and reduced their efflux. Moreover, it did not show any significant effect on the production of β-lactamases. Importantly, 6-gingerol’s anti-QS activities were more significant and in much lower concentrations (sub-MIC). It significantly diminished the S. aureus and P. aeruginosa biofilm formation and decreased the production of virulence factors. These anti-virulence activities could be due to the interference of 6-gingerol with QS systems, as it downregulated the QS-encoding genes. Furthermore, the virtual docking and molecular dynamics studies revealed the potential affinity of 6-gingerol to bind and hinder QS receptors. These findings highlight 6-gingerol’s role as a potential anti-virulence agent to be used in combination with traditional antibiotics in the treatment of serious Gram-positive and -negative infections.
+
+
+# Data availability
+
+Data will be made available on request.
+
+
+# Ethical approval
+
+The current study was performed as per the Helsinki Declaration, and all animal procedures used were approved by Zagazig University's Institutional Animal Care and Use Committee (ZU-IACUC), Egypt, vide approval number (ZU-IACUC/3/F/264/2023).
+
+
+# Funding
+
+The Deanship of Scientific Research (DSR) at King Abdulaziz University (KAU), Jeddah, Saudi Arabia has funded this project, under grant no. (RG-41-166-43).
+
+
+# CRediT authorship contribution statement
+
+Mahmoud A. Elfaky: Investigation, Methodology. Hassan M. Okairy: Investigation, Methodology. Hossam M. Abdallah: Conceptualization, Investigation, Methodology, Writing – original draft. Abdulrahman E. Koshak: Investigation, Methodology. Gamal A. Mohamed: Supervision, Validation, Writing – original draft. Sabrin R.M. Ibrahim: Supervision, Validation, Writing – original draft. Abdulrahim A. Alzain: Methodology, Validation, Writing – original draft. Wael A.H. Hegazy: Conceptualization, Investigation, Methodology, Writing – original draft. El-Sayed Khafagy: Investigation, Methodology. Noura M. Seleem: Formal analysis, Investigation, Methodology.
+
+
+# Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could influence the work reported in this paper.

@@ -1,0 +1,14 @@
+PMID: 38812547
+Title: Acinetobacter baumannii biofilm was inhibited by tryptanthrin through disrupting its different stages and genes expression.
+Authors: Guo T., Zhou N., Yang L., Wang Z., Huan C., Lin T., Bao G., Hu J., Li G.
+Journal: iScience
+Year: 2024
+DOI: 10.1016/j.isci.2024.109942
+PMC: PMC11134903
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38812547/
+DOI URL: https://doi.org/10.1016/j.isci.2024.109942
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11134903/
+
+--- Abstract ---
+Biofilm formation plays a significant role in antibiotic resistance, necessitating the search for alternative therapies against biofilm-associated infections. This study demonstrates that 20 μg/mL tryptanthrin can hinder biofilm formation above 50% in various A. baumannii strains. Tryptanthrin impacts various stages of biofilm formation, including the inhibition of surface motility and eDNA release in A. baumannii, as well as an increase in its sensitivity to H202. RT-qPCR analysis reveals that tryptanthrin significantly decreases the expression of the following genes: abaI (19.07%), abaR (33.47%), bfmR (43.41%), csuA/B (64.16%), csuE (50.20%), ompA (67.93%), and katE (72.53%), which are related to biofilm formation and quorum sensing. Furthermore, tryptanthrin is relatively safe and can reduce the virulence of A. baumannii in a Galleria mellonella infection model. Overall, our study demonstrates the potential of tryptanthrin in controlling biofilm formation and virulence of A. baumannii by disrupting different stages of biofilm formation and intercellular signaling communication.

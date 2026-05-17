@@ -1,0 +1,13 @@
+PMID: 37748387
+Title: Synthesis and evaluation of aromatic BDSF bioisosteres on biofilm formation and colistin sensitivity in pathogenic bacteria.
+Authors: Gómez A., Horgan C., Yero D., Bravo M., Daura X., O'Driscoll M., Gibert I., O'Sullivan T.
+Journal: European journal of medicinal chemistry
+Year: 2023
+DOI: 10.1016/j.ejmech.2023.115819
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/37748387/
+DOI URL: https://doi.org/10.1016/j.ejmech.2023.115819
+
+--- Abstract ---
+The diffusible signal factor family (DSF) of molecules play an important role in regulating intercellular communication, or quorum sensing, in several disease-causing bacteria. These messenger molecules, which are comprised of cis-unsaturated fatty acids, are involved in the regulation of biofilm formation, antibiotic tolerance, virulence and the control of bacterial resistance. We have previously demonstrated how olefinic N-acyl sulfonamide bioisosteric analogues of diffusible signal factor can reduce biofilm formation or enhance antibiotic sensitivity in a number of bacterial strains. This work describes the design and synthesis of a second generation of aromatic N-acyl sulfonamide bioisosteres. The impact of these compounds on biofilm production in Acinetobacter baumannii, Escherichia coli, Burkholderia multivorans, Burkholderia cepacia, Burkholderia cenocepacia, Pseudomonas aeruginosa and Stenotrophomonas maltophilia is evaluated, in addition to their effects on antibiotic tolerance. The ability of these molecules to increase survival rates on co-administration with colistin is also investigated using the Galleria infection model.

@@ -1,0 +1,13 @@
+PMID: 34763140
+Title: Integrating transcriptomics and metabolomics analysis on kojic acid combating Acinetobacter baumannii biofilm and its potential roles.
+Authors: Li H., Du X., Chen C., Qi J., Wang Y.
+Journal: Microbiological research
+Year: 2021
+DOI: 10.1016/j.micres.2021.126911
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/34763140/
+DOI URL: https://doi.org/10.1016/j.micres.2021.126911
+
+--- Abstract ---
+As a major secondary metabolite derived from a dominant marine filamentous fungus A7, kojic acid might confer the strain a competitive advantage in natural colonization. The bioactivities of kojic acid against bacterial growth and biofilm formation were investigated against Acinetobacter baumannii (A. baumannii) ATCC 19606. Then, transcriptomics and metabolomics were integrated to characterize the underlying mechanisms. It turned out that kojic acid exhibited a significantly suppressive impact against biofilm but a weak bacteriostatic activity. Meanwhile, a variety of transcriptional and metabolomic profiles were altered within biofilm formation as a result of kojic acid exposure. The alterations highlighted the mechanisms underlying biofilm formation, comprising of quorum sensing, fimbria assembly, bacterial virulence and metabolic plasticity, which could somewhat be hampered by kojic acid. The present study comprehensively elucidated multifactorial schemes for kojic acid combating biofilm formation of A. baumannii, which might provide mechanistic insights into the development of therapeutic strategies against this notorious pathogen. Meanwhile, our observations might shed new light on the ecological roles of kojic acid, e.g., serving as chemical deterrents for host adaptation to marine niches, which, however, awaits further validation.

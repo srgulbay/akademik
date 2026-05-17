@@ -1,0 +1,14 @@
+PMID: 35862954
+Title: The Cell-Cell Communication Signal Indole Controls the Physiology and Interspecies Communication of Acinetobacter baumannii.
+Authors: Cui B., Chen X., Guo Q., Song S., Wang M., Liu J., Deng Y.
+Journal: Microbiology spectrum
+Year: 2022
+DOI: 10.1128/spectrum.01027-22
+PMC: PMC9431217
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/35862954/
+DOI URL: https://doi.org/10.1128/spectrum.01027-22
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9431217/
+
+--- Abstract ---
+Many bacteria utilize quorum sensing (QS) to control group behavior in a cell density-dependent manner. Previous studies have demonstrated that Acinetobacter baumannii employs an N-acyl-L-homoserine lactone (AHL)-based QS system to control biological functions and virulence. Here, we report that indole controls biological functions, virulence and AHL signal production in A. baumannii. The biosynthesis of indole is performed by A1S_3160 (AbiS, Acinetobacter baumannii indole synthase), which is a novel indole synthase annotated as an alpha/beta hydrolase in A. baumannii. Heterologous expression of AbiS in an Escherichia coli indole-deficient mutant also rescued the production of indole by using a distinct biosynthetic pathway from the tryptophanase TnaA, which produces indole directly from tryptophan in E. coli. Moreover, we revealed that indole from A. baumannii reduced the competitive fitness of Pseudomonas aeruginosa by inhibiting its QS systems and type III secretion system (T3SS). As A. baumannii and P. aeruginosa usually coexist in human lungs, our results suggest the crucial roles of indole in both the bacterial physiology and interspecies communication. IMPORTANCE Acinetobacter baumannii is an important human opportunistic pathogen that usually causes high morbidity and mortality. It employs the N-acyl-L-homoserine lactone (AHL)-type quorum sensing (QS) system, AbaI/AbaR, to regulate biological functions and virulence. In this study, we found that A. baumannii utilizes another QS signal, indole, to modulate biological functions and virulence. It was further revealed that indole positively controls the production of AHL signals by regulating abaI expression at the transcriptional levels. Furthermore, indole represses the QS systems and type III secretion system (T3SS) of P. aeruginosa and enhances the competitive ability of A. baumannii. Together, our work describes a QS signaling network where a pathogen uses to control the bacterial physiology and pathogenesis, and the competitive ability in microbial community.

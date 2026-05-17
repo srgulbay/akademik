@@ -1,0 +1,14 @@
+PMID: 36560948
+Title: Recent advances to combat ESKAPE pathogens with special reference to essential oils.
+Authors: Panda S., Buroni S., Swain S., Bonacorsi A., da Fonseca Amorim E., Kulshrestha M., da Silva L., Tiwari V.
+Journal: Frontiers in microbiology
+Year: 2022
+DOI: 10.3389/fmicb.2022.1029098
+PMC: PMC9763703
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/36560948/
+DOI URL: https://doi.org/10.3389/fmicb.2022.1029098
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9763703/
+
+--- Abstract ---
+Biofilm-associated bacteria, especially ESKAPE pathogens (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter spp.), are a serious challenge worldwide. Due to the lack of discovery of novel antibiotics, in the past two decades, it has become necessary to search for new antibiotics or to study synergy with the existing antibiotics so as to counter life-threatening infections. Nature-derived compounds/based products are more efficient than the chemically synthesized ones with less resistance and lower side effects. In this descriptive review, we discuss the most promising therapeutics for the treatment of ESKAPE-related biofilms. The first aspect includes different types of natural agents [botanical drugs, essential oils (EOs), antimicrobial peptides, bacteriophages, and endolysins] effective against ESKAPE pathogens. The second part of the review deals with special references to EOs/essential oil components (EOCs) (with some exclusive examples), mode of action (via interfering in the quorum-sensing pathways, disruption of biofilm and their inhibitory concentrations, expression of genes that are involved, other virulence factors), existing in literature so far. Moreover, different essential oils and their major constituents were critically discussed using in vivo models to target ESKAPE pathogens along with the studies involving existing antibiotics.

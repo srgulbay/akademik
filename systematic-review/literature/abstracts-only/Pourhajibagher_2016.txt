@@ -1,0 +1,19 @@
+PMID: 27444886
+Title: Modulation of virulence in Acinetobacter baumannii cells surviving photodynamic treatment with toluidine blue.
+Authors: Pourhajibagher M., Boluki E., Chiniforush N., Pourakbari B., Farshadzadeh Z., Ghorbanzadeh R., Aziemzadeh M., Bahador A.
+Journal: Photodiagnosis and photodynamic therapy
+Year: 2016
+DOI: 10.1016/j.pdpdt.2016.07.007
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/27444886/
+DOI URL: https://doi.org/10.1016/j.pdpdt.2016.07.007
+
+--- Abstract ---
+INTRODUCTION: Widespread resistance to antimicrobial agents has led to a dearth of therapeutic choices in treating Acinetobacter baumannii infections, leading to new strategies for treatment being needed. We evaluated the effects of photodynamic therapy (PDT) as an alternative antimicrobial modality on the virulence features of cell-surviving PDT.
+
+MATERIALS AND METHODS: To determine the sublethal PDT (sPDT), a colistin-resistant, extensively drug-resistant A. baumannii (CR-XDR-AB) clinical isolate and A. baumannii and ATCC 19606 strains, photosensitized with toluidine blue O (TBO), were irradiated with light emitting diodes, following bacterial viability measurements. The biofilm formation ability, outer membrane (OM) integrity, and antimicrobial susceptibility profiles were assessed for cell-surviving PDT. The effects of sPDT on the expression of virulent genes were evaluated by real-time quantitative reverse transcription PCR (qRT-PCR).
+
+RESULTS: sPDT resulted in the reduction of the biofilm formation capacity, and its metabolic activity in strains. The OM permeability and efflux pump inhibition of the sPDT-treated CR-XDR-AB cells were increased; however, there was no significant change in OM integrity in ATCC 19606 strain after sPDT. sPDT reduced the minimum inhibitory concentrations of the most tested antimicrobials by ≥2-fold in CR-XDR-AB. lpsB, blsA, and dnaK were upregulated after the strains were treated with sPDT; however, a reduction in the expression of csuE, epsA, and abaI was observed in the treated strains after sPDT.
+
+CONCLUSION: The susceptibility of CR-XDR-AB to a range of antibiotics was enhanced following sPDT. The virulence of strains is reduced in cells surviving PDT with TBO, and this may have potential implications of PDT for the treatment of A. baumannii infections.

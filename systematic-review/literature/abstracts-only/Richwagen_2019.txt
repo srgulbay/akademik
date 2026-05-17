@@ -1,0 +1,14 @@
+PMID: 30792655
+Title: Antibacterial Activity of Kalanchoe mortagei and K. fedtschenkoi Against ESKAPE Pathogens.
+Authors: Richwagen N., Lyles J., Dale B., Quave C.
+Journal: Frontiers in pharmacology
+Year: 2019
+DOI: 10.3389/fphar.2019.00067
+PMC: PMC6374630
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/30792655/
+DOI URL: https://doi.org/10.3389/fphar.2019.00067
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6374630/
+
+--- Abstract ---
+Plants in the genus Kalanchoe (Family: Crassulaceae) are used in traditional medicine throughout the tropics for treating a variety of conditions. Two species, Kalanchoe mortagei and K. fedtschenkoi, have established ethnobotanical usage but have been neglected in previous research concerning their potential bioactivity. Here, we provide a thorough review of the reported antimicrobial activities of Kalanchoe genus and evaluate the in vitro antibacterial effects of two previously unexplored species against a panel of multidrug-resistant bacteria, the ESKAPE pathogens (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter cloacae). Plant specimens were collected and voucher specimens deposited in the Emory University Herbarium. Dried plant material was ground into a powder and extracted as ethanolic macerations or as aqueous decoctions. Extracts were tested against the ESKAPE pathogens for growth inhibitory activity. Cytotoxicity to human cells was assessed via a lactate dehydrogenase assay of treated human keratinocytes (HaCaTs). K. fedtschenkoi extracts demonstrated growth inhibitory effects against two Gram-negative species, A. baumannii (strain CDC-33) and P. aeruginosa (AH-71), as well as S. aureus (UAMS-1). In these cases, growth inhibition greater than 50% (IC50) was generally observed at concentrations of 256 μg mL-1, though one K. fedtschenkoi extract (1465, prepared from stems) exhibited an IC50 against A. baumannii at 128 μg mL-1. All extracts were well tolerated by HaCaTs (LD50 ≥ 256 μg mL-1). Chemical characterization using HPLC and chemical standards established the presence of caffeic acid and quercetin in both plant species, as well as kaempferol in K. fedtschenkoi. These results reveal K. fedtschenkoi to be a plant of medicinal interest, and future research should aim to characterize the bioactivity of this species and its active constituents through bioassay-guide fractionation. Effects on bacterial biofilm formation and quorum-sensing are also research topics of interest for this genus.

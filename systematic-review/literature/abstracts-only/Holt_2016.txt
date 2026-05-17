@@ -1,0 +1,14 @@
+PMID: 28348844
+Title: Five decades of genome evolution in the globally distributed, extensively antibiotic-resistant Acinetobacter baumannii global clone 1.
+Authors: Holt K., Kenyon J., Hamidian M., Schultz M., Pickard D., Dougan G., Hall R.
+Journal: Microbial genomics
+Year: 2016
+DOI: 10.1099/mgen.0.000052
+PMC: PMC5320584
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/28348844/
+DOI URL: https://doi.org/10.1099/mgen.0.000052
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5320584/
+
+--- Abstract ---
+The majority of Acinetobacter baumannii isolates that are multiply, extensively and pan-antibiotic resistant belong to two globally disseminated clones, GC1 and GC2, that were first noticed in the 1970s. Here, we investigated microevolution and phylodynamics within GC1 via analysis of 45 whole-genome sequences, including 23 sequenced for this study. The most recent common ancestor of GC1 arose around 1960 and later diverged into two phylogenetically distinct lineages. In the 1970s, the main lineage acquired the AbaR resistance island, conferring resistance to older antibiotics, via a horizontal gene transfer event. We estimate a mutation rate of ∼5 SNPs genome- 1 year- 1 and detected extensive recombination within GC1 genomes, introducing nucleotide diversity into the population at >20 times the substitution rate (the ratio of SNPs introduced by recombination compared with mutation was 22). The recombination events were non-randomly distributed in the genome and created significant diversity within loci encoding outer surface molecules (including the capsular polysaccharide, the outer core lipooligosaccharide and the outer membrane protein CarO), and spread antimicrobial resistance-conferring mutations affecting the gyrA and parC genes and insertion sequence insertions activating the ampC gene. Both GC1 lineages accumulated resistance to newer antibiotics through various genetic mechanisms, including the acquisition of plasmids and transposons or mutations in chromosomal genes. Our data show that GC1 has diversified into multiple successful extensively antibiotic-resistant subclones that differ in their surface structures. This has important implications for all avenues of control, including epidemiological tracking, antimicrobial therapy and vaccination.

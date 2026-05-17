@@ -1,0 +1,13 @@
+PMID: 39543024
+Title: Transcriptome and interactome-based analyses to unravel crucial proteins and pathways involved in Acinetobacter baumannii pathogenesis.
+Authors: Swain A., Senapati S., Pan A.
+Journal: Molecular diversity
+Year: 2024
+DOI: 10.1007/s11030-024-11041-1
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39543024/
+DOI URL: https://doi.org/10.1007/s11030-024-11041-1
+
+--- Abstract ---
+The present study employed an integrated transcriptome and interactome-based analyses to identify key proteins and pathways associated with Acinetobacter baumannii infection towards the development of novel therapeutics against this pathogen. Transcriptome analysis of A.baumannii strains (ATCC 17978 and AbH12O-A2) identified 253 and 619 differentially expressed genes (DEGs), respectively. These genes were involved in essential molecular functions, including DNA binding, metal ion binding, and oxidoreductase activity. The centrality and module analyses of these identified DEGs had shortlisted 27 and 41 hub proteins, which were central to the ATCC 17978 and AbH12O-A2 networks, and essential for bacterial survival. Significantly, three proteins (SecA, glutathione synthase, and aromatic-amino-acid transaminase) from the ATCC 17978 strain and seven proteins (ATP synthase subunit alpha, translation initiation factor IF-2, SecY, elongation factors G, Tu, and Ts, and tRNA guanine-N1-methyltransferase) from the AbH12O-A2 strain showed interactions with human proteins, identified through host-pathogen interaction (HPI) analysis of hub proteins (referred as hub-HPI proteins). These proteins were observed to participate in vital pathways, including glutathione metabolism, secondary metabolite biosynthesis and quorum sensing. Targeting these hub-HPI proteins through novel therapeutic strategies holds the potential to disrupt the critical bacterial pathways, thereby controlling A. baumannii infections. Furthermore, their localization analysis indicated that nine proteins were cytoplasmic and one was membrane protein. Among them, six were druggable and four were novel proteins. Overall, this comprehensive study provides valuable insights into the crucial proteins and pathways involved during A. baumannii infection, and offers potential therapeutic targets for designing novel antimicrobial agents to tackle the pathogen.

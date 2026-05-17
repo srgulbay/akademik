@@ -1,0 +1,10 @@
+Title: Large-Scale Identification of AbaR-Type Genomic Islands in Acinetobacter baumannii Reveals Diverse Insertion Sites and Clonal Lineage-Specific Antimicrobial Resistance Gene Profiles
+PMID: 30917986
+PMCID: PMC
+DOI: 10.1128/AAC.02526-18
+
+=== ABSTRACT ===
+AbaR-type genomic islands (AbaRs) are important elements responsible for antimicrobial resistance in Acinetobacter baumannii. This study performed a large-scale identification of AbaRs to understand their distribution and compositions of antimicrobial resistance genes.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

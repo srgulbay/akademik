@@ -1,0 +1,13 @@
+PMID: 33268670
+Title: Direct anti-biofilm effects of macrolides on Acinetobacter baumannii: comprehensive and comparative demonstration by a simple assay using microtiter plate combined with peg-lid.
+Authors: Yamabe K., Arakawa Y., Shoji M., Onda M., Miyamoto K., Tsuchiya T., Akeda Y., Terada K., Tomono K.
+Journal: Biomedical research (Tokyo, Japan)
+Year: 2020
+DOI: 10.2220/biomedres.41.259
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/33268670/
+DOI URL: https://doi.org/10.2220/biomedres.41.259
+
+--- Abstract ---
+Recently, opportunistic nosocomial infections caused by Acinetobacter baumannii have become increasingly prevalent worldwide. The pathogen often establishes biofilms that adhere to medical devices, causing chronic infections refractory to antimicrobial therapy. Clinical reports have indicated that some macrolide antibiotics are effective against chronic biofilm-related infections. In this study, we examined the direct anti-biofilm effects of seven macrolides (azithromycin, clarithromycin, erythromycin, josamycin, spiramycin, fidaxomicin, and ivermectin) on A. baumannii using a simple and newly established in vitro assay system for the swift and serial spectrophotometric determinations of two biofilm-amount indexes of viability and biomass. These macrolides were found to possess direct anti-biofilm effects exerting specific anti-biofilm effects not exclusively depending on their bacteriostatic/bactericidal effects. The anti-biofilm effect of azithromycin was found to be the strongest, while those of fidaxomicin and ivermectin were weak and limited. These results provide insights into possible adjunctive chemotherapy with macrolides for A. baumannii infection. Common five macrolides also interfered with the Agrobacterium tumefaciens NTL(pCF218) (pCF372) bioassay system of N-acyl homoserine lactones, providing insights into sample preparation for the bioassay, and putatively suggesting the actions of macrolides as remote signals in bacterial quorum sensing systems.

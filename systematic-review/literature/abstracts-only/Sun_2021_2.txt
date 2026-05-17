@@ -1,0 +1,14 @@
+PMID: 34322102
+Title: The abaI/abaR Quorum Sensing System Effects on Pathogenicity in Acinetobacter baumannii.
+Authors: Sun X., Ni Z., Tang J., Ding Y., Wang X., Li F.
+Journal: Frontiers in microbiology
+Year: 2021
+DOI: 10.3389/fmicb.2021.679241
+PMC: PMC8312687
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/34322102/
+DOI URL: https://doi.org/10.3389/fmicb.2021.679241
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8312687/
+
+--- Abstract ---
+Acinetobacter baumannii is a Gram-negative pathogen that has emerged as one of the most troublesome pathogens for healthcare institutions globally. Bacterial quorum sensing (QS) is a process of cell-to-cell communication that relies on the production, secretion, and detection of autoinducer (AI) signals to share information about cell density and regulate gene expression accordingly. The molecular and genetic bases of A. baumannii virulence remains poorly understood. Therefore, the contribution of the abaI/abaR QS system to growth characteristics, morphology, biofilm formation, resistance, motility, and virulence of A. baumannii was studied in detail. RNA sequencing (RNA-seq) analysis indicated that genes involved in various aspects of energy production and conversion; valine, leucine, and isoleucine degradation; and lipid transport and metabolism are associated with bacterial pathogenicity. Our work provides a new insight into the abaI/abaR QS system effects on pathogenicity in A. baumannii. We propose that targeting the acyl homoserine lactone (AHL) synthase enzyme abaI could provide an effective strategy for attenuating virulence. On the contrary, interdicting the AI synthase receptor abaR elicits unpredictable consequences, which may lead to enhanced bacterial virulence.

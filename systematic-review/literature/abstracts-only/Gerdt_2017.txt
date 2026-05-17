@@ -1,0 +1,14 @@
+PMID: 28829573
+Title: Chemical Interrogation of LuxR-type Quorum Sensing Receptors Reveals New Insights into Receptor Selectivity and the Potential for Interspecies Bacterial Signaling.
+Authors: Gerdt J., Wittenwyler D., Combs J., Boursier M., Brummond J., Xu H., Blackwell H.
+Journal: ACS chemical biology
+Year: 2017
+DOI: 10.1021/acschembio.7b00458
+PMC: PMC5600713
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/28829573/
+DOI URL: https://doi.org/10.1021/acschembio.7b00458
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5600713/
+
+--- Abstract ---
+Cell-cell signaling between bacteria, including quorum-sensing (QS) communication systems, may play a role in the establishment and maintenance of polymicrobial communities. To better understand and model these interactions, we must uncover the degree to which neighboring species recognize each another's signals. In the current study, we tested the likelihood of whether the QS systems of two opportunistic pathogens (Acinetobacter baumannii and Pseudomonas aeruginosa) that frequently arise in polymicrobial infections would be affected by the QS signals of neighboring species. Through the synthesis and screening of a library of native and non-native N-acyl l-homoserine lactones (AHLs), we found that the AbaR LuxR-type receptor protein of A. baumannii is highly selective for its native AHL signal. However, a homologous LuxR-type receptor in P. aeruginosa, LasR, is far more promiscuously activated by AHLs relative to AbaR, suggesting that LasR-regulated QS could be more susceptible to activation by neighboring species. To explain the observed difference in signal selectivity between AbaR and LasR, we developed a model based on (i) the activity profiles of these proteins and (ii) previously reported structural data and activity profiles for related LuxR-type receptors. This model may facilitate the study of signal selectivities for hundreds of LuxR-type QS receptors from bacteria, many of which grow in polymicrobial communities and may sense each other's signals. In addition, we discovered a set of AHLs that could be used to selectively activate LasR and selectively inhibit AbaR in polymicrobial experiments.

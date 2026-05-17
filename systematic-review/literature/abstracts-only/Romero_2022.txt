@@ -1,0 +1,14 @@
+PMID: 35352448
+Title: Mushroom-shaped structures formed in Acinetobacter baumannii biofilms grown in a roller bioreactor are associated with quorum sensing-dependent Csu-pilus assembly.
+Authors: Romero M., Mayer C., Heeb S., Wattanavaekin K., Cámara M., Otero A., Williams P.
+Journal: Environmental microbiology
+Year: 2022
+DOI: 10.1111/1462-2920.15985
+PMC: PMC9790458
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/35352448/
+DOI URL: https://doi.org/10.1111/1462-2920.15985
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9790458/
+
+--- Abstract ---
+There is currently a need to develop simple biofilm models that facilitate investigation of the architecture/biology of mature bacterial biofilms in a consistent/standardized manner given their environmental and clinical importance and the need for new anti-biofilm interventions. This study introduces a novel biofilm culture system termed the rolling biofilm bioreactor (RBB). This easily operated system allows adherent microbial cells to be repeatedly exposed to air/solid/liquid interfaces optimizing biofilm growth. The RBB was exploited to investigate biofilm formation in Acinetobacter baumannii. High levels of A. baumannii biofilm biomass reproducibly accumulate in the RBB and, importantly, undergo a maturation step to form large mushroom-shaped structures that had not been observed in other models. Based on image analysis of biofilm development and genetic manipulation, we show how N-acylhomoserine lactone-dependent quorum sensing (QS) impacts on biofilm differentiation, composition and antibiotic tolerance. Our results indicate that extracellular DNA (eDNA) is a key matrix component in mature Acinetobacter biofilms as the mushroom-like structures consist of dense cellular masses encased in an eDNA mesh. Moreover, this study reveals the contribution of QS to A. baumannii biofilm differentiation through Csu pilus assembly regulation. Understanding the mechanisms of structural development of mature biofilms helps to identify new biofilm eradication and removal strategies.

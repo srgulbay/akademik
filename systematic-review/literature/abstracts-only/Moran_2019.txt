@@ -1,0 +1,13 @@
+PMID: 31326448
+Title: B/O plasmid R16 from 1956 carries an In1-like class 1 integron embedded in a complex region containing parts of the Acinetobacter baumannii AbaR resistance island.
+Authors: Moran R., Hall R.
+Journal: Plasmid
+Year: 2019
+DOI: 10.1016/j.plasmid.2019.102432
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/31326448/
+DOI URL: https://doi.org/10.1016/j.plasmid.2019.102432
+
+--- Abstract ---
+The IncB/O multiresistance plasmid R16, recovered in 1956 and used in experimental studies of B/O plasmid features, was sequenced. The resistance genes are all within a class 1 integron closely related to In1 containing the cassette array oxa2-aadA1-oxa2-orfD and the sul1 gene in the 3'-conserved segment (3'-CS), with Tn10, containing tetA(B), inserted just inside the 3'-CS. The integron is part of a 25,144 bp region inserted in the plasmid backbone, bounded on only one side by a truncated Tn6018 and flanked by a 4 bp duplication. Most of the 82,026 bp R16 backbone is almost identical to that of the B/O plasmid R805a. However, two short regions containing genes of unknown function are <95% identical to the corresponding regions of R805a, and were likely acquired from a related plasmid. The insertion in R16 is related to one in the I1 plasmid pSE69-3861-1, which is embedded at the same position in an almost 11 kb segment of R16 backbone. In pSE69-3861-1, Tn6018 is complete, and two regions previously seen only in AbaR type islands of GC1 Acinetobacter baumannii are present. One contains a top topoisomerase gene and the second contains a resX resolvase gene. These regions are identical to the corresponding parts of AbaR islands. Thus, the complete sequence of R16 sheds light on the role of homologous recombination in the evolution of plasmid backbones and the acquisition of antibiotic resistance genes by I-complex plasmids, as well as on the formation of the AbaR islands of GC1 A. baumannii.

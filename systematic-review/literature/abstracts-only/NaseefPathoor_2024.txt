@@ -1,0 +1,13 @@
+PMID: 38444124
+Title: Understanding the biofilm development of Acinetobacter baumannii and novel strategies to combat infection.
+Authors: Naseef Pathoor N., Viswanathan A., Wadhwa G., Ganesh P.
+Journal: APMIS : acta pathologica, microbiologica, et immunologica Scandinavica
+Year: 2024
+DOI: 10.1111/apm.13399
+PMC: 
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/38444124/
+DOI URL: https://doi.org/10.1111/apm.13399
+
+--- Abstract ---
+Acinetobacter baumannii (A. baumannii) is a Gram-negative, nonmotile, and aerobic bacillus emerged as a superbug, due to increasing the possibility of infection and accelerating rates of antimicrobial agents. It is recognized as a nosocomial pathogen due to its ability to form biofilms. These biofilms serve as a defensive barrier, increase antibiotic resistance, and make treatment more difficult. As a result, the current situation necessitates the rapid emergence of novel therapeutic approaches to ensure successful treatment outcomes. This review explores the intricate relationship between biofilm formation and antibiotic resistance in A. baumannii, emphasizing the role of key virulence factors and quorum sensing (QS) mechanisms that will lead to infections and facilitate insight into developing innovative method to control A. baumannii infections. Furthermore, the review article looks into promising approaches for preventing biofilm formation on medically important surfaces and potential therapeutic methods for eliminating preformed biofilms, which can address biofilm-associated A. baumannii infections. Modern advances in emerging therapeutic options such as antimicrobial peptide (AMPs), nanoparticles (NPs), bacteriophage therapy, photodynamic therapy (PDT), and other biofilm inhibitors can assist readers understand the current landscape and future prospects for effectively treating A. baumannii biofilm infections.

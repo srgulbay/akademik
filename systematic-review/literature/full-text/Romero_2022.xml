@@ -1,0 +1,577 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="emi15985" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Environ Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Environ Microbiol</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">EMI</journal-id><journal-title-group><journal-title>Environmental Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1462-2912</issn><issn pub-type="epub">1462-2920</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9790458</article-id><article-id pub-id-type="pmcid-ver">PMC9790458.1</article-id><article-id pub-id-type="pmcaid">9790458</article-id><article-id pub-id-type="pmcaiid">9790458</article-id><article-id pub-id-type="pmid">35352448</article-id><article-id pub-id-type="doi">10.1111/1462-2920.15985</article-id><article-id pub-id-type="publisher-id">EMI15985</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Special Issue on Pathogen and Antimicrobial Resistance Ecology</subject><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></subj-group></article-categories><title-group><article-title>Mushroom‐shaped structures formed in <italic toggle="no">Acinetobacter baumannii</italic> biofilms grown in a roller bioreactor are associated with quorum sensing–dependent Csu‐pilus assembly</article-title><alt-title alt-title-type="right-running-head">Quorum sensing and biofilm differentiation in <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic>
+</alt-title><alt-title alt-title-type="left-running-head">M. Romero <italic toggle="no">et al.</italic>
+</alt-title></title-group><contrib-group><contrib id="emi15985-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Romero</surname><given-names initials="M">Manuel</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6902-6776</contrib-id><xref rid="emi15985-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="emi15985-note-0001" ref-type="author-notes">
+<sup>†</sup>
+</xref><address><email>m.romero@nottingham.ac.uk</email></address></contrib><contrib id="emi15985-cr-0002" contrib-type="author"><name name-style="western"><surname>Mayer</surname><given-names initials="C">Celia</given-names></name><xref rid="emi15985-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="emi15985-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="emi15985-note-0001" ref-type="author-notes">
+<sup>†</sup>
+</xref></contrib><contrib id="emi15985-cr-0003" contrib-type="author"><name name-style="western"><surname>Heeb</surname><given-names initials="S">Stephan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5079-3622</contrib-id><xref rid="emi15985-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="emi15985-cr-0004" contrib-type="author"><name name-style="western"><surname>Wattanavaekin</surname><given-names initials="K">Krittanont</given-names></name><xref rid="emi15985-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="emi15985-cr-0005" contrib-type="author"><name name-style="western"><surname>Cámara</surname><given-names initials="M">Miguel</given-names></name><xref rid="emi15985-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="emi15985-cr-0006" contrib-type="author"><name name-style="western"><surname>Otero</surname><given-names initials="A">Ana</given-names></name><xref rid="emi15985-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="emi15985-cr-0007" contrib-type="author"><name name-style="western"><surname>Williams</surname><given-names initials="P">Paul</given-names></name><xref rid="emi15985-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="emi15985-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">National Biofilms Innovation Centre, Biodiscovery Institute and School of Life Sciences</named-content>
+<institution>University of Nottingham</institution>
+<city>Nottingham</city>
+<country country="GB">UK</country>
+</aff><aff id="emi15985-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Instituto de Investigacion Sanitaria de Santiago de Compostela (IDIS)</institution>
+<city>Santiago de Compostela</city>
+<country country="ES">Spain</country>
+</aff><aff id="emi15985-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Sakaeo Crown Prince Hospital</named-content>
+<institution>Department of Internal Medicine</institution>
+<city>Sa Kaeo</city>
+<country country="TH">Thailand</country>
+</aff><aff id="emi15985-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Departamento de Microbioloxía e Parasitoloxía, Facultade de Bioloxía, Edificio CIBUS</named-content>
+<institution>Universidade de Santiago de Compostela</institution>
+<city>Santiago de Compostela</city>
+<country country="ES">Spain</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+For correspondence. E‐mail <email>m.romero@nottingham.ac.uk</email>; Tel. (+44) 01158232027.<break/>
+</corresp><fn id="emi15985-note-0001" fn-type="equal"><label>†</label><p>These authors contributed equally to this paper.</p></fn></author-notes><pub-date pub-type="epub"><day>30</day><month>3</month><year>2022</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2022</year></pub-date><volume>24</volume><issue seq="350">9</issue><issue-id pub-id-type="pmc-issue-id">424484</issue-id><issue-id pub-id-type="doi">10.1111/emi.v24.9</issue-id><issue-title>Double Special Issue: Microbiomes and Microbial Communities, and Pathogen and Antimicrobial Resistance Ecology</issue-title><fpage>4329</fpage><lpage>4339</lpage><history><date date-type="rev-recd"><day>11</day><month>2</month><year>2022</year></date><date date-type="received"><day>03</day><month>12</month><year>2021</year></date><date date-type="accepted"><day>21</day><month>3</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>25</day><month>12</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>28</day><month>12</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2022-12-29 00:10:13.063"><day>29</day><month>12</month><year>2022</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Environmental Microbiology</italic> published by Society for Applied Microbiology and John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="EMI-24-4329.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:EMI-24-4329.pdf"/><abstract><title>Summary</title><p>There is currently a need to develop simple biofilm models that facilitate investigation of the architecture/biology of mature bacterial biofilms in a consistent/standardized manner given their environmental and clinical importance and the need for new anti‐biofilm interventions. This study introduces a novel biofilm culture system termed the rolling biofilm bioreactor (RBB). This easily operated system allows adherent microbial cells to be repeatedly exposed to air/solid/liquid interfaces optimizing biofilm growth. The RBB was exploited to investigate biofilm formation in <italic toggle="no">Acinetobacter baumannii</italic>. High levels of <italic toggle="no">A</italic>. <italic toggle="no">baumannii</italic> biofilm biomass reproducibly accumulate in the RBB and, importantly, undergo a maturation step to form large mushroom‐shaped structures that had not been observed in other models. Based on image analysis of biofilm development and genetic manipulation, we show how <italic toggle="no">N</italic>‐acylhomoserine lactone‐dependent quorum sensing (QS) impacts on biofilm differentiation, composition and antibiotic tolerance. Our results indicate that extracellular DNA (eDNA) is a key matrix component in mature <italic toggle="no">Acinetobacter</italic> biofilms as the mushroom‐like structures consist of dense cellular masses encased in an eDNA mesh. Moreover, this study reveals the contribution of QS to <italic toggle="no">A</italic>. <italic toggle="no">baumannii</italic> biofilm differentiation through Csu pilus assembly regulation. Understanding the mechanisms of structural development of mature biofilms helps to identify new biofilm eradication and removal strategies.</p></abstract><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Biotechnology and Biological Sciences Research Council
+</institution><institution-id institution-id-type="doi">10.13039/501100000268</institution-id></institution-wrap></funding-source><award-id>BB/R012415/1</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Consellería de Cultura, Educación e Ordenación Universitaria, Xunta de Galicia
+</institution><institution-id institution-id-type="doi">10.13039/501100008425</institution-id></institution-wrap></funding-source><award-id>IN606B‐2019/010</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Wellcome Trust
+</institution><institution-id institution-id-type="doi">10.13039/100010269</institution-id></institution-wrap></funding-source><award-id>Ref. 103884</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="0"/><page-count count="11"/><word-count count="7589"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.3 mode:remove_FC converted:25.12.2022</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="emi15985-body-0001"><sec id="emi15985-sec-0001"><title>Introduction</title><p>
+<italic toggle="yes">Acinetobacter baumannii</italic> has emerged globally as one of the most troublesome multi‐antibiotic resistant hospital‐acquired pathogens due to its ability to settle and survive on surfaces after contamination via colonized patients (Jones <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0020" ref-type="bibr">2006</xref>; Dijkshoorn <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0010" ref-type="bibr">2007</xref>; Adams <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0001" ref-type="bibr">2011</xref>). Although the risk of healthy individuals developing <italic toggle="yes">Acinetobacter</italic> infection is low, clinical conditions such as open wounds, diabetes, compromised immunity, chronic lung disease, the use of ventilators and catheters as well as extended stays in hospital all significantly increase the risk of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> infection (Garnacho‐Montero and Timsit, <xref rid="emi15985-bib-0013" ref-type="bibr">2019</xref>). One of the major characteristics of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> is its multi‐resistance to diverse antibiotics (Moubareck and Haummoudi Halat, <xref rid="emi15985-bib-0030" ref-type="bibr">2020</xref>) including carbapenems and third‐generation cephalosporins (López <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0022" ref-type="bibr">2017</xref>). To aggravate the situation, <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> forms biofilms, self‐sustaining communities of bacteria that usually form on surfaces and are highly tolerant to desiccation, nutrient starvation and antimicrobial treatment (Gaddy and Actis, <xref rid="emi15985-bib-0012" ref-type="bibr">2009</xref>). Overproduction of extracellular polymeric substances (EPS) in the biofilm entrap and limit diffusion of certain antibiotics (Daddi Oubekka <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0006" ref-type="bibr">2012</xref>) while local microenvironmental conditions induce physiological changes that lead to antimicrobial tolerance and the emergence of persister cells. Moreover, potential virulence genes as well as those involved in antibiotic resistance are highly expressed in <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> biofilms (Martí <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0025" ref-type="bibr">2011</xref>; He <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0016" ref-type="bibr">2015</xref>).</p><p>A complex regulatory network that integrates intra‐ and extracellular signalling systems control the expression of genes involved in biofilm formation in <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> (Niu <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0033" ref-type="bibr">2008</xref>; Gaddy and Actis, <xref rid="emi15985-bib-0012" ref-type="bibr">2009</xref>; Eze <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0011" ref-type="bibr">2018</xref>; López‐Martín <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0023" ref-type="bibr">2021</xref>). Among these, quorum sensing (QS), a regulatory mechanism governing the expression of diverse genes in a population density‐dependent manner, plays a key role (Niu <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0033" ref-type="bibr">2008</xref>; Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0026" ref-type="bibr">2020a</xref>; López‐Martín <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0023" ref-type="bibr">2021</xref>). <italic toggle="yes">Acinetobacter baumannii</italic> possesses an RXI‐type QS network involving AbaI, required for the synthesis of the QS signal molecule <italic toggle="yes">N</italic>‐(3‐hydroxydodecanoyl)‐<sc>l</sc>‐homoserine lactone (OHC12‐HSL), its cognate receptor, AbaR and a negative regulator, AbaM (Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0027" ref-type="bibr">2018</xref>, <xref rid="emi15985-bib-0026" ref-type="bibr">2020a</xref>; López‐Martín <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0023" ref-type="bibr">2021</xref>).</p><p>In previous studies, we have provided evidence that a functional QS system is involved in surface‐associated motility and biofilm formation in <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> (Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0027" ref-type="bibr">2018</xref>, <xref rid="emi15985-bib-0028" ref-type="bibr">2020b</xref>; López‐Martín <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0023" ref-type="bibr">2021</xref>). Moreover, a link between QS regulation and Csu pili assembly, a type I pilus appendage important for biofilm formation in <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> (Moon <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0029" ref-type="bibr">2017</xref>; Pakharukova <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0035" ref-type="bibr">2018</xref>), has been established (Luo <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0024" ref-type="bibr">2015</xref>; Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0028" ref-type="bibr">2020b</xref>; López‐Martín <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0023" ref-type="bibr">2021</xref>). Although various biofilm models have enabled quantification of differences in biofilm formation (Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0027" ref-type="bibr">2018</xref>, <xref rid="emi15985-bib-0028" ref-type="bibr">2020b</xref>), multi‐layered, three‐dimensional architecture in <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> biofilm communities have rarely been observed in static multiwell plates assays or on tubes. These assays rely mainly upon biomass quantification using crystal violet staining and do not allow analysis of biofilm community, spatial organization composition or architecture. Here we describe the design and application of a novel biofilm culture setup incorporating high levels of aeration, flow and access to the solid/air/liquid interfaces required to stimulate the growth of robust, mature and differentiated <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> biofilms. Using this system, we demonstrate the role of QS and Csu pili on biofilm composition, architecture and tolerance to antibiotics.</p></sec><sec sec-type="results" id="emi15985-sec-0002"><title>Results</title><sec id="emi15985-sec-0003"><title>Optimisation of mature biofilm formation by <italic toggle="no">A</italic>. <italic toggle="no">baumannii</italic>
+<styled-content style="fixed-case" toggle="no">ATCC17978</styled-content> in the <styled-content style="fixed-case" toggle="no">RBB</styled-content>
+</title><p>To identify parameters required for the transition of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> ATCC17978 from surface monolayers of scattered single cells to mature biofilms and to explore the contribution of QS, we initially employed Bioflux microfluidic chambers (Fluxion Biosciences). <italic toggle="yes">Acinetobacter baumannii</italic> biofilms were cultured in a low salt medium (YLB) (LS‐LB, Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0027" ref-type="bibr">2018</xref>) to stimulate <italic toggle="yes">N</italic>‐acylhomoserine lactone (AHL) production. Despite changes introduced with respect to inoculum size, flow/shear stress, no differentiated biofilms developed in this system. Single cells and small discrete micro‐colonies (~5–40 μm) were observed attached to the walls of the micro‐channels. Greater numbers and larger micro‐colonies were present at the air–liquid interface in the microfluidic chambers (probably as a consequence of air bubbles) (Supplementary Fig. <xref rid="emi15985-supitem-0001" ref-type="supplementary-material">1</xref>). This finding is in agreement with Mayer <italic toggle="yes">et al</italic>. (<xref rid="emi15985-bib-0027" ref-type="bibr">2018</xref>, <xref rid="emi15985-bib-0028" ref-type="bibr">2020b</xref>) who observed significantly greater biofilm formation by ATCC17978 at the air–liquid interphase under static conditions in a modified Amsterdam Active Attachment biofilm cultivation model (Muras <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0031" ref-type="bibr">2020</xref>), compared with biofilms that formed on the bottom of microtiter plate wells. Together these observations suggested that robust aeration may be the key to mature biofilm formation by <italic toggle="yes">Acinetobacter</italic>.</p><p>To explore this premise, a new biofilm bioreactor system was designed and constructed. It consisted of a rotator that vertically spins a wheel to which abiotic surface substrata can be attached enabling periodic dipping into a culture allowing adherent cells to be repeatedly aerated so optimizing biofilm growth. We termed this system the Rolling Biofilm Bioreactor (RBB) (Fig. <xref rid="emi15985-fig-0001" ref-type="fig">1A</xref>). Under conditions that are best for strictly aerobic bacterial species, ATCC17978 produced robust macroscopic 3D biofilms even on glass (Fig. <xref rid="emi15985-fig-0001" ref-type="fig">1B</xref>), a material previously reported to be the least favourable substratum for biofilm formation by <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> (Greene <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0015" ref-type="bibr">2016</xref>).</p><fig position="float" fig-type="Fig." id="emi15985-fig-0001" orientation="portrait"><label>Fig. 1</label><caption><p>A. Schematic of the RBB setup. A detail of the spinning disk with attached glass slide/coverslips is shown in the right‐hand panel.</p><p>B. Images showing mature 4‐day <italic toggle="yes">Acinetobacter</italic> biofilms growing on the RBB disk and glass microscope slide (75 mm × 25 mm).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="EMI-24-4329-g004.jpg"/></fig></sec><sec id="emi15985-sec-0004"><title>
+<styled-content style="fixed-case" toggle="no">QS</styled-content> influences <italic toggle="no">A</italic>. <italic toggle="no">baumannii</italic> biofilm biomass and architecture</title><p>Using the RBB, the biofilm growth of an AHL‐deficient <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii abaI</italic> mutant and its isogenic parent was quantified daily over a 4‐day period. Biofilm dry weight measurements and confocal laser scanning microscope (CLSM) imaging revealed that the early micro‐colonies and cell aggregates of the wild type ATCC17978 transitioned to multi‐layered biofilms from day 2 (Fig. <xref rid="emi15985-fig-0002" ref-type="fig">2A</xref>). Notably, after 3 days of incubation, macroscopic ‘mushroom‐shaped’ structures emerged. To our knowledge, these almost spherical three‐dimensional structures with a characteristic central depression have not previously been reported in <italic toggle="yes">Acinetobacter</italic>. The cell clusters were approximately 100–300 μm in diameter and 100–200 μm thick. The macro‐colonies continued to grow and became confluent forming a complex, thick (&gt;300 μm) biofilm mass by day 4 in the wild‐type strain (Fig. <xref rid="emi15985-fig-0002" ref-type="fig">2A–D</xref>). Most of the substratum was covered with cell clusters and open areas with reduced biofilm thickness (~10–20 μm) were observed between the macro‐colonies. Similar to mature biofilms produced by undefined microbial consortia (de Beer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0009" ref-type="bibr">1994</xref>), microscopic observations revealed voids between the larger cell mushroom‐like structures and the substratum indicating that the clusters were not closely attached to the glass substrate giving the <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> community a ‘spongy’ appearance (Fig. <xref rid="emi15985-fig-0002" ref-type="fig">2D</xref>).</p><fig position="float" fig-type="Fig." id="emi15985-fig-0002" orientation="portrait"><label>Fig. 2</label><caption><p>A. Representative CLSM images comparing biofilm development by <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> wild‐type, <italic toggle="yes">abaI</italic> mutant and <italic toggle="yes">csuD</italic> pilus mutant after 1–4 days incubation in the RBB and stained with Syto9. Scale bar: 50 μm.</p><p>B. RBB biofilm dry weight measurement and (C) quantification of mean fluorescence intensity in biofilm cultures (±10 μM OHC12‐HSL supplementation). Data shown are mean ± SD. Statistical significance was determined with multiple <italic toggle="yes">t</italic> tests using the Holm–Sidak method (*<italic toggle="yes">p</italic> &lt; 0.05; **<italic toggle="yes">p</italic> &lt; 0.01; ***<italic toggle="yes">p</italic> &lt; 0.001; ****<italic toggle="yes">p</italic> &lt; 0.0001).</p><p>D. Representative 3D CLSM images of ATCC17978 wild‐type strain biofilms obtained after 4 days incubation in the RBB and stained with a live/dead bacterial viability kit. Scale bar: 100 μm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="EMI-24-4329-g002.jpg"/></fig><p>Compared with the wild‐type, and as previously reported by crystal violet staining biofilms produced on glass coverslips (Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0026" ref-type="bibr">2020a</xref>), the <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii abaI</italic> mutant formed substantially less biofilm under the highly aerated flow conditions within the RBB, with 3.6‐times less dry biofilm weight measured after 4 days of sessile growth on glass compared with the isogenic parental strain (Fig. <xref rid="emi15985-fig-0002" ref-type="fig">2A–C</xref>). Moreover, other changes in the biofilm architecture were also observed. The <italic toggle="yes">abaI</italic> mutant biofilms consisted mainly of undifferentiated cellular aggregates with a few small and discrete macro‐colonies (Fig. <xref rid="emi15985-fig-0002" ref-type="fig">2A</xref>). The addition of exogenous OHC12‐HSL to the <italic toggle="yes">abaI</italic> mutant in RBB cultures resulted in recovery of the biofilm biomass yields (Fig. <xref rid="emi15985-fig-0002" ref-type="fig">2B and C</xref>), although smaller mushroom‐shaped structures were observed compared with those obtained for the wild‐type strain (Supplementary Figs <xref rid="emi15985-supitem-0001" ref-type="supplementary-material">2</xref> and <xref rid="emi15985-supitem-0001" ref-type="supplementary-material">3</xref>). We attributed this to the low solubility of OHC12‐HSL when supplemented to fresh medium at 10 μM since this hydrophobic QS signal molecule was observed to precipitate out of solution after inoculation at this concentration. Therefore the more soluble compound <italic toggle="yes">N</italic>‐(3‐hydroxydecanoyl)‐<sc>l</sc>‐homoserine lactone (OHC10‐HSL), a second AHL produced by ATCC17978 although detected in much minor amounts (Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0027" ref-type="bibr">2018</xref>), was also tested. When supplied at 1 μM, OHC10‐HSL chemically complemented biofilm macro‐colony formation from day 2 post culture of the <italic toggle="yes">abaI</italic> mutant (Supplementary Fig. <xref rid="emi15985-supitem-0001" ref-type="supplementary-material">2</xref>). However, OHC12‐HSL provided at 1 μM was unable to fully restore mushroom macro‐colony formation (Supplementary Fig. <xref rid="emi15985-supitem-0001" ref-type="supplementary-material">3</xref>). These data strongly support a role for QS in <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> biofilm maturation.</p></sec><sec id="emi15985-sec-0005"><title>Csu pili and biofilm maturation in <italic toggle="no">A</italic>. <italic toggle="no">baumannii</italic>
+</title><p>Previous studies have shown that inhibition of the chaperone/usher pili‐associated <italic toggle="yes">csu</italic> operon, encoding a single six‐gene operon (<italic toggle="yes">csuA/B</italic>, <italic toggle="yes">csuA</italic>, <italic toggle="yes">csuB</italic>, <italic toggle="yes">csuC</italic>, <italic toggle="yes">csuD</italic> and <italic toggle="yes">csuE</italic>) responsible for the assembly and extension of type I pilus in <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic>, results in a significant reduction in biofilm formation (Moon <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0029" ref-type="bibr">2017</xref>; Pakharukova <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0035" ref-type="bibr">2018</xref>). Furthermore, links between <italic toggle="yes">csu</italic> expression and QS regulation have been established in this pathogen (Luo <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0024" ref-type="bibr">2015</xref>; Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0028" ref-type="bibr">2020b</xref>; López‐Martín <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0023" ref-type="bibr">2021</xref>). To assess the importance of Csu pili for biofilm differentiation and provide mechanistic understanding of how QS regulation affects biofilm architecture and biomass, the Csu pili deficient <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> ATCC17978 mutant <italic toggle="yes">csuD</italic>::<italic toggle="yes">kan</italic> was cultured in the RBB. Previous analyses have provided evidence that CsuD together with CsuC function as a chaperone‐usher secretion machinery that assembles the four type I pilus subunits, namely, CsuA/B, CsuA, CsuB and CsuE (Tomaras <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0041" ref-type="bibr">2003</xref>, <xref rid="emi15985-bib-0042" ref-type="bibr">2008</xref>).</p><p>In common with the <italic toggle="yes">abaI</italic> mutant, the <italic toggle="yes">csuD</italic> mutant failed to form the differentiated biofilm architecture under highly aerated flow conditions characteristic of the wild‐type (Fig. <xref rid="emi15985-fig-0002" ref-type="fig">2A–C</xref>). This suggested that the absence of mature mushroom‐like structures in the <italic toggle="yes">abaI</italic> QS mutant is likely to be associated with reduced expression of the <italic toggle="yes">csu</italic> operon and would be in agreement with previous reports showing an increase in <italic toggle="yes">csuD</italic> expression under the same conditions that induce <italic toggle="yes">abaI</italic> expression and AHL synthesis (Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0027" ref-type="bibr">2018</xref>) and a reduction in cell surface pili in an <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> ATCC17978 <italic toggle="yes">abaI</italic> mutant (Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0028" ref-type="bibr">2020b</xref>). In contrast to the <italic toggle="yes">abaI</italic> mutant, addition of exogenous OHC12‐HSL to the <italic toggle="yes">csuD</italic>::<italic toggle="yes">kan</italic> mutant cultures did not result in the recovery of biofilm biomass (Fig. <xref rid="emi15985-fig-0002" ref-type="fig">2B and C</xref>; Supplementary Fig. <xref rid="emi15985-supitem-0001" ref-type="supplementary-material">2</xref>). Since QS regulates <italic toggle="yes">csu</italic> expression, these data provide further support that Csu pili are essential for biofilm maturation in <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> ATCC17978 under these growth conditions.</p><p>To further explore the link between QS/Csu expression and biofilm maturation, genetic complementation of mushroom‐like structures formation in the <italic toggle="yes">abaI</italic> mutant was attempted by introducing the plasmid pBAV1K‐T5‐<italic toggle="yes">csu</italic> (P<italic toggle="yes">csu</italic>) harbouring a constitutively expressed <italic toggle="yes">csu</italic> operon. Interestingly, higher biofilm biomass and mushroom‐shaped structures were produced by the <italic toggle="yes">abaI</italic> mutant when expressing the <italic toggle="yes">csu</italic> operon independent of QS control (Supplementary Fig. <xref rid="emi15985-supitem-0001" ref-type="supplementary-material">4A</xref> and B). Likewise, the expression of the same operon in <italic toggle="yes">E</italic>. <italic toggle="yes">coli</italic> strain DH5α increased the biomass of the parental strain with macrocolonies starting to form in the biofilm from day 2 in the RBB system (Supplementary Fig. <xref rid="emi15985-supitem-0001" ref-type="supplementary-material">4</xref>).</p></sec><sec id="emi15985-sec-0006"><title>
+<italic toggle="no">Acinetobacter baumannii</italic>
+<styled-content style="fixed-case" toggle="no">ATCC17978</styled-content> biofilm composition</title><p>In contrast to conventional biofilm models, the RBB system provided an opportunity to determine the spatial organization and architecture of mature, differentiated <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> biofilms. To this end, staining for EPS biofilm components, extracellular DNA (eDNA) and poly‐ß‐(1‐6)‐N‐acetyl‐glucosamine (PNAG), combined with CLSM analysis was employed. Our results revealed that eDNA is a key matrix component in differentiated <italic toggle="yes">Acinetobacter</italic> biofilms. eDNA ‘webs’ were detected in early‐stage biofilms (Fig. <xref rid="emi15985-fig-0003" ref-type="fig">3A and C</xref>). The mushroom‐like structures consisted of dense cellular masses [stained with FM4‐64 (red)] encased in a mesh of eDNA as shown in blue by YOYO‐1 staining (Fig. <xref rid="emi15985-fig-0003" ref-type="fig">3A and C</xref>). On the other hand, PNAG was observed as patchy green aggregates in the bottom layers of the biofilm between the mushroom‐like structures when stained with the WGA‐A647 fluorochrome. This suggested that this polymer could have a lesser function in the architecture of these macro‐colonies compared to eDNA (Fig. <xref rid="emi15985-fig-0003" ref-type="fig">3A and C</xref>). Moreover, a gradual increase in the eDNA content of the biofilm matrix compared with PNAG observed during biofilm maturation highlighted a role for eDNA in the architecture of the mature biofilm macro‐colonies (Fig. <xref rid="emi15985-fig-0003" ref-type="fig">3A</xref>). Interestingly, the eDNA to PNAG ratios remained constant in the <italic toggle="yes">abaI</italic> mutant biofilms grown for 4 days (Fig. <xref rid="emi15985-fig-0003" ref-type="fig">3A</xref>). These lacked mushroom‐like structures (Fig. <xref rid="emi15985-fig-0002" ref-type="fig">2A</xref>) further indicating a potential scaffolding role for eDNA.</p><fig position="float" fig-type="Fig." id="emi15985-fig-0003" orientation="portrait"><label>Fig. 3</label><caption><p>A. Quantification of mean fluorescence intensity ratios for YOYO1 iodide (eDNA) and Wheat Germ Agglutinin Alexa Fluor 647 conjugate (WGA‐A647; PNAG exopolysaccharide) stained biofilms of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> wild‐type and <italic toggle="yes">abaI</italic> mutant strains after 1–4 days incubation in the RBB.</p><p>B. Profiles of live/dead ratios of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> wild‐type and <italic toggle="yes">abaI</italic> mutant (±10 μM OHC12‐HSL) biofilms grown in the RBB for 4 days. Data shown are mean ± SD. Statistical significance was determined with multiple <italic toggle="yes">t</italic>‐tests using the Holm–Sidak method (*<italic toggle="yes">p</italic> &lt; 0.05; **<italic toggle="yes">p</italic> &lt; 0.01; ***<italic toggle="yes">p</italic> &lt; 0.001; ****<italic toggle="yes">p</italic> &lt; 0.0001).</p><p>C. CLSM images of 3‐ and 4‐day‐old biofilms stained with YOYO1 (blue), WGA‐A647 (green) and FM4‐64 (red) fluorogenic dyes to mark eDNA, PNAG polysaccharide and cell membranes respectively. Scale bar: 100 μm. Bottom panels: side volumetric 3D projections of the biofilms.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="EMI-24-4329-g001.jpg"/></fig><p>Cell viability staining with SYTO9 and propidium iodide showed that the upper layers of wild‐type biofilms were composed mainly of live cells, with a smaller number of dead cells in the bottom layers (Figs <xref rid="emi15985-fig-0002" ref-type="fig">2D</xref> and <xref rid="emi15985-fig-0003" ref-type="fig">3B</xref>). Remarkably, the live/dead profiles of the QS deficient <italic toggle="yes">abaI</italic> mutant revealed a large amount of cell debris/dead cells throughout the depth of a 4‐day biofilm. However, supplementation of the <italic toggle="yes">abaI</italic> mutant with OHC12‐HSL restored viability almost to wild‐type levels throughout the 4‐day biofilm (Fig. <xref rid="emi15985-fig-0003" ref-type="fig">3B</xref>; Supplementary Fig. <xref rid="emi15985-supitem-0001" ref-type="supplementary-material">3</xref>). Similarly, live/dead ratios of the <italic toggle="yes">abaI</italic> mutant could be restored to wild‐type levels in communities growing in Yersinia–Luria–Bertani (YLB) supplemented with this AHL over the 4‐day period (Supplementary Fig. <xref rid="emi15985-supitem-0001" ref-type="supplementary-material">3B</xref>).</p></sec><sec id="emi15985-sec-0007"><title>Mature biofilms of <italic toggle="no">A</italic>. <italic toggle="no">baumannii</italic>
+<styled-content style="fixed-case" toggle="no">ATCC17978</styled-content> display greater tolerance to kanamycin</title><p>To determine whether mature biofilms of the <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> wild‐type showed a higher tolerance to antibiotics than the <italic toggle="yes">abaI</italic> mutant, 4‐day biofilms grown in the RBB system were exposed to 300× MIC, i.e. at 1.5 mg ml<sup>−1</sup> of kanamycin for 6 and 24 h respectively. Live and dead cell staining of the antibiotic‐treated biofilms showed a clear reduction in antibiotic tolerance by the <italic toggle="yes">abaI</italic> biofilms compared with the parental strain (Fig. <xref rid="emi15985-fig-0004" ref-type="fig">4A and B</xref>) suggesting that the inability of the mutant to produce mature, organized biofilms renders it more susceptible to antimicrobials.</p><fig position="float" fig-type="Fig." id="emi15985-fig-0004" orientation="portrait"><label>Fig. 4</label><caption><p>A. CLSM images of 4‐day‐old biofilms of wild‐type <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> (left) and <italic toggle="yes">abaI</italic> mutant (right) strains after 24 h treatment with 1.5 mg ml<sup>−1</sup> kanamycin and stained with live/dead bacterial viability kit. Scale bar: 50 μm.</p><p>B. 4 day‐old biofilm viability after 6 and 24 h kanamycin exposure respectively quantified as live/dead mean fluorescent ratios of wild‐type and <italic toggle="yes">abaI</italic> strains and normalized to untreated controls. Data shown are mean ± SD. Statistical significance was determined with multiple <italic toggle="yes">t</italic>‐tests using the Holm–Sidak method (*<italic toggle="yes">p</italic> &lt; 0.05; **<italic toggle="yes">p</italic> &lt; 0.01; ***<italic toggle="yes">p</italic> &lt; 0.001; ****<italic toggle="yes">p</italic> &lt; 0.0001).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="EMI-24-4329-g003.jpg"/></fig></sec></sec><sec sec-type="discussion" id="emi15985-sec-0008"><title>Discussion</title><p>Difficulties in obtaining mature <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> biofilms in static biofilm models have resulted in studies exploring the role of AHL‐mediated QS systems in biofilm development focusing mainly on the early stages (Niu <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0033" ref-type="bibr">2008</xref>; Kang and Park, <xref rid="emi15985-bib-0021" ref-type="bibr">2010</xref>; Anbazhagan <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0003" ref-type="bibr">2012</xref>). However, developing differentiated <italic toggle="yes">Acinetobacter</italic> biofilms is important as biofilm maturity impacts on antibiotic tolerance (Tré‐Hardy <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0043" ref-type="bibr">2009</xref>) and the molecular composition and architecture of the biofilm community. Moreover, a detailed understanding of the developmental process from single scattered cells attached to a substratum to the formation of an organized multicellular biofilm is essential for developing novel biofilm management strategies. Here we introduce a new and simple to set up biofilm culturing system, the RBB, which facilitates the reproducible formation of thick mature and complex <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> biofilms. These are useful for investigating the morphological, organizational and functional changes taking place during different stages of the biofilm maturation including those that occur in response to antimicrobial treatment. Indeed, our results show that biofilms of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> grown in the RBB setup can be used to define the role(s) of QS in the formation and maturation of biofilm communities (Niu <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0033" ref-type="bibr">2008</xref>; Kang and Park, <xref rid="emi15985-bib-0021" ref-type="bibr">2010</xref>; Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0028" ref-type="bibr">2020b</xref>). Using the RBB model we show that QS controls morphological changes in the late phases of biofilm development. Moreover, our research confirms the link between QS regulation of Csu pili (Luo <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0024" ref-type="bibr">2015</xref>; Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0028" ref-type="bibr">2020b</xref>; López‐Martín <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0023" ref-type="bibr">2021</xref>), providing further mechanistic insights into how cell‐to‐cell signalling may affect the architecture of mature <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> biofilms. An important advantage of the RBB system is the possibility of growing biofilms in highly aerated conditions that are optimal for aerobic microbial species. Moreover, this biofilm culture method is more straightforward and requires less equipment and personnel training to set up compared with other flow systems. A weakness is the volume of medium needed to allow mature biofilm development in the RBB setup (~1.2 L <sup>−1</sup> day<sup>−1</sup>); however, this disadvantage could be overcome by RBB designs employing wheels with more reduced diameters than the one used in this study and, therefore, smaller volume tanks could be used.</p><p>Previous bacterial biofilm development studies have shown the involvement of adhesive organelles in the maturation of these communities, particularly cell surface‐associated fimbriae assembled through conserved chaperone/usher pathways. Giraud <italic toggle="yes">et al</italic>. (<xref rid="emi15985-bib-0014" ref-type="bibr">2011</xref>) identified a locus in <italic toggle="yes">Pseudomonas aeruginosa</italic>, named <italic toggle="yes">cupE</italic> and with homology to the <italic toggle="yes">csu</italic> operon of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic>, which was found responsible not only for the biosynthesis of pili involved in adhesion to abiotic substrata but also in cell clustering and the formation of mushroom‐shaped structures during biofilm growth. This feature appears to be shared by other chaperone/usher fimbrial paralogues in <italic toggle="yes">P</italic>. <italic toggle="yes">aeruginosa</italic>, such as the pilus assembly proteins CupB and C that also contribute to cohesive cell–cell bonding and microcolony formation in the biofilm differentiation process (Ruer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0036" ref-type="bibr">2007</xref>). Their incomplete assembly or absence has a major impact on 3D mushroom microcolony formation. Our results support this paradigm in <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> ATCC17978 since <italic toggle="yes">csuD</italic> mutants exhibited impaired Csu pilus biogenesis (Moon <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0029" ref-type="bibr">2017</xref>) while here we found that the <italic toggle="yes">csuD</italic> mutant was incapable of biofilm differentiation and produced biofilms of only monolayers of scattered cells, whereas thick cell clusters with spherical shapes were observed in the wild‐type strain.</p><p>Consistent with earlier reports, AHL supplementation of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii abaI</italic> mutant resulted in the recovery of biofilm yields to levels similar to the wild‐type strain (Luo <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0024" ref-type="bibr">2015</xref>). Strikingly, our microscopic observations of mature <italic toggle="yes">Acinetobacter</italic> biofilms showed that OHC12‐HSL only partially restored the formation of mushroom‐shaped cell clusters while supplementation with the second AHL OHC10‐HSL produced by ATCC17978 (Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0027" ref-type="bibr">2018</xref>) induced fully development of these complex structures. This could be related to the different solubilities observed for both signals, differential functionalities for the two structurally distinct AHLs or that fine‐tuning of pilus production by QS may be needed for macrocolony formation. This is supported by the fact that irregular and more discrete macrocolonies were observed in the <italic toggle="yes">abaI</italic> mutant when expressing the <italic toggle="yes">csu</italic> operon from a constitutive promoter. Remarkably, mushroom‐like structures could be achieved in <italic toggle="yes">E</italic>. <italic toggle="yes">coli</italic> expressing Csu pili and grown in the RBB, further supporting the involvement of these appendages in macrocolony formation under hydrodynamic conditions.</p><p>Comparative compositional analysis of 4‐day‐old biofilms of the <italic toggle="yes">abaI</italic> mutant and parental strain grown in the RBB suggests that eDNA release is an important factor for biofilm transition from monolayers of scattered cells to mushroom‐shaped multicellular structures. Lysis of cell subpopulations in bacterial biofilms is known to release eDNA to tie cells in clusters and enable remodelling of the extracellular matrix by promoting attractive acid–base interactions (Ibáñez de Aldecoa <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0017" ref-type="bibr">2017</xref>). eDNA has also been associated with stabilizing <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> biofilm communities (Tetz <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0040" ref-type="bibr">2009</xref>). Notably, QS regulatory circuits and coordinated eDNA release in biofilms are frequently linked in bacteria (Spoering and Gilmore, <xref rid="emi15985-bib-0039" ref-type="bibr">2006</xref>; Yang and Lan, <xref rid="emi15985-bib-0045" ref-type="bibr">2016</xref>). Known QS‐dependent mechanisms of eDNA release include prophage activation and biosynthesis of phenazines that induce cell lysis and release of large amounts of eDNA (Allesen‐Holm <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0002" ref-type="bibr">2006</xref>; Das and Manefield, <xref rid="emi15985-bib-0007" ref-type="bibr">2012</xref>, <xref rid="emi15985-bib-0008" ref-type="bibr">2013</xref>). Further studies are required to determine whether there is a direct link between QS regulation and eDNA release in biofilms of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic>.</p><p>QS has also been linked to antibiotic tolerance in bacterial biofilms (Jakobsen <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0018" ref-type="bibr">2017</xref>). Furthermore, enzymatic quenching of QS has been shown to increase the susceptibility of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> monospecies biofilms to antibiotics (Zhang <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0046" ref-type="bibr">2017</xref>). Here we show that mature 4‐day old biofilms of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> ATCC17978 display notable resistance to the aminoglycoside kanamycin compared to the non‐differentiated biofilm monolayers formed by a QS deficient mutant of the same strain. This could be linked to the fact that sessile cells of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> in late stages of biofilm development are tethered to an eDNA‐rich extracellular matrix since this nucleic acid has been documented to contribute to increased resistance to aminoglycosides antibiotics, including kanamycin (Wilton <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0044" ref-type="bibr">2015</xref>). One possibility is that the activities of antimicrobial agents are quenched on sequestration by eDNA functioning as a physical barrier preventing their access to cellular targets (Chiang <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0005" ref-type="bibr">2013</xref>). Also, eDNA accumulation in local biofilm microenvironments can reduce the local pH, which constitutes a signal for the activation of pathways that lead to aminoglycoside resistance through cell envelope modifications (Wilton <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0044" ref-type="bibr">2015</xref>). Similarly, the induction of divalent cation limitation mediated by eDNA release helps protect microbial cells from positively charged antimicrobials (Johnson <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0019" ref-type="bibr">2012</xref>). Confirming the importance of eDNA as scaffold for the architecture of biofilm in this species, several reports have highlighted the potential of DNAses for increasing the susceptibility of biofilms to biocides and to reduce biofilm formation and even destabilize preformed <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> communities (Tetz <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0040" ref-type="bibr">2009</xref>; Sahu <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0037" ref-type="bibr">2012</xref>; Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0028" ref-type="bibr">2020b</xref>).</p><p>The unique characteristics of the RBB system allowed us to obtain high yields of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> biomass in the form of mature biofilms in a reproducible manner and permitted the study of fundamental aspects of biofilm development by this pathogen. Based on image analysis of biofilm development by <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> ATCC17978, our results revealed that the wild‐type and isogenic <italic toggle="yes">abaI</italic> mutant both attach to surfaces in the RBB system; however, the QS deficient strain cannot progress to form a mature, differentiated biofilm. These results demonstrate a central role for AHL‐based QS in the regulation of biofilm development in <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> and further support the validity of efforts directed towards the disruption of QS as a promising approach to prevent and manage <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> colonization and survival on surfaces, especially in combination with antibacterial agents.</p></sec><sec id="emi15985-sec-0009"><title>Experimental procedures</title><sec id="emi15985-sec-0010"><title>Bacterial strains and culture conditions</title><p>
+<italic toggle="yes">Acinetobacter baumannii</italic> ATCC17978 wild‐type strain, <italic toggle="yes">abaI</italic> deletion mutant (Mayer <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0028" ref-type="bibr">2020b</xref>) and <italic toggle="yes">csuD</italic>::<italic toggle="yes">kan</italic> insertion mutant (Moon <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0029" ref-type="bibr">2017</xref>) were routinely grown at 37°C in lysogeny broth (LB) or LB agar supplemented with kanamycin 25 μg ml<sup>−1</sup> as required. YLB broth (1% tryptone, 0.5% yeast extract and 0.5% NaCl) was used as the growth medium for biofilm assays. The <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> cognate AHL signal molecules were synthesized in‐house as described before (Ortori <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0034" ref-type="bibr">2007</xref>) and used at concentrations of 1 and 10 μM for OHC12‐HSL and 1 μM for OHC10‐HSL.</p></sec><sec id="emi15985-sec-0011"><title>Construction of a plasmid expressing the <italic toggle="no">csu</italic> operon</title><p>Primers csuOFw (5′AACCATGGAGATTAGCCATATTTTATTTGTCGAG3′) and csuORv (5′TTCTCGAGTTAAAGATAAAAGCCCATGAACTGAG3′), which introduce NcoI and XhoI sites respectively, were used to amplify by PCR and clone the full <italic toggle="yes">csu</italic> operon (6 kbp) from <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> ATCC17978 into the plasmid pBAV1K‐T5‐<italic toggle="yes">gfp</italic> (Kan<sup>R</sup>, Bryksin and Matsumura, <xref rid="emi15985-bib-0004" ref-type="bibr">2010</xref>). The resulting plasmid pBAV1K‐T5‐<italic toggle="yes">csu</italic> (P<italic toggle="yes">csu</italic>) was propagated in <italic toggle="yes">E</italic>. <italic toggle="yes">coli</italic> DH5α and subsequently introduced in the <italic toggle="yes">abaI</italic> mutant of ATCC17978.</p></sec><sec id="emi15985-sec-0012"><title>Bioflux assay</title><p>Biofilms formed under shear flow conditions were cultivated in the BioFlux™ 200 microfluidics System (Fluxion Biosciences, CA, USA) as previously described (Nait Chabane <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0032" ref-type="bibr">2014</xref>) with some modifications. Micro‐channels were primed with ATCC17978 at optical density at 600 nm (OD<sub>600nm</sub>) 0.01–0.05 followed by 1 h static incubation at 37°C to allow cells to attach to the channel walls. The shear flow was then started at different rates from 0.5 to 3 dyn cm<sup>−2</sup> and the setup was incubated at 37°C for 16 h. Adherent cells were stained with 5 μM SYTO® 9 (Invitrogen) and imaged using a Zeiss LSM 700 CLSM (Carl Zeiss).</p></sec><sec id="emi15985-sec-0013"><title>Roller biofilm bioreactor</title><p>For the RBB model assembly, an incubation‐compatible lab rotator (Labnet International H5600 Revolver Rotator) was adapted. The original rotating disk was removed, and a sterile 1.5 L glass container was placed between the disk holders. Next, 1.2 L of fresh medium was inoculated with <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> at OD<sub>600nm</sub> 0.01 and placed in the container. A customized aluminium wheel (Fig. <xref rid="emi15985-fig-0001" ref-type="fig">1A</xref>) with sterilized glass coverslips (13 mm Ø, Menzel‐Glaser, Thermo Scientific) and/or glass slides (76 mm × 26 mm, Menzel‐Glaser, Thermo Scientific) attached was then assembled in the rotator, and all components were introduced in a sterilized closable polypropylene box. Finally, the wheel rotation (at 20 rpm) was started and the RBB incubated at 37°C for up to 4 days with medium replacement every 24 h under aseptic conditions. Biofilms attached to glass slides were air‐dried and weighed to quantify the total biofilm biomass. For CLSM analysis, biofilms on coverslips were washed by dipping in phosphate‐buffered saline (PBS) buffer and stained with SYTO 9. YOYO™‐1 iodide (Invitrogen) and Wheat Germ Agglutinin Alexa Fluor™ 647 (WGA‐A647) conjugate (Invitrogen) dyes were used to stain biofilm eDNA and poly‐ß‐(1‐6)‐N‐acetyl‐glucosamine (PNAG) respectively. Cell membranes were stained with FM™4‐64 (Invitrogen) lipophilic stain. Following staining, coverslips were rinsed with sterile water and imaged using CLSM.</p></sec><sec id="emi15985-sec-0014"><title>Biofilm antibiotic tolerance assay</title><p>For antibiotic tolerance assays, 4‐day biofilms grown in the RBB were exposed to 1.5 mg ml<sup>−1</sup> of kanamycin (~300× their minimal inhibitory concentration – MIC) for 6 and 24 h in PBS at 37°C statically. The antibiotic MIC was defined as the concentration where no visible planktonic growth was observed or OD<sub>600nm</sub> was &lt;10% compared with the untreated control after 24 h exposure. Treated and untreated biofilms were washed with PBS, and cell viability was evaluated by fluorescent staining with the LIVE/DEAD™ BacLight™ Bacterial Viability kit (Molecular Probes, Life Technologies) following the manufacturer's instructions.</p></sec><sec id="emi15985-sec-0015"><title>Data analysis</title><p>Fluorescence data from CLSM images were obtained by measuring the mean fluorescence intensity (sum of the grey values of all the pixels in the images divided by the number of pixels) using the open‐source software Fiji‐ImageJ v2.1.0/1.53c (Schindelin <italic toggle="yes">et al</italic>., <xref rid="emi15985-bib-0038" ref-type="bibr">2012</xref>). For z‐stack biofilm images, the Maximum Intensity Projection algorithm from Fiji‐ImageJ was used to select pixels of the highest intensity from every slice throughout the volume of the 3D image to construct a 2D image. Multiple <italic toggle="yes">t</italic>‐tests comparisons with Holm–Sidak correction were applied to determine whether mutants response differed significantly from that of the parental strain (<italic toggle="yes">p</italic> &lt; 0.05) when compared with the variations within the replicates using GraphPad Prism 8.0 (GraphPad Software, San Diego, CA, USA).</p></sec></sec><sec id="emi15985-sec-0017"><title>Authors' Contributions</title><p>M.R., A.O., P.W. and M.C. conceived the project. M.R. and C.M. designed and conducted the experiments. M.R., S.H. and K.W. contributed to designing and optimizing the rolling biofilm bioreactor system. M.R. and C.M. wrote the manuscript with input from all other authors.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="emi15985-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplementary Fig. 1.</bold> CLSM images of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> biofilms stained with Syto9 after 24 h growth under shear flow conditions in microfluidic chambers in a BioFlux 200 system in the absence (Solid–liquid interphase) or presence of air bubbles trapped within the microchannels (Solid‐air‐liquid interface). Scale bar: 20 μm.</p><p>
+<bold>Supplementary Fig. 2.</bold> Representative CLSM images comparing biofilm development by <italic toggle="yes">abaI</italic> and <italic toggle="yes">csuD</italic> pili mutants of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> supplemented with OHC12‐HSL (10 μM) or OHC10‐HSL (1 μM) after 1–4 days incubation in the RBB and stained with Syto9. Scale bar: 50 μm.</p><p>
+<bold>Supplementary Fig. 3.</bold> A) CLSM images of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> ATCC17978 wild‐type and <italic toggle="yes">abaI</italic> mutant (+/− 1 μM OHC12‐HSL) biofilms obtained after 4 days incubation in the RBB and stained with a live/dead bacterial viability kit. Scale bar: 50 μm. B) Evolution of live/dead ratios of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> wild‐type and <italic toggle="yes">abaI</italic> (+/− 1 μM OHC12‐HSL) mutant biofilms grown in the RBB or 1–4 days. Data shown are mean ± SD. Statistical significance was determined with multiple t‐tests using the Holm‐Sidak method (*<italic toggle="yes">p</italic> &lt; 0.05; **<italic toggle="yes">p</italic> &lt; 0.01; ***<italic toggle="yes">p</italic> &lt; 0.001; ****<italic toggle="yes">p</italic> &lt; 0.0001).</p><p>
+<bold>Supplementary Fig. 4.</bold> A) CLSM images of biofilm development of the <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii abaI</italic> mutant strain constitutively expressing the <italic toggle="yes">csu</italic> operon (<italic toggle="yes">Pcsu</italic>) and <italic toggle="yes">E</italic>. <italic toggle="yes">coli</italic> DH5α ‐/+ csu after 2 and 3 days of incubation in the RBB and stained with Syto9. Scale bar: 50 μm. B) Quantification of mean fluorescence intensity of biofilm images from cultures of indicated strains after 3 days of incubation in the RBB and stained with Syto9. Data shown are mean ± SD. Statistical significance was determined with one‐way ANOVA (*<italic toggle="yes">p</italic> &lt; 0.05; **<italic toggle="yes">p</italic> &lt; 0.01; ***<italic toggle="yes">p</italic> &lt; 0.001; ****<italic toggle="yes">p</italic> &lt; 0.0001).</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EMI-24-4329-s001.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="emi15985-sec-0016"><title>Acknowledgements</title><p>This work was supported by the National Biofilms Innovation Centre (NBIC) which is an Innovation and Knowledge Centre funded by the Biotechnology and Biological Sciences Research Council, InnovateUK and Hartree Centre [Award Number BB/R012415/1] and the Wellcome Trust (Ref. 103884). C.M. was supported by a postdoctoral fellowship from Xunta de Galicia (IN606B‐2019/010). We thank Alex Truman (University of Nottingham) for OHC12 and OHC10‐HSL synthesis and Dr. Mario Feldman at the Department of Molecular Microbiology (Washington University School of Medicine in St. Louis, USA) for generously sharing the strain <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> ATCC17978 <italic toggle="yes">csuD</italic>::<italic toggle="yes">kan</italic> for this study.</p></ack><ref-list id="emi15985-bibl-0001" content-type="cited-references"><title>References</title><ref id="emi15985-bib-0001"><mixed-citation publication-type="journal" id="emi15985-cit-0001">
+<string-name name-style="western">
+<surname>Adams</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yee</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rimmer</surname>, <given-names>J.A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Ovington</surname>, <given-names>C.</given-names>
+</string-name> (<year>2011</year>) <article-title>Investigation and management of an <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic> outbreak in ICU</article-title>. <source>Br J Nurs</source>
+<volume>3</volume>: <elocation-id>140,142,144‐147</elocation-id>. <pub-id pub-id-type="doi">10.12968/bjon.2011.20.3.140</pub-id>.<pub-id pub-id-type="pmid">21378633</pub-id></mixed-citation></ref><ref id="emi15985-bib-0002"><mixed-citation publication-type="journal" id="emi15985-cit-0002">
+<string-name name-style="western">
+<surname>Allesen‐Holm</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barken</surname>, <given-names>K.B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klausen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Webb</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kjelleberg</surname>, <given-names>S.</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. (<year>2006</year>) <article-title>A characterization of DNA release in <italic toggle="yes">Pseudomonas aeruginosa</italic> cultures and biofilms</article-title>. <source>Mol Microbiol</source>
+<volume>59</volume>: <fpage>1114</fpage>–<lpage>1128</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2958.2005.05008.x</pub-id>.<pub-id pub-id-type="pmid">16430688</pub-id></mixed-citation></ref><ref id="emi15985-bib-0003"><mixed-citation publication-type="journal" id="emi15985-cit-0003">
+<string-name name-style="western">
+<surname>Anbazhagan</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mansor</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yan</surname>, <given-names>G.O.S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yusof</surname>, <given-names>M.Y.M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hassan</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Sekaran</surname>, <given-names>S.D.</given-names>
+</string-name> (<year>2012</year>) <article-title>Detection of quorum sensing signal molecules and identification of an autoinducer synthase gene among biofilm forming clinical isolates of <italic toggle="yes">Acinetobacter</italic> spp</article-title>. <source>PLoS One</source>
+<volume>7</volume>: <elocation-id>e36696</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0036696</pub-id>.<pub-id pub-id-type="pmid">22815678</pub-id><pub-id pub-id-type="pmcid">PMC3398020</pub-id></mixed-citation></ref><ref id="emi15985-bib-0004"><mixed-citation publication-type="journal" id="emi15985-cit-0004">
+<string-name name-style="western">
+<surname>Bryksin</surname>, <given-names>A.V.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Matsumura</surname>, <given-names>I.</given-names>
+</string-name> (<year>2010</year>) <article-title>Rational design of a plasmid origin that replicates efficiently in both gram‐positive and gram‐negative bacteria</article-title>. <source>PLoS One</source>
+<volume>5</volume>: <elocation-id>e13244</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0013244</pub-id>.<pub-id pub-id-type="pmid">20949038</pub-id><pub-id pub-id-type="pmcid">PMC2951906</pub-id></mixed-citation></ref><ref id="emi15985-bib-0005"><mixed-citation publication-type="journal" id="emi15985-cit-0005">
+<string-name name-style="western">
+<surname>Chiang</surname>, <given-names>W.C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nilsson</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jensen</surname>, <given-names>P.Ø.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Høiby</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nielsen</surname>, <given-names>T.E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Givskov</surname>, <given-names>M.</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. (<year>2013</year>) <article-title>Extracellular DNA shields against aminoglycosides in <italic toggle="yes">Pseudomonas aeruginosa</italic> biofilms</article-title>. <source>Antimicrob Agents Chemother</source>
+<volume>57</volume>: <fpage>2352</fpage>–<lpage>2361</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.00001-13</pub-id>.<pub-id pub-id-type="pmid">23478967</pub-id><pub-id pub-id-type="pmcid">PMC3632962</pub-id></mixed-citation></ref><ref id="emi15985-bib-0006"><mixed-citation publication-type="journal" id="emi15985-cit-0006">
+<string-name name-style="western">
+<surname>Daddi Oubekka</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Briandet</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fontaine‐Aupart</surname>, <given-names>M.P.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Steenkeste</surname>, <given-names>K.</given-names>
+</string-name> (<year>2012</year>) <article-title>Correlative time‐resolved fluorescence microscopy to assess antibiotic diffusion‐reaction in biofilms</article-title>. <source>Antimicrob Agents Chemother</source>
+<volume>6</volume>: <fpage>3349</fpage>–<lpage>3358</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.00216-12</pub-id>.<pub-id pub-id-type="pmcid">PMC3370788</pub-id><pub-id pub-id-type="pmid">22450986</pub-id></mixed-citation></ref><ref id="emi15985-bib-0007"><mixed-citation publication-type="journal" id="emi15985-cit-0007">
+<string-name name-style="western">
+<surname>Das</surname>, <given-names>T.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Manefield</surname>, <given-names>M.</given-names>
+</string-name> (<year>2012</year>) <article-title>Pyocyanin promotes extracellular DNA release in <italic toggle="yes">Pseudomonas aeruginosa</italic>
+</article-title>. <source>PLoS One</source>
+<volume>7</volume>: <elocation-id>e46718</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0046718</pub-id>.<pub-id pub-id-type="pmid">23056420</pub-id><pub-id pub-id-type="pmcid">PMC3466280</pub-id></mixed-citation></ref><ref id="emi15985-bib-0008"><mixed-citation publication-type="journal" id="emi15985-cit-0008">
+<string-name name-style="western">
+<surname>Das</surname>, <given-names>T.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Manefield</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>) <article-title>Phenazine production enhances extracellular DNA release via hydrogen peroxide generation in <italic toggle="yes">Pseudomonas aeruginosa</italic>
+</article-title>. <source>Commun Integ Bio</source>
+<volume>6</volume>: <elocation-id>e23570</elocation-id>. <pub-id pub-id-type="doi">10.4161/cib.23570</pub-id>.<pub-id pub-id-type="pmcid">PMC3656008</pub-id><pub-id pub-id-type="pmid">23710274</pub-id></mixed-citation></ref><ref id="emi15985-bib-0009"><mixed-citation publication-type="journal" id="emi15985-cit-0009">
+<string-name name-style="western">
+<surname>de Beer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stoodley</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roe</surname>, <given-names>F.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Lewandowski</surname>, <given-names>Z.</given-names>
+</string-name> (<year>1994</year>) <article-title>Effects of biofilm structures on oxygen distribution and mass transport</article-title>. <source>Biotechnol Bioeng</source>
+<volume>43</volume>: <fpage>1131</fpage>–<lpage>1138</lpage>. <pub-id pub-id-type="doi">10.1002/bit.260431118</pub-id>.<pub-id pub-id-type="pmid">18615526</pub-id></mixed-citation></ref><ref id="emi15985-bib-0010"><mixed-citation publication-type="journal" id="emi15985-cit-0010">
+<string-name name-style="western">
+<surname>Dijkshoorn</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nemec</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Seifert</surname>, <given-names>H.</given-names>
+</string-name> (<year>2007</year>) <article-title>An increasing threat in hospitals: multidrug‐resistant <italic toggle="yes">Acinetobacter baumannii</italic>
+</article-title>. <source>Nat Rev Microbiol</source>
+<volume>5</volume>: <fpage>939</fpage>–<lpage>951</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro1789</pub-id>.<pub-id pub-id-type="pmid">18007677</pub-id></mixed-citation></ref><ref id="emi15985-bib-0011"><mixed-citation publication-type="journal" id="emi15985-cit-0011">
+<string-name name-style="western">
+<surname>Eze</surname>, <given-names>E.C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chenia</surname>, <given-names>H.Y.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>El Zowalaty</surname>, <given-names>M.E.</given-names>
+</string-name> (<year>2018</year>) <article-title>
+<italic toggle="yes">Acinetobacter</italic> biofilms: effects of physicochemical factors, virulence, antibiotic resistance determinants, gene regulation, and future antimicrobial treatments</article-title>. <source>Infect Drug Resist</source>
+<volume>11</volume>: <fpage>2277</fpage>–<lpage>2299</lpage>. <pub-id pub-id-type="doi">10.2147/IDR.S169894</pub-id>.<pub-id pub-id-type="pmid">30532562</pub-id><pub-id pub-id-type="pmcid">PMC6245380</pub-id></mixed-citation></ref><ref id="emi15985-bib-0012"><mixed-citation publication-type="journal" id="emi15985-cit-0012">
+<string-name name-style="western">
+<surname>Gaddy</surname>, <given-names>J.A.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Actis</surname>, <given-names>L.A.</given-names>
+</string-name> (<year>2009</year>) <article-title>Regulation of <italic toggle="yes">Acinetobacter baumannii</italic> biofilm formation</article-title>. <source>Future Microbiol</source>
+<volume>4</volume>: <fpage>273</fpage>–<lpage>278</lpage>. <pub-id pub-id-type="doi">10.2217/fmb.09.5</pub-id>.<pub-id pub-id-type="pmid">19327114</pub-id><pub-id pub-id-type="pmcid">PMC2724675</pub-id></mixed-citation></ref><ref id="emi15985-bib-0013"><mixed-citation publication-type="journal" id="emi15985-cit-0013">
+<string-name name-style="western">
+<surname>Garnacho‐Montero</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Timsit</surname>, <given-names>J.F.</given-names>
+</string-name> (<year>2019</year>) <article-title>Managing <italic toggle="yes">Acinetobacter baumannii</italic> infections</article-title>. <source>Curr Opin Infect Dis</source>
+<volume>32</volume>: <fpage>69</fpage>–<lpage>76</lpage>. <pub-id pub-id-type="doi">10.1097/QCO.0000000000000518</pub-id>.<pub-id pub-id-type="pmid">30520737</pub-id></mixed-citation></ref><ref id="emi15985-bib-0014"><mixed-citation publication-type="journal" id="emi15985-cit-0014">
+<string-name name-style="western">
+<surname>Giraud</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bernard</surname>, <given-names>C.S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calderon</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filloux</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Molin</surname>, <given-names>S.</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. (<year>2011</year>) <article-title>The PprA‐PprB two‐component system activates CupE, the first non‐archetypal <italic toggle="yes">Pseudomonas aeruginosa</italic> chaperone‐usher pathway system assembling fimbriae</article-title>. <source>Environ Microbiol</source>
+<volume>13</volume>: <fpage>666</fpage>–<lpage>683</lpage>. <pub-id pub-id-type="doi">10.1111/j.1462-2920.2010.02372.x</pub-id>.<pub-id pub-id-type="pmid">21091863</pub-id></mixed-citation></ref><ref id="emi15985-bib-0015"><mixed-citation publication-type="journal" id="emi15985-cit-0015">
+<string-name name-style="western">
+<surname>Greene</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rickard</surname>, <given-names>A.H.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Xi</surname>, <given-names>C.</given-names>
+</string-name> (<year>2016</year>) <article-title>Evaluation of the ability of <italic toggle="yes">Acinetobacter baumannii</italic> to form biofilms on six different biomedical relevant surfaces</article-title>. <source>Lett Appl Microbiol</source>
+<volume>63</volume>: <fpage>233</fpage>–<lpage>239</lpage>. <pub-id pub-id-type="doi">10.1111/lam.12627</pub-id>.<pub-id pub-id-type="pmid">27479925</pub-id><pub-id pub-id-type="pmcid">PMC7057210</pub-id></mixed-citation></ref><ref id="emi15985-bib-0016"><mixed-citation publication-type="journal" id="emi15985-cit-0016">
+<string-name name-style="western">
+<surname>He</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yuan</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>, <given-names>J.</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. (<year>2015</year>) <article-title>Biofilm formation caused by clinical <italic toggle="yes">Acinetobacter baumannii</italic> isolates is associated with overexpression of the AdeFGH efflux pump</article-title>. <source>Antimicrob Agents Chemother</source>
+<volume>59</volume>: <fpage>4817</fpage>–<lpage>4825</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.00877-15</pub-id>.<pub-id pub-id-type="pmid">26033730</pub-id><pub-id pub-id-type="pmcid">PMC4505227</pub-id></mixed-citation></ref><ref id="emi15985-bib-0017"><mixed-citation publication-type="journal" id="emi15985-cit-0017">
+<string-name name-style="western">
+<surname>Ibáñez de Aldecoa</surname>, <given-names>A.L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zafra</surname>, <given-names>O.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>González‐Pastor</surname>, <given-names>J.E.</given-names>
+</string-name> (<year>2017</year>) <article-title>Mechanisms and regulation of extracellular DNA release and its biological roles in microbial communities</article-title>. <source>Front Microbiol</source>
+<volume>8</volume>: <elocation-id>1390</elocation-id>. <pub-id pub-id-type="doi">10.3389/fmicb.2017.01390</pub-id>.<pub-id pub-id-type="pmid">28798731</pub-id><pub-id pub-id-type="pmcid">PMC5527159</pub-id></mixed-citation></ref><ref id="emi15985-bib-0018"><mixed-citation publication-type="journal" id="emi15985-cit-0018">
+<string-name name-style="western">
+<surname>Jakobsen</surname>, <given-names>T.H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tolker‐Nielsen</surname>, <given-names>T.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Givskov</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>) <article-title>Bacterial biofilm control by perturbation of bacterial signaling processes</article-title>. <source>Int J Mol Sci</source>
+<volume>18</volume>: <elocation-id>1970</elocation-id>. <pub-id pub-id-type="doi">10.3390/ijms18091970</pub-id>.<pub-id pub-id-type="pmid">28902153</pub-id><pub-id pub-id-type="pmcid">PMC5618619</pub-id></mixed-citation></ref><ref id="emi15985-bib-0019"><mixed-citation publication-type="journal" id="emi15985-cit-0019">
+<string-name name-style="western">
+<surname>Johnson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mulcahy</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kanevets</surname>, <given-names>U.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>, <given-names>Y.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Lewenza</surname>, <given-names>S.</given-names>
+</string-name> (<year>2012</year>) <article-title>Surface‐localized spermidine protects the <italic toggle="yes">Pseudomonas aeruginosa</italic> outer membrane from antibiotic treatment and oxidative stress</article-title>. <source>J Bacteriol</source>
+<volume>194</volume>: <fpage>813</fpage>–<lpage>826</lpage>. <pub-id pub-id-type="doi">10.1128/JB.05230-11</pub-id>.<pub-id pub-id-type="pmid">22155771</pub-id><pub-id pub-id-type="pmcid">PMC3272965</pub-id></mixed-citation></ref><ref id="emi15985-bib-0020"><mixed-citation publication-type="journal" id="emi15985-cit-0020">
+<string-name name-style="western">
+<surname>Jones</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morgan</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walsh</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turton</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Livermore</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pitt</surname>, <given-names>T.</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. (<year>2006</year>) <article-title>Importation of multidrug‐resistant <italic toggle="yes">Acinetobacter</italic> spp. infections with casualties from Iraq</article-title>. <source>Lancet Infect Dis</source>
+<volume>6</volume>: <fpage>317</fpage>–<lpage>318</lpage>. <pub-id pub-id-type="doi">10.1016/S1473-3099(06)70471-6</pub-id>.<pub-id pub-id-type="pmid">16728314</pub-id></mixed-citation></ref><ref id="emi15985-bib-0021"><mixed-citation publication-type="journal" id="emi15985-cit-0021">
+<string-name name-style="western">
+<surname>Kang</surname>, <given-names>Y.S.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Park</surname>, <given-names>W.</given-names>
+</string-name> (<year>2010</year>) <article-title>Contribution of quorum‐sensing system to hexadecane degradation and biofilm formation in <italic toggle="yes">Acinetobacter</italic> sp. strain DR1</article-title>. <source>J Appl Microbiol</source>
+<volume>109</volume>: <fpage>1650</fpage>–<lpage>1659</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2672.2010.04793.x</pub-id>.<pub-id pub-id-type="pmid">20629796</pub-id></mixed-citation></ref><ref id="emi15985-bib-0022"><mixed-citation publication-type="journal" id="emi15985-cit-0022">
+<string-name name-style="western">
+<surname>López</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mayer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernández‐García</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blasco</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muras</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruiz</surname>, <given-names>F.M.</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. (<year>2017</year>) <article-title>Quorum sensing network in clinical strains of <italic toggle="yes">A</italic>. <italic toggle="yes">baumannii</italic>: AidA is a new quorum quenching enzyme</article-title>. <source>PLoS One</source>
+<volume>12</volume>: <elocation-id>e0174454</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0174454</pub-id>.<pub-id pub-id-type="pmid">28328989</pub-id><pub-id pub-id-type="pmcid">PMC5362224</pub-id></mixed-citation></ref><ref id="emi15985-bib-0023"><mixed-citation publication-type="journal" id="emi15985-cit-0023">
+<string-name name-style="western">
+<surname>López‐Martín</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dubern</surname>, <given-names>J.‐F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alexander</surname>, <given-names>M.R.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Williams</surname>, <given-names>P.</given-names>
+</string-name> (<year>2021</year>) <article-title>AbaM regulates quorum sensing, biofilm formation, and virulence in <italic toggle="yes">Acinetobacter baumannii</italic>
+</article-title>. <source>J Bacteriol</source>
+<volume>203</volume>: <fpage>e00635</fpage>–<lpage>e00620</lpage>. <pub-id pub-id-type="doi">10.1128/JB.00635-20</pub-id>.<pub-id pub-id-type="pmid">33495249</pub-id><pub-id pub-id-type="pmcid">PMC8088503</pub-id></mixed-citation></ref><ref id="emi15985-bib-0024"><mixed-citation publication-type="journal" id="emi15985-cit-0024">
+<string-name name-style="western">
+<surname>Luo</surname>, <given-names>L.M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>, <given-names>L.J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiao</surname>, <given-names>Y.L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>Z.X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kang</surname>, <given-names>M.</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. (<year>2015</year>) <article-title>Enhancing pili assembly and biofilm formation in <italic toggle="yes">Acinetobacter baumannii</italic> ATCC19606 using non‐native acyl‐homoserine lactones</article-title>. <source>BMC Microbiol</source>
+<volume>15</volume>: <fpage>62</fpage>. <pub-id pub-id-type="doi">10.1186/s12866-015-0397-5</pub-id>.<pub-id pub-id-type="pmid">25888221</pub-id><pub-id pub-id-type="pmcid">PMC4381447</pub-id></mixed-citation></ref><ref id="emi15985-bib-0025"><mixed-citation publication-type="journal" id="emi15985-cit-0025">
+<string-name name-style="western">
+<surname>Martí</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodríguez‐Baño</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Catel‐Ferreira</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jouenne</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vila</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seifert</surname>, <given-names>H.</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. (<year>2011</year>) <article-title>Biofilm formation at the solid‐liquid and air‐liquid interfaces by <italic toggle="yes">Acinetobacter species</italic>
+</article-title>. <source>BMC Res Notes</source>
+<volume>4</volume>: <elocation-id>5</elocation-id>. <pub-id pub-id-type="doi">10.1186/1756-0500-4-5</pub-id>.<pub-id pub-id-type="pmid">21223561</pub-id><pub-id pub-id-type="pmcid">PMC3023692</pub-id></mixed-citation></ref><ref id="emi15985-bib-0026"><mixed-citation publication-type="journal" id="emi15985-cit-0026">
+<string-name name-style="western">
+<surname>Mayer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muras</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parga</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romero</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rumbo‐Feal</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poza</surname>, <given-names>M.</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. (<year>2020a</year>) <article-title>Quorum sensing as a target for controlling surface asssociated motility and biofilm formation in <italic toggle="yes">Acinetobacter baumannii</italic> ATCC® 17978™</article-title>. <source>Front Microbiol</source>
+<volume>11</volume>: <elocation-id>565548</elocation-id>. <pub-id pub-id-type="doi">10.3389/fmicb.2020.565548</pub-id>.<pub-id pub-id-type="pmid">33101239</pub-id><pub-id pub-id-type="pmcid">PMC7554515</pub-id></mixed-citation></ref><ref id="emi15985-bib-0027"><mixed-citation publication-type="journal" id="emi15985-cit-0027">
+<string-name name-style="western">
+<surname>Mayer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muras</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romero</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>López</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tomás</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Otero</surname>, <given-names>A.</given-names>
+</string-name> (<year>2018</year>) <article-title>Multiple quorum quenching enzymes are active in the nosocomial pathogen <italic toggle="yes">Acinetobacter baumannii</italic> ATCC17978</article-title>. <source>Front Cell Infect Microbiol</source>
+<volume>8</volume>: <elocation-id>310</elocation-id>. <pub-id pub-id-type="doi">10.3389/fcimb.2018.00310</pub-id>.<pub-id pub-id-type="pmid">30271754</pub-id><pub-id pub-id-type="pmcid">PMC6146095</pub-id></mixed-citation></ref><ref id="emi15985-bib-0028"><mixed-citation publication-type="book" id="emi15985-cit-0028">
+<string-name name-style="western">
+<surname>Mayer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romero</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>López‐Martin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muras</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Otero</surname>, <given-names>A.</given-names>
+</string-name> (<year>2020b</year>) <part-title>Quorum sensing in <italic toggle="yes">Acinetobacter virulence</italic>
+</part-title>. In <source>Quorum Sensing: Microbial Rules of Life</source>, Vol. <volume>1374</volume>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Dhiman</surname>, <given-names>S.S.</given-names>
+</string-name>
+</person-group> (ed). <publisher-loc>Washington, DC</publisher-loc>: <publisher-name>ACS Symposium Series</publisher-name>, pp. <fpage>115</fpage>–<lpage>137</lpage>. ISBN13:9780841298606. <pub-id pub-id-type="doi">10.1021/bk-2020-1374.ch007</pub-id>.</mixed-citation></ref><ref id="emi15985-bib-0029"><mixed-citation publication-type="journal" id="emi15985-cit-0029">
+<string-name name-style="western">
+<surname>Moon</surname>, <given-names>K.H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weber</surname>, <given-names>B.S.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Feldman</surname>, <given-names>M.F.</given-names>
+</string-name> (<year>2017</year>) <article-title>Subinhibitory concentrations of trimethoprim and sulfamethoxazole prevent biofilm formation by <italic toggle="yes">Acinetobacter baumannii</italic> through inhibition of Csu pilus expression</article-title>. <source>Antimicrob Agents Chemother</source>
+<volume>61</volume>: <fpage>e00778</fpage>–<lpage>e00717</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.00778-17</pub-id>.<pub-id pub-id-type="pmid">28674047</pub-id><pub-id pub-id-type="pmcid">PMC5571315</pub-id></mixed-citation></ref><ref id="emi15985-bib-0030"><mixed-citation publication-type="journal" id="emi15985-cit-0030">
+<string-name name-style="western">
+<surname>Moubareck</surname>, <given-names>C.A.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Haummoudi Halat</surname>, <given-names>D.</given-names>
+</string-name> (<year>2020</year>) <article-title>Insights into <italic toggle="yes">Acinetobacter baumannii</italic>: a review of microbiological, virulence, and resistance traits in a threatening nosocomial pathogen</article-title>. <source>Antibiotics (Basel)</source>
+<volume>3</volume>: <elocation-id>119</elocation-id>. <pub-id pub-id-type="doi">10.3390/antibiotics9030119</pub-id>.<pub-id pub-id-type="pmcid">PMC7148516</pub-id><pub-id pub-id-type="pmid">32178356</pub-id></mixed-citation></ref><ref id="emi15985-bib-0031"><mixed-citation publication-type="journal" id="emi15985-cit-0031">
+<string-name name-style="western">
+<surname>Muras</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mayer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Otero‐Casal</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Exterkate</surname>, <given-names>R.A.M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brandt</surname>, <given-names>B.W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crielaard</surname>, <given-names>W.</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. (<year>2020</year>) <article-title>Short‐Chain <italic toggle="yes">N</italic>‐acylhomoserine lactone quorum‐sensing molecules promote periodontal pathogens in in vitro oral biofilms</article-title>. <source>Appl Environ Microbiol</source>
+<volume>86</volume>: <elocation-id>e01941‐19</elocation-id>. <pub-id pub-id-type="doi">10.1128/AEM.01941-19</pub-id>.<pub-id pub-id-type="pmcid">PMC6974637</pub-id><pub-id pub-id-type="pmid">31757829</pub-id></mixed-citation></ref><ref id="emi15985-bib-0032"><mixed-citation publication-type="journal" id="emi15985-cit-0032">
+<string-name name-style="western">
+<surname>Nait Chabane</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mlouka</surname>, <given-names>M.B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alexandre</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicol</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marti</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pestel‐Caron</surname>, <given-names>M.</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. (<year>2014</year>) <article-title>Virstatin inhibits biofilm formation and motility of <italic toggle="yes">Acinetobacter baumannii</italic>
+</article-title>. <source>BMC Microbiol</source>
+<volume>14</volume>: <elocation-id>62</elocation-id>. <pub-id pub-id-type="doi">10.1186/1471-2180-14-62</pub-id>.<pub-id pub-id-type="pmid">24621315</pub-id><pub-id pub-id-type="pmcid">PMC4007623</pub-id></mixed-citation></ref><ref id="emi15985-bib-0033"><mixed-citation publication-type="journal" id="emi15985-cit-0033">
+<string-name name-style="western">
+<surname>Niu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clemmer</surname>, <given-names>K.M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bonomo</surname>, <given-names>R.A.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Rather</surname>, <given-names>P.N.</given-names>
+</string-name> (<year>2008</year>) <article-title>Isolation and characterization of an autoinducer synthase from <italic toggle="yes">Acinetobacter baumannii</italic>
+</article-title>. <source>J Bacteriol</source>
+<volume>190</volume>: <fpage>3386</fpage>–<lpage>3392</lpage>. <pub-id pub-id-type="doi">10.1128/JB.01929-07</pub-id>.<pub-id pub-id-type="pmid">18281398</pub-id><pub-id pub-id-type="pmcid">PMC2347373</pub-id></mixed-citation></ref><ref id="emi15985-bib-0034"><mixed-citation publication-type="journal" id="emi15985-cit-0034">
+<string-name name-style="western">
+<surname>Ortori</surname>, <given-names>C.A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Atkinson</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chhabra</surname>, <given-names>S.R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cámara</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>, <given-names>P.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Barret</surname>, <given-names>D.A.</given-names>
+</string-name> (<year>2007</year>) <article-title>Comprehensive profiling of <italic toggle="yes">N</italic>‐acylhomoserine lactones produced by Y<italic toggle="yes">ersinia pseudotuberculosis</italic> using liquid chromatography coupled to hybrid quadrupole‐linear ion trap mass spectrometry</article-title>. <source>Anal Bioanal Chem</source>
+<volume>387</volume>: <fpage>497</fpage>–<lpage>511</lpage>. <pub-id pub-id-type="doi">10.1007/s00216-006-0710-0</pub-id>.<pub-id pub-id-type="pmid">16967185</pub-id></mixed-citation></ref><ref id="emi15985-bib-0035"><mixed-citation publication-type="journal" id="emi15985-cit-0035">
+<string-name name-style="western">
+<surname>Pakharukova</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tuittila</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paavilainen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malmi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parilova</surname>, <given-names>O.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Teneberg</surname>, <given-names>S.</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. (<year>2018</year>) <article-title>Structural basis for <italic toggle="yes">Acinetobacter baumannii</italic> biofilm formation</article-title>. <source>Proc Natl Acad Sci U S A</source>
+<volume>115</volume>: <fpage>5558</fpage>–<lpage>5563</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1800961115</pub-id>.<pub-id pub-id-type="pmid">29735695</pub-id><pub-id pub-id-type="pmcid">PMC6003481</pub-id></mixed-citation></ref><ref id="emi15985-bib-0036"><mixed-citation publication-type="journal" id="emi15985-cit-0036">
+<string-name name-style="western">
+<surname>Ruer</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stender</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filloux</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>de Bentzmann</surname>, <given-names>S.</given-names>
+</string-name> (<year>2007</year>) <article-title>Assembly of fimbrial structures in <italic toggle="yes">Pseudomonas aeruginosa</italic>: functionality and specificity of chaperone‐usher machineries</article-title>. <source>J Bacteriol</source>
+<volume>189</volume>: <fpage>3547</fpage>–<lpage>3555</lpage>. <pub-id pub-id-type="doi">10.1128/JB.00093-07</pub-id>.<pub-id pub-id-type="pmid">17293418</pub-id><pub-id pub-id-type="pmcid">PMC1855894</pub-id></mixed-citation></ref><ref id="emi15985-bib-0037"><mixed-citation publication-type="journal" id="emi15985-cit-0037">
+<string-name name-style="western">
+<surname>Sahu</surname>, <given-names>P.K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iyer</surname>, <given-names>P.S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oak</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pardesi</surname>, <given-names>K.R.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Chopade</surname>, <given-names>B.A.</given-names>
+</string-name> (<year>2012</year>) <article-title>Characterization of eDNA from the clinical strain <italic toggle="yes">Acinetobacter baumannii</italic> AIIMS 7 and its role in biofilm formation</article-title>. <source>Sci World J</source>
+<volume>2012</volume>: <elocation-id>973436</elocation-id>. <pub-id pub-id-type="doi">10.1100/2012/973436</pub-id>.<pub-id pub-id-type="pmcid">PMC3346689</pub-id><pub-id pub-id-type="pmid">22593716</pub-id></mixed-citation></ref><ref id="emi15985-bib-0038"><mixed-citation publication-type="journal" id="emi15985-cit-0038">
+<string-name name-style="western">
+<surname>Schindelin</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arganda‐Carreras</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frise</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaynig</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Longair</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pietzsch</surname>, <given-names>T.</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. (<year>2012</year>) <article-title>Fiji: an open‐source platform for biological‐image analysis</article-title>. <source>Nat Methods</source>
+<volume>9</volume>: <fpage>676</fpage>–<lpage>682</lpage>. <pub-id pub-id-type="doi">10.1038/nmeth.2019</pub-id>.<pub-id pub-id-type="pmid">22743772</pub-id><pub-id pub-id-type="pmcid">PMC3855844</pub-id></mixed-citation></ref><ref id="emi15985-bib-0039"><mixed-citation publication-type="journal" id="emi15985-cit-0039">
+<string-name name-style="western">
+<surname>Spoering</surname>, <given-names>A.L.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Gilmore</surname>, <given-names>M.S.</given-names>
+</string-name> (<year>2006</year>) <article-title>Quorum sensing and DNA release in bacterial biofilms</article-title>. <source>Curr Opin Microbiol</source>
+<volume>9</volume>: <fpage>133</fpage>–<lpage>137</lpage>. <pub-id pub-id-type="doi">10.1016/j.mib.2006.02.004</pub-id>.<pub-id pub-id-type="pmid">16529982</pub-id></mixed-citation></ref><ref id="emi15985-bib-0040"><mixed-citation publication-type="journal" id="emi15985-cit-0040">
+<string-name name-style="western">
+<surname>Tetz</surname>, <given-names>G.V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Artemenko</surname>, <given-names>N.K.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Tetz</surname>, <given-names>V.V.</given-names>
+</string-name> (<year>2009</year>) <article-title>Effect of DNase and antibiotics on biofilm characteristics</article-title>. <source>Antimicrob Agents Chemother</source>
+<volume>53</volume>: <fpage>1204</fpage>–<lpage>1209</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.00471-08</pub-id>.<pub-id pub-id-type="pmid">19064900</pub-id><pub-id pub-id-type="pmcid">PMC2650517</pub-id></mixed-citation></ref><ref id="emi15985-bib-0041"><mixed-citation publication-type="journal" id="emi15985-cit-0041">
+<string-name name-style="western">
+<surname>Tomaras</surname>, <given-names>A.P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dorsey</surname>, <given-names>C.W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Edelmann</surname>, <given-names>R.E.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Actis</surname>, <given-names>L.A.</given-names>
+</string-name> (<year>2003</year>) <article-title>Attachment to and biofilm formation on abiotic surfaces by <italic toggle="yes">Acinetobacter baumannii</italic>: involvement of a novel chaperone‐usher pili assembly system</article-title>. <source>Microbiology</source>
+<volume>149</volume>: <fpage>3473</fpage>–<lpage>3484</lpage>. <pub-id pub-id-type="doi">10.1099/mic.0.26541-0</pub-id>.<pub-id pub-id-type="pmid">14663080</pub-id></mixed-citation></ref><ref id="emi15985-bib-0042"><mixed-citation publication-type="journal" id="emi15985-cit-0042">
+<string-name name-style="western">
+<surname>Tomaras</surname>, <given-names>A.P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flagler</surname>, <given-names>M.J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dorsey</surname>, <given-names>C.W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gaddy</surname>, <given-names>J.A.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Actis</surname>, <given-names>L.A.</given-names>
+</string-name> (<year>2008</year>) <article-title>Characterization of a two‐component regulatory system from <italic toggle="yes">Acinetobacter baumannii</italic> that controls biofilm formation and cellular morphology</article-title>. <source>Microbiology</source>
+<volume>154</volume>: <fpage>3398</fpage>–<lpage>3409</lpage>. <pub-id pub-id-type="doi">10.1099/mic.0.2008/019471-0</pub-id>.<pub-id pub-id-type="pmid">18957593</pub-id></mixed-citation></ref><ref id="emi15985-bib-0043"><mixed-citation publication-type="journal" id="emi15985-cit-0043">
+<string-name name-style="western">
+<surname>Tré‐Hardy</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Macé</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>El Manssouri</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vanderbist</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Traore</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Devleeschouwer</surname>, <given-names>M.J.</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. (<year>2009</year>) <article-title>Effect of antibiotic co‐administration on young and mature biofilms of cystic fibrosis clinical isolates: the importance of the biofilm model</article-title>. <source>Int J Stroke</source>
+<volume>13</volume>: <fpage>612</fpage>–<lpage>632</lpage>. <pub-id pub-id-type="doi">10.1177/1747493018778713</pub-id>.<pub-id pub-id-type="pmid">18801647</pub-id></mixed-citation></ref><ref id="emi15985-bib-0044"><mixed-citation publication-type="journal" id="emi15985-cit-0044">
+<string-name name-style="western">
+<surname>Wilton</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Charron‐Mazenod</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moore</surname>, <given-names>R.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Lewenza</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>) <article-title>Extracellular DNA acidifies biofilms and induces aminoglycoside resistance in <italic toggle="yes">Pseudomonas aeruginosa</italic>
+</article-title>. <source>Antimicrob Agents Chemother</source>
+<volume>60</volume>: <fpage>544</fpage>–<lpage>553</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.01650-15</pub-id>.<pub-id pub-id-type="pmid">26552982</pub-id><pub-id pub-id-type="pmcid">PMC4704225</pub-id></mixed-citation></ref><ref id="emi15985-bib-0045"><mixed-citation publication-type="journal" id="emi15985-cit-0045">
+<string-name name-style="western">
+<surname>Yang</surname>, <given-names>N.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Lan</surname>, <given-names>L.</given-names>
+</string-name> (<year>2016</year>) <article-title>
+<italic toggle="yes">Pseudomonas aeruginosa</italic> Lon and ClpXP proteases: roles in linking carbon catabolite repression system with quorum‐sensing system</article-title>. <source>Curr Genet</source>
+<volume>62</volume>: <fpage>1</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1007/s00294-015-0499-5</pub-id>.<pub-id pub-id-type="pmid">26045103</pub-id></mixed-citation></ref><ref id="emi15985-bib-0046"><mixed-citation publication-type="journal" id="emi15985-cit-0046">
+<string-name name-style="western">
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brackman</surname>, <given-names>G.</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Coenye</surname>, <given-names>T.</given-names>
+</string-name> (<year>2017</year>) <article-title>Pitfalls associated with evaluating enzymatic quorum quenching activity: the case of MomL and its effect on <italic toggle="yes">Pseudomonas aeruginosa</italic> and <italic toggle="yes">Acinetobacter baumannii</italic> biofilms</article-title>. <source>PeerJ</source>
+<volume>5</volume>: <elocation-id>e3251</elocation-id>. <pub-id pub-id-type="doi">10.7717/peerj.3251</pub-id>.<pub-id pub-id-type="pmid">28462048</pub-id><pub-id pub-id-type="pmcid">PMC5410158</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

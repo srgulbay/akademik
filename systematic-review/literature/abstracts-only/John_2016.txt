@@ -1,0 +1,13 @@
+PMID: 27643959
+Title: The quorum sensing molecule N-acyl homoserine lactone produced by Acinetobacter baumannii displays antibacterial and anticancer properties.
+Authors: John J., Saranathan R., Adigopula L., Thamodharan V., Singh S., Lakshmi T., CharanTej M., Rao R., Krishna R., Rao H., Prashanth K.
+Journal: Biofouling
+Year: 2016
+DOI: 10.1080/08927014.2016.1221946
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/27643959/
+DOI URL: https://doi.org/10.1080/08927014.2016.1221946
+
+--- Abstract ---
+Secretory N-acyl homoserine lactones (AHLs) mediate quorum sensing (QS) in bacteria. AHLs are shown to be inhibitory for an unrelated group of bacteria and might mimic host signalling elements, thereby subverting the regulatory events in host cells. This study investigated the AHL produced by Acinetobacter baumannii and analysed its effect on other bacterial species and mammalian cells. Chemically characterized AHL had an m/z value of 325 with a molecular formula C18H31NO4 and showed its inhibitory potential against Staphylococcus aureus. Molecular docking studies identified D-alanine-D-alanine synthetase A, a cell wall synthesizing enzyme of S. aureus having a strong binding affinity towards AHL. Electron microscopy showed the disruption and sloughing off of the S. aureus cell wall when treated with AHL. In vitro experiments revealed that this bacteriostatic AHL showed time-dependent activity and induced apoptosis in cancer cell lines. This compound could be a potential structural backbone for constructing new AHL analogues against S. aureus. The findings emphasize the need to re-evaluate all previously characterized AHLs for any additional new biological functions other than QS.

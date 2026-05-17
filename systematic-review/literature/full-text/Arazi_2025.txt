@@ -1,0 +1,210 @@
+Title: Genomic and functional characterization of a novel lytic phage vB-AbaM-fThrA with anti-biofilm activity against CR-MDR Acinetobacter baumannii
+PMID: 41420149
+PMCID: PMC
+DOI: 10.1186/s12866-025-04525-z
+
+=== ABSTRACT ===
+# Background
+
+Multidrug-resistant Acinetobacter baumannii causes increasingly fat5al infections in humans. Phage therapy is considered as a promising approach to treat the infections.
+
+
+# Methods
+
+Here we present the isolation and characterization of a new lytic A. baumannii specific phage vB-AbaM-fThrA (fThrA for short) originating from hospital wastewater.
+
+
+# Results
+
+Phage fThrA has a myovirus morphology with a relatively broad host range. The phage forms large and transparent plaques with a halo and showed high lysis power in in-vitro laboratory studies. Based on the genome sequence analysis phage fThrA is a new member of the Obolenskvirus genus with about 75.6% genomic similarity to its closest relative. The phage, tolerated well pH range from 4 to 10, and heating at 50 °C, but not 80 °C. At pH 2 ca. 50% of the phage survived for 1 h, an indication that the phage would be suitable for oral administration and phage therapy of the digestive tract. Phage fThrA was highly active against formation of biofilm and in destruction of the formed biofilm, an asset when used as a supplement to antibiotics in severe infections. Also, in genomic studies, no genes related to pathogenicity and lysogenicity were observed in the whole phage sequence.
+
+
+# Conclusions
+
+These features make phage fThrA as a promising candidate for phage therapy in-vivo.
+
+
+# Supplementary Information
+
+The online version contains supplementary material available at 10.1186/s12866-025-04525-z.
+
+=== FULL TEXT ===
+# Background
+
+A. baumannii is a non-motile aerobic Gram-negative coccobacillus that has developed resistance to the biocidal effects of most antimicrobial agents, and thereby leads to the spread of multidrug-resistant strains. This opportunistic pathogen causes community and nosocomial infections, mainly ventilator-associated pneumonia and bloodstream infections [1]. Infections also occur in the urinary tract, skin, wounds, and burns wounds [2]. The prevalence of carbapenem-resistance among Acinetobacter spp. in EU countries was approximately 38% in 2020. Following the COVID-19 pandemic, resistance rates exceeded 50% in 55% of the countries, with the highest rates observed in southern and eastern Europe [3]. The resistance spectrum of A. baumannii has also reached carbapenems. Colistin is considered as one of last therapeutic choices for A. baumannii infections but resistance to this antibiotic has also emerged worldwide [4].
+
+Biofilm formation on dry surfaces such as medical devices is one of the main obstacles in treatment of infections at medical centers. The biofilm protects the bacteria from the host killing factors, antibiotics, cleaners and disinfectants, and provides stronger and longer-lasting effects [5]. Bacteriophages have received attention to control and treat infections caused by Gram-negative and Gram-positive bacteria. These bacterial viruses use their tail tips to adsorb to the surface receptors on bacteria and inject their nucleic acid into the bacteria, and either start to propagate immediately (lytic cycle) or after a long-term delay periods (lysogenic cycle) [6].
+
+In phage therapy a phage can be used as a monophage, part of a cocktail, or a phage enzyme can be employed as a drug. Phages, endolysins or even genetically modified phages have been used as antimicrobial agents with promising outcomes [7]. Phages can also be combined with other antibacterial agents including antibiotics or Thymus daenensis Celak or Sasha Inchi oil and even combined with photosensitizers such as Nile blue to increase the killing rate of the antibacterial product [8].
+
+In this study we isolated and characterized Acinetobacter phage vB_AbaM_fThrA and investigated its potential in ex-vivo environments as a therapeutic phage on A. baumannii strains originally isolated from the lungs samples of COVID-19 patients.
+
+
+# Methods
+
+
+## Isolation of bacteria and antimicrobial susceptibility testing
+
+All the A. baumannii strains used in this research were isolated from respiratory samples of COVID-19 patients hospitalized in the intensive care unit (ICU) at Tehran University of Medical Sciences. The characterization of these isolates along with their antibacterial sensitivity tests have been published elsewhere [9] The CR-MDR A. baumannii strain SHA-256, was used as a host strain in the phage isolation experiments.
+
+
+## Isolation of bacteriophages
+
+Forty-five ml of raw sewage sample was collected in Falcon tube and centrifuged (30 min, 4000 rpm, 4 °C). The supernatant was passed through a 0.45 μm filter and poured into an Erlenmeyer flask containing 5 ml overnight culture of A. baumannii strain SHA-256 (OD600 ~ 1.0), 5 ml of 2 × nutrient broth (NB) culture medium, and 70 μl of 1% (w/v) MgSO4. This enrichment culture was incubated on a shaker (100 rpm) at 37 °C overnight. Phages were then isolated as described [10].
+
+
+## Phage purification, enrichment and titration
+
+Phage isolation was carried out using the single-plaque purification method [11]. For enrichment, phages were precipitated from the lysate with 10% (w/v) PEG 6000, and the phage pellet was re-suspended after centrifugation (14,000 g for 30 min) into 500 μL of SM buffer (100 mM NaCl, 10 mM MgSO4, 50 mM Tris, pH 7.5, and 0.01% (w/v) gelatin) and stored in a refrigerator at 4 °C for subsequent steps [12]. A high titer phage lysate was prepared using the semiconfluent plate method as described [13].
+
+To determine the phage fThrA titer, the double-layer agar method was used to plate a series of dilutions from the phage sample. After counting the plaques, the phage titers were, reported as plaque-forming units (PFU)/ml [14].
+
+
+## Transmission electron microscope (TEM)
+
+Morphology of phage fThrA was investigated using transmission electron microscope. One ml of phage lysate (6 × 1010 PFU/ml) was pelleted by centrifugation at 16,000 × g for 90 min, and the pellet was resuspended into 0.1 M ammonium acetate, pH 7.0, and prepared for transmission electron microscopy as described [15]. Briefly, a 3 µL aliquot of the phage preparation was pipetted on carbon-coated copper grids. After allowing the phages to adsorb for one minute, the grids were stained with 2% uranyl acetate (pH 4.2) for 30 s. The grids were then examined for phages using a transmission electron microscope (JEOL JEM-1400, Tokyo, Japan) at 80 kV beam voltage, equipped with a Gatan Orius SC 1000B camera (Gatan Inc., Pleasanton, CA, USA).
+
+
+## Examination of phage host range
+
+Spot test was used to check the host range of phage fThrA. A phage suspension (107 PFU/ml) was used in a spot test to determine the host range against 44 A. baumannii isolates as well as on E. coli, S. aureus, K. pneumoniae, S. enteritidis, and S. aeruginosa bacterial strains [16].
+
+
+## Biofilm assay
+
+
+### Biofilm formation
+
+Microplate colorimetric method was used to quantitatively measure biofilm formation. To examine the extent of biofilm formation, bacterial colonies were first cultured in tubes containing NB medium for 24 h at 37 °C and then diluted (1:100) and transferred to 96 polystyrene microplates and incubated again for 24 h at 37 °C. At the end of the incubation period, the wells were washed three times with 200 μl of phosphate-buffered saline (PBS) each time. To fix the biofilm in the microplate, 99% methanol was added to each well and after 15 min, it was drained and exposed to air-dried. For staining, 150 μl of 1% crystal violet dye was added to each well and after 20 min, the dye was drained and 150 μl of 33% acetic acid was added to it to dissolve the crystal violet. Finally, the microplate was examined in a spectrophotometer with an optical density of OD590 to measure the amount of biofilm formation. Sterile culture medium was used as a control [17].
+
+To assess the ability of the phage to inhibit or destruct biofilm formation phage fThrA was used at MOIs of 0.001, 0.01, 0.1, 1, 10 and 100 to measure the inhibition of biofilm formation and destruction of formed biofilm according to the protocols described earlier [18]. Susceptible A. baumannii isolates were used.
+
+
+## Inhibition of biofilm formation
+
+Initially, 125 μL of A. baumannii (108 CFU/ml) was transferred to microplate wells and subsequently 100 μL of phage suspension with the indicated MOIs was added to each well and incubated at 37 °C for 48 h. Then, washing and staining were performed according to the above protocol.
+
+
+## Destruction of the formed biofilm
+
+To evaluate the efficacy of phage in biofilm removal, phage fThrA was added to the microplate containing biofilm after 48 h and incubated for 24 h at 37 °C. Finally, washing and staining were performed according to the above protocol.
+
+
+## Temperature and pH stability
+
+The effect of temperature on the survival rate of phage fThrA at temperatures of (20, 37, 50 and 80) °C in the time intervals of 1, 5 and 24 h and at temperatures of (−4, −20, −50 and −80) °C in the time intervals of 1, 5 and 24 h, one week, one month, three months and one year, with 1.75 × 109 PFU were examined. Also, the survival of phage fThrA at pH 2, 4, 6, 7.5, 10, 12 and 14 was investigated. 100 μl of filtered phage suspension (0.22 μm) containing 1.69 × 109 PFU was mixed in 900 μl of SM buffer with the mentioned pHs and kept at 37 °C. At the end of time periods 1, 5, and 24 h, the double-layer agar technique with host bacteria was used [19]. The pH of the SM buffer was measured before and after the experiments, ensuring the reliability of the assays, due to its limited stability under extreme acidic and alkaline conditions.
+
+
+## The multiplicity of infection (MOI) measurement
+
+To determine the optimal MOI for phage fThrA propagation, the host bacteria were incubated at 37 °C in NB culture medium until reaching 106, 107 and 108 CFU/ml. Phage samples of 105, 106, 107, and 108 PFU/ml were prepared. Equal volumes of bacteria and phage were mixed to obtain MOIs of 0.001, 0.01, 0.1, 1, 10 and 100, the cultures were incubated at 37 °C for 3.5 h, and the phage titers in the culture supernatants were determined using the double-layer agar method. The experiment was performed three times [20].
+
+
+## Phage fThrA adsorption and growth curves
+
+Adsorption rate was measured as described at MOI of 0.1. Aliquots of the culture were withdrawn at 1 min intervals until 6 min and the phage titer in culture supernatants after 1 min centrifugation were determined using the double-layer agar assay. The experiment repeated three times and the results were reported as a percentage of non-adsorbed phages [21].
+
+For the single-step growth curve, the host bacteria were incubated in 10 ml of NB medium at 37 °C until OD600 ~ 0.2. The suspension was centrifuged (4000 rpm, 10 min, 4 °C), the supernatant was discarded, and the pellet was dissolved into 1 ml of fresh NB culture medium and incubated at 37 °C for 5 min, then phage was added to the suspension with MOI 0.1 and incubated again for 10 min at 37 °C. Finally, to remove the unadsorbed phages, the suspension was washed three times and each time with 1 ml of fresh culture medium by centrifugation, and in the last step, 0.25 ml of the suspension was added to 25 ml of the culture medium that was incubated in a shaker at 37 °C. The first, 100 μl sample to mark the time zero was taken immediately from the 25 ml culture, and then samples were withdrawn at one min intervals until 10 min, followed with 5 min intervals until 40 min, and then at 10 min intervals until 120 min. Ten-fold dilutions of the samples were prepared to SM buffer, and the phage titers were determined using the double-layer agar method with overnight culture of the host bacteria. The phage titers were used to draw the growth curve, and the latent period and the burst size of the phage were identified from the graph. This test was also done three times [22].
+
+
+## Next generation sequencing (NGS)
+
+Phage DNA was isolated from 400 µl of phage lysate (6 × 1010 PFU/mL) using the phenol–chloroform extraction method [23] with some modifications [24]. The phage fThrA genomic DNA was sequenced at Novogene (https://www.novogene.com) using the Illumina PE150 platform. The quality of the obtained 10.2 million sequence reads was checked using FastQC v.0.12.1 (http://www.bioinformatics.babraham.ac.uk/projects/fastqc/). The de novo assembly, using a 50,000 read subset of forward and reverse sequence reads was carried out at the Chipster platform using the A5-miseq pipeline [25, 26]. To confirm the assembly, all the original reads were mapped to the assembly contigs using the Geneious Prime 2023.2.1 (https://www.geneious.com/). All the sequence reads were used to identify the physical ends of the genome using the PhageTerm software [27]. Preliminary annotation was performed using RAST (Rapid Annotation using Sub- system Technology) [28] and PHAROKKA [29]. The annotation was manually edited and checked using Artemis 18.2.0 [30], and BLASTp (Protein Basic Local Alignment Search Tool) [31]. All gene products preliminarily annotated as hypothetical proteins were analyzed by HHPred, and hits with > 90 confidence were re-annotated [32]. Rho-independent terminators and host sigma-70 promoter motifs were identified using the on-line tools FindTerm and BPROM, respectively [33]. The taxonomical position of the phage was established using taxMyPhage [34]. Most closely related phage genomes to phage fThrA were identified using BLASTN [31] the genomes that showed > 36% identity and > 69% coverage were selected for VIRIDIC analysis [35]. VipTree server (accessed on April 5, 2025) was used to identify the location of fThrA in the phage proteomic tree generated for 1387 phages phage sequences [36]. The most closely related proteins of the fThrA tail fiber proteins Gp49 and Gp50 were identified using BLASTp [31], and aligned using the MAFTT tool [37] at (https://www.ebi.ac.uk/ jdispatcher/msa/mafft?stype = protein), and visualized using the Jalview tool (vs 2.11.4.1) [38]. The genome organization was visualized using the Linear Genome Plot tool [39]. The Resistance gene identifier (RGI) database was used to detect for the presence of resistance genes [40]. The depolymerase activity of the gene products was predicted using the Depolymerase Predictor (DePP) tool [41], and the hits further analysed with HHPred [32]. The annotated whole genome sequence of phage fThrA was deposited at GenBank under accession number PP171454.
+
+
+## Statistical analysis
+
+Statistical analyses were performed by GraphPad Prism 10.4.0 for Windows (GraphPad Software). Data are presented as means and standard deviation of the mean (± SD). The results of temperature and pH stability assay was explored by Two-way Analysis of Variance (ANOVA) at a significance level of P < 0.05 to compare means. The test was followed by Tukey's post-hoc analysis to determine the significance of the effects of variables. The comparisons showed significant levels, which were plotted in the graphs. (****: P-value < 0.0001, ***: P-value < 0.001, **: P-value < 0.01, *: P-value < 0.05).
+
+
+# Results
+
+
+## Isolation, purification, enrichment and titration
+
+Among the several plaques obtained from the enrichment culture a plaque with a clear and large lysis area (plaque) was selected (Fig. 1a) and after three plaque purification steps was propagated to a titer of 1.69 × 109 PFU/ml.Fig. 1Morphological characteristics of phage fThrA. Panel A. The plaques formed in double-layer agar plates on A. baumannii show wide halos. Panel B. Transmission electron microscopy of phage fThrA shows its myovirus morphology. The scale bar corresponds to 100 nm
+
+
+## Transmission electron microscopy (TEM)
+
+TEM images showed that phage fThrA has a myovirus morphology with an icosahedral head (ca 70 nm in diameter) and relatively long contractile tail (ca 90 nm) (Fig. 1b).
+
+
+## Host range of phage fThrA
+
+The host range of phage fThrA was investigated against 44 A. baumannii strains isolated from respiratory samples of COVID-19 patients. For the 44 isolates, positive lysis was recorded against 34 isolates (77.2%) indicating that the phage has a relatively wide host range. The phage did not infect any other bacteria representing other Enterobacteriaceae families.
+
+
+## Biofilm assay
+
+
+### Biofilm formation
+
+Among the 44 A. baumannii isolates, 9 isolates had a strong, 24 isolates a moderate and 10 isolates a weak biofilm formation ability and the remaining single isolate did not form any biofilm.
+
+
+## Inhibition and destruction of biofilm
+
+All MOIs were effective in preventing the formation of biofilm and destroying the formed biofilm compared to the sample not treated with phage fThrA. However, the MOIs 0.001 and 0.01 showed the best performance in inhibiting the formation and destroying the biofilm (Fig. 2).Fig. 2Effect of phage fThrA treatments on biofilms when compared to the control group. Inhibition of biofilm (IOB) and destruction of biofilm (DOB). Significant differences of p-values 0.05, 0.01, 0.001 and 0.0001 are indicated by *, **, ***, and ****
+
+
+## Temperature and pH stability
+
+Phage fThrA showed good results in testing its resistance against temperature shock (80 °C) and long-term storage (−80 °C). The best temperature endurance after 1 and 5 h corresponds to 37 °C with 100% survival and after 24 h corresponds to 20 °C with 98.85% survival, and after relatively long periods of one week (1W), one month (1 M) and three months (3 M) to the order with 97.1%, 93.1% and 92% corresponds to 4 °C. While the best temperature for long-term storage (one year (1Y)) was at −80 °C with 85.1% survival. Also, the activity continued, and the plaque at 80 °C was observed after only 1 h (Fig. 3).Fig. 3Thermostability of phage fThrA incubated at various temperatures the indicated time periods. Significant differences of p-values 0.05, 0.01, 0.001 and 0.0001 are indicated by *, **, ***, and ****
+
+The phage tolerated relatively well the pH range of 6–10. The optimal pH with 100% survival after 1 and 5 h, and 99.4% survival after 24 h, was at neutral pH or pH 7.5. The survival rates for pH 6 and pH 10 within 24 h were 89.3% and 85.2% respectively. Also, 44.3% lytic activity was observed after 1 h at pH 2, while at pH 14, the survival rate was zero at all time intervals (Fig. 4).Fig. 4pH stability of phage fThrA incubated under different pH conditions for 1 h, 5 h and 24 h. Significant differences of p-values 0.05, 0.01, 0.001 and 0.0001 are indicated by *, **, ***, and ****
+
+
+## Optimal MOI for phage fThrA
+
+In the 3.5 h culture with the bacterial starting concentration of 0.5 × 108 CFU/ml, the highest titers, 3.1 × 109 PFU/ml, were reached using the MOIs of 0.001 to 0.1. Under these conditions the highest phage titer increase was 45,600-fold, for the MOI of 0.001. The fold increases with higher MOIs were significantly lower. With MOI of 1 or higher, the phage titers did not increase but actually dropped (Table 1). That might be due to efficient immediate killing of the host bacteria before they could support the propagation of the phages. At the same time, the high MOIs very likely resulted in bacteria simultaneously infected with multiple phages, thus explaining the drop in phage titers.Table 1Optimal multiplicity of infection (MOI) of phage fThrA with its bacterial host A. baumanniiMOICFU/mlPFU/mlFinal PFU/mlFold increase in phage titer0.0010.5 × 1080.5 × 1052.28 × 10945,6000.010.5 × 1080.5 × 1062.64 × 1095,2800.10.5 × 1080.5 × 1073.10 × 10962010.5 × 1080.5 × 1083.09 × 1086.2100.5 × 1070.5 × 1082.43 × 1070.491000.5 × 1060.5 × 1082.35 × 1060.05
+
+
+## Phage fThrA adsorption and growth curves
+
+Phage fThrA adsorbed very rapidly to A. baumannii cells showing already 53.9% adsorption after 2 min of incubation, and 98% adsorption after 5 min (Fig. 5).Fig. 5Adsorption of phage fThrA to host cells. Results are presented as mean values ± SD from three independent experiments
+
+The one-step-growth curve shows two important biological parameters of phage fThrA, the latent-period and the burst-size. The latent period was completed in 20–25 min and the average burst size was estimated as 183 PFU/ml (Fig. 6).Fig. 6Single-step-growth curve of phage fThrA. Results are presented as mean values ± SD from three independent experiments, and shown as PFU per ml
+
+
+## The genome analysis of phage fThrA
+
+The genome of phage fThrA is a double-stranded linear DNA of 44,947 bp in size with a GC content of 37.59%. The PhageTerm analysis indicated that the genome is circularly permuted and terminally redundant. The starting nucleotide of the genome sequence was placed upstream the gene encoding the small terminase subunit. Based on the genomic sequence, supporting the myovirus morphology observed in TEM, fThrA was identified by taxMyPhage as a new species of the genus Obolenskvirus of the class Caudoviricetes. The BLASTn search identified altogether 62 phage genomes that showed > 36% identity and > 69% coverage with the genome of fThrA. Those were subjected to VIRIDIC genomic identity analysis. The results showed that fThrA shares 48–75.6% identity with these phages (Figure S1). The highest nucleotide sequence identity (75.6%) was observed with Acinetobacter phage AQ1 (Acc. no. PQ516282.1), also isolated from sewage in Iran. The VipTree proteomic analysis placed fThrA closest to Obolenskvirus phages WCHABP1 and WCHABP12 [42]. The VipTree alignment of nine closest phage genomes to fThrA including the two latter ones is shown in Figure S2, where are indicated the locations of the genes (g49 and g50) of fThrA that encode the predicted tail fiber proteins relevant to the host range of the phage (see below).
+
+While the Obolenskvirus genus comprises officially 8 phage species, 30 closely related phages (Obolenskvirus-like group, OLG-phages) were identified by Evseev et al., [43], and here we show that the number of OLG-phages has increased to > 50 (Figure S1). The genome of phage fThrA encodes 98 predicted genes for 40 of which the function could be predicted leaving 58 gene products annotated as hypothetical proteins of unknown function (grey in Fig. 7). Twenty-three gene products were predicted to function as structural proteins (light brown and orange, Fig. 7), and four in nucleotide metabolism (red), Gp01 and Gp02 are the genome packaging terminases (dark green), Gp53, the endolysin (yellow), Gp65c a transcription regulator (turquoise), and Gp78, immunity to superinfection (blue). The HHPred analysis of the preliminary annotated hypothetical proteins identified Gp13 as an anti-CRISPR protein, Gp16 and Gp67, as transcriptional regulators, Gp35, as tail terminator protein, Gp40 as the tail tape measure protein, Gp41, as tail tube inititator protein, Gp54, as a lipoprotein, Gp71, an antitoxin, Gp74, a homing endonuclease, and Gp86, as Holliday junction resolvase. Eighty-six of the genes are encoded in the forward strand, only 12 in the reverse strand. This organization is also reflected to the positions of the identified regulatory elements, the five Rho-independent terminators and 17 sigma-70 promoters (Fig. 7). As the phage does not encode its own RNA polymerase (RNAP), it is feasible that it utilizes the host RNAP and sigma-70 promoters that are scattered throughout the genome (Fig. 7, Table 2).Fig. 7Genomic organization of phage fThrA presented as linear visualization with predicted genes shown as arrows. The colors indicate the functional groups of the gene products. Grey, hypothetical proteins with unknown functions; light brown, head, baseplate and other structural proteins; orange, tail structural proteins; red, nucleic acid metabolism; green, DNA packaging; yellow, endolysin; turquoise, anti-CRISPR protein, transcription regulation, antitoxin and superinfection immunity. Positions of predicted rho-independent terminators are indicated. The predicted sigma-70 promoters (Table 2) are indicated by bent arrows. The gene map was generated using Linear Genome Plot tool
+
+Table 2.Sigma-70 promoters predicted by BPROM [33] from the sequences upstream of each fThrA gene. The linear discriminant function (LDF) threshold for the search was 0.20. The predicted −35 and −10 boxes are highlighted in green and the promoters with higher LDF are shown highlighted with stronger shade of violet*promoter motif located within previous gene
+
+Genes g49 and g50 were predicted to code for tail fiber proteins (281 and 624 amino acid residues, respectively) that could be responsible for the host range of the phage. The genome comparisons of the closest related phages (Figure S2) demonstrated that these genes shared almost no similarity with the other phages. Even then, the BLASTp search identified a plentitude of similar proteins to both gene products in the sequence databases (Figures S3 and S4). Alignment of the 55 Gp49 homologs showed that the N-termini of all the proteins are very similar, however, their C-termini differ greatly. Even there ten other phages appeared to share almost identical Gp49 homologs (Figure S3), suggesting that it may not be the host range determinant. On the other hand, the Gp50 homologs shared very similar C-termini and showed wide variability in their N-termini (Figure S4). Significantly, only the homolog of Acinetobacter phage Abp95 (QYC51728.1) showed similarity to the N-terminus of fThrA Gp50. Similar to fThrA, phage Abp95, isolated from a sewage sample in China, has also a relatively broad host-range [44]. These results indicate that Gp50 very likely is the receptor-binding protein of fThrA, and it determines the host range of the phage. An interesting observation shown in Figure S4 is that 40 of Gp50 homologs originate from the genomic sequences of A. baumannii isolates, very likely encoded by prophages, indicating that the C-terminus forms a conserved domain in the tail fiber structure. As no virulence or AMR-related genes were detected from the genome of fThrA, the genomic analysis demonstrated the safety and potential of the phage fThrA for therapeutic applications. To identify the gene product with a depolymerase activity the probabilities of the fThrA gene products were analysed by DePolymerase Predictor (DePP) that predicted depolymerase activity to Gp36 (tail sheath protein, probability 0.835), Gp40 (tail tape measure protein, 0.869), and Gp50 (tail fiber protein, 0.951. The HHpred analysis of these proteins revealed no enzymatic role for Gp36 and Gp40, however, Gp50 showed homology (> 99% probability) to several known depolymerases.
+
+
+# Discussion
+
+The emergence and spread of MDR bacteria in various families has become a major global challenge for control and treatment with antibiotics [45]. The bacteria studied in this research were MDR A. baumannii, which showed resistance to various classes of antibiotics such as carbapenems, aminoglycosides, and quinolones [46]. Given the spread of MDR Acinetobacter Spp. strains in different parts of the world over the past decade [47], the need for new antibacterial agents is also increasing. Among the 273 Acinetobacter spp. isolates collected between 2020 and 2024, a total of 241 isolates (88.27%) exhibited carbapenem-resistance along with multidrug-resistance (CR-MDR) [3]. In this regard, phages have been studied worldwide as a potential alternative to antibiotics due to their unique advantages such as specific function in targeting pathogens, spontaneous replication, and most importantly, their safety for humans [48].
+
+Bacteriophages are classified based on their morphology, genomic sequences, and major characteristics. Based on its morphology and genomic analysis, phage fThrA, is a new member of genus Obolenskvirus [49]. Genes such as integrases that encode components of the lysogenic apparatus and lead to the production of temperate phages, which can be more susceptible to genetic exchanges due to the recombinations encoded in their genome [43], were not observed, which indicates that the phage is fully lytic. In addition no virulence or antibiotic resistance related genes were identified from the phage genome [50]. Thus, the phage can be considered safe for therapeutic purposes.
+
+Bacteriophages have different host ranges, some with wide and others with narrow host ranges. Bacteriophage fThrA showed a relatively wide host range, while phages with host spectra of about 90% [51], 83% [52], 58% [44], and 40% [53] have also been reported for A. baumannii. Phage fThrA was able to disrupt the mature biofilm that had taken 48 h to form and also significantly prevented biofilm formation after 48 h [54]. Accordingly, phages can be considered one of the most effective options for penetrating biofilm tissue and breaking its structure [55].
+
+Temperature stability of bacteriophages is an important feature for phage-therapy, because maintaining the appropriate temperature range when using phages or when transferring them to other centers leads to maintaining the lytic power of the phages. Phage fThrA was proven to be relatively stable at the highest and lowest temperatures examined in this study. Temperatures of 37 °C and then 20 °C were the appropriate temperatures for short-term storage, although in some studies the optimal temperature for short-term storage has been reported to be even higher than 37 °C [16]. The most suitable temperature for long-term storage was −80 °C, followed by −50 °C. Also, the refrigerator temperature (4 °C) was proven to be suitable for long-term storage. In general, storing phages at colder temperatures showed more viability, which our results were consistent with previous studies [56]. However, in another study, a temperature of 20 °C yielded more favorable results than a temperature of 4 °C for phage storage. However, phages are resistant to freezing and show varying survival rates [57].
+
+While the neutral pH (pH 7.5) proved to be the optimal storage condition for fThrA, it also tolerated relatively well the pH range between 6 and 10, consistent with previous studies. In addition to lytic activity at pH 10 (alkaline), phage fThrA also showed significant survival after 5 h at pH 2 (acidic), suggesting that this phage can be administered orally due to its relative resistance to acidic pH [58].
+
+The highest titer obtained from the phage in the MOI range between 0.001–100 belonged to MOI 0.1, which recorded the highest lytic activity in-vitro and was consistent with the results obtained in another study [59]. Short latent period and large burst size, two important characteristics of bacteriophages for phage-therapy, were observed in the growth curve of phage fThrA. This phage is a suitable candidate for use in phage-therapy with 98% adsorption after 5 min into bacterial cells and a latent period of 20–25 min with a burst size of 183 PFU. Also, different sizes of latent period and burst size have been reported in studies that have been conducted [60, 61]. This difference in burst size and latent period of phages can be affected by environmental factors such as pH and temperature or even the host cell [22].
+
+Like the Acinetobacter phage Abp95, the fThrA phage also forms a halo around its plaque in a plate containing a double-layer agar with the host SHA-256, which is a sign of the presence of depolymerase. The presence of this enzyme helps the phage to break down the polysaccharide capsule and pass through the protective barrier of the bacteria [44]. In addition, the HHpred analysis indicated that Gp50 is highly homologous to several known depolymerases, including Gp48 (a glycosidase) of Acinetobacter phage APK09 (pdb_00008oq0) [62], Orf18 (tailspike protein) of Geobacillus virus E2 (pdb_00007chu) [63], and coliphage K5A lyase (pdb_00002 × 3 h) [64]. These findings convincingly demonstrate that the fThrA tail fiber protein Gp50 also functions as a depolymerase. As the enzymatic activity of the depolymerases is located in the N-terminal domain of tail fiber/spike proteins [62], the low similarity of that domain to other Gp50 homologs (Figure S4) does not allow the prediction of the capsule type of the target bacteria.
+
+The analysis of the long tail fiber proteins showed that phage fThrA Gp50 shares the highest identity of with phage Abp95 homolog [44], for the short tail fiber proteins Gp49s, the highest identity was shared by the homolog of phage AQ1, the phage that also had the highest identity in nucleotide sequence with phage fThrA. However, in the VipTree proteomic tree analysis, phages WCHABP1 and WCHABP12 were placed most closely to phage fThrA [42].
+
+
+# Conclusions
+
+In-vitro studies demonstrated that phage fThrA tolerates well a wide range of temperatures and pH. Given its, broad host range, lytic activity, and lack of pathogenicity genes, the fThrA phage could be used in the near future for in-vivo studies and the continuation of the preclinical phage-therapy pathway to clinical testing.
+
+
+# Supplementary Information
+
+Supplementary Material 1. Figure S1. VIRIDIC heatmap. A clustered heatmap based on the intergenomic similarities between fThrA and related phages identified using a BLASTN search
+Supplementary Material 2. Figure S2. The location of fThrA in the phage proteomic tree generated by ViPTree for 1387 phage genomic sequences. (A) A fragment of the “proteomic tree” showing the closest phages to fThrA. (B) ViPTree alignment of the phage genomes present in the branch including phage fThrA. The location of the fThrA genes g49 and g50 is indicated by the red oval circle
+Supplementary Material 3. Figure S3. MAFFT alignment of 54 short tail fiber proteins similar to Acinetobacter phage fThrA Gp49.
+Supplementary Material 4. Figure S4. MAFFT alignment of 70 long tail fiber proteins similar to Acinetobacter phage fThrA Gp50

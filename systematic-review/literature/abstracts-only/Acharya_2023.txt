@@ -1,0 +1,13 @@
+PMID: 37906317
+Title: A comprehensive profiling of quorum quenching by bacterial pigments identifies quorum sensing inhibition and antibiofilm action of prodigiosin against Acinetobacter baumannii.
+Authors: Acharya K., Borborah S., Chatterjee A., Ghosh M., Bhattacharya A.
+Journal: Archives of microbiology
+Year: 2023
+DOI: 10.1007/s00203-023-03710-w
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/37906317/
+DOI URL: https://doi.org/10.1007/s00203-023-03710-w
+
+--- Abstract ---
+Bacterial pigments represent a diverse group of secondary metabolites, which confer fitness advantages to the producers while residing in communities. The bioactive potential of such metabolites, including antimicrobial, anticancer, and immunomodulation, are being explored. Reckoning that a majority of such pigments are produced in response to quorum sensing (QS) mediated expression of biosynthetic gene clusters and, in turn, influence cell-cell communication, systemic profiling of the pigments for possible impact on QS appears crucial. A systemic screening of bacterial pigments for QS-inhibition combined with exploration of antibiofilm and antimicrobial action against Acinetobacter baumannii might offer viable alternatives to combat the priority pathogen. Major bacterial pigments are classified (clustered) based on their physicochemical properties, and representatives of the clusters are screened for QS inhibition. The screen highlighted prodigiosin as a potent quorum quencher, although its production from Serratia marcescens appeared to be QS-independent. In silico analysis indicated potential interactions between AbaI and AbaR, two major QS regulators in A. baumannii, and prodigiosin, which impaired biofilm formation, a major QS-dependent process in the bacteria. Prodigiosin augmented antibiotic action of ciprofloxacin against A. baumannii biofilms. Cell viability analysis revealed prodigiosin to be modestly cytotoxic against HEK293, a non-cancer human cell line. While developing dual-species biofilm, prodigiosin producer S. marcescens significantly impaired the fitness of A. baumannii. Enhanced susceptibility of A. baumannii toward colistin was also noted while growing in co-culture with S. marcescens. Antibiotic resistant isolates demonstrated varied responsiveness against prodigiosin, with two resistant strains demonstrating possible collateral sensitivity. Collectively, the results underpin the prospect of a prodigiosin-based therapeutic strategy in combating A. baumannii infection.

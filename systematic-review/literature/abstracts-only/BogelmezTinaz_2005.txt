@@ -1,0 +1,13 @@
+PMID: 16255145
+Title: N-butanoyl-L-homoserine lactone (BHL) deficient Pseudomonas aeruginosa isolates from an intensive care unit.
+Authors: Boşgelmez-Tinaz G., Ulusoy S., Aridoğan B., Eroğlu F., Kaya S.
+Journal: Microbiological research
+Year: 2005
+DOI: 10.1016/j.micres.2005.03.005
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/16255145/
+DOI URL: https://doi.org/10.1016/j.micres.2005.03.005
+
+--- Abstract ---
+Acylated homoserine lactones (AHLs) are self-generated diffusible signal molecules that mediate population density dependent gene expression (quorum sensing) in a variety of Gram-negative bacteria, and several virulence genes of human pathogens are known to be controlled by AHLs. In this study, strains of Pseudomonas aeruginosa, Acinetobacter baumannii, Escherichia coli and Klebsiella pneumoniae, isolated from intensive care patients, were screened for AHL production by using AHL responsive indicator strains of Chromobacterium violaceum CV026 and Agrobacterium tumefaciens NT1. Positive reactions were recorded for all 50 isolates of P. aeruginosa and 10 isolates of Acinetobacter baumannii with Agrobacterium tumefaciens NT1. Surprisingly, most P. aeruginosa isolates gave negative results with C. violaceum CV026 in contrast to previous reports. This suggests that the new isolates of P. aeruginosa either failed to make short chain AHLs or the level of the signal molecule is very low.

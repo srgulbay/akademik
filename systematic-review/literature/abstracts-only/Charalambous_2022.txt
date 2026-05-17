@@ -1,0 +1,14 @@
+PMID: 35629953
+Title: Proteobacteria and Firmicutes Secreted Factors Exert Distinct Effects on Pseudomonas aeruginosa Infection under Normoxia or Mild Hypoxia.
+Authors: Charalambous A., Grivogiannis E., Dieronitou I., Michael C., Rahme L., Apidianakis Y.
+Journal: Metabolites
+Year: 2022
+DOI: 10.3390/metabo12050449
+PMC: PMC9146490
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/35629953/
+DOI URL: https://doi.org/10.3390/metabo12050449
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9146490/
+
+--- Abstract ---
+Microbiota may alter a pathogen's virulence potential at polymicrobial infection sites. Here, we developed a multi-modal Drosophila assay, amenable to the assessment of human bacterial interactions using fly survival or midgut regeneration as a readout, under normoxia or mild hypoxia. Deploying a matrix of 12 by 33 one-to-one Drosophila co-infections via feeding, we classified bacterial interactions as neutral, synergistic, or antagonistic, based on fly survival. Twenty six percent of these interactions were antagonistic, mainly occurring between Proteobacteria. Specifically, Pseudomonas aeruginosa infection was antagonized by various Klebsiella strains, Acinetobacter baumannii, and Escherichia coli. We validated these interactions in a second screen of 7 by 34 one-to-one Drosophila co-infections based on assessments of midgut regeneration, and in bacterial co-culture test tube assays, where antagonistic interactions depended on secreted factors produced upon high sugar availability. Moreover, Enterococci interacted synergistically with P. aeruginosa in flies and in test tubes, enhancing the virulence and pyocyanin production by P. aeruginosa. However, neither lactic acid bacteria nor their severely hypoxic culture supernatants provided a survival benefit upon P. aeruginosa infection of flies or mice, respectively. We propose that at normoxic or mildly hypoxic sites, Firmicutes may exacerbate, whereas Proteobacteria secreted factors may ameliorate, P. aeruginosa infections.

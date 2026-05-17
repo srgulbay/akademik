@@ -1,0 +1,19 @@
+PMID: 40916327
+Title: Genomic analysis and preclinical evaluation of two hydrogel-formulated novel virulent phages isolated against a carbapenem-resistant Acinetobacter baumannii.
+Authors: Elshamy A., Kamal S., Mahmoud M., Elhasany A., Shady A., Mohamed S., Abd-Elmaaboud H., El-Awady N., Mohamed R., El-Mirghany S., El-Hady S., Abd-ElRahman M., Saad B., Alshahrani M., Aboshanab K., Mabrouk S.
+Journal: Virology
+Year: 2025
+DOI: 10.1016/j.virol.2025.110676
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40916327/
+DOI URL: https://doi.org/10.1016/j.virol.2025.110676
+
+--- Abstract ---
+BACKGROUND: Carbapenem-resistant Acinetobacter baumannii (CRAB) has recently become a serious cause for global concern because of non-susceptibility to multiple antimicrobial classes, its prevalence in nosocomial infections, and the lack of effective treatments against such a pathogen.
+
+METHODS: This study isolated two lytic phages from hospital sewage, purified, propagated, characterized morphologically by transmission electron microscopy, and genomically by Oxford Nanopore Sequencing. The phage lysates were then formulated individually as carboxymethylcellulose (CMC) 5 % w/v hydrogels. The formulated hydrogels were in vitro and in vivo evaluated using a thermal injury animal model.
+
+RESULTS: The phages belong to the class Caudovirectes whrere the virion Acinetobacter phage vB_AbaM-SPA has an icosahedral head 60 ± 5 nm in diameter, a tail of 128 ± 5 nm length, and a genome of 45,115 bp in length with 37.4 % G + C content and 70 ORFs. In comparison, the virion Acinetobacter phage vB_AbaM-SPB has an icosahedral head 64 ± 5 nm in diameter, a tail of 67 ± 5 nm length, and a 45,587 bp genome with 37.7 % G + C content and 70 ORFs. The animal groups treated with the phage hydrogels demonstrated a significant acceleration in the production of dermal mature collagen fibers, enhanced survival rates, and promoted wound healing when compared to the untreated groups.
+
+CONCLUSION: The Acinetobacter phage vB_AbaM-SPA and Acinetobacter phage vB_AbaM-SPB formulated as hydrogels were able to treat the CRAB-infected burn wounds, to enhance healing, as demonstrated through histopathological analysis, and decrease the death rate of the animals. Consequently, these phage-hydrogels are regarded as encouraging formulations for clinical evaluation for potential use in humans.

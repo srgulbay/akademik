@@ -1,0 +1,14 @@
+PMID: 35653398
+Title: Evolutionarily stable gene clusters shed light on the common grounds of pathogenicity in the Acinetobacter calcoaceticus-baumannii complex.
+Authors: Djahanschiri B., Di Venanzio G., Distel J., Breisch J., Dieckmann M., Goesmann A., Averhoff B., Göttig S., Wilharm G., Feldman M., Ebersberger I.
+Journal: PLoS genetics
+Year: 2022
+DOI: 10.1371/journal.pgen.1010020
+PMC: PMC9162365
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/35653398/
+DOI URL: https://doi.org/10.1371/journal.pgen.1010020
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9162365/
+
+--- Abstract ---
+Nosocomial pathogens of the Acinetobacter calcoaceticus-baumannii (ACB) complex are a cautionary example for the world-wide spread of multi- and pan-drug resistant bacteria. Aiding the urgent demand for novel therapeutic targets, comparative genomics studies between pathogens and their apathogenic relatives shed light on the genetic basis of human-pathogen interaction. Yet, existing studies are limited in taxonomic scope, sensing of the phylogenetic signal, and resolution by largely analyzing genes independent of their organization in functional gene clusters. Here, we explored more than 3,000 Acinetobacter genomes in a phylogenomic framework integrating orthology-based phylogenetic profiling and microsynteny conservation analyses. We delineate gene clusters in the type strain A. baumannii ATCC 19606 whose evolutionary conservation indicates a functional integration of the subsumed genes. These evolutionarily stable gene clusters (ESGCs) reveal metabolic pathways, transcriptional regulators residing next to their targets but also tie together sub-clusters with distinct functions to form higher-order functional modules. We shortlisted 150 ESGCs that either co-emerged with the pathogenic ACB clade or are preferentially found therein. They provide a high-resolution picture of genetic and functional changes that coincide with the manifestation of the pathogenic phenotype in the ACB clade. Key innovations are the remodeling of the regulatory-effector cascade connecting LuxR/LuxI quorum sensing via an intermediate messenger to biofilm formation, the extension of micronutrient scavenging systems, and the increase of metabolic flexibility by exploiting carbon sources that are provided by the human host. We could show experimentally that only members of the ACB clade use kynurenine as a sole carbon and energy source, a substance produced by humans to fine-tune the antimicrobial innate immune response. In summary, this study provides a rich and unbiased set of novel testable hypotheses on how pathogenic Acinetobacter interact with and ultimately infect their human host. It is a comprehensive resource for future research into novel therapeutic strategies.

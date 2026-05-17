@@ -1,0 +1,13 @@
+PMID: 23397241
+Title: Spreading of AbaR-type genomic islands in multidrug resistance Acinetobacter baumannii strains belonging to different clonal complexes.
+Authors: Ramírez M., Vilacoba E., Stietz M., Merkier A., Jeric P., Limansky A., Márquez C., Bello H., Catalano M., Centrón D.
+Journal: Current microbiology
+Year: 2013
+DOI: 10.1007/s00284-013-0326-5
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/23397241/
+DOI URL: https://doi.org/10.1007/s00284-013-0326-5
+
+--- Abstract ---
+In order to determine the occurrence of AbaR-type genomic island in multidrug resistant Acinetobacter baumannii (MDRAb) strains circulating in Argentina, Uruguay, and Chile, we studied 51 MDRAb isolates recovered from several hospitals over 30 years. AbaR-type genomic resistance islands were found in 36 MDRAb isolates since 1986 till now. MLST technique allowed us to identify the presence of four different Clonal Complexes (109, 104, 119, 113) among the positive AbaR-type island positive strains. This is the first description of AbaR-type islands in the CC104 and CC113 that are the most widespread Clonal Complexes in Argentina. In addition, PCR mapping exposed different arrays to those previously described, evidencing the plasticity of this island. Our results evidence a widespread distribution of the AbaR-type genomic islands along the time in the MDRAb population, including the epidemic global clone 1 (GC1) as well as different clonal complexes to those already described in the literature.

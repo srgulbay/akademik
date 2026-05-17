@@ -1,0 +1,19 @@
+PMID: 39414173
+Title: Emergence of extensively-drug-resistant hypervirulent Acinetobacter baumannii isolated from patients with bacteraemia: bacterial phenotype and virulence analysis.
+Authors: Chen P., Liu C., Kuo H., Lee Y., Liu Y., Zhang Y., Kao C.
+Journal: International journal of antimicrobial agents
+Year: 2024
+DOI: 10.1016/j.ijantimicag.2024.107358
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39414173/
+DOI URL: https://doi.org/10.1016/j.ijantimicag.2024.107358
+
+--- Abstract ---
+OBJECTIVES: Individuals infected with extensively-drug-resistant (XDR) Acinetobacter baumannii are difficult to cure and have a high mortality rate. This study compared the genomic and phenotypic differences between XDR and non-multi-drug-resistant (MDR) A. baumannii, and further characterized hypervirulent XDR A. baumannii.
+
+METHODS: In total, 1403 acinetobacter isolates were collected from patients with bacteraemia between 1997 and 2015. Antimicrobial susceptibility tests were performed to categorize isolates into non-MDR, MDR and XDR groups. The presence of selected virulence-associated genes was determined by polymerase chain reaction. Bacterial phenotypes, including iron acquisition, biofilm formation, capsule production, and virulence to larvae and mice, were determined.
+
+RESULTS: Multi-locus sequence typing revealed a high prevalence of sequence type (ST) 2 (81.6%) and ST129 (18.4%) among 49 XDR isolates, and the STs of 18 non-MDR isolates were more diverse. Virulence-associated phenotypic assays showed that XDR isolates had higher iron acquisition ability, greater capsule production, and virulence to Galleria mellonella larvae. However, their ability to form biofilm was lower compared with that of non-MDR isolates. XDR isolates were more likely to have virulence genes (tonB, hemO, abaI and ptk), while non-MDR isolates were more likely to have pld and ompA genes. Twenty-one XDR isolates that had a <20% larvae survival rate after 7 days post-infection were defined as hypervirulent XDR isolates. Among them, isolates 1677 (ST129) and 929-1 (ST2) caused the death of all infected mice within 2 days.
+
+CONCLUSION: Some subpopulations of highly-drug-resistant ST2 isolates exhibit high virulence. As such, it is of utmost importance to continue monitoring the spread of hypervirulent XDR A. baumannii isolates.

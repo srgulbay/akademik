@@ -1,0 +1,14 @@
+PMID: 29997585
+Title: Pyocyanin Restricts Social Cheating in Pseudomonas aeruginosa.
+Authors: Castañeda-Tamez P., Ramírez-Peris J., Pérez-Velázquez J., Kuttler C., Jalalimanesh A., Saucedo-Mora M., Jiménez-Cortés J., Maeda T., González Y., Tomás M., Wood T., García-Contreras R.
+Journal: Frontiers in microbiology
+Year: 2018
+DOI: 10.3389/fmicb.2018.01348
+PMC: PMC6030374
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/29997585/
+DOI URL: https://doi.org/10.3389/fmicb.2018.01348
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6030374/
+
+--- Abstract ---
+Quorum sensing (QS) in Pseudomonas aeruginosa coordinates the expression of virulence factors, such as exoproteases and siderophores, that are public goods utilized by the whole population of bacteria, regardless of whether they invested or not in their production. These public goods can be used by QS defective mutants for growth, and since these mutants do not contribute to public goods production, they are considered social cheaters. Pyocyanin is a phenazine that is a toxic, QS-controlled metabolite produced by P. aeruginosa. It is a redox-active compound and promotes the generation of reactive oxygen species; it also possesses antibacterial properties and increases fitness in competition with other bacterial species. Since QS-deficient individuals are less able to tolerate oxidative stress, we hypothesized that the pyocyanin produced by the wild-type population could promote selection of functional QS systems in this bacterium. Here, we demonstrate, using competition experiments and mathematical models, that, indeed, pyocyanin increases the fitness of the cooperative QS-proficient individuals and restricts the appearance of social cheaters. In addition, we also show that pyocyanin is able to select QS in other bacteria such as Acinetobacter baumannii.

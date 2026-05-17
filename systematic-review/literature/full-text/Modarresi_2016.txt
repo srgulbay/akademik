@@ -1,0 +1,118 @@
+Title: Cloning and expression of quorum sensing N-acyl-homoserine synthase (LuxI) gene detected in Acinetobacter baumannii
+PMID: 27307980
+PMCID: PMC
+DOI: 
+
+=== ABSTRACT ===
+# Background and Objectives:
+
+In present study we aimed to clone the luxI gene encoding N-acyl-homoserine synthase detected in clinical isolates of Acinetobacter baumannii and study its expression in Escherichia coli transformants.
+
+
+# Materials and Methods:
+
+Four A. baumannii hospital strains which demonstrated strong biofilm activity were selected in this investigation. The presence of luxI gene was detected using PCR technique. Purified PCR product DNA was initially cloned into pTG19 and transformed to E. coli DH5α. The gene was then recovered from agarose gel and ligated by T4 DNA ligase into pET28a expression vector using NdeI and XhoI enzymes. pET28a + luxI was transformed into E. coli BL21 (DE3). The luxI putative gene was further detected in the transformants by colony PCR. Expression of the luxI gene in the recombinant E. coli BL21 cells was studied by quantitative real time PCR (qRT-PCR) and the presence of N-acylhomoserine lactone (AHL) was checked by colorimetric assay and Fourier Transform Infra-Red (FT-IR) spectroscopy.
+
+
+# Results:
+
+We successfully cloned AHL gene from A. baumannii strain 23 to pET28a expression vector. There was four fold increases in expression of luxI in the transformants (P ≤ 0.05). It was found that, strain 23 and the transformants showed highest amount of AHL activity (OD = 1.524). The FT-IR analysis indicated stretching C=O bond of the lactone ring and primary amides (N=H) at 1764.69 cm−1 and 1659.23 cm−1 respectively.
+
+
+# Conclusion:
+
+From above results we concluded that, luxI in A. baumannii is indeed responsible for AHL production and not regulation and pET28a vector allows efficient AHL expression in E. coli BL21 transformants.
+
+=== FULL TEXT ===
+# INTRODUCTION
+
+The genus Acinetobacter has important position as an opportunistic pathogen in the hospital environment. The contribution of A. baumannii to hospital acquired infections has increased over the past three decades (1, 2). This organism causes of serious infectious diseases such as pneumonia, urinary tract infections, endocarditis, wound infections, meningitis, and septicemia (3). It is becoming evident that biofilm forming ability can be considered one of the main virulence factor common to a large number of A. baumannii clinical isolates (4). Recent evidence has shown that biofilm formation at the solid-liquid interface is at least three times higher in A. baumannii than in the other Acinetobacter species (80–91% versus 5–24%), giving rise to a thick pellicle clearly visible on the top of broth cultures (5). Acylhomoserine lactones (AHLs) are major class of auto-inducer signals used by Gram negative bacteria to regulate diverse physiological functions such as virulence factors and biofilm (6). Quorum sensing (QS) was found to regulate multidrug resistance (MDR) in two ways, one involve up regulation of biofilm associated surface exopolysaccharides (EPS) matrix and by up regulation of efflux pump genes (7). The production of an EPS matrix is one of the distinguishing characteristic of biofilm and it has been suggested that EPS prevents the access of antibiotics into the bacterial community. There is a strong association between MDR and biofilms in this bacterium where in majority of clinical isolates, which were strong biofilm exhibiting MDR pattern. In A. baumannii, major gene, luxI that encode an abaI synthase is responsible for AHL production (8). AHL found to be a major component for biofilm formation in A. baumannii that has been reported by various authors (9).
+
+N-(3-hydroxydodecanoyl)-l-homoserine lactone (3-hydroxy-C12-HSL) is the only QS molecule identified in this bacterium, though mass spectrometry suggested that other AHL molecules may also present at significantly lower amounts. However, contribution of quorum sensors to the overall pathogenic potential in the genus is currently unknown (10, 11). In one most recent study, different species of A. baumannii were analyzed for the production of AHL and it was shown that QS sensors were not homogenously distributed among species, though one particular AHL was specifically present in the most strains of A. calcoaceticus - A. baumannii complex (12).
+
+In the present study we aimed to clone the luxI gene encoding N-acyl-homoserine synthase detected in clinical isolates of A. baumannii and study its expression in E. coli transformants.
+
+
+# MATERIALS AND METHODS
+
+
+## Bacterial isolation and identification.
+
+Sixty five isolates of A. baumannii were cultured from patients hospitalized in intensive care units of three hospitals in Kerman city, Iran during February–August 2013. The individual colonies grown on blood and Luria-Bertani (LB) agar were allocated to the genus Acinetobacter according to biochemical characteristics. Strains were identified as A. baumannii according to the analytical profile index (API) 20NE protocol (BioMérieux, France) and the presence of blaOXA-51 gene (13). A. baumannii ATTC 19606 strain was used as a positive control. The susceptibility of isolates to three different classes of antibiotics (β-lactams, quinolones and aminoglycosides) were determined according to the Clinical and Laboratory Standards Institute guidelines (CLSI) procedures (2). Micro-broth dilution method was also used to determine the minimum inhibitory concentrations (MICs) of antibiotics (5).
+
+
+## Detection of luxI gene and AHL production.
+
+Four A. baumannii hospital strains which demonstrated strong biofilm (strains 16, 23, 40 and 55) were selected in this investigation. The biofilm formation was performed using colorimetric method as described previously (13). The bacterial cells were grown overnight in 5 ml Luria-Bertani (LB) broth (under shaking condition (200 rpm). The presence of luxI gene in these strains was detected by conventional PCR using following primers luxI-F: 5′-CTTCATATGAATATTATTGCTGGATTTC-3′ luxI-R: 5′-GCTCGAGCCTATCTAAATACACATCAATCA - 3′ based on the sequences of target gene. PCR was carried out in the Biometra T3000 thermocycler (Biometra, Gottingen, Germany) and amplification started with an initial denaturation step at 95 °C for 2 min followed by 30 cycles of denaturation at 95 °C, annealing at 58 °C for 45 s and extension at 72 °C for 1 min. Annealing temperatures were calculated using Primer3 software (14). Sterile deionized water was used as the negative control. Agarose gel electrophoresis was employed to verify the size of the amplicon. The expected size of the PCR products for luxI gene was 370bp. Subsequently, the AHL production was measured in the strains showed high biofilm formation by colorimetric (Liquid - Liquid extraction) method and compared with control strain A. baumannii ATCC 19606.
+
+
+## Cloning of putative luxI gene.
+
+The genomic DNA was extracted using bacterial RTP® extraction Kit (InVitek-Germany). PCR amplification was carried out using PFU-polymerase (Fermentas, Vilnius, Lithuania), and presence of luxI gene was detected using 1% agarose gel (Merck-Germany) electrophoresis. The recombinant was constructed by cloning a full-length 370bp PCR product luxI gene into pTG19 plasmid vector which has single 3′-T overhangs on both ends and allows direct, high percentage of recombinant clones in low background. Transformations of the recombinant construct to E. coli K12 DH5α mutants [dlacZDelta M15 Delta (lacZYA-argF) U169 recA1 endA1 hsdR17 (rK-mK+) supE44 thi-1 gyrA96relA1] was carried out with 50 mM CaCl2 in ice powder as described previously (15). After overnight growth, presence of luxI gene in recombinant DNA was confirmed by PCR amplification technique. Plasmid DNA was further extracted from the E. coli transformants by Feldan plasmid DNA extraction Miniprep Kit (Bio Basic, Amherst NY USA). The recombinant pTG19-luxI was then digested by BamH1 restriction enzyme. Similarly, plasmid pET28a double digested with NdeI and XhoI restriction enzymes. The digested products were then subjected to 1% agarose gel and electrophoresed. The luxI DNA fragment was then extracted directly from gel using gel extraction kit and ligated into pET28 by T4 DNA ligase according to the manufacturer’s instructions (Fermentas, Lithuania). The subcloned recombinants was then transformed into E. coli BL21 (DE3) strain [fhuA2 [lon] ompT gal (λ DE3) [dcm] ΔhsdSλ DE3 = λ sBamHIo ΔEcoRI-B int ::(lacI:: PlacUV5::T7 gene1) i21 Δnin5] using 50 mM CaCl2 in ice powder then subjected to a heat shock at 42 °C for 50 s to enable DNA uptake. This allowed the creation of a translational fusion adding six histidine residues to the carboxyl terminus of the protein and placed expression of the luxI gene under the control of a T7 promoter.
+
+
+## Measurement of AHL expression by quantitative real time PCR (qRT-PCR).
+
+To study the expression of the luxI gene, we performed qRT-PCR for total RNA extraction from well isolated colonies. Briefly, a loopful of well isolated colony of A. baumannii, E. coli BL21 transformants and E. coli BL21 as a control strain was inoculated into a 100mL Erlenmeyer flask containing 20 mL sterile LB broth. The microbial cells (1 mL) were centrifuged at 4 °C for 10 min and the cell pellets were used for RNA extractions using AccuZol kit as described by the manufacturer (Bioneer, Seoul, Korea). Synthesis of cDNA was performed using AccuPowerR Cycle Script RT PreMix (dN6) kit (Bioneer). About 1 μg of RNA template was added to a 1.5 mL microfuge tube (Eppendorf, Germany) then 20 μL of DEPC water was added to each tube. To this preparation, 30 μL of the lyophilized transparent pellet was dissolved by vortexing and briefly spinned down. The prepared solution was incubated at 45 °C for 1 h and the tubes were placed at 95 °C for 5 min for inactivation of reverse transcriptase activity. For amplification purpose, 25 μL of AccuPowerR 29 Green Star Master Mix solution (Bioneer, Seoul, Korea), 1 μL of each primers, 1 μL of ROX dye, and 5 μL of cDNA template were added. Quantification of luxI gene was performed using the ABI Step One real-time PCR system (Applied Biosystems, Foster City, CA, USA) with the following cycle profile: 1 cycle at 95 °C for 3 min, followed by 40 cycles at 95 °C for 20 s, annealing temperature 58 °C for 20 s, and extension at 72 °C for 20 s. In addition, we performed one cycle of melting curve. Each experiment was performed in duplicate. The gene expression was calculated as a fold change (RQ) between target genes and matched reference 16S rRNA levels as follows: RQ = 2−ΔΔCt where Ct equal the difference between the Ct values for the analyzed gene and Ct for the 16S rRNA reference gene amplification (16).
+
+
+## N-acyl-homoserine lactone assay.
+
+The amount of AHL in the spent culture supernatant was studied by colorimetric (Liquid-Liquid extraction) method as described previously (13).
+
+
+## Determination of AHL functional groups.
+
+To assess the AHL functional groups, we performed Fourier transform infra-red (FT-IR), as suggested before (17, 18). Briefly, a drop of the AHL was placed on one of the KBr grid/plates. Then, the second plate was placed on top and subjected to IR using Brauker Tensor 70 FT-IR Spector-photometer. Presence of various functional groups was detected in the range of 500–4000 Cm−1 wave numbers.
+
+
+## Statistical Analyses.
+
+Pearson χ2 or Fisher’s exact tests were performed to compare the number of isolates producing AHL. Statistical analyses were performed using SPSS 17.0 (SPSS, Chicago, IL, USA); P ≤ 0.05 was considered as level of significance for the two-tailed tests.
+
+
+# RESULTS
+
+
+## Cloning strategy.
+
+Quantification of biofilm formation by microtiter plate method introduced 35.3% (n = 23) of the isolates as strong biofilm producers. Therefore, we amplified the luxI gene from four strong biofilm producing A. baumannii by PCR and the products were detected by agarose gel electrophoresis (Fig. 1). At the same time presence of AHL was verified in these strains. For cloning purposes, the reference sequence (GenBank accession number NC_014259.1) of luxI gene used in this study obtained from NCBI database (http://www.ncbi.nlm.nih.gov/blast). The amplified gene was cloned into pTG19 plasmid vector and recombinant DNA was then transformed to E. coli DH5α luxI-strain. By this strategy, the linearized pTG19 vector with 3′-dT overhangs prevent vector re-circularisation, therefore resulting in high percentage of recombinant clones in low background. Following transformation of E. coli competent cells with the recombinant DNA, the presence of luxI gene was detected by PCR. The pTG19 + luxI was then digested with BamHIrestriction enzyme and electrophoresed. Purified luxI DNA fragment was directly isolated from agarose gel and subcloned into expression pET28a vector double digested with restriction enzymes NdeI and XhoI. The linearized plasmid was mixed with purified luxI gene. Genetic map of plasmid pET28a used for cloning luxI gene and the sites of restriction enzymes NdeI (238) and XhoI (158) are shown in the Fig. 2. The subcloned containing luxI gene (pET28a + luxI recombinant) was then transformed to E. coli BL21 (luxI-). This allowed the creation of a translational fusion adding six histidine residues to the carboxyl terminus of the protein and placed expression of the luxI gene under the control of a T7 promoter. Presence of luxI gene in BL21 transformants was confirmed by colony PCR and corresponding 554bp DNA band was observed in the agarose gel electrophoresis. The results were compared with E. coli BL21 containing plasmid pET28a alone and A. baumannii wild type.
+
+[FIGURE: Agarose gel electrophoresis of luxI gene detected by PCR in A. baumannii producing high quantity of biofilm. Lane 1–8: isolate numbers; PC = Positive control.]
+
+[FIGURE: Cloning strategy for luxI gene detected in A. baumannii producing high biofilm used in this study. Sites of restriction enzymes NdeI and XhoI as shown with arrow.]
+
+
+## Quantitative real time PCR analysis.
+
+The expression of the luxI gene in E. coli BL21 cells and the transformants was compared by qPCR assay. We observed more than fourfold overexpression in luxI gene in the transformants cells containing pET28a +luxI as compare to control (P ≤ 0.05) (Fig. 3).
+
+[FIGURE: qRT-PCR amplification plot of A) luxI in A. baumannii strain 23 B) and E. coli BL21 transformants containing luxI. The results were conducted in duplicate and similar observation was made. NC = negative control.]
+
+
+## N-acyl-homoserine lactone production.
+
+To verify the presence of entire luxI gene in transforming cells, we measured the amount of AHL in the spent culture supernatant by colorimetric method. The A. baumannii isolate 23 showed highest amount of AHL activity while, isolate 22 exhibited AHL activity below threshold level (OD≥0.985). Similarly, our BL21 transformants showed similar OD reading for AHL production as compared to A. baumannii isolate 23 (Fig. 4).
+
+[FIGURE: N-acyl homoserine lactone (AHL) activities of A. baumannii isolates collected in this study. Threshold for AHL production is shown in the graph. NC = negative control (without bacteria).]
+
+
+## Analysis of AHL structure by FT-IR.
+
+Furthermore, the association between AHL production and luxI gene was supported by FT-IR. Analysis of AHL structure by FT-IR revealed the existence of a peak at 1764 cm−1 due to carbonyl (C = O) of the lactone ring bonded to functional amide group (N-H) group at approximately 1659 cm−1 in form of the stretching bond (Fig. 5). The IR spectrum of the AHL appeared at the same wave number of the reported literature and confirmed the existence of AHL obtained in this study.
+
+[FIGURE: FT – IR spectra of AHL produced by E. coli transformants containing luxI gene. The lactone ring and amide group were shown at 1764.69 cm−1 and 1659.23 cm−1 wave number.]
+
+
+# DISCUSSION
+
+Infections caused by A. baumannii are reported from many hospitals and unfortunately all of them associated with MDR strains (19). Recently, some hospitals reported infections with extensive drug resistance (XDR) and pan-drug strains of this bacterium with high rate of mortality (19). The important feature that enables A. baumannii to cause this much damage is due to ability to form biofilm initiated by QS system (20). A more recent study in a university hospital found that hospitalization in an ICU and previous administration of antibiotics were associated with Acinetobacter colonization at various body sites in 3.2 to 10.8 per 1.000 patients, with Acinetobacter infection accounting for 0.3% of endemic nosocomial infections in critically ill patients and for 20% of nosocomial bacteremia hospital wide (21). Unlike P. aeruginosa that possesses two paired QS systems (LasR / LasI and RhlR / RhlI) and one orphan QS regulator QscR, A. baumannii was reported to have one paired QS system: AbaR / AbaI (22). The most recently, suggest iron play an important role in AHL production (13).
+
+In this work, the gene for putative AHL synthase obtained from strong biofilm forming wild type strain of A. baumannii recovered from ICU patients has been successfully cloned into pTG19 plasmid vector and the presence of the gene in E. coli DH5α luxI-transformants was detected by PCR method. This was necessary in order to increase the amount of purified luxI gene. The 5.4 kb pET28a vector was double digested with restriction enzymes in order to insert the entire gene to insertion site of the vector. This cloning strategy resulted high transcription yield and was confirmed by qRT-PCR analysis in the recombinant cells with total RNA extracted. Unlike the non-recombinant E. coli BL21 cells, the expression of luxI gene in pET28a + luxI cells was more than fourfold higher in transformants suggesting correct design of cloning strategy. The presence of AHL activity was further confirmed in the transformants by colorimetric method and OD reading was similar to wild type strains of A. baumannii 23. This indicate that luxI gene is up regulated by plasmid vector promoter and in fact produce entire AHL compound and no other DNA element play role in synthesis process. To obtain convincing results of cloning intact luxI gene, we analyzed the structure of AHL in wild type as well as transformants by FT-IR spectroscopy. Investigation by different researchers showed an abaI mutant has a reduced biofilm-forming and motility phenotype (22). Similarly, AHL-dependent cross-talk between A. baumannii and P. aeruginosa can occur as the AHL of either species can induce the heterologous promoter in a mixed infection (23). Our research also underlines that the FT-IR provided direct evidence of cloning whole luxI gene. A key consideration in structure of AHL was a starching bond between amide functional group and lactone ring. The FT-IR confirmed the structure of AHL and suggested that luxI is only gene involved in AHL production not regulation.
+
+AHLs produced by different bacteria differ in the length of the R-group side-chain (24). Niuet al. (25) reported cloning of abaI gene in A. baumannii, and directed AHL production in recombinant E. coli. The AbaI protein was similar to members of the LuxI family of autoinducer synthases and was predicted to be the only autoinducer synthase encoded by A. baumannii. It has been suggested that, the expression of abaI at the transcriptional level was activated by ethyl acetate extracts of culture supernatants or by synthetic 3-hydroxy-C12-HSL while, an abaI::Km mutant failed to produce any detectable AHL signals and was impaired in biofilm development (26). In other cloning strategy, the 552 bp aciIgene from A. baumannii was amplified by PCR and cloned into pET28a overexpression vector, producing pET28a-aciI, with a 6 × His-tag driven by a T7 promoter. E. coli BL21 was transformed with this recombinant plasmid and the recombinant aciI gene was overexpressed upon IPTG induction (27). On the other hand, a transcriptional analysis revealed that biofilm inducing molecules, an AHL and a β-lactam antibiotic, strongly induced not only biofilm formation but also adenosine deaminase gene expression, suggesting that an elaborate gene regulation network for biofilm formation is present in the β-lactam antibiotic resistant bacterium (28). Recently, How et al. (28) reported the cloning and characterization of the luxI homologue from Acinetobacter sp. strain GG2, and confirmation of its AHLs production. It is interesting to know that A. baumannii strains could recognize and respond to P. aeruginosa QS molecules, indicating a possible inter-species communication. Most recent study on cloning of putative AHL synthase from Enterobacter cancerogenus M004 (designated asecnI) has been successfully cloned and characterized. When E. coli harboring the pet28a-ecnI and induced by IPTG for 8 h, its spent supernatant was profiled using LC-MS/MS confirmed the profiles of both 3-oxo-C6 HSL and 3-oxo-C8 HSL suggesting that EcnI is indeed the AHLsynthase of E. cancerogenus M004 (29).
+
+
+# CONCLUSIONS
+
+Our data showed that cloning of luxI in pET28a gives very efficient AHL production in E. coli transformants similar to wild type A. baumannii strains and perhaps in other bacteria. We propose that, AbaI has a primary role in AHL signal in A. baumannii and composed of 3-hydroxy-C12-HSL. It was the first time to use two cloning vector for expression of luxI gene. Further research must be conducted on physicochemical structure of AHL in this bacterium. The limitation of this work were high expense and tedious experiments to actually confirm the proper expression of luxI gene.

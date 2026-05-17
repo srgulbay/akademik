@@ -1,0 +1,14 @@
+PMID: 24914982
+Title: Structural and bioinformatic characterization of an Acinetobacter baumannii type II carrier protein.
+Authors: Allen C., Gulick A.
+Journal: Acta crystallographica. Section D, Biological crystallography
+Year: 2014
+DOI: 10.1107/S1399004714008311
+PMC: PMC4051507
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, U.S. Gov't, Non-P.H.S.
+URL: https://pubmed.ncbi.nlm.nih.gov/24914982/
+DOI URL: https://doi.org/10.1107/S1399004714008311
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051507/
+
+--- Abstract ---
+Microorganisms produce a variety of natural products via secondary metabolic biosynthetic pathways. Two of these types of synthetic systems, the nonribosomal peptide synthetases (NRPSs) and polyketide synthases (PKSs), use large modular enzymes containing multiple catalytic domains in a single protein. These multidomain enzymes use an integrated carrier protein domain to transport the growing, covalently bound natural product to the neighboring catalytic domains for each step in the synthesis. Interestingly, some PKS and NRPS clusters contain free-standing domains that interact intermolecularly with other proteins. Being expressed outside the architecture of a multi-domain protein, these so-called type II proteins present challenges to understand the precise role they play. Additional structures of individual and multi-domain components of the NRPS enzymes will therefore provide a better understanding of the features that govern the domain interactions in these interesting enzyme systems. The high-resolution crystal structure of a free-standing carrier protein from Acinetobacter baumannii that belongs to a larger NRPS-containing operon, encoded by the ABBFA_003406-ABBFA_003399 genes of A. baumannii strain AB307-0294, that has been implicated in A. baumannii motility, quorum sensing and biofilm formation, is presented here. Comparison with the closest structural homologs of other carrier proteins identifies the requirements for a conserved glycine residue and additional important sequence and structural requirements within the regions that interact with partner proteins.

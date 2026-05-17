@@ -1,0 +1,14 @@
+PMID: 37457962
+Title: Revisiting ESKAPE Pathogens: virulence, resistance, and combating strategies focusing on quorum sensing.
+Authors: Venkateswaran P., Vasudevan S., David H., Shaktivel A., Shanmugam K., Neelakantan P., Solomon A.
+Journal: Frontiers in cellular and infection microbiology
+Year: 2023
+DOI: 10.3389/fcimb.2023.1159798
+PMC: PMC10339816
+Publication types: Journal Article; Review; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/37457962/
+DOI URL: https://doi.org/10.3389/fcimb.2023.1159798
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10339816/
+
+--- Abstract ---
+The human-bacterial association is long-known and well-established in terms of both augmentations of human health and attenuation. However, the growing incidents of nosocomial infections caused by the ESKAPE pathogens (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter sp.) call for a much deeper understanding of these organisms. Adopting a holistic approach that includes the science of infection and the recent advancements in preventing and treating infections is imperative in designing novel intervention strategies against ESKAPE pathogens. In this regard, this review captures the ingenious strategies commissioned by these master players, which are teamed up against the defenses of the human team, that are equally, if not more, versatile and potent through an analogy. We have taken a basketball match as our analogy, dividing the human and bacterial species into two teams playing with the ball of health. Through this analogy, we make the concept of infectious biology more accessible.

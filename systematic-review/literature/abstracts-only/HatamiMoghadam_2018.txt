@@ -1,0 +1,12 @@
+PMID: 30672433
+Title: Assessment of biofilm formation among clinical isolates of Acinetobacter baumannii in burn wounds in the west of Iran.
+Authors: Hatami Moghadam R., Alvandi A., Akbari N., Jafari P., Abiri R.
+Journal: Cellular and molecular biology (Noisy-le-Grand, France)
+Year: 2018
+DOI: 
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/30672433/
+
+--- Abstract ---
+Burn wound infection by A. baumannii is one of the predominant cause of mortality worldwide. The present investigation aimed at determination of antimicrobial resistance profile and expression of the biofilm-related genes in A. baumannii isolated from hospitalized patients with burn wound infection in Kermanshah hospitals. Sixty four isolates of A. baumannii were recovered from burn wound of hospitalized patients at hospitals in Kermanshah. The antimicrobial susceptibility testing (AST) was performed. Biofilm formation was measured and antibiotic resistance was compared between before and after of biofilm formation. The polymerase chain reaction (PCR) and Real-Time PCR were performed to detect of abaI and pgaD genes. The biofilm producer isolates and the most resistant isolates were exposed to ozone gas .More than 70% strains were resistance to Erythromycin, Ofloxacin, Ceftazidime, Ceftriaxone, and Ticarcillin-clavulanic acid and 50% isolates were resistant to Imipenem. Thirty one (48.4%) isolates were biofilm producer. The pgaD and abaI genes were positive in 29 (45.3%) and 9 (14%) isolates, respectively. Real time PCR demonstrated that the copy numbers of the pgaD and abaI genes after biofilm formation were increased. After exposure to ozone, biofilm formation reduced in all very strong biofilm producing isolates. Our results showed that after biofilm formation, an increased resistance was observed in most isolates. Also rising expression of abaI gene was associated with biofilm formation and an increase of antibiotic resistance. In the current study, both biofilm formation and antibiotic resistance were reduced after O3 exposure.

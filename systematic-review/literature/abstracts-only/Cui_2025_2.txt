@@ -1,0 +1,14 @@
+PMID: 40510767
+Title: Signaling in Acinetobacter baumannii: Quorum sensing and nucleotide second messengers.
+Authors: Cui B., Peng G., Wang L., Deng Y.
+Journal: Computational and structural biotechnology journal
+Year: 2025
+DOI: 10.1016/j.csbj.2025.05.032
+PMC: PMC12162036
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/40510767/
+DOI URL: https://doi.org/10.1016/j.csbj.2025.05.032
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12162036/
+
+--- Abstract ---
+Quorum sensing (QS) is a widely conserved cell-cell communication mechanism through which bacterial cells control physiological functions and pathogenesis. Additionally, nucleotide second messengers (NSMs) have been shown to regulate diverse bacterial functions. Acinetobacter baumannii is now a substantial threat and a considerable challenge worldwide, and recent research indicates that A. baumannii not only utilizes QS systems but also employs NSMs to regulate phenotypes and virulence. In this article, we review the research progress of QS systems and NSMs of A. baumannii, and explore the prospects of utilizing these signaling systems as targets for the development of novel antibacterial agents.

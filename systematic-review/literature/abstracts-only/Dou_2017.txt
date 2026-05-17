@@ -1,0 +1,14 @@
+PMID: 28487993
+Title: Acinetobacter baumannii quorum-sensing signalling molecule induces the expression of drug-resistance genes.
+Authors: Dou Y., Song F., Guo F., Zhou Z., Zhu C., Xiang J., Huan J.
+Journal: Molecular medicine reports
+Year: 2017
+DOI: 10.3892/mmr.2017.6528
+PMC: PMC5436197
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/28487993/
+DOI URL: https://doi.org/10.3892/mmr.2017.6528
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436197/
+
+--- Abstract ---
+Quorum-sensing signalling molecules such as N‑acyl homoserine lactones (AHLs) enable certain Gram‑negative bacteria to respond to environmental changes through behaviours, such as biofilm formation and flagellar movement. The present study aimed to identify Acinetobacter baumannii AHLs and assess their influence on antibiotic resistance. A clinical isolate of A. baumannii strain S (AbS) was collected from the wound of a burn patient and high‑performance liquid chromatography and tandem quadrupole or quadrupole time‑of‑flight high‑resolution mass spectrometry was used to identify AbS AHLs. Antibiotic sensitivity was assessed in an AHL‑deficient AbS mutant (AbS‑M), and the expression of drug-resistance genes in the presence of meropenem in AbS, AbS‑M and AbS‑M treated with the AHL N-3-hydroxy-dodecanoyl-homoserine lactone (N‑3‑OH‑C12‑HSL). AbS‑M was more sensitive to meropenem and piperacillin than wild‑type AbS, but resistance was restored by supplementation with N‑3‑OH‑C12‑HSL. In addition, meropenem‑treated AbS‑M expressed lower levels of the drug‑resistance genes oxacillinase 51, AmpC, AdeA and AdeB; treatment with N‑3‑OH‑C12‑HSL also restored the expression of these genes. Overall, the results of the present study indicate that N‑3‑OH‑C12‑HSL may be involved in regulating the expression of drug‑resistance genes in A. baumannii. Therefore, this quorum‑sensing signalling molecule may be an important target for treating multidrug‑resistant A. baumannii infections.

@@ -1,0 +1,14 @@
+PMID: 27622249
+Title: Differences in Biofilm Mass, Expression of Biofilm-Associated Genes, and Resistance to Desiccation between Epidemic and Sporadic Clones of Carbapenem-Resistant Acinetobacter baumannii Sequence Type 191.
+Authors: Selasi G., Nicholas A., Jeon H., Na S., Kwon H., Kim Y., Heo S., Oh M., Lee J.
+Journal: PloS one
+Year: 2016
+DOI: 10.1371/journal.pone.0162576
+PMC: PMC5021322
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/27622249/
+DOI URL: https://doi.org/10.1371/journal.pone.0162576
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021322/
+
+--- Abstract ---
+Understanding the biology behind the epidemicity and persistence of Acinetobacter baumannii in the hospital environment is critical to control outbreaks of infection. This study investigated the contributing factors to the epidemicity of carbapenem-resistant A. baumannii (CRAB) sequence type (ST) 191 by comparing the differences in biofilm formation, expression of biofilm-associated genes, and resistance to desiccation between major epidemic (n = 16), minor epidemic (n = 12), and sporadic (n = 12) clones. Biofilm mass was significantly greater in the major epidemic than the minor epidemic and sporadic clones. Major and minor epidemic clones expressed biofilm-associated genes, abaI, bap, pgaABCD, and csuA/BABCDE, higher than the sporadic clones in sessile conditions. The csuC, csuD, and csuE genes were more highly expressed in the major epidemic than minor epidemic clones. Interestingly, minor epidemic clones expressed more biofilm-associated genes than the major epidemic clone under planktonic conditions. Major epidemic clones were more resistant to desiccation than minor epidemic and sporadic clones on day 21. In conclusion, the epidemic CRAB ST191 clones exhibit a higher capacity to form biofilms, express the biofilm-associated genes under sessile conditions, and resist desiccation than sporadic clones. These phenotypic and genotypic characteristics of CRAB ST191 may account for the epidemicity of specific CRAB ST191 clones in the hospital.

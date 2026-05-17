@@ -1,0 +1,13 @@
+PMID: 35867872
+Title: 3-indoleacetonitrile attenuates biofilm formation and enhances sensitivity to imipenem in Acinetobacter baumannii.
+Authors: Kashyap S., Sidhu H., Sharma P., Capalash N.
+Journal: Pathogens and disease
+Year: 2022
+DOI: 10.1093/femspd/ftac029
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/35867872/
+DOI URL: https://doi.org/10.1093/femspd/ftac029
+
+--- Abstract ---
+Acinetobacter baumannii poses a global danger due to its ability to resist most of the currently available antimicrobial agents. Furthermore, the rise of carbapenem-resistant A. baumannii isolates has limited the treatment options available. In the present study, plant auxin 3-indoleacetonitrile (3IAN) was found to inhibit biofilm formation and motility of A. baumannii at sublethal concentration. Mechanistically, 3IAN inhibited the synthesis of the quorum sensing signal 3-OH-C12-HSL by downregulating the expression of the abaI autoinducer synthase gene. 3IAN was found to reduce the minimum inhibitory concentration of A. baumannii ATCC 17978 against imipenem, ofloxacin, ciprofloxacin, tobramycin, and levofloxacin, and significantly decreased persistence against imipenem. Inhibition of efflux pumps by downregulating genes expression may be responsible for enhanced sensitivity and low persistence. 3IAN reduced the resistance to imipenem in carbapenem-resistant A. baumannii isolates by downregulating the expression of OXA β-lactamases (blaoxa-51 and blaoxa-23), outer membrane protein carO, and transporter protein adeB. These findings demonstrate the therapeutic potential of 3IAN, which could be explored as an adjuvant with antibiotics for controlling A. baumannii infections.

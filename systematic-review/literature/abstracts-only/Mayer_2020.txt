@@ -1,0 +1,14 @@
+PMID: 33101239
+Title: Quorum Sensing as a Target for Controlling Surface Associated Motility and Biofilm Formation in Acinetobacter baumannii ATCC® 17978TM.
+Authors: Mayer C., Muras A., Parga A., Romero M., Rumbo-Feal S., Poza M., Ramos-Vivas J., Otero A.
+Journal: Frontiers in microbiology
+Year: 2020
+DOI: 10.3389/fmicb.2020.565548
+PMC: PMC7554515
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/33101239/
+DOI URL: https://doi.org/10.3389/fmicb.2020.565548
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7554515/
+
+--- Abstract ---
+The important nosocomial pathogen Acinetobacter baumannii presents a quorum sensing (QS) system (abaI/abaR) mediated by acyl-homoserine-lactones (AHLs) and several quorum quenching (QQ) enzymes. However, the roles of this complex network in the control of the expression of important virulence-related phenotypes such as surface-associated motility and biofilm formation is not clear. Therefore, the effect of the mutation of the AHL synthase AbaI, and the exogenous addition of the QQ enzyme Aii20J on surface-associated motility and biofilm formation by A. baumannii ATCC® 17978TM was studied in detail. The effect of the enzyme on biofilm formation by several multidrug-resistant A. baumannii clinical isolates differing in their motility pattern was also tested. We provide evidence that a functional QS system is required for surface-associated motility and robust biofilm formation in A. baumannii ATCC® 17978TM. Important differences were found with the well-studied strain A. nosocomialis M2 regarding the relevance of the QS system depending on environmental conditions The in vitro biofilm-formation capacity of A. baumannii clinical strains was highly variable and was not related to the antibiotic resistance or surface-associated motility profiles. A high variability was also found in the sensitivity of the clinical strains to the action of the QQ enzyme, revealing important differences in virulence regulation between A. baumannii isolates and confirming that studies restricted to a single strain are not representative for the development of novel antimicrobial strategies. Extracellular DNA emerges as a key component of the extracellular matrix in A. baumannii biofilms since the combined action of the QQ enzyme Aii20J and DNase reduced biofilm formation in all tested strains. Results demonstrate that QQ strategies in combination with other enzymatic treatments such as DNase could represent an alternative approach for the prevention of A. baumannii colonization and survival on surfaces and the prevention and treatment of infections caused by this pathogen.

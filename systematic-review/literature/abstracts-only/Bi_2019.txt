@@ -1,0 +1,14 @@
+PMID: 30917986
+Title: Large-Scale Identification of AbaR-Type Genomic Islands in Acinetobacter baumannii Reveals Diverse Insertion Sites and Clonal Lineage-Specific Antimicrobial Resistance Gene Profiles.
+Authors: Bi D., Xie R., Zheng J., Yang H., Zhu X., Ou H., Wei Q.
+Journal: Antimicrobial agents and chemotherapy
+Year: 2019
+DOI: 10.1128/AAC.02526-18
+PMC: PMC6437538
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/30917986/
+DOI URL: https://doi.org/10.1128/AAC.02526-18
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6437538/
+
+--- Abstract ---
+AbaR-type genomic islands (AbaRs) are important elements responsible for antimicrobial resistance in Acinetobacter baumannii This study performed a large-scale identification of AbaRs to understand their distribution and compositions of antimicrobial resistance genes. We identified 2.89-kb left-end and 1.87-kb right-end conserved sequences (CSs) and developed a bioinformatics approach to identify AbaRs, using the CSs as signatures, in 3,148 publicly available genomes. AbaRs were prevalent in A. baumannii, being found in 2,091 genomes. They were sparse in other Acinetobacter species and confined only to this genus. Results from 111 complete genomes showed that over 85% of AbaRs resided on chromosomes. The external flanks adjacent to the inverted repeats available in all identified CSs were mapped to an AbaR-free chromosome or searched in the NCBI database for empty loci to define insertion sites. Surprisingly, 84 insertion sites with diverse origins were revealed, including 51 scattered on the chromosome, 20 plasmid borne, 12 located on prophages, transposons, ISAba1, complex AbaRs, and genomic islands of other types, and one uncharacterized, and some were strongly associated with clonal lineages. Finally, we found 994 antimicrobial resistance genes covering 28 unique genes from 70.9% (299/422) of intact AbaRs currently available. The resistance gene profiles displayed an apparent clonal lineage-specific pattern, highlighting the distinct features of AbaRs in global clone 1 (GC1) and GC2. The tet(B) gene was highly specific to the AbaRs in GC2. In conclusion, AbaRs have diverse insertion sites on the chromosome and mobile genetic elements (MGEs) and display distinct antimicrobial resistance gene profiles in different clonal lineages.

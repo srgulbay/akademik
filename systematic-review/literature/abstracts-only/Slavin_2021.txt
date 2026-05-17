@@ -1,0 +1,13 @@
+PMID: 33945683
+Title: Novel Lignin-Capped Silver Nanoparticles against Multidrug-Resistant Bacteria.
+Authors: Slavin Y., Ivanova K., Hoyo J., Perelshtein I., Owen G., Haegert A., Lin Y., LeBihan S., Gedanken A., Häfeli U., Tzanov T., Bach H.
+Journal: ACS applied materials & interfaces
+Year: 2021
+DOI: 10.1021/acsami.0c16921
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/33945683/
+DOI URL: https://doi.org/10.1021/acsami.0c16921
+
+--- Abstract ---
+The emergence of bacteria resistant to antibiotics and the resulting infections are increasingly becoming a public health issue. Multidrug-resistant (MDR) bacteria are responsible for infections leading to increased morbidity and mortality in hospitals, prolonged time of hospitalization, and additional burden to financial costs. Therefore, there is an urgent need for novel antibacterial agents that will both treat MDR infections and outsmart the bacterial evolutionary mechanisms, preventing further resistance development. In this study, a green synthesis employing nontoxic lignin as both reducing and capping agents was adopted to formulate stable and biocompatible silver-lignin nanoparticles (NPs) exhibiting antibacterial activity. The resulting silver-lignin NPs were approximately 20 nm in diameter and did not agglomerate after one year of storage at 4 °C. They were able to inhibit the growth of a panel of MDR clinical isolates, including Staphylococcus aureus, Staphylococcus epidermidis, Pseudomonas aeruginosa, Klebsiella pneumoniae, and Acinetobacter baumannii, at concentrations that did not affect the viability of a monocyte-derived THP-1 human cell line. Furthermore, the exposure of silver-lignin NPs to the THP-1 cells led to a significant increase in the secretion of the anti-inflammatory cytokine IL-10, demonstrating the potential of these particles to act as an antimicrobial and anti-inflammatory agent simultaneously. P. aeruginosa genes linked with efflux, heavy metal resistance, capsular biosynthesis, and quorum sensing were investigated for changes in gene expression upon sublethal exposure to the silver-lignin NPs. Genes encoding for membrane proteins with an efflux function were upregulated. However, all other genes were membrane proteins that did not efflux metals and were downregulated.

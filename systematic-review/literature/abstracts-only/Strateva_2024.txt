@@ -1,0 +1,13 @@
+PMID: 38261035
+Title: First detection of a cefiderocol-resistant and extensively drug-resistant Acinetobacter baumannii clinical isolate in Bulgaria.
+Authors: Strateva T., Peykov S.
+Journal: Acta microbiologica et immunologica Hungarica
+Year: 2024
+DOI: 10.1556/030.2024.02201
+PMC: 
+Publication types: Case Reports; Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38261035/
+DOI URL: https://doi.org/10.1556/030.2024.02201
+
+--- Abstract ---
+Cefiderocol (CFDC) is a first-in-class siderophore cephalosporin with potent activity against multidrug-resistant Gram-negative bacteria including carbapenem-resistant Acinetobacter baumannii. The present study aimed to explore the CFDC resistance mechanisms of an extensively drug-resistant A. baumannii isolate from Bulgaria. The A. baumannii Aba52 strain (designated Aba52) was obtained in 2018 from a blood sample of a critically ill patient. The methodology included antimicrobial susceptibility testing, whole-genome sequencing (WGS), reverse transcription quantitative real-time polymerase chain reaction (RT-qPCR), multilocus sequence typing, and phylogenomic analysis. The isolate demonstrated high-level resistance to CFDC (MIC = 64 mg L-1), resistance to carbapenems, aminoglycosides, fluoroquinolones, sulfamethoxazole-trimethoprim, and tigecycline, as well as susceptibility only to colistin. WGS-based resistome analysis revealed the existence of blaOXA-23, blaOXA-66 and blaADC-73. Seven non-conservative missense mutations affecting iron transport-related genes were detected: exbD4 (p.Ser61Pro), tonB2 (p.Ala268Val), bauA (p.Thr61Ala), ftsI (p.Ala515Val), piuA (p.Gly216Val), and feoB (p.Ser429Pro and p.Thr595Ala). A variety of virulence factors associated with adherence, biofilm formation, enzyme production, immune invasion, iron uptake, quorum sensing, and two-component regulatory systems were identified, suggesting a significant pathogenic potential of Aba52. The performed RT-qPCR analysis showed diminished (0.17) and absent expression of the pirA and piuA genes, respectively, encoding TonB-dependent siderophore receptors. Aba52 belonged to the widespread high-risk sequence type ST2 (Pasteur scheme). To the best of our knowledge, this is the first documented case of CFDC-resistant A. baumannii in Bulgaria even though, CFDC has never been applied in our country. The emerging resistance highlights the crucial need for nationwide surveillance targeting the implementation of novel antibiotics.

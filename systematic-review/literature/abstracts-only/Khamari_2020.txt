@@ -1,0 +1,20 @@
+PMID: 32380504
+Title: Molecular Analyses of Biofilm-Producing Clinical Acinetobacter baumannii Isolates from a South Indian Tertiary Care Hospital.
+Authors: Khamari B., Lama M., Pachi Pulusu C., Biswal A., Lingamallu S., Mukkirla B., Sahoo A., Dash H., Sharda R., Kumar P., Bulagonda E.
+Journal: Medical principles and practice : international journal of the Kuwait University, Health Science Centre
+Year: 2020
+DOI: 10.1159/000508461
+PMC: PMC7768151
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/32380504/
+DOI URL: https://doi.org/10.1159/000508461
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7768151/
+
+--- Abstract ---
+OBJECTIVES: The aim of the study was to determine the presence of antimicrobial-resistance (AMR) genes, virulence genes, and mobile genetic elements (MGEs) in 14 biofilm-producing clinical isolates of Acinetobacter baumannii.
+
+MATERIALS AND METHODS: PCR amplification was performed to analyse the prevalence of genes associated with antibiotic resistance (extended-spectrum β-lactamases [ESBLs] and metallo-β-lactamases [MBLs]), virulence factors, MGEs (class 1 integron, Tn1213, and A. baumannii antibiotic resistance [AbaR]), and comM among the study isolates. Random amplified polymorphic DNA (RAPD) PCR was then deployed to understand their phylogenetic relationship. All the isolates were investigated for biofilm production.
+
+RESULTS: Two isolates were antibiotic-sensitive (AS), 3 were multi-drug-resistant (MDR), and the remaining 9 were extensively drug-resistant (XDR). The majority of the isolates were found to be positive for biofilm production and were sensitive against tetracycline and colistin only. Ab14 and Ab11 were found to be resistant to minocycline and colistin, respectively. blaTEM, blaOXA, blaNDM, blaVIM, blaSIM, and blaPER-1; class 1 integron; composite transposon Tn1213; AbaR island, and virulence factor genes were detected among the isolates. These pathogens were found to have originated from multiple clonal lineages.
+
+CONCLUSION: Biofilm-producing A. baumannii with multiple virulence and AMR genes pose serious clinical challenges. The presence of MGEs further compounds the situation as these isolates serve as potential reservoirs of AMR and virulence genes. Together with their capacity for natural competence, A. baumannii, if left unchecked, will lead to the spread of resistance determinants to previously sensitive bacteria and may aid in the emergence of untreatable pan-drug-resistant phenotypes.

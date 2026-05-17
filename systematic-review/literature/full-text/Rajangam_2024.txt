@@ -1,0 +1,10 @@
+Title: Current treatment strategies for targeting virulence factors and biofilm formation in Acinetobacter baumannii
+PMID: 38683166
+PMCID: PMC
+DOI: 10.2217/fmb-2023-0263
+
+=== ABSTRACT ===
+A higher prevalence of Acinetobacter baumannii infections and mortality rate has been reported recently in hospital-acquired infections (HAI). The biofilm-forming capability of A. baumannii makes it an extremely dangerous pathogen, especially in device-associated hospital-acquired infections (DA-HAI), thereby it resists the penetration of antibiotics. Further, the transmission of the SARS-CoV-2 virus was exacerbated in DA-HAI during the epidemic. This review specifically examines the complex interconnections between several components and genes that play a role in the biofilm formation and the development of infections. The current review provides insights into innovative treatments and therapeutic approaches to combat A. baumannii biofilm-related infections, thereby ultimately improving patient outcomes and reducing the burden of HAI.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

@@ -1,0 +1,13 @@
+PMID: 38879138
+Title: Antibacterial mechanism of Pseudomonas aeruginosa UKMP14T rhamnolipids against multidrug resistant Acinetobacter baumannii.
+Authors: Firdose A., Maeda T., Sukri M., Yasin N., Sabturani N., Aqma W.
+Journal: Microbial pathogenesis
+Year: 2024
+DOI: 10.1016/j.micpath.2024.106743
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38879138/
+DOI URL: https://doi.org/10.1016/j.micpath.2024.106743
+
+--- Abstract ---
+Rhamnolipids, a major category of glycolipid biosurfactant, have recently gained enormous attention in medical field because of their relevance as effective antibacterial agents against a wide variety of pathogenic bacteria. Our previous studies have shown that rhamnolipids from an environmental isolate of Pseudomonas aeruginosa UKMP14T possess antibacterial, anti-adhesive and anti-biofilm activity against multidrug-resistant ESKAPE (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter sp.) pathogens. However, the mechanism of their antibacterial action remains unclear. Thus, this study aimed to elucidate the mechanism of the antibacterial action of P. aeruginosa UKMP14T rhamnolipids by studying the changes in cells of one of the ESKAPE pathogens, Acinetobacter baumannii, which is the most difficult strain to kill. Results revealed that rhamnolipid treatment rendered A. baumannii cells more hydrophobic as evaluated through contact angle measurements. It also induced the release of cellular proteins measuring 510 μg/mL at a rhamnolipid concentration of 1000 μg/mL. In addition, rhamnolipids were found to be bactericidal in their action as they could permeate the inner membranes, leading to a leak-out of nucleotides. More than 50 % of the cells were found to be killed upon 1000 μg/mL rhamnolipid treatment as observed through fluorescence microscopy. Other cellular changes such as irregular shape and size, membrane perturbations, clumping, shrinkage and physical damage were clearly visible in SEM, FESEM and laser micrographs. Furthermore, rhamnolipid treatment inhibited the levels of acyl-homoserine lactones (AHLs) in A. baumannii, which are vital for their biofilm formation and virulence. The obtained results indicate that P. aeruginosa UKMP14T rhamnolipids target outer and inner bacterial membranes through permeation, including physical damage to the cells, leading to cell leakage. Furthermore, AHL inhibition appears to be the mechanism behind their anti-biofilm action. All these observations can be correlated to rhamnolipids' antibacterial effect against A. baumannii.

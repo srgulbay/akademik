@@ -1,0 +1,18 @@
+PMID: 41390371
+Title: Deciphering the efficacy of staphyloxanthin-encapsulated niosomal nanovesicles to attenuate biofilm formation, quorum sensing, and meropenem persistence in Acinetobacter baumannii.
+Authors: Nosair A., Abdelaziz A., Abo-Kamar A., Al-Madboly L., Farghali M.
+Journal: BMC microbiology
+Year: 2025
+DOI: 10.1186/s12866-025-04507-1
+PMC: PMC12701606
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/41390371/
+DOI URL: https://doi.org/10.1186/s12866-025-04507-1
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12701606/
+
+--- Abstract ---
+BACKGROUND: Acinetobacter baumannii is the primary cause of persistent opportunistic infections in healthcare settings, recognized as a global priority due to its resistance to antibiotic therapy. Quorum sensing and biofilm formation are the key factors driving the pathogenesis and drug resistance of A. baumannii. Nanostructures demonstrated encouraging promise in enhancing the therapeutic efficacy and overcoming treatment failure. Therefore, the efficacy of staphyloxanthin (STX)-encapsulated niosomes was evaluated both in vitro and in vivo.
+
+RESULTS: The formulated niosomal nanovesicles displayed a spherical shape at the nanoscale (177.8 nm), featuring a slow-release rate (39.6%) and appropriate entrapment efficiency (92.7%). Our results demonstrated that STX exhibited strong antibacterial activity, with MIC values up to 16 µg/mL against multidrug-resistant isolates (n = 24). The in vitro findings revealed that the encapsulation of STX within niosomal nanovesicles demonstrated superior therapeutic efficacy compared to the free solution. This improvement was reflected by a significant reduction in biofilm formation (68-88%), motility (66.66-94.45%), and siderophore production (48.75-79.5%), as well as marked disruption of the mature biofilm by 82%. The anti-quorum sensing activity of STX was further confirmed the attenuation of biofilm and virulence, as evidenced by downregulation of abaI expression (1.42-fold reduction) and molecular docking simulations. It is noteworthy that the biological findings revealed a significant eradication of meropenem-induced persister cells after the addition of niosomal dispersion. The preclinical investigations prove the efficacy of STX in improving survival rates through reducing the bacterial burden (2-fold reduction) and lethal inflammatory consequences in a mouse model of pneumonia.
+
+CONCLUSION: our results suggested that STX may serve as a promising alternative for combating A. baumannii biofilms and persister cells.

@@ -1,0 +1,20 @@
+PMID: 38192399
+Title: Pandrug-resistant Acinetobacter baumannii from different clones and regions in Mexico have a similar plasmid carrying the blaOXA-72 gene.
+Authors: Fernández-Vázquez J., Hernández-González I., Castillo-Ramírez S., Jarillo-Quijada M., Gayosso-Vázquez C., Mateo-Estrada V., Morfín-Otero R., Rodríguez-Noriega E., Santos-Preciado J., Alcántar-Curiel M.
+Journal: Frontiers in cellular and infection microbiology
+Year: 2023
+DOI: 10.3389/fcimb.2023.1278819
+PMC: PMC10773864
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/38192399/
+DOI URL: https://doi.org/10.3389/fcimb.2023.1278819
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10773864/
+
+--- Abstract ---
+BACKGROUND: Multidrug-resistant Acinetobacter baumannii is a common hospital-acquired pathogen. The increase in antibiotic resistance is commonly due to the acquisition of mobile genetic elements carrying antibiotic resistance genes. To comprehend this, we analyzed the resistome and virulome of Mexican A. baumannii multidrug-resistant isolates.
+
+METHODS: Six clinical strains of A. baumannii from three Mexican hospitals were sequenced using the Illumina platform, the genomes were assembled with SPAdes and annotated with Prokka. Plasmid SPAdes and MobRecon were used to identify the potential plasmid sequences. Sequence Type (ST) assignation under the MLST Oxford scheme was performed using the PubMLST database. Homologous gene search for known virulent factors was performed using the virulence factor database VFDB and an in silico prediction of the resistome was conducted via the ResFinder databases.
+
+RESULTS: The six strains studied belong to different STs and clonal complexes (CC): two strains were ST208 and one was ST369; these two STs belong to the same lineage CC92, which is part of the international clone (IC) 2. Another two strains were ST758 and one was ST1054, both STs belonging to the same lineage CC636, which is within IC5. The resistome analysis of the six strains identified between 7 to 14 antibiotic resistance genes to different families of drugs, including beta-lactams, aminoglycosides, fluoroquinolones and carbapenems. We detected between 1 to 4 plasmids per strain with sizes from 1,800 bp to 111,044 bp. Two strains from hospitals in Mexico City and Guadalajara had a plasmid each of 10,012 bp pAba78r and pAba79f, respectively, which contained the bla OXA-72 gene. The structure of this plasmid showed the same 13 genes in both strains, but 4 of them were inverted in one of the strains. Finally, the six strains contain 49 identical virulence genes related to immune response evasion, quorum-sensing, and secretion systems, among others.
+
+CONCLUSION: Resistance to carbapenems due to pAba78r and pAba79f plasmids in Aba pandrug-resistant strains from different geographic areas of Mexico and different clones was detected. Our results provide further evidence that plasmids are highly relevant for the horizontal transfer of antibiotic resistance genes between different clones of A. baumannii.

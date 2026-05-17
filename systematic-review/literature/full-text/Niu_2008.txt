@@ -1,0 +1,10 @@
+Title: Isolation and Characterization of an Autoinducer Synthase from Acinetobacter baumannii▿
+PMID: 18281398
+PMCID: PMC
+DOI: 10.1128/JB.01929-07
+
+=== ABSTRACT ===
+The opportunistic human pathogen Acinetobacter baumannii strain M2 was found to produce distinct acyl-homoserine lactone (AHL) signals based on the use of an Agrobacterium tumefaciens traG-lacZ biosensor. An A. baumannii gene, designated abaI, was cloned and directed AHL production in recombinant Escherichia coli. The AbaI protein was similar to members of the LuxI family of autoinducer synthases and was predicted to be the only autoinducer synthase encoded by A. baumannii. The primary AHL signal directed by AbaI was identified by mass spectrometry as being N-(3-hydroxydodecanoyl)-l-HSL (3-hydroxy-C12-HSL). Minor amounts of at least five additional AHLs were also identified. The expression of abaI at the transcriptional level was activated by ethyl acetate extracts of culture supernatants or by synthetic 3-hydroxy-C12-HSL. An abaI::Km mutant failed to produce any detectable AHL signals and was impaired in biofilm development.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

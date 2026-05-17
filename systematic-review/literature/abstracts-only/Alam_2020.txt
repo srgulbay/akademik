@@ -1,0 +1,14 @@
+PMID: 33250645
+Title: Siphonocholin isolated from red sea sponge Siphonochalina siphonella attenuates quorum sensing controlled virulence and biofilm formation.
+Authors: Alam P., Alqahtani A., Mabood Husain F., Tabish Rehman M., Alajmi M., Noman O., El Gamal A., Al-Massarani S., Shavez Khan M.
+Journal: Saudi pharmaceutical journal : SPJ : the official publication of the Saudi Pharmaceutical Society
+Year: 2020
+DOI: 10.1016/j.jsps.2020.09.002
+PMC: PMC7679466
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/33250645/
+DOI URL: https://doi.org/10.1016/j.jsps.2020.09.002
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7679466/
+
+--- Abstract ---
+Increasing incidence of multi-drug resistant bacterial pathogens, especially in clinical settings, has been developed into a grave health situation. The drug resistance problem demands the necessity for alternative unique therapeutic policies. One such tactic is targeting the quorum sensing (QS) controlled virulence and biofilm production. In this study, we evaluated a marine steroid Siphonocholin (Syph-1) isolated from Siphonochalina siphonella against Chromobacterium violaceum (CV) 12472, Pseudomonas aeruginosa (PAO1), Methicillin-resistant Staphylococcus aureus (MRSA) and Acinetobacter baumannii (BAA) for biofilm and pellicle formation inhibition, and anti-QS property. MIC of Syph-1 against MRSA, CV, PAO1 was found as 64 µg/mL and 256 µg/mL against BAA. At selected sub-MICs, Syph-1 significantly (P ≤ 0.05) decreased the production of QS regulated virulence functions of CV12472 (violacein) and PAO1 [elastase, total protease, pyocyanin, chitinase, exopolysaccharides, and swarming motility]. The Syph-1 significantly decreased (p = 0.005) biofilm formation ability of tested bacterial pathogens, at sub-MIC level (PAO1 > MRSA > CV > BAA) and pellicle formation in A. baumannii (at 128 µg/mL). Molecular docking and simulation results indicated that Siph-1 was bound at the active site of BfmR N-terminal domain with high affinity. This study highlights the anti-QS and anti-biofilm activity of Syph-1 against bacterial pathogens reflecting its broad spectrum anti-infective potential.

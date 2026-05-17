@@ -1,0 +1,14 @@
+PMID: 36978490
+Title: The Antimicrobial Peptide Octopromycin Suppresses Biofilm Formation and Quorum Sensing in Acinetobacter baumannii.
+Authors: Rajapaksha D., Edirisinghe S., Nikapitiya C., Whang I., De Zoysa M.
+Journal: Antibiotics (Basel, Switzerland)
+Year: 2023
+DOI: 10.3390/antibiotics12030623
+PMC: PMC10044867
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36978490/
+DOI URL: https://doi.org/10.3390/antibiotics12030623
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10044867/
+
+--- Abstract ---
+Acinetobacter baumannii is an opportunistic bacterial pathogen that causes severe infections in immunocompromised individuals. A. baumannii forms biofilm and produces extracellular matrix, which supports bacteria to survive under harsh conditions and be resistant to antibacterial treatments. In the present study, we investigated the biofilm and quorum-sensing inhibitory effects of antimicrobial peptide, octopromycin in A. baumannii. Field emission-scanning electron microscopy results clearly showed significantly reduced biofilm mass and caused a collapse in biofilm architecture at the minimum inhibitory concentration (50 µg/mL) and minimum bactericidal concentration (200 µg/mL) of octopromycin. Antibiotic-resistant persister cells of A. baumannii were successfully killed by octopromycin treatment, and it inhibited violacein production in Chromobacterium violaceum in a concentration-dependent manner. Octopromycin also inhibited alginate production, surface movements (swarming and swimming), and twitching motility of A. baumannnii, confirming its anti-quorum-sensing activity. Multiple metabolic pathways, two-component regulation systems, quorum-sensing, and antibiotic synthesis-related pathways in A. baumannii biofilms were strongly affected by octopromycin treatment. The collective findings indicate that the antibacterial peptide octopromycin may control A. baumannii biofilms through multi-target interactions. Octopromycin could be a desirable therapeutic option for the prevention and control of A. baumannii infections.

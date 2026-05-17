@@ -1,0 +1,14 @@
+PMID: 36290370
+Title: Quorum Sensing in ESKAPE Bugs: A Target for Combating Antimicrobial Resistance and Bacterial Virulence.
+Authors: Santajit S., Sookrung N., Indrawattana N.
+Journal: Biology
+Year: 2022
+DOI: 10.3390/biology11101466
+PMC: PMC9598666
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/36290370/
+DOI URL: https://doi.org/10.3390/biology11101466
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9598666/
+
+--- Abstract ---
+A clique of Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter spp. (ESKAPE) bugs is the utmost causative agent responsible for multidrug resistance in hospital settings. These microorganisms employ a type of cell-cell communication termed 'quorum sensing (QS) system' to mediate population density and synchronously control the genes that modulate drug resistance and pathogenic behaviors. In this article, we focused on the present understanding of the prevailing QS system in ESKAPE pathogens. Basically, the QS component consisted of an autoinducer synthase, a ligand (e.g., acyl homoserine lactones/peptide hormones), and a transcriptional regulator. QS mediated expression of the bacterial capsule, iron acquisition, adherence factors, synthesis of lipopolysaccharide, poly-N-acetylglucosamine (PNAG) biosynthesis, motility, as well as biofilm development allow bacteria to promote an antimicrobial-resistant population that can escape the action of traditional drugs and endorse a divergent virulence production. The increasing prevalence of these harmful threats to infection control, as well as the urgent need for effective antimicrobial strategies to combat them, serve to highlight the important anti-QS strategies developed to address the difficulty of treating microorganisms.

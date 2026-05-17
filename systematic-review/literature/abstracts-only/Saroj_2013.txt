@@ -1,0 +1,14 @@
+PMID: 23318804
+Title: Streptomycin inhibits quorum sensing in Acinetobacter baumannii.
+Authors: Saroj S., Rather P.
+Journal: Antimicrobial agents and chemotherapy
+Year: 2013
+DOI: 10.1128/AAC.02161-12
+PMC: PMC3623334
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, U.S. Gov't, Non-P.H.S.
+URL: https://pubmed.ncbi.nlm.nih.gov/23318804/
+DOI URL: https://doi.org/10.1128/AAC.02161-12
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3623334/
+
+--- Abstract ---
+Streptomycin at subinhibitory concentrations was found to inhibit quorum sensing in Acinetobacter baumannii. Conditioned medium prepared by growth of A. baumannii in the presence of subinhibitory concentrations of streptomycin exhibited reduced activation of two quorum-sensing-regulated genes, abaI, encoding an autoinducer synthase, and A1S_0112. The reduced expression of AbaI resulted in greatly decreased levels of 3-OH-C(12)-HSL as confirmed by direct analysis using thin-layer chromatography. The effect on acyl-homoserine lactone (AHL) signal production was specific to streptomycin, as gentamicin and myomycin had no significant effect at subinhibitory levels.

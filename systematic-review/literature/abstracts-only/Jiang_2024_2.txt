@@ -1,0 +1,14 @@
+PMID: 38524182
+Title: Characterization of a Straboviridae phage vB_AbaM-SHI and its inhibition effect on biofilms of Acinetobacter baumannii.
+Authors: Jiang L., Xu Q., Wu Y., Zhou X., Chen Z., Sun Q., Wen J.
+Journal: Frontiers in cellular and infection microbiology
+Year: 2024
+DOI: 10.3389/fcimb.2024.1351993
+PMC: PMC10958429
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38524182/
+DOI URL: https://doi.org/10.3389/fcimb.2024.1351993
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10958429/
+
+--- Abstract ---
+Acinetobacter baumannii (A. baumannii) is a popular clinical pathogen worldwide. Biofilm-associated antibiotic-resistant A. baumannii infection poses a great threat to human health. Bacteria in biofilms are highly resistant to antibiotics and disinfectants. Furthermore, inhibition or eradication of biofilms in husbandry, the food industry and clinics are almost impossible. Phages can move across the biofilm matrix and promote antibiotic penetration. In the present study, a lytic A. baumannii phage vB_AbaM-SHI, belonging to family Straboviridae, was isolated from sauce chop factory drain outlet in Wuxi, China. The DNA genome consists of 44,180 bp which contain 93 open reading frames, and genes encoding products morphogenesis are located at the end of the genome. The amino acid sequence of vB_AbaM-SHI endolysin is different from those of previously reported A. baumannii phages in NCBI. Phage vB_AbaM-SHI endolysin has two additional β strands due to the replacement of a lysine (K) (in KU510289.1, NC_041857.1, JX976549.1 and MH853786.1) with an arginine (R) (SHI) at position 21 of A. baumannii phage endolysin. Spot test showed that phage vB_AbaM-SHI is able to lyse some antibiotic-resistant bacteria, such as A. baumannii (SL, SL1, and SG strains) and E. coli BL21 strain. Additionally, phage vB_AbaM-SHI independently killed bacteria and inhibited bacterial biofilm formation, and synergistically exerted strong antibacterial effects with antibiotics. This study provided a new perspective into the potential application value of phage vB_AbaM-SHI as an antimicrobial agent.

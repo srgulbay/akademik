@@ -1,0 +1,18 @@
+PMID: 36979049
+Title: Genomic Comparative Analysis of Two Multi-Drug Resistance (MDR) Acinetobacter baumannii Clinical Strains Assigned to International Clonal Lineage II Recovered Pre- and Post-COVID-19 Pandemic.
+Authors: Traglia G., Pasteran F., Escalante J., Nishimura B., Tuttobene M., Subils T., Nuñez M., Rivollier M., Corso A., Tolmasky M., Ramirez M.
+Journal: Biology
+Year: 2023
+DOI: 10.3390/biology12030358
+PMC: PMC10045941
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36979049/
+DOI URL: https://doi.org/10.3390/biology12030358
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10045941/
+
+--- Abstract ---
+BACKGROUND: After the emergence of COVID-19, numerous cases of A. baumannii/SARS-CoV-2 co-infection were reported. Whether the co-infecting A. baumannii strains have distinctive characteristics remains unknown.
+
+METHODS AND RESULTS: A. baumannii AMA_NO was isolated in 2021 from a patient with COVID-19. AMA166 was isolated from a mini-BAL used on a patient with pneumonia in 2016. Both genomes were similar, but they possessed 337 (AMA_NO) and 93 (AMA166) unique genes that were associated with biofilm formation, flagellar assembly, antibiotic resistance, secretion systems, and other functions. The antibiotic resistance genes were found within mobile genetic elements. While both strains harbored the carbapenemase-coding gene blaOXA-23, only the strain AMA_NO carried blaNDM-1. Representative functions coded for by virulence genes are the synthesis of the outer core of lipooligosaccharide (OCL5), biosynthesis and export of the capsular polysaccharide (KL2 cluster), high-efficiency iron uptake systems (acinetobactin and baumannoferrin), adherence, and quorum sensing. A comparative phylogenetic analysis including 239 additional sequence type (ST) 2 representative genomes showed high similarity to A. baumannii ABBL141. Since the degree of similarity that was observed between A. baumannii AMA_NO and AMA166 is higher than that found among other ST2 strains, we propose that they derive from a unique background based on core-genome phylogeny and comparative genome analysis.
+
+CONCLUSIONS: Acquisition or shedding of specific genes could increase the ability of A. baumannii to infect patients with COVID-19.

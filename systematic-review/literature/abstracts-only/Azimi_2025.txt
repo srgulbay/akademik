@@ -1,0 +1,20 @@
+PMID: 40529473
+Title: Virulent genes related to the synthesis of community interaction factors among clinical samples of multidrug-resistant Acinetobacter baumannii in Iran.
+Authors: Azimi L., Hasani H., Karimi A., Fahimzad S., Rezaei A., Fallah F., Fatehi S., Armin S., Sadr M.
+Journal: GMS hygiene and infection control
+Year: 2025
+DOI: 10.3205/dgkh000552
+PMC: PMC12172066
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40529473/
+DOI URL: https://doi.org/10.3205/dgkh000552
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12172066/
+
+--- Abstract ---
+INTRODUCTION: Acinetobacter (A.) baumannii poses a significant threat of resistance to multiple antibiotics. This study aimed to examine the prevalence of the abaI and bap genes in clinical isolates of multidrug-resistant A. baumannii collected from 10 cities in Iran.
+
+METHOD: Antibiotic susceptibility testing was performed using the Kirby-Bauer disk diffusion method, and multidrug resistance was confirmed using specific criteria. The presence of abaI and bap genes was identified through conventional PCR.
+
+RESULTS: Of 50 samples total, 62% were from males, and 38% were from females, with most isolates originating from ICUs and obtained from the tracheobronchial tract. The abaI gene was present in 94% of samples, while the bap gene was present in 88%. Statistical analysis showed no significant differences in gene frequencies and antibiotic resistance patterns.
+
+CONCLUSIONS: The presence of abaI or bap genes was not related to antibiotic resistance. However, the frequency of these virulent genes was relatively high among multi-drug resistant A. baumannii samples. The differences in antibiotic resistance patterns of this bacterium show the need for future research in this field.

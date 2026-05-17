@@ -1,0 +1,14 @@
+PMID: 21700662
+Title: Genetic analysis of surface motility in Acinetobacter baumannii.
+Authors: Clemmer K., Bonomo R., Rather P.
+Journal: Microbiology (Reading, England)
+Year: 2011
+DOI: 10.1099/mic.0.049791-0
+PMC: PMC3352170
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't; Research Support, U.S. Gov't, Non-P.H.S.
+URL: https://pubmed.ncbi.nlm.nih.gov/21700662/
+DOI URL: https://doi.org/10.1099/mic.0.049791-0
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3352170/
+
+--- Abstract ---
+The Gram-negative pathogen Acinetobacter baumannii strain M2 was found to exhibit a robust surface motility on low-percentage (0.2-0.4 %) agar plates. These patterns of motility were dramatically different depending on whether Difco or Eiken agar was used. Motility was observed in many, but not all, clinical and environmental isolates. The use of drop collapse assays to demonstrate surfactant production was unsuccessful, and the role of surfactants in A. baumannii M2 motility remains unclear. Surface motility was impaired by an insertion in pilT, encoding a gene product that is often required for retraction of the type IV pilus. Motility was also dependent on quorum sensing, as a null allele in the abaI autoinducer synthase decreased motility, and the addition of exogenous N-(3-hydroxy)-dodecanoylhomoserine lactone (3-OH C₁₂-HSL) restored motility to the abaI mutant. Transposon mutagenesis was used to identify additional genes required for motility and revealed loci encoding various functions: non-ribosomal synthesis of a putative lipopeptide, a sensor kinase (BfmS), a lytic transglycosylase, O-antigen biosynthesis (RmlB), an outer membrane porin (OmpA) and de novo purine biosynthesis (PurK). Two of the above genes required for motility were highly activated by quorum sensing, and may explain, in part, the requirement for quorum sensing in motility.

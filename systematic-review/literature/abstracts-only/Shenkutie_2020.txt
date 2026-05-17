@@ -1,0 +1,14 @@
+PMID: 33212840
+Title: Biofilm-Induced Antibiotic Resistance in Clinical Acinetobacter baumannii Isolates.
+Authors: Shenkutie A., Yao M., Siu G., Wong B., Leung P.
+Journal: Antibiotics (Basel, Switzerland)
+Year: 2020
+DOI: 10.3390/antibiotics9110817
+PMC: PMC7698371
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/33212840/
+DOI URL: https://doi.org/10.3390/antibiotics9110817
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7698371/
+
+--- Abstract ---
+In order to understand the role of biofilm in the emergence of antibiotic resistance, a total of 104 clinical Acinetobacter baumannii strains were investigated for their biofilm-forming capacities and genes associated with biofilm formation. Selected biofilm-formers were tested for antibiotic susceptibilities when grown in biofilm phase. Reversibility of antibiotic susceptibility in planktonic cells regrown from biofilm were investigated. We found 59.6% of the strains were biofilm-formers, among which, 66.1% were non-multidrug resistant (MDR) strains. Presence of virulence genes bap, csuE, and abaI was significantly associated with biofilm-forming capacities. When strains were grown in biofilm state, the minimum biofilm eradication concentrations were 44, 407, and 364 times higher than the minimum bactericidal concentrations (MBC) for colistin, ciprofloxacin, and imipenem, respectively. Persisters were detected after treating the biofilm at 32-256 times the MBC of planktonic cells. Reversibility test for antibiotic susceptibility showed that biofilm formation induced reversible antibiotic tolerance in the non-MDR strains but a higher level of irreversible resistance in the extensively drug-resistant (XDR) strain. In summary, we showed that the non-MDR strains were strong biofilm-formers. Presence of persisters in biofilm contributed to the reduced antibiotic susceptibilities. Biofilm-grown Acinetobacter baumannii has induced antibiotic tolerance in non-MDR strains and increased resistance levels in XDR strains. To address the regulatory mechanisms of biofilm-specific resistance, thorough investigations at genome and transcription levels are warranted.

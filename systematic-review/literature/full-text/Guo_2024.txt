@@ -1,0 +1,191 @@
+Title: Acinetobacter baumannii biofilm was inhibited by tryptanthrin through disrupting its different stages and genes expression
+PMID: 38812547
+PMCID: PMC
+DOI: 10.1016/j.isci.2024.109942
+
+=== ABSTRACT ===
+# Summary
+
+Biofilm formation plays a significant role in antibiotic resistance, necessitating the search for alternative therapies against biofilm-associated infections. This study demonstrates that 20 μg/mL tryptanthrin can hinder biofilm formation above 50% in various A. baumannii strains. Tryptanthrin impacts various stages of biofilm formation, including the inhibition of surface motility and eDNA release in A. baumannii, as well as an increase in its sensitivity to H202. RT-qPCR analysis reveals that tryptanthrin significantly decreases the expression of the following genes: abaI (19.07%), abaR (33.47%), bfmR (43.41%), csuA/B (64.16%), csuE (50.20%), ompA (67.93%), and katE (72.53%), which are related to biofilm formation and quorum sensing. Furthermore, tryptanthrin is relatively safe and can reduce the virulence of A. baumannii in a Galleria mellonella infection model. Overall, our study demonstrates the potential of tryptanthrin in controlling biofilm formation and virulence of A. baumannii by disrupting different stages of biofilm formation and intercellular signaling communication.
+
+=== FULL TEXT ===
+# Introduction
+
+The survival of bacteria relies significantly on various activities, including the secretion of virulence factors and biofilm formation.1 Bacterial biofilm is a three-dimensional structure created by bacteria adhering to biological or inanimate surfaces and enveloped by self-produced extracellular polymeric substances (EPS), such as polysaccharides, proteins, and extracellular DNA (eDNA).1,2 Because biofilms establish a protective outer layer where bacteria can form colonies and construct a network structure, enabling them to shield and cooperate with one another, the existence of biofilms hinders the effective action of traditional antibiotics on bacteria and substantially heightens bacterial resistance to conventional antibiotic treatment and host immune responses.3,4,5 More than 80% of chronic bacterial infections in humans are associated with biofilms.6,7 Furthermore, biofilms can develop on medical devices and implants, escalating the risk of infection and increasing treatment costs during surgeries or other medical procedures.8,9,10 The initial phase of biofilm formation is linked to the development of fimbriae, a structure assembled by the CsuA/BABCDE chaperone-primer secretion system.11 Additionally, biofilm formation is also associated with katE, two-component systems (bfmRS), outer membrane protein ompA, and other factors.11,12,13
+
+Acinetobacter baumannii (A. baumannii) is an aerobic, non-fermented, gram-negative opportunistic pathogen, classified by the American Society for Infectious Diseases (IDSA) as one of the “ESKAPE” bacteria, known to cause nosocomial infections such as respiratory tract infections, urinary tract infections, bacteremia, or secondary meningitis.14 Furthermore, the escalating resistance of A. baumannii to β-lactams, carbapenems, fluoroquinolones, and aminoglycoside antibiotics severely hampers treatment effectiveness.15 Multiple studies have demonstrated a positive correlation between A. baumannii drug resistance and biofilm formation.15,16,17
+
+Tryptanthrin is a natural compound classified within the alkaloid chemical category. It can be derived from various natural plants and various cell cultures, including yeast.18 Anticancer activity has been demonstrated in studies, along with the capacity to modulate the expression levels of IL-2, IL-10, and TNF-α.19 Furthermore, it serves as an orally potent inhibitor of cellular leukotriene (LT) biosynthesis.20 In addition, the antiparasitic and antibacterial activities of tryptanthrin were also found. Tryptanthrin can protect against leishmaniasis21 and Cryptococcus species by interfering with the cell cycle;22 against Campylobacter jejuni;23 against Helicobacter pylori through an infected Mongolian gerbil assay;24 against methicillin-resistant Staphylococcus aureus (MRSA) of Couroupita guianensis;25 and against Vibrio cholerae by inhibiting biofilms.26 To date, there has been no research on the effect of tryptanthrin on A. baumannii. Tryptanthrin has attracted great interest as a potential therapeutic agent due to its structural simplicity, convenient to acquire and broad spectrum of biological activities. In this study, we aimed to evaluate the effect of tryptanthrin on A. baumannii biofilm and investigate the mechanisms of action. In addition, hemolysis assay was performed to provide first insights on tryptanthrin safety.
+
+In general, the control of biofilms to inhibit bacterial growth has relied on the use of antimicrobials or fungicides. However, a significant drawback associated with this approach is the potential for increased bacterial resistance due to its ongoing usage.27 Recent research has recognized natural products as agents capable of inhibiting biofilms without impacting bacterial growth, offering an alternative solution.28,29 In this study, we initially examined the biofilm-forming capacity of A. baumannii and assessed the influence of tryptanthrin on A. baumannii’s biofilm formation at various stages of the process. RT-qPCR was used to assess the plausible molecular mechanism of its antibiofilm activity. Finally, the effect of tryptanthrin on the virulence of A. baumannii was studied with a Galleria mellonella model. This study would provide an antibiofilm inhibitor and novel therapeutic strategy for treating A. baumannii infection.
+
+
+# Results
+
+
+## Effects of tryptanthrin on A. baumannii biofilm formation
+
+The biofilm-forming abilities of 36 clinically isolated strains and 1 ATCC strain of A. baumannii were tested, and the results showed that 13 strains had strong biofilm-forming ability, 17 strains had moderate biofilm-forming ability, 3 strains had weak biofilm-forming ability, and 4 strains had no biofilm-forming ability (Figures 1A and S1). A. baumannii ATCC 17978, the multidrug-resistant (MDR) strain AB108 and the drug-sensitive strain AB102 were selected for further study due to the strong biofilm-forming ability and different drug resistance phenotypes. The biofilm formation ability of these three strains was strong, and the antibiotic profiles of the three strains are shown in Table 1. Such strains selection could provide the generalizability of the findings. A crystal violet assay was used to detect the effects of tryptanthrin on A. baumannii biofilm formation. Tryptanthrin concentration-dependently inhibited the biofilms of the strains ATCC17978, AB108, and AB102 (Figures 1C, 1D, and 1E). Tryptanthrin at a concentration of 20 μg/mL exhibited significant antibiofilm activity against ATCC17978 (59%), AB108 (63%), and AB102 (85%) as shown in Figures 1C, 1D, and 1E. When compared to gallium nitrate, a recognized biofilm inhibitor,30 it was observed that although gallium nitrate demonstrated an inhibitory effect on biofilms, tryptanthrin’s inhibitory effect was more pronounced at equivalent concentrations (Figures 1B and 1C).Figure 1Effects of tryptanthrin on A. baumannii biofilm formation(A) Biofilm formation ability of A. baumannii ATCC strain and clinical strains.(B) Gallium nitrate decreased A. baumannii ATCC 17978 biofilm formation; Tryptanthrin decreased A. baumannii ATCC 17978 (C) AB108 (D) and AB102 (E) biofilm formation. Data were shown as mean ± SD, and nonparametric one-way ANOVA was used to assess the statistical significance (∗∗p < 0.01, ∗∗∗p < 0.001).Table 1Antibiotic resistance and biofilm formation ability of ATCC17978, AB108 and AB102StrainAntibioticsPIPSAMTZPCTXCAZCROFEPIMPMEMGENTOBCIPLEVTETMINGATDOXMDR/NonMDRBiofilm formationATCC17978SSSISISSSSSSSSSSSNon MDRStrongAB108RIRRRRRRRISRIRSSRMDRStrongAB102SSSISISSSSSRIRSSSNon MDRStrongPIP, Piperacillin; SAM, Ampicillin-sulbactam; TZP, Piperacillin tazobactam; CTX, Cefotaxime; CAZ, Ceftazidime; CRO, Ceftriaxone; FEP, Cefepime; IMP, Imipenem; MEM, Meropenem; GEN, Gentamicin; TOB, Tobramycin; CIP, Ciprofloxacin; LEV, Levofloxacin; TET, Tetracycline; MIN, Minocycline; GAT, Gatifloxacin; DOX, Doxycycline. “R” for resistant, “S” for susceptible, “I” for intermediate.
+
+
+## Tryptanthrin has no influence on the growth of A. baumannii
+
+The detection of tryptanthrin’s impact on bacterial growth revealed that the minimum inhibitory concentration (MIC) of tryptanthrin was found to exceed 320 μg/mL. It is worth noting that high concentrations of tryptanthrin can precipitate, potentially leading to interference with accurate MIC determination (Figure 2). Growth curves demonstrated that up to concentrations of 80 μg/mL, tryptanthrin did not exert a significant influence on bacterial growth. This suggests that the antibiofilm effect of tryptanthrin does not stem from its antimicrobial properties. MBIC (minimal biofilm inhibitory concentration) is defined as the minimum drug concentration that achieves over 50% inhibition of biofilm formation without affecting bacterial growth.31 Therefore, 20 μg/mL tryptanthrin was chosen for the following study.Figure 2Effects of tryptanthrin on the growth of A. baumannii(A) (ATCC 17978), (C) (AB108), and (E) (AB102) were growth curves plotted by OD600 nm measurement; (B) (ATCC 17978), (D) (AB108), and (F) (AB102) were growth curves plotted by colony counting. Data were presented as mean ± SD from three biological replicates.
+
+
+## Microscopic visualization of the effects of tryptanthrin on biofilm formation
+
+Microscopic observations of A. baumannii biofilm formation were conducted from various angles. Both light microscopy and Confocal laser scanning microscope (CLSM) revealed that the control group exhibited substantial aggregated biofilm formation, while the presence of tryptanthrin at a concentration of 20 μg/mL significantly reduced both biofilm thickness and quantity (Figures 3A and 3B). Furthermore, A. baumannii formed a thin circular biofilm on glass surfaces but a robust circular biofilm on polyethylene surfaces. Interestingly, tryptanthrin exhibited a more pronounced anti-ring biofilm activity on glass surfaces compared to polystyrene surfaces (Figures 3C and 3D). These findings highlight the effectiveness of tryptanthrin in inhibiting biofilm formation when examined from both 2D and 3D perspectives.Figure 3Biofilm formation(A) Light microscopy showing the antibiofilm efficacy of 20 μg/mL tryptanthrin against ATCC17978, AB108, and AB102, scale bar is 400 μm.(B) CLSM images showing the antibiofilm efficacy of 20 μg/mL tryptanthrin against ATCC17978, AB108, and AB102, different colors in the picture represent the scale bar; Tryptanthrin inhibited the ring biofilm formation of ATCC17978, AB108, and AB102 on a polystyrene surface (C) and on glass (D).
+
+
+## Tryptanthrin inhibited surface motility
+
+In the initial stage of A. baumannii biofilm formation, appendages, such as fimbriae, mediate the adhesion of bacteria to the surfaces of objects or abiotic surfaces, thereby promoting biofilm formation. As shown in Figure 4, tryptanthrin inhibited surface motility when 5 μg/mL tryptanthrin was added, and the addition of a corresponding volume of solvent did not affect surface motility. Thus, tryptanthrin has an inhibitory effect on the initial stage of biofilm formation.Figure 4Effect of tryptanthrin (5 μg/mL) on the swarming motility of ATCC17978, AB108 and AB102(A) Plate images of swarming motility on 0.25% agar plates plus 0.1% DMSO, 0.25% agar plates and 0.25% agar plates plus tryptanthrin (5 μg/mL).(B) Measurement and analysis of the size of the swarming diameters. Data were presented as mean ± SD, and statistical significance was determined by Student’s t tests (∗∗∗p < 0.001).
+
+
+## Tryptanthrin inhibited the production of eDNA
+
+During the biofilm formation process, bacterial EPSs, including polysaccharides, proteins, and eDNA, can further adhere to bacteria and promote the formation of three-dimensional structures in biofilms. The amount of eDNA released was assessed in the presence and absence of tryptanthrin (20 μg/mL). An ImageJ system was used to conduct grayscale analysis of the agarose gel electrophoresis results, which revealed a significant decrease in the amount of eDNA after the addition of tryptanthrin (Figure 5).Figure 5Effect of tryptanthrin (20 μg/mL) on the synthesis of eDNA from AB102, AB108, and ATCC17978(A) Agarose gel electropherogram showing the eDNA content, Lane M: Molecular weight marker.(B) ImageJ analysis of agarose gel electrophoresis bands. Data were presented as mean ± SD, and statistical significance was determined by Student’s t tests (∗∗p < 0.01, ∗∗∗p < 0.001).
+
+
+## Tryptanthrin reduced resistance to oxidants
+
+An H2O2 sensitivity assay was used to evaluate the resistance of A. baumannii to oxidants. As shown in Figure 6, compared to the control treatment, tryptanthrin (20 μg/mL) significantly enhanced the sensitivity of A. baumannii to H2O2 and decreased survival by approximately 2 log10 (Figure 6). However, there was no significant change in the AB108 strain after treatment with tryptanthrin. AB108 is a MDR strain, possibly because of its resistance to oxidants due to its strong drug resistance.Figure 6Effect of tryptanthrin (20 μg/mL) on the survival of AB102, AB108, and ATCC17978 in the presence of H2O2(A) Colony count plots were generated with a PBS dilution.(B) Statistical analysis of the data were performed according to the colony count. Data were presented as mean ± SD, and statistical significance was determined by Student’s t tests (∗∗∗p < 0.001), and “ns” indicates no significant difference.
+
+
+## Tryptanthrin affects the expression of biofilm-associated genes
+
+The effect of tryptanthrin (20 μg/mL) on the transcription of candidate genes was analyzed by RT-qPCR. The results indicated significant decreases in the expression of the following genes: abaI (19.07%), abaR (33.47%), bfmR (43.41%), csuA/B (64.16%), csuE (50.20%), ompA (67.93%), and katE (72.53%) (Figure 7).Figure 7RT-qPCR analysis of the expression of candidate genes associated with biofilm formation and virulence production in A. baumannii in response to tryptanthrin (20 μg/mL)Data were presented as mean ± SD, and statistical significance was determined by Student’s t tests (∗∗p < 0.01, ∗∗∗p < 0.001).
+
+
+## Safety evaluation of tryptanthrin
+
+The safety of tryptanthrin was evaluated with sheep red blood cells, and a hemolysis rate less than 5% indicated that the drug is relatively safe.32 Tryptanthrin had a <5% red blood cell (RBC) hemolysis rate until it reached 100 μg/mL, indicating that tryptanthrin was nonhemolytic when it was in contact with blood at a concentration of 100 μg/mL. Therefore, tryptanthrin is relatively safe to use.
+
+
+## Tryptanthrin reduced virulence
+
+To determine the effect of tryptanthrin treatment on the virulence of A. baumannii, a Galleria mellonella infection model was used, and the number of survivors was recorded for different treatment groups after 96 h. We found that after tryptanthrin treatment, the survival rate of Galleria mellonella increased from 40% to 80% (Figure 8), illustrating that tryptanthrin may reduce the virulence of A. baumannii, thus increasing the survival rate of Galleria mellonella.Figure 8Effect of tryptanthrin on the survival of Galleria mellonella infected with A. baumannii ATCC17978Survival analyses were performed using Kaplan-Meier survival curves.
+
+
+# Discussion
+
+When microorganisms are enveloped by the extracellular polysaccharide matrix produced on biological or nonbiological surfaces, biofilms are formed. The formation of A. baumannii biofilms is inseparable from antibiotic resistance, which poses a severe challenge to the clinical management of A. baumannii-related biofilm infections.33 In our study, we found that A. baumannii clinical isolates can strongly form biofilms regardless of whether the strain is drug resistant or sensitive; for example, AB108 (MDR) and AB102 (drug sensitive) were tested. Traditionally, antimicrobials or fungicides have been employed for biofilm control to restrain bacterial growth. However, a significant drawback of this approach is the potential for increased bacterial resistance through prolonged usage.27 Recent research has highlighted natural products as biofilm inhibitors capable of interfering with biofilm development mechanisms while leaving bacterial growth unaffected. The anti-biofilm effects of natural products predominantly hinge on several factors, including the inhibition of polymer matrix formation, suppression of cell adhesion and attachment, disruption of extracellular matrix (ECM) production, and reduction in the generation of virulence factors. These actions ultimately impede quorum sensing (QS) networks and the formation of biofilms.28
+
+The natural product tryptanthrin is a promising drug candidate for leishmaniasis treatment.21 Tryptanthrin has antifungal activity against Cryptococcus species by interfering with the cell cycle,22 Taketoshi Iwata, etc., found that tryptanthrin has potential for anti-C. jejuni activity,23 and Lekshmi Narendrakumar’s research showed that tryptanthrin has strong antibiofilm activity at sub-MICs (MIC = 2 μg/mL) against V. cholera.26 Therefore, we investigated whether tryptanthrin can inhibit or disrupt biofilm formation in A. baumannii.
+
+In this study, we found that tryptanthrin at a concentration of 20 μg/mL had a significant inhibitory effect on the biofilm formation of A. baumannii, regardless of the presence of ATCC or MDR strains or antibiotic-sensitive strains, for which the inhibition rates were above 50%. Furthermore, no significant difference was observed in bacterial growth between the control and treatment groups at this concentration. These results indicate that tryptanthrin can effectively inhibit the biofilm formation of A. baumannii, suggesting that its anti-biofilm activity is not attributable to antibacterial activity. Tryptanthrin does not affect bacterial growth and thus does not impose selective pressure on A. baumannii strains, suggesting that this bacterium may be less susceptible to developing drug resistance. Though gallium nitrate was approved by the U.S. Food and Drug Administration for the treatment of some indications,34 however, several obstacles limit its potential use, like relatively straightforward acquisition of resistance, loss of pyochelin and the development of gallium efflux activity.35,36,37 Results shown that the biofilm formation inhibitory effect of tryptanthrin was more pronounced compared to gallium nitrate (Figures 1B and 1C), this study may provide a better natural source of biofilm inhibitor. Microscopic observations revealed a notable reduction in both the density and depth of bacterial biofilm formation following the introduction of tryptanthrin. Intriguingly, the choice of materials, whether polystyrene or glass, had an impact on the formation of A. baumannii biofilms. Furthermore, it is worth noting that the hemolysis rate remained below 5% even at concentrations of up to 100 μg/mL, signifying that the concentrations used to inhibit biofilm formation do not induce hemolysis when in contact with blood. This suggests that tryptanthrin exhibits relatively good safety.
+
+Biofilm formation constitutes a multifaceted dynamic process, typically characterized by five stages: reversible adhesion of bacteria, accumulation of bacteria, accompanied by matrix secretion for initial biofilm formation, rendering bacterial adhesion irreversible, microcolony formation or proliferation. Gradual maturation of the biofilm structure, leading to the development of a three-dimensional colony structure. Maturity culminates with bacterial shedding, reverting to planktonic bacteria that can disperse to new locations.4 During the initial phase of biofilm formation, planktonic bacteria adhere to surfaces via appendages like fimbriae or flagella, sometimes referred to as “swarming” motility, initially described in Acinetobacter isolates.38 Importantly, multiple studies have indicated that impaired motility results in significant pathogen attenuation.39 In this investigation, we observed that tryptanthrin can diminish the surface motility of A. baumannii (Figure 4). The anti-biofilm activity of tryptanthrin during the early stages of biofilm formation likely arises from its impact on cell-to-cell interactions. Consequently, we tested QS-associated gene expression via RT-qPCR. Following the initial colonization and adhesion, bacteria secrete eDNA to facilitate bacterial binding and promote biofilm formation.40 Our results showed a reduction in eDNA after tryptanthrin treatment. Therefore, tryptanthrin may affect the biofilm formation process by inhibiting the adhesion and colonization of A. baumannii on surfaces, altering bacterial interactions, and subsequently reducing matrix components such as extracellular polymer eDNA.
+
+The production of antioxidant enzymes in A. baumannii is associated with biofilm formation mediated by QS.41 Bacteria treated with tryptanthrin were found to be more susceptible to H2O2 compared to the controls. Nonetheless, no significant changes were observed in AB108, which is a MDR strain. The preliminary hypothesis suggests that this strain may possess some resistance to H2O2, attributable to its robust drug resistance.
+
+To analyze the molecular mechanism of action of tryptanthrin, the gene expression profiles of control and tryptanthrin-treated A. baumannii were studied using RT-qPCR analysis. Biofilms are among the main determinants of virulence in A. baumannii and are intricately modulated by a myriad of factors, including the QS system, transcriptional regulators, and the two-component signal transduction system (TCS).13 Among them, abaI/abaR is a member of the A. baumannii QS system and is a homolog of LuxI/LuxR present in other gram-negative bacteria.42 The QS system serves as a critical avenue for inter-bacterial communication, playing a pivotal role in various stages of bacterial biofilm formation. Nine traditional Chinese medicine monomers (TCMMs), such as caffeic acid, cinnamic acid, and vanillin, have exhibited QS inhibitory activity, thereby hindering biofilm formation and diminishing virulence.43 In this study, treatment with tryptanthrin led to a reduction in the expression of the abaI/abaR gene. The two-component system (TCS) is a microbial signaling mechanism that enables the perception of and adaptation to changing environmental conditions. This system is significant in A. baumannii, where it plays a crucial role in the regulation of biofilm formation.44 Within the TCS, BfmR serves as the responsive regulatory factor, receiving chemical signals from its homologous sensor kinase, BfmS. The activation by BfmS initiates the expression of virulence genes that are associated with biofilm formation, production of EPS and toxin production.45 In A. baumannii, the BfmRS two-component system is instrumental in controlling both biofilm formation and virulence.46,47 The initial step in biofilm formation involves bacterial attachment to surfaces.48 In A. baumannii, attachment to surfaces requires pili, which are encoded by the csu operon and regulated by BfmRS. Previous studies have indicated a reciprocal relationship between BfmR and the csu operon, with BfmR being required for csuA/B (the CsuA/BABCDE chaperone-usher complex) expression. Pili are essential virulence factors that play a crucial role in the attachment of A. baumannii biofilms to both biotic and abiotic surfaces.49 The present study found downregulation of both bfmR and csu genes upon tryptanthrin treatment (Figure 7). Outer membrane protein A (ompA) in A. baumannii is associated with various biological processes, such as bacterial adherence to different surfaces and the development of antimicrobial resistance. Previous studies have underscored the pivotal role of ompA in mediating bacterial adherence to human keratinocyte and bronchial epithelial cells.50 In this study, RT-qPCR results showed downregulation of the ompA gene, indicating that A. baumannii cells could not adhere under tryptanthrin treatment, resulting in the inhibition of the initial stage of biofilm formation. Notably, most antibiotics induce respiratory stress through the generation of reactive oxygen species (ROS), representing one of the strategies to eliminate microbes.51 The katE gene encodes a large subunit mono-functional catalase. It has been reported that A. baumannii strains lacking the katG and katE genes are sensitive to H2O2.52 The downregulation of the katE gene by tryptanthrin could be attributed to the increased susceptibility of A. baumannii to H2O2. These results suggest that tryptanthrin may have inhibited the formation of A. baumannii biofilms by disrupting the QS system or reducing virulence factors affecting bacterial interactions.
+
+Biofilms are one of the primary virulence factors of bacteria.53 The Galleria mellonella infection model also confirmed that its survival rate improved after treatment with tryptanthrin, indicating that tryptanthrin can reduce the toxicity of A. baumannii in vivo.
+
+In conclusion, this study presents novel insights into the antibiofilm properties of tryptanthrin and its ability to attenuate the virulence of A. baumannii without impacting bacterial growth. Our research suggests that tryptanthrin can hinder bacterial adhesion and attachment, suppress polymer matrix formation, diminish the production of virulence factors, ultimately disrupting the QS network system and resulting in reduced biofilm formation. These findings highlight the potential utility of tryptanthrin as an alternative anti-biofilm agent against A. baumannii.
+
+
+## Limitations of the study
+
+In this study, although we have proved the antibiofilm properties of tryptanthrin and revealed its mechanisms on A. baumannii, further work is still needed to verify the potential synergistic effects of tryptanthrin with existing antimicrobial agents. Investigating whether tryptanthrin can enhance the efficacy of conventional antibiotics against A. baumannii biofilms could provide valuable insights into its clinical utility as an adjunct therapy.
+
+
+# STAR★Methods
+
+
+## Key resources table
+
+REAGENT or RESOURCESOURCEIDENTIFIERBacterial strainsAcinetobacter baumanniiATCC, Manassas, VA, USA17978Acinetobacter baumanniiIsolated from the Affiliated Hospital of Yangzhou University in Jiangsu108Acinetobacter baumanniiIsolated from the Affiliated Hospital of Yangzhou University in Jiangsu102Chemicals, peptides, and recombinant proteinsTryptanthrinMedChemExpressCat#HY-N6607Gallium nitrateShandong Desheng New MaterialsCat#13494-90-1DMSOSolarbioCat#D8370MHBBinhe Microbiological CompanyCat#B162AgaroseSolarbioCat#A8190TryptoneOXOIDCat#LP0042BYeastOXOIDCat#LP0021BPBSSolarbioCat# P1020Crystal violetSolarbioCat#G1061TE bufferSolarbioCat#T1120Sheep red blood cellsYuanye Bio-TechnologyCat#R21900Triton X-100Sangon BiotechCat#9002-93-1DL5000 DNA MarkerGenesandCat#SM812Critical commercial assaysBacLight Live/Dead Staining KitInvitrogenCat#L7012RNA extraction kitTiangen BiochemicalCat#DP430reverse transcription kitVazymeCat#R212-01ChamQ SYBR qPCR Master MixVazymeCat#Q311-02Experimentalmodels: Organisms/strainsG. mellonella larvaeHuiyude Biotech CompanyN/ASoftware andalgorithmsPrism version 8.4.2GraphPad softwarehttps://www.graphpad.com/
+
+
+## Resource availability
+
+
+### Lead contact
+
+Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Guocai Li (gcli@yzu.edu.cn).
+
+
+### Materials availability
+
+All unique/stable reagents used or generated in this study will be made available on request.
+
+
+### Data and code availability
+
+•This paper does not report original code.•Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request.
+
+
+## Experimental model and study participant details
+
+
+### Bacterial strains and reagents
+
+A. baumannii ATCC 17978 strain was acquired from the American Type Culture Collection (ATCC, Manassas, VA, USA). Additionally, 36 clinical A. baumannii strains were collected from the Affiliated Hospital of Yangzhou University in Jiangsu, China. The details of clinical strains are presented in Tables S1 and S2. The A. baumannii strains underwent cultivation in Mueller–Hinton broth (MHB; Oxoid Ltd, Cambridge, United Kingdom) at 37°C, with agitation at 200 rpm.
+
+
+## Method details
+
+
+### Biofilm formation ability testing
+
+The ability of 37 A. baumannii strains, including 36 clinical strains and 1 ATCC A. baumannii strains, to form static biofilms was tested using a crystal violet assay. The bacterial solution was diluted 1:100 with MH broth, 200 μL of the diluted bacterial suspension was inoculated into a sterile 96-well plate (with medium serving as a negative control), and the mixture was incubated at 37°C for 24 h. The bacterial solution was discarded, and the mixture was washed with phosphate-buffered saline (PBS) to remove planktonic bacteria and dry. Then, the cells were stained with 200 μL of 0.4% (w/v) crystal violet (Sinopharm Chemical Reagent Co. Ltd., Shanghai, China) protected from light for 30 min. At the end of staining, the cells were rinsed with PBS until the negative control well had no obvious crystal violet residue, after which the cells were allowed to dry again. Finally, 200 μL of 95% ethanol was added to each well, after which the absorbance was measured at 590 nm with a multifunctional microplate reader (Bio-Tek SYNERGY2, USA). The biofilm formation ability was calculated by the following formula: ODc = average OD of negative control + (3× SD of negative control). The criteria for determining the biofilm formation ability of strains are listed in the table below.54
+A. baumannii strains with strong biofilm formation ability were used to detect the antibiofilm ability of tryptanthrin.The criteria for determining the biofilm formation ability of bacteriaAverage OD valueBiofilm productionOD ≤ ODcNonODc<OD ≤ 2ODcWeak2ODc<OD ≤ 4ODcModerate4ODc<ODStrong
+
+
+### MIC determination and time-killing assay
+
+The minimum inhibitory concentration (MIC) was defined as the lowest concentration that completely inhibited visible bacterial growth according to CLSI guidelines.55 In brief, mixed MH medium (1:100) was used to dilute the OD600 nm 0.5 bacterial solution, and tryptanthrin was diluted with the MH medium to the desired concentrations in equal volumes. The mixture was incubated at 37°C for 18 h, and medium supplemented with tryptanthrin was used as a negative control.
+
+A time-killing assay was used to evaluate the effect of tryptanthrin on the growth of A. baumannii. As previously described,56 the test strain was inoculated in MH broth medium with a 1% bacterial suspension, and tryptanthrin was diluted to the appropriate concentration. The conditions were maintained at 37°C with shaking at 200 rpm for 24 h. Starting from the inoculation, samples of the bacterial solutions were collected at 0 h, 2 h, 4 h, 6 h, 8 h, 10 h, 12 h, 16 h, 20 h, and 24 h and measured at OD600nm, alongside counting of bacteria through multiple dilutions. Subsequently, growth curves were generated with time plotted on the abscissa.
+
+
+### MBIC determination
+
+The minimum biofilm inhibitory concentration (MBIC) of A. baumannii was detected as previously reported.31 In brief, A. baumannii was inoculated in 96-well polystyrene plates supplemented with 1% overnight culture of MH media supplemented with tryptanthrin and incubated at 37°C for 24 h. After the incubation, the planktonic cells were discarded, and the wells were washed with sterile PBS. After the plate was air-dried, 0.4% crystal violet solution was used to stain the plate for 10 min, and PBS was used to remove the excess stain. The plates were destained using 95% ethanol, and the plates were observed at an OD of 590 nm. The biofilm inhibition rate was calculated as follows: (%) = [(Control OD590nm – Treated OD590nm)/Control OD590nm] × 100.
+
+
+### Surface motility assay
+
+The swarming of A. baumannii was examined using a medium formulated with 0.25% agarose, 1% tryptone, and 0.5% yeast. A final concentration of 5 μg/ml tryptanthrin was added to the semisolid medium, and DMSO (0.1%) was used as a negative control. Place 0.2 μL of the bacterial solution on a semisolid medium with a sterile pipette tip. The semisolid medium was placed upright in an incubator at 37°C and incubated for approximately 12 h, after which the size of the microspheres was measured.57
+
+
+### Microscopic analysis of biofilms
+
+In a 24-well plate equipped with glass climbing tablets (14 mm), the bacteria, either in the absence or presence of tryptanthrin, were rinsed with PBS following incubation at 37°C for 24 h. This procedure was undertaken for the microscopic examination of biofilm formation.1)Light microscopic assay
+
+According to the previously described crystal violet staining method, glass climbing tablets were stained with 0.4% crystal violet solution and observed at 400× magnification under a microscope.2)Confocal laser scanning microscopy
+
+In accordance with the manufacturer’s instructions, the tablets were stained with a BacLight Live/Dead Staining Kit for 15 min in the dark, after which the biofilms were observed under a laser confocal scanning microscope (LSM 880NLO, Carl Zeiss AG, Germany) (100 ×), after which the proteins were analyzed using ZEN software.58,59
+
+
+### Extraction of eDNA
+
+The amount of eDNA in the A. baumannii biofilms was determined via agarose gel electrophoresis, as previously reported.60 Briefly, A. baumannii was allowed to form biofilms in the absence or presence of tryptanthrin (20 μg/mL) on a 6-well polystyrene plate for 24 h at 37°C. Then, the biofilm was washed three times with PBS to remove planktonic bacteria. The biofilm cells were scraped, resuspended in TE buffer and vigorously vortexed for 1 h. After centrifugation at 8000 rpm for 10 min, the supernatant containing the eDNA was collected. The extracted eDNA was then separated via 1% (w/v) agarose gel electrophoresis and ultimately analyzed via the ImageJ system.
+
+
+### H2O2 sensitivity assay
+
+The effect of tryptanthrin treatment on the sensitivity of A. baumannii strains to H2O2 was evaluated following the methodology previously reported.31 Briefly, A. baumannii strains were cultured with or without tryptanthrin (20 μg/mL) for 24 h at 37°C. Afterward, the cells were harvested by centrifugation at 8000 rpm for 10 min. The bacteria were collected in 10 mM H2O2 and incubated for 1 h, after which the surviving colonies were counted via the serial dilution method.
+
+
+### Quantitative real-time polymerase chain reaction (qRT-PCR)
+
+Total RNA was extracted from A. baumannii using an RNA extraction kit. Reverse transcription was performed according to the methods of the reverse transcription kit HiScript® Q RT SuperMix for qPCR (+gDNA wiper). The primers used for qRT–PCR are shown in the table below. qRT-PCR was performed with ChamQ SYBR qPCR Master Mix on candidate genes, including QS regulatory genes (bfmR, bfmS, csuA/B, csuE, ompA and katE). The expression levels of the genes detected were analyzed in triplicate. The expression of the genes tested was normalized to that of a housekeeping gene (16S RNA), and changes in gene expression were calculated using the 2(–ΔΔCt) method. Fold changes indicate how many times the gene expression increased or decreased relative to the control. A fold change greater than 1 suggested upregulation (increased expression), while a fold change less than 1 suggested downregulation (decreased expression).Primers used for RT-qPCR analysisGeneForward primer(5′-3′)Reverse primer(5′-3′)16sRNACGACTCGTGCATCTTTCAGCAAACGCATTTACCAGCGTATTGGGCabaIGACTGCTAGAGGAAGGCGGATTTGAGACTACTACCCACCACACAACCCabaRTAAATGTCGGTTGGGCTCAGTCAAGGCTGGAATGCACTGTTTGAGTCAACbfmRGTTTAACCGTTTGTCGTGGTGGTTGAACTGGTTTCGcsuA/BTGACTTGTGACGGAACAGATCCGCAACTACATCAGCAGAAGCAGcsuEAGCGAGCCATGAAGTCACAAGTTCTGCTGAGTTACCCCGTkatEGTGTCCGGTTCAGGTTTTACGGATTCTTGACAGACCCAACompACTCTTGCTGGCTTAAACGTAGCAATTTCTGGCTTGTATTG
+
+
+### Hemolysis assay
+
+To evaluate the safety of tryptanthrin, a hemolysis assay was performed with sheep red blood cells (RBCs). Briefly, 100 μL of 8% sheep erythrocyte suspension per well and 100 μL of different concentrations of drugs were added to 96-well plates, with PBS serving as the negative control and 0.2% Triton X-100 serving as the positive control. The plate was incubated at 37°C for 1 h and then centrifuged at 3000 ×g for 10 min, after which the supernatant was aspirated. One hundred microliters of supernatant was taken to determine the OD576 nm with a microplate reader. The hemolysis rate was calculated as follows: hemolysis (%) = [(OD576 sample- OD576 blank)/(OD576 0.2% Triton X-100- OD576 blank)] ×100%.56
+
+
+### Galleria mellonella killing assay
+
+Galleria mellonella infection assays were used to evaluate the effect of tryptanthrin on the virulence of A. baumannii. Galleria mellonella weighing approximately 3 mg were used in this study; the plants were injected from the penultimate pair of right hindfoot using a Hamilton microsyringe, and each Galleria mellonella was infected with 10 μL of bacterial solution containing approximately 2.5 × 106 CFUs of bacteria. After 2 h, the treatment group was injected with 50 mg/kg tryptanthrin, the control group was injected with PBS, and the number of dead Galleria mellonella was recorded every 12 h.
+
+
+## Quantification and statistical analysis
+
+All the statistical analyses were performed with GraphPad Prism, version 8.4.2 (GraphPad Software, Inc., San Diego, CA, United States). The data are presented as the mean ± standard deviation (SD) of three replicates. The means were compared between groups using nonparametric one-way ANOVA or Student’s t tests. Survival analyses were performed using Kaplan‒Meier survival curves. Asterisks indicate significant differences compared with those in the control group (∗P< 0.05, ∗∗P< 0.01, and ∗∗∗P< 0.001).

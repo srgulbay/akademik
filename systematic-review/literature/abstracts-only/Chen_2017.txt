@@ -1,0 +1,14 @@
+PMID: 28714256
+Title: A1S_2811, a CheA/Y-like hybrid two-component regulator from Acinetobacter baumannii ATCC17978, is involved in surface motility and biofilm formation in this bacterium.
+Authors: Chen R., Lv R., Xiao L., Wang M., Du Z., Tan Y., Cui Y., Yan Y., Luo Y., Yang R., Song Y.
+Journal: MicrobiologyOpen
+Year: 2017
+DOI: 10.1002/mbo3.510
+PMC: PMC5635159
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/28714256/
+DOI URL: https://doi.org/10.1002/mbo3.510
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5635159/
+
+--- Abstract ---
+Two-component systems in Acinetobacter baumannii are associated with its virulence, drug resistance, motility, biofilm formation, and other characteristics. In this study, we used RecAb , a genetic engineering method, to investigate the function of A1S_2811 in A. baumannii strain ATCC17978. A1S_2811, a hypothetical hybrid sensor histidine kinase/response regulator, has four histidine-containing phosphotransfer domains, a CheA-like regulatory domain, and a CheY-like receiver domain at its C terminus. Compared with the ATCC17978 strain, both surface motility and biofilm formation at the gas-liquid interface decreased significantly in the A1S_2811 knock-out strain. The number of pilus-like structures and the amount of extrapolymeric substances on the cell surface also decreased in the A1S_2811 null strain. Transcription of abaI, which encodes an N-acylhomoserine lactone synthase in A. baumannii , decreased significantly in the A1S_2811 null strain, and supplementation with synthetic N-(3-oxodecanoyl) homoserine-l-lactone rescued the surface motility and biofilm formation phenotype in the null mutant. We speculate that A1S_2811 regulates surface motility and biofilm formation, not by regulating type IV pili-associated genes expression, but by regulating the chaperone/usher pili-associated csuA/ABCDE operon and the AbaI-dependent quorum-sensing pathway-associated A1S_0112-0119 operon instead.

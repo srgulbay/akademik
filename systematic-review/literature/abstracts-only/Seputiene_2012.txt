@@ -1,0 +1,14 @@
+PMID: 22290980
+Title: Novel variants of AbaR resistance islands with a common backbone in Acinetobacter baumannii isolates of European clone II.
+Authors: Seputiene V., Povilonis J., Suziedeliene E.
+Journal: Antimicrobial agents and chemotherapy
+Year: 2012
+DOI: 10.1128/AAC.05678-11
+PMC: PMC3318354
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/22290980/
+DOI URL: https://doi.org/10.1128/AAC.05678-11
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3318354/
+
+--- Abstract ---
+In this study, the genetic organization of three novel genomic antibiotic resistance islands (AbaRs) in Acinetobacter baumannii isolates belonging to group of European clone II (EC II) comM integrated sequences of 18-, 21-, and 23-kb resistance islands were determined. These resistance islands carry the backbone of AbaR-type transposon structures, which are composed of the transposition module coding for potential transposition proteins and other genes coding for the intact universal stress protein (uspA), sulfate permease (sul), and proteins of unknown function. The antibiotic resistance genes strA, strB, tetB, and tetR and insertion sequence CR2 element were found to be inserted into the AbaR transposons. GenBank homology searches indicated that they are closely related to the AbaR sequences found integrated in comM in strains of EC II (A. baumannii strains 1656-2 and TCDC-AB0715) and AbaR4 integrated in another location of A. baumannii AB0057 (EC I). All of the AbaRs showed structural similarity to the previously described AbaR4 island and share a 12,008-bp backbone. AbaRs contain Tn1213, Tn2006, and the multiple fragments which could be derived from transposons Tn3, Tn10, Tn21, Tn1000, Tn5393, and Tn6020, the insertion sequences IS26, ISAba1, ISAba14, and ISCR2, and the class 1 integron. Moreover, chromosomal DNA was inserted into distinct regions of the AbaR backbone. Sequence analysis suggested that the AbaR-type transposons have evolved through insertions, deletions, and homologous recombination. AbaR islands, sharing the core structure similar to AbaR4, appeared to be distributed in isolates of EC I and EC II via integration into distinct genomic sites, i.e., pho and comM, respectively.

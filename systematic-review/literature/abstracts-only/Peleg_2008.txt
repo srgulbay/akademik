@@ -1,0 +1,14 @@
+PMID: 18794525
+Title: Prokaryote-eukaryote interactions identified by using Caenorhabditis elegans.
+Authors: Peleg A., Tampakakis E., Fuchs B., Eliopoulos G., Moellering R., Mylonakis E.
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Year: 2008
+DOI: 10.1073/pnas.0805048105
+PMC: PMC2567192
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/18794525/
+DOI URL: https://doi.org/10.1073/pnas.0805048105
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2567192/
+
+--- Abstract ---
+Prokaryote-eukaryote interactions are ubiquitous and have important medical and environmental significance. Despite this, a paucity of data exists on the mechanisms and pathogenic consequences of bacterial-fungal encounters within a living host. We used the nematode Caenorhabditis elegans as a substitute host to study the interactions between two ecologically related and clinically troublesome pathogens, the prokaryote, Acinetobacter baumannii, and the eukaryote, Candida albicans. After co-infecting C. elegans with these organisms, we observed that A. baumannii inhibits filamentation, a key virulence determinant of C. albicans. This antagonistic, cross-kingdom interaction led to attenuated virulence of C. albicans, as determined by improved nematode survival when infected with both pathogens. In vitro coinfection assays in planktonic and biofilm environments supported the inhibitory effects of A. baumannii toward C. albicans, further showing a predilection of A. baumannii for C. albicans filaments. Interestingly, we demonstrate a likely evolutionary defense by C. albicans against A. baumannii, whereby C. albicans inhibits A. baumannii growth once a quorum develops. This counteroffensive is at least partly mediated by the C. albicans quorum-sensing molecule farnesol. We used the C. elegans-A. baumannii-C. albicans coinfection model to screen an A. baumannii mutant library, leading to the identification of several mutants attenuated in their inhibitory activity toward C. albicans. These findings present an extension to the current paradigm of studying monomicrobial pathogenesis in C. elegans and by use of genetic manipulation, provides a whole-animal model system to investigate the complex dynamics of a polymicrobial infection.

@@ -1,0 +1,12 @@
+PMID: 28056745
+Title: Exploiting Quorum Sensing Inhibition for the Control of Pseudomonas Aeruginosa and Acinetobacter Baumannii Biofilms.
+Authors: Castillo-Juarez I., López-Jácome L., Soberón-Chávez G., Tomás M., Lee J., Castañeda-Tamez P., Hernández-Bárragan I., Cruz-Muñiz M., Maeda T., Wood T., García-Contreras R.
+Journal: Current topics in medicinal chemistry
+Year: 2017
+DOI: 
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/28056745/
+
+--- Abstract ---
+Pseudomonas aeruginosa and Acinetobacter baumannii are two of the main bacteria responsible for nosocomial infections; both organisms are resistant to several classes of antibiotics making their infections very difficult to treat. Moreover, they possess a remarkable ability to form biofilms, which further enhances their antimicrobial resistance. Both organisms coordinate their formation of biofilms and their expression of virulence factors through quorum sensing, a system that regulates gene expression at high cell densities and that plays a key role in the establishment of bacterial infections. Hence, interfering with these quorum-sensing systems has been proposed as an alternative to traditional antibiotics for the eradication of bacterial infections. In this review, we describe the quorum sensing systems of both organisms, the way they coordinate the formation of biofilms, the recent advances in biofilm disruption by quorum sensing interference, and the advantages and limitations of the implementation of these novel therapeutic options in the clinic.

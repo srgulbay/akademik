@@ -1,0 +1,20 @@
+PMID: 40598567
+Title: High genetic relatedness between multidrug resistant bacteria before and after the 2022 invasion of Ukraine.
+Authors: Lebreton F., Kondratiuk V., Kovalchuk V., Pfennigwerth N., Luo T., Jones B., Fomina N., Fuchs F., Hans J., Eisfeld J., Ong A., Gatermann S., Bennett J., Mc Gann P.
+Journal: Genome medicine
+Year: 2025
+DOI: 10.1186/s13073-025-01500-1
+PMC: PMC12220160
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/40598567/
+DOI URL: https://doi.org/10.1186/s13073-025-01500-1
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12220160/
+
+--- Abstract ---
+BACKGROUND: The Russian invasion of Ukraine in 2022 has placed extraordinary pressure on hospitals there. One consequence of this has been the alarming increase in infections caused by multi-drug resistant organisms (MDROs), both within Ukraine and among the Ukrainian diaspora. The original source of these MDROs remains obscure although nosocomial origin is suspected. Here, we analyzed a collection of Acinetobacter baumannii and Pseudomonas aeruginosa collected from Ukraine before and after the invasion to glean a greater understanding of their relationship and origins.
+
+METHODS: Genomic analysis was conducted on 167 A. baumannii and 93 P. aeruginosa cultured from 223 Ukrainian patients hospitalized in Ukraine or other European countries. Fifty-three isolates were cultured between 2014 and 2021, prior to the invasion, and the remaining 207 after.
+
+RESULTS: Highly genetically related extensively-drug resistant (XDR) clones were identified that spanned the pre- and post-invasion periods. For A. baumannii, isolates encompassed three sequence types (STs), including carbapenemase-producing strains from ST-2 (blaOXA-23) and ST-78 (blaOXA-72), as well as ST-400 carrying the ESBL blaGES-11. For P. aeruginosa, isolates encompassed three STs: ST-773 carrying blaNDM-1, ST-1047 carrying blaIMP-1, and ST-244. For all, the mobile genetic elements associated with carbapenemase carriage were fully characterized. Notably, post-invasion ST-773 and ST-1047 P. aeruginosa had a signature of host adaptation with multiple loss-of-function mutations in the quorum-sensing regulator LasR, known to modulate immune responses and provide survival advantages in animal models of infection.
+
+CONCLUSIONS: XDR epidemic clones circulating in Ukraine and across Europe since 2022 share a close genetic relationship to historical strains from Ukraine. In some cases, direct links to medical facilities within Ukraine can be inferred. These data suggest that surveillance efforts should focus on tracking nosocomial transmission within Ukrainian hospitals while infection control efforts are being disrupted by the ongoing Russian invasion.

@@ -1,0 +1,14 @@
+PMID: 39799303
+Title: Comparative study of phenotypic and genotypic expression of virulence factors in colonizing and pathogenic carbapenem resistant Acinetobacter baumannii (CRAB).
+Authors: Sharma S., Singh K., Chaurasiya A., Banerjee T., Singh R., Yadav G., Kumar A.
+Journal: BMC microbiology
+Year: 2025
+DOI: 10.1186/s12866-024-03727-1
+PMC: PMC11724464
+Publication types: Journal Article; Comparative Study
+URL: https://pubmed.ncbi.nlm.nih.gov/39799303/
+DOI URL: https://doi.org/10.1186/s12866-024-03727-1
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11724464/
+
+--- Abstract ---
+Carbapenem resistant Acinetobacter baumannii has evolved as the most troublesome microorganism with multiple virulence factors. Biofilm formation, porins, micronutrient capturing mechanism and quorum sensing, provide protection against desiccation, host-pathogen killing and enhance its persistence. The conservation of these factors between colonizing and pathogenic carbapenem resistant A. baumannii has been barely investigated. We studied biofilm formation, desiccation survival, motility and hemolysis in pathogenic carbapenem resistant A. baumannii and colonizer carbapenem resistant A. baumannii from the hospital environment. The virulent genes pgaA, csuE, bap, ompA, abaI, pilA and bauA were detected by simplex-PCR and Quantitative Real-Time PCR was done for expressional studies. In-vivo survival percentage was studied by Galleria mellonella (wax moth) killing assay. Phenotypic characterization revealed that the biofilm formation and desiccation survival proportion was significantly higher in colonizer carbapenem resistant A. baumannii (p < 0.05). Twitching motility was found comparable (mean 0.5 to 1.5 cm). Surface associated motility varied widely. None showed hemolysis. The csuE, bap, ompA, abaI, pilA and bauA genes were detected in almost all the pathogenic and colonizer carbapenem resistant A. baumannii isolates while none harboured pgaA gene. The expression of bap, ompA and bauA gene was found significantly higher in pathogenic carbapenem resistant A. baumannii while expression of csuE and abaI gene was comparable in both. Overexpression of pilA gene was seen in those with higher surface associated motility. Pathogenic carbapenem resistant A. baumannii showed significantly higher pathogenicity in-vivo, as 100% of larvae died on 4th day post-infection. In conclusion high level expression of outer membrane proteins (ompA) and siderophores is significantly associated with the pathogenicity in carbapenem resistant A. baumannii isolated from infections, which can be a differentiating point from the colonizers. CLINICAL TRIAL: Not Applicable.

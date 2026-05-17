@@ -1,0 +1,14 @@
+PMID: 24367477
+Title: A quorum sensing small volatile molecule promotes antibiotic tolerance in bacteria.
+Authors: Que Y., Hazan R., Strobel B., Maura D., He J., Kesarwani M., Panopoulos P., Tsurumi A., Giddey M., Wilhelmy J., Mindrinos M., Rahme L.
+Journal: PloS one
+Year: 2013
+DOI: 10.1371/journal.pone.0080140
+PMC: PMC3868577
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/24367477/
+DOI URL: https://doi.org/10.1371/journal.pone.0080140
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3868577/
+
+--- Abstract ---
+Bacteria can be refractory to antibiotics due to a sub-population of dormant cells, called persisters that are highly tolerant to antibiotic exposure. The low frequency and transience of the antibiotic tolerant "persister" trait has complicated elucidation of the mechanism that controls antibiotic tolerance. In this study, we show that 2' Amino-acetophenone (2-AA), a poorly studied but diagnostically important small, volatile molecule produced by the recalcitrant gram-negative human pathogen Pseudomonas aeruginosa, promotes antibiotic tolerance in response to quorum-sensing (QS) signaling. Our results show that 2-AA mediated persister cell accumulation occurs via alteration of the expression of genes involved in the translational capacity of the cell, including almost all ribosomal protein genes and other translation-related factors. That 2-AA promotes persisters formation also in other emerging multi-drug resistant pathogens, including the non 2-AA producer Acinetobacter baumannii implies that 2-AA may play an important role in the ability of gram-negative bacteria to tolerate antibiotic treatments in polymicrobial infections. Given that the synthesis, excretion and uptake of QS small molecules is a common hallmark of prokaryotes, together with the fact that the translational machinery is highly conserved, we posit that modulation of the translational capacity of the cell via QS molecules, may be a general, widely distributed mechanism that promotes antibiotic tolerance among prokaryotes.

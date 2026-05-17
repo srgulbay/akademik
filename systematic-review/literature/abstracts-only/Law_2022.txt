@@ -1,0 +1,13 @@
+PMID: 35483311
+Title: The role of quorum sensing, biofilm formation, and iron acquisition as key virulence mechanisms in Acinetobacter baumannii and the corresponding anti-virulence strategies.
+Authors: Law S., Tan H.
+Journal: Microbiological research
+Year: 2022
+DOI: 10.1016/j.micres.2022.127032
+PMC: 
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/35483311/
+DOI URL: https://doi.org/10.1016/j.micres.2022.127032
+
+--- Abstract ---
+Acinetobacter baumannii is a nosocomial pathogen responsible for several serious infections, including pneumonia, sepsis, and meningitis. The propensity of this bacterium to rapidly acquire antibiotic resistance leads to the emergence and spread of multidrug-resistant A. baumannii strains. As a result, antibiotics are becoming less effective in treating infections caused by this pathogen. In recent years, increasing efforts have focused on developing therapeutic compounds that could reduce the ability of A. baumannii to establish infection by inhibiting the virulence factors and pathogenesis of this pathogen without interfering with the bacterial viability. These alternative therapeutic options may impose milder selective pressure, reducing the likelihood of anti-virulence resistance development. To develop novel anti-virulence therapies, an in-depth understanding of the bacterial virulence mechanisms is crucial to identifying potential drug targets. This review summarises the latest discoveries about the virulence of A. baumannii, focusing on quorum sensing, biofilm formation, and iron acquisition, along with the corresponding anti-virulence strategies. This article also elaborates on the practical challenges involved in developing anti-virulence drugs. Therapeutic agents that target bacterial virulence factors may play a crucial role in controlling infection in the human host. Combining anti-virulence agents with existing antibiotics could enhance the therapeutic potential of these antibiotics against A. baumannii. Although anti-virulence therapy has been envisioned as an attractive alternative to overcome antimicrobial resistance, additional research on the possibility of developing resistance against anti-virulence drugs is encouraged to evaluate the sustainability of these strategies. Moreover, future studies on the efficacy of anti-virulence therapy against a diverse panel of clinical isolates and in polymicrobial A. baumannii infections are required to provide more valuable information about its clinical application.

@@ -1,0 +1,14 @@
+PMID: 38407477
+Title: Novel mechanisms of diversity generation in Acinetobacter baumannii resistance islands driven by Tn7-like elements.
+Authors: Correa A., Shehreen S., Machado L., Thesier J., Cunic L., Petassi M., Chu J., Kapili B., Jia Y., England K., Peters J.
+Journal: Nucleic acids research
+Year: 2024
+DOI: 10.1093/nar/gkae129
+PMC: PMC11014353
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38407477/
+DOI URL: https://doi.org/10.1093/nar/gkae129
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11014353/
+
+--- Abstract ---
+Mobile genetic elements play an important role in the acquisition of antibiotic and biocide resistance, especially through the formation of resistance islands in bacterial chromosomes. We analyzed the contribution of Tn7-like transposons to island formation and diversification in the nosocomial pathogen Acinetobacter baumannii and identified four separate families that recognize different integration sites. One integration site is within the comM gene and coincides with the previously described Tn6022 elements suggested to account for the AbaR resistance island. We established Tn6022 in a heterologous E. coli host and confirmed basic features of transposition into the comM attachment site and the use of a novel transposition protein. By analyzing population features within Tn6022 elements we identified two potential novel transposon-encoded diversification mechanisms with this dynamic genetic island. The activities of these diversification features were confirmed in E. coli. One was a novel natural gain-of-activity allele that could function to broaden transposition targeting. The second was a transposon-encoded hybrid dif-like site that parasitizes the host dimer chromosome resolution system to function with its own tyrosine recombinase. This work establishes a highly active Tn7-like transposon that harnesses novel features allowing the spread and diversification of genetic islands in pathogenic bacteria.

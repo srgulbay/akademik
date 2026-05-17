@@ -1,0 +1,10 @@
+Title: Functional Analysis and Antivirulence Properties of a New Depolymerase from a Myovirus That Infects Acinetobacter baumannii Capsule K45
+PMID: 30463964
+PMCID: PMC
+DOI: 10.1128/JVI.01163-18
+
+=== ABSTRACT ===
+Currently, phage therapy has revived interest for controlling hard-to-treat bacterial infections. Acinetobacter baumannii is an emerging Gram-negative pathogen able to cause a variety of nosocomial infections. Additionally, this species is becoming more resistant to several classes of antibiotics. Here we describe the isolation of a novel lytic myophage B9 and its recombinant depolymerase. While the phage can be a promising alternative antibacterial agent, its success in the market will ultimately depend on new regulatory frameworks and general public acceptance. We therefore characterized the phage-encoded depolymerase, which is a natural enzyme that can be more easily managed and used. To our knowledge, the therapeutic potential of phage depolymerase against A. baumannii is still unknown. We show for the first time that the K45 capsule type is an important virulence factor of A. baumannii and that capsule removal via the recombinant depolymerase activity helps the host immune system to combat the bacterial infection.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

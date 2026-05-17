@@ -1,0 +1,14 @@
+PMID: 38545458
+Title: Antibacterial activity and mechanism of X33 antimicrobial oligopeptide against Acinetobacter baumannii.
+Authors: Lu Q., Wu X., Fang Y., Wang Y., Zhang B.
+Journal: Synthetic and systems biotechnology
+Year: 2024
+DOI: 10.1016/j.synbio.2024.03.002
+PMC: PMC10965436
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38545458/
+DOI URL: https://doi.org/10.1016/j.synbio.2024.03.002
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10965436/
+
+--- Abstract ---
+Acinetobacter baumannii is a pathogenic bacterium widespread in human environments, especially in intensive care units, and is associated with high morbidity and infection rates. Multiple drug resistance in A. baumannii frequently leads to the death of patients, making the development of multi-effect antibacterial agents against this bacterium a research hotspot. We have previously found that the X33 antimicrobial oligopeptide can effectively inhibit the growth of Penicillium digitatum and Candida albicans. Herein, we evaluated the antibacterial activity of X33 antimicrobial oligopeptide against A. baumannii by determining the minimum inhibitory concentration, inhibition zone, and growth curve. The increase in extracellular alkaline phosphatase and the leakage of intracellular compounds confirmed the effect of X33 antimicrobial oligopeptide on the cell wall and membrane. Changes in reactive oxygen species, malondialdehyde, ATP, reducing sugar, soluble protein, and pyruvate content demonstrated that the incubation with X33 antimicrobial oligopeptide affected energy metabolism and oxidative stress. Consistent with the physiological characteristics, transcriptomics analysis indicated that incubation with X33 antimicrobial oligopeptide significantly induced changes in the expression of 2339 genes, including 1262 upregulated and 1077 downregulated genes, which participate in oxidative phosphorylation, ribosome, quorum sensing, fatty acid degradation, glycolysis/gluconeogenesis, and citrate cycle pathways. These results provide a fundamental basis for investigating the mechanism of X33 antimicrobial oligopeptide as a potential drug against A. baumannii.

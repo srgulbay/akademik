@@ -1,0 +1,14 @@
+PMID: 40100248
+Title: Fractional inhibitory concentration of bio-actives from agricultural waste disassembles biofilms and quenches virulence of nosocomial pathogens.
+Authors: Krishnan S., Venkatachalam P., Shanmugam S., Paramasivam N.
+Journal: Journal of medical microbiology
+Year: 2025
+DOI: 10.1099/jmm.0.001980
+PMC: PMC11920071
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40100248/
+DOI URL: https://doi.org/10.1099/jmm.0.001980
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11920071/
+
+--- Abstract ---
+Introduction. The contact surfaces in hospitals serve as reservoirs for pathogens and account for 20-40% of hospital-acquired infections. This resistance is mainly attributed to the biofilm-forming ability of the microbes. These biofilms restrict the entry of the antibiotics to penetrate them, thus giving rise to drug resistance. Hence, there is a renewed interest in formulating an environmentally friendly, non-allergic, quick mode of action, broad-spectrum disinfectant.Hypothesis. We hypothesize that the pure compounds present in the pyrolysis aqueous phase could act as an anti-infective and anti-biofilm agent.Aim. The present work investigates the effectiveness of furfuryl alcohol, 2-methyl-2-cyclopentenone and guaiacol as effective anti-infective agent followed by testing its biofilm eradication potential against the mixed species of multidrug-resistant pathogens such as Acinetobacter baumannii, methicillin-resistant Staphylococcus aureus and Candida auris.Methodology. The MIC and fractional inhibitory concentrations (FIC) of the pure compounds were determined using checkerboard assay for two-compound and three-compound combinations. The biofilm eradication concentration was performed on stainless coupons, followed by RNA isolation and quantitative PCR (qPCR) analysis to elucidate virulence gene downregulation.Results. The individual MICs of furfuryl alcohol, 2-methyl-2-cyclopentenone and guaiacol were found to be 8%, 9% and 2% (v/v), respectively. The two-compound combination FIC index of 0.75 showed partial synergy between the compounds, while the three-compound combination showed an additive effect with a FIC index of 0.87. Further, at ½ FIC (biofilm inhibitory concentration), the compounds showed 52% eradication of preformed biofilms on the hospital contact surfaces (stainless steel). The growth and time-to-kill curve showed that the compounds were not lethal to planktonic cells at BIC. Finally, the qPCR analysis showed a reduction in the expression levels of biofilm and adhesion genes, while the Quorum sensing (QS) genes were affected much more, elucidating a possible eradication mechanism.Conclusion. From this study, we have found a new class of compounds that have potential disinfecting ability. With the current knowledge, the future lead would be to effectively use them in disinfectant formulations.

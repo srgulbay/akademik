@@ -1,0 +1,20 @@
+PMID: 36658487
+Title: Antimicrobial activity of D-amino acid in combination with photo-sonoactivated hypericin nanoparticles against Acinetobacter baumannii.
+Authors: Pourhajibagher M., Hosseini N., Bahador A.
+Journal: BMC microbiology
+Year: 2023
+DOI: 10.1186/s12866-023-02758-4
+PMC: PMC9850556
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36658487/
+DOI URL: https://doi.org/10.1186/s12866-023-02758-4
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9850556/
+
+--- Abstract ---
+BACKGROUND: The emergence of multidrug-resistant Acinetobacter baumannii strains is increasing worldwide. To overcome these life-threatening infections, the development of new treatment approaches is critical. For this purpose, this study was conducted to determine the antimicrobial photo-sonodynamic therapy (aPSDT) using hypericin nanoparticles (HypNP) in combination with D-Tryptophan (D-Trp) against A. baumannii.
+
+MATERIALS AND METHODS: HypNP was synthesized and characterized, followed by the determination of the fractional inhibitory concentration (FIC) index of HypNP and D-Trp by checkerboard assay. Next, the antimicrobial and anti-biofilm potential of HypNP@D-Trp-mediated aPSDT against A. baumannii was evaluated. Finally, the anti-virulence activity of aPSDT using HypNP@D-Trp was accessed following the characterization of HypNP@D-Trp interaction with AbaI using in silico virtual screening and molecular docking.
+
+RESULTS: A synergistic activity in the combination of HypNP and D-Trp against A. baumannii was observed with a FIC index value of 0.5. There was a 5.10 log10 CFU/mL reduction in the cell viability of A. baumannii when the bacterial cells were treated with 1/2 × MIC of HypNP@D-Trp and subsequently exposed to ultrasound waves and blue light (P < 0.05). Moreover, a significant biofilm degradation effect on biofilm-associated cells of A. baumannii was observed after treatment with aPSDT using 2 × MIC of HypNP@D-Trp in comparison with the control groups (P < 0.05). According to the molecular docking analysis of the protein-ligand complex, Hyp with a high affinity for AbaI showed a binding affinity of - 9.41 kcal/mol. Also, the expression level of abaI gene was significantly downregulated by 10.32-fold in A. baumannii treated with aPSDT as comprised with the control group (P < 0.05).
+
+CONCLUSIONS: It can be concluded that HypNP@D-Trp-mediated aPSDT can be considered a promising strategy to overcome the infections caused by A. baumannii by reducing the growth of bacterial biofilm and decreasing the expression of abaI as a gene involved in A. baumannii biofilm formation.

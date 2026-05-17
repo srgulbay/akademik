@@ -1,0 +1,14 @@
+PMID: 29554105
+Title: Sub-minimum inhibitory concentrations of colistin and polymyxin B promote Acinetobacter baumannii biofilm formation.
+Authors: Sato Y., Unno Y., Ubagai T., Ono Y.
+Journal: PloS one
+Year: 2018
+DOI: 10.1371/journal.pone.0194556
+PMC: PMC5858813
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/29554105/
+DOI URL: https://doi.org/10.1371/journal.pone.0194556
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5858813/
+
+--- Abstract ---
+We investigated the numbers of planktonic and biofilm cells and the expression levels of genes encoding efflux pumps and biofilm-related proteins in 10 clinical isolates of multi-drug resistant Acinetobacter baumannii (MDRA) as well as in its standard strain ATCC 19606 in the presence of colistin (CST), polymyxin B (PMB), minomycin (MIN), and tigecycline (TGC) at their respective sub-MICs. The number of planktonic and biofilm cells of ATCC 19606 decreased in the presence of all aforementioned antibiotics in a dose-dependent manner. Cell number also decreased in two representative MDRA strains, R2 and R3, in the presence of MIN and TGC in a dose-dependent manner. In contrast, the number of biofilm cells in these two strains increased in the presence of CST, while they increased significantly in the presence of PMB in R2 only. Pearson correlation analysis revealed that the number of biofilm cells was positively and significantly correlated with the mRNA levels of genes encoding efflux pumps (adeB and adeG) and autoinducer synthase (abaI) in strain R2 and adeB, adeG, adeJ, poly-acetyl-glucosamine-porin (pgaA), and abaI in strain R3 in the presence of CST. It was positively and significantly correlated with the mRNA levels of genes encoding adeB in strain R2 and an outer membrane protein A (ompA) and biofilm-associated protein (bap) in strain R3 in the presence of PMB. These results provide valuable insights into the biofilm formation potency of clinical isolates of MDRA that depends on efflux pumps and biofilm-related genes and its regulation by antibiotics.

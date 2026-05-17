@@ -1,0 +1,20 @@
+PMID: 27834332
+Title: Attenuation of quorum sensing-regulated behaviour by Tinospora cordifolia extract & identification of its active constituents.
+Authors: Gala V., John N., Bhagwat A., Datar A., Kharkar P., Desai K.
+Journal: The Indian journal of medical research
+Year: 2016
+DOI: 10.4103/0971-5916.193295
+PMC: PMC5116906
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/27834332/
+DOI URL: https://doi.org/10.4103/0971-5916.193295
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5116906/
+
+--- Abstract ---
+BACKGROUND & OBJECTIVES: The pathogenicity of the nosocomial pathogens, Pseudomonas aeruginosa and Acinetobacter baumannii is regulated by their quorum sensing (QS) systems. The objective of the present study was to examine the effect of the cold ethyl acetate extract of Tinospora cordifolia stem on virulence and biofilm development in the wild type and clinical strains of P. aeruginosa and A. baumannii. The study was further aimed to identify the probable active constituents in the plant extract.
+
+METHODS: P. aeruginosa virulence factors viz., LasA protease, LasB elastase and pyocyanin production were analyzed spectrophotometrically. Biofilm formation was studied using crystal violet staining-microtitre plate assay. The plant extract was fractionated using silica gel column chromatography and the most active fraction was derivatized using silylation and analyzed by gas chromatography-mass spectrometry (GC-MS). In silico testing of the molecules identified in GC-MS was performed, for binding to the P. aeruginosa LasI and LasR proteins, to predict the QS inhibitory molecules.
+
+RESULTS: The plant extract inhibited three major virulence factors in P. aeruginosa; it exhibited enhanced biofilm formation in P. aeruginosa while decreased biofilm development in A. baumannii. The most active fraction obtained from column chromatography, exhibited suppression of virulence as well as biofilm in both the organisms. Docking scores were calculated for all the molecules identified in GC-MS, and high docking scores were obtained for 2,3,4-triacetyloxybutyl acetate, methyl 16-methyl heptadecanoate, 2-(5-ethenyl-5-methyloxolan-2-yl)propan-2-ol, methyl hexadecanoate and 2-methoxy-4-vinyl phenol.
+
+INTERPRETATION & CONCLUSIONS: The compounds showing high docking scores could probably be the QS inhibitors. These molecules can be screened further for the development of new anti-infective drugs.

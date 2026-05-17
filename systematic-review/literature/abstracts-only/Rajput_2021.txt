@@ -1,0 +1,14 @@
+PMID: 33500331
+Title: Pangenome Analytics Reveal Two-Component Systems as Conserved Targets in ESKAPEE Pathogens.
+Authors: Rajput A., Seif Y., Choudhary K., Dalldorf C., Poudel S., Monk J., Palsson B.
+Journal: mSystems
+Year: 2021
+DOI: 10.1128/mSystems.00981-20
+PMC: PMC7842365
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/33500331/
+DOI URL: https://doi.org/10.1128/mSystems.00981-20
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7842365/
+
+--- Abstract ---
+The two-component system (TCS) helps bacteria sense and respond to environmental stimuli through histidine kinases and response regulators. TCSs are the largest family of multistep signal transduction processes, and they are involved in many important cellular processes such as antibiotic resistance, pathogenicity, quorum sensing, osmotic stress, and biofilms. Here, we perform the first comprehensive study to highlight the role of TCSs as potential drug targets against ESKAPEE (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, Enterobacter spp., and Escherichia coli) pathogens through annotation, mapping, pangenomic status, gene orientation, and sequence variation analysis. The distribution of the TCSs is group specific with regard to Gram-positive and Gram-negative bacteria, except for KdpDE. The TCSs among ESKAPEE pathogens form closed pangenomes, except for Pseudomonas aeruginosa Furthermore, their conserved nature due to closed pangenomes might make them good drug targets. Fitness score analysis suggests that any mutation in some TCSs such as BaeSR, ArcBA, EvgSA, and AtoSC, etc., might be lethal to the cell. Taken together, the results of this pangenomic assessment of TCSs reveal a range of strategies deployed by the ESKAPEE pathogens to manifest pathogenicity and antibiotic resistance. This study further suggests that the conserved features of TCSs might make them an attractive group of potential targets with which to address antibiotic resistance.IMPORTANCE The ESKAPEE pathogens are the leading cause of health care-associated infections worldwide. Two-component systems (TCSs) can be used as effective targets against pathogenic bacteria since they are ubiquitous and manage various vital functions such as antibiotic resistance, virulence, biofilms, quorum sensing, and pH balance, among others. This study provides a comprehensive overview of the pangenomic status of the TCSs among ESKAPEE pathogens. The annotation and pangenomic analysis of TCSs show that they are significantly distributed and conserved among the pathogens, as most of them form closed pangenomes. Furthermore, our analysis also reveals that the removal of the TCSs significantly affects the fitness of the cell. Hence, they may be used as promising drug targets against bacteria.

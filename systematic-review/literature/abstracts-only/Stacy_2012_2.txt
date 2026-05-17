@@ -1,0 +1,14 @@
+PMID: 22853441
+Title: Attenuation of quorum sensing in the pathogen Acinetobacter baumannii using non-native N-Acyl homoserine lactones.
+Authors: Stacy D., Welsh M., Rather P., Blackwell H.
+Journal: ACS chemical biology
+Year: 2012
+DOI: 10.1021/cb300351x
+PMC: PMC3477293
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't; Research Support, U.S. Gov't, Non-P.H.S.
+URL: https://pubmed.ncbi.nlm.nih.gov/22853441/
+DOI URL: https://doi.org/10.1021/cb300351x
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3477293/
+
+--- Abstract ---
+Many bacterial pathogens use quorum sensing (QS) to control virulence. As a result, the development of methods to intercept QS has attracted significant interest as a potential anti-infective therapy. Acinetobacter baumannii has emerged as a pan-drug-resistant pathogen and displays a remarkable ability to persist in hospital settings despite desiccation and antimicrobial treatment. Recent studies have shown that A. baumannii QS mutants have limited motility and fail to form mature biofilms; these phenotypes are linked to its ability to persist on biotic and abiotic surfaces and increase its pathogenicity. A. baumannii uses N-(3-hydroxydodecanoyl)-l-homoserine lactone (OH-dDHL) and its putative cognate receptor, AbaR, for QS. We sought to identify non-native ligands capable of blocking or promoting AbaR activity in A. baumannii for use as chemical probes to modulate QS phenotypes in this pathogen. We screened a focused library of synthetic, non-native N-acyl homoserine lactones (AHLs) to identify such compounds, and several highly potent antagonists and agonists were uncovered, with IC(50) and EC(50) values in the low micromolar range, respectively. The strongest AbaR antagonists largely contained aromatic acyl groups, whereas the AbaR agonists closely resembled OH-dDHL. Notably, the 10 most potent AbaR antagonists also strongly inhibited A. baumannii motility, and five antagonists reduced biofilm formation in A. baumannii by up to 40%. The discovery of these compounds is significant, as they represent, to our knowledge, the first non-native modulators of QS in A. baumannii to be reported and could find utility as new tools to study the role and timing of QS phenotypes in A. baumannii infections.

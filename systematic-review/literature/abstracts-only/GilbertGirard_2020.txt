@@ -1,0 +1,14 @@
+PMID: 33233348
+Title: Screening of FDA-Approved Drugs Using a 384-Well Plate-Based Biofilm Platform: The Case of Fingolimod.
+Authors: Gilbert-Girard S., Savijoki K., Yli-Kauhaluoma J., Fallarero A.
+Journal: Microorganisms
+Year: 2020
+DOI: 10.3390/microorganisms8111834
+PMC: PMC7700524
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/33233348/
+DOI URL: https://doi.org/10.3390/microorganisms8111834
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700524/
+
+--- Abstract ---
+In an effort to find new repurposed antibacterial compounds, we performed the screening of an FDA-approved compounds library against Staphylococcus aureus American Type Culture Collection (ATCC) 25923. Compounds were evaluated for their capacity to prevent both planktonic growth and biofilm formation as well as to disrupt pre-formed biofilms. One of the identified initial hits was fingolimod (FTY720), an immunomodulator approved for the treatment of multiple sclerosis, which was then selected for follow-up studies. Fingolimod displayed a potent activity against S. aureus and S. epidermidis with a minimum inhibitory concentration (MIC) within the range of 12-15 µM at which concentration killing of all the bacteria was confirmed. A time-kill kinetic study revealed that fingolimod started to drastically reduce the viable bacterial count within two hours and we showed that no resistance developed against this compound for up to 20 days. Fingolimod also displayed a high activity against Acinetobacter baumannii (MIC 25 µM) as well as a modest activity against Escherichia coli and Pseudomonas aeruginosa. In addition, fingolimod inhibited quorum sensing in Chromobacterium violaceum and might therefore target this signaling pathway in certain Gram-negative bacteria. In conclusion, we present the identification of fingolimod from a compound library and its evaluation as a potential repurposed antibacterial compound.

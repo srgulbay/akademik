@@ -1,0 +1,14 @@
+PMID: 28536672
+Title: Response to Bile Salts in Clinical Strains of Acinetobacter baumannii Lacking the AdeABC Efflux Pump: Virulence Associated with Quorum Sensing.
+Authors: López M., Blasco L., Gato E., Perez A., Fernández-Garcia L., Martínez-Martinez L., Fernández-Cuenca F., Rodríguez-Baño J., Pascual A., Bou G., Tomás M.
+Journal: Frontiers in cellular and infection microbiology
+Year: 2017
+DOI: 10.3389/fcimb.2017.00143
+PMC: PMC5423435
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/28536672/
+DOI URL: https://doi.org/10.3389/fcimb.2017.00143
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5423435/
+
+--- Abstract ---
+Introduction:Acinetobacter baumannii is an opportunistic nosocomial pathogen associated with multiple infections. This pathogen usually colonizes (first stage of microbial infection) host tissues that are in contact with the external environment. As one of the sites of entry in human hosts is the gastrointestinal tract, the pathogen must be capable of tolerating bile salts. However, studies analyzing the molecular characteristics involved in the response to bile salts in clinical strains of A. baumannii are scarce. Material and Methods: Microbiological and transcriptional studies (arrays and RT-PCR) in the response to bile salts were carried out in isogenic (A. baumanni ΔadeB ATCC 17978 and A. baumannii ΔadeL ATCC 17978) and clinical strains from clone ST79/PFGE-HUI-1 which is characterized by lacking the AdeABC efflux pump and by overexpression the AdeFGH efflux pump. Results and Discussion: In presence of bile salts, in addition to the glutamate/aspartate transporter were found overexpressed in A. baumannii ΔadeB ATCC 17978, the virulence factors (surface motility, biofilm, and Type VI Secretion System) which are associated with activation of the Quorum Sensing system. Overexpression of these factors was confirmed in clinical strains of clone ST79/PFGE-HUI-1. Conclusions: This the first study about the adaptive response to bile salts investigating the molecular and microbiological characteristics in response to bile salts of an isogenic model of A. baumannii ATCC 17978 and clinical isolates of A. baumannii (clinical strains of ST79/PFGE-HUI-1) lacking the main RND efflux pump (AdeABC). Clinical isolates of A. baumannii lacking the AdeABC efflux pump (clone ST79/PFGE-HUI-1) displayed a new clinical profile (increased invasiveness) possibly associated with the response to stress conditions (such as the presence of bile salts).

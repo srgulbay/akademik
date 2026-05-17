@@ -1,0 +1,19 @@
+PMID: 28375520
+Title: Global Gene Expression Profile of Acinetobacter baumannii During Bacteremia.
+Authors: Murray G., Tsyganov K., Kostoulias X., Bulach D., Powell D., Creek D., Boyce J., Paulsen I., Peleg A.
+Journal: The Journal of infectious diseases
+Year: 2017
+DOI: 10.1093/infdis/jiw529
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/28375520/
+DOI URL: https://doi.org/10.1093/infdis/jiw529
+
+--- Abstract ---
+BACKGROUND: Acinetobacter baumannii is a pathogen of major importance in intensive care units worldwide, with the potential to cause problematic outbreaks and acquire high-level resistance to antibiotics. There is an urgent need to understand the mechanisms of A. baumannii pathogenesis for the future development of novel targeted therapies. In this study we performed an in vivo transcriptomic analysis of A. baumannii isolated from a mammalian host with bacteremia.
+
+METHODS: Mice were infected with A. baumannii American Type Culture Collection 17978 using an intraperitoneal injection, and blood was extracted at 8 hours to purify bacterial RNA for RNA-Seq with an Illumina platform.
+
+RESULTS: Approximately one-quarter of A. baumannii protein coding genes were differentially expressed in vivo compared with in vitro (false discovery rate, ≤0.001; 2-fold change) with 557 showing decreased and 329 showing increased expression. Gene groups with functions relating to translation and RNA processing were overrepresented in genes with increased expression, and those relating to chaperone and protein turnover were overrepresented in the genes with decreased expression. The most strongly up-regulated genes corresponded to the 3 recognized siderophore iron uptake clusters, reflecting the iron-restrictive environment in vivo. Metabolic changes in vivo included reduced expression of genes involved in amino acid and fatty acid transport and catabolism, indicating metabolic adaptation to a different nutritional environment. Genes encoding types I and IV pili, quorum sensing components, and proteins involved in biofilm formation all showed reduced expression. Many genes that have been reported as essential for virulence showed reduced or unchanged expression in vivo.
+
+CONCLUSION: This study provides the first insight into A. baumannii gene expression profiles during a life-threatening mammalian infection. Analysis of differentially regulated genes highlights numerous potential targets for the design of novel therapeutics.

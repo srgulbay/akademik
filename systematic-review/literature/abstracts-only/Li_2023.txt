@@ -1,0 +1,17 @@
+PMID: 36626755
+Title: Triple combination of SPR741, clarithromycin, and erythromycin against Acinetobacter baumannii and its tolerant phenotype.
+Authors: Li Z., She P., Liu Y., Xu L., Li Y., Liu S., Hussain Z., Li L., Yang Y., Wu Y.
+Journal: Journal of applied microbiology
+Year: 2023
+DOI: 10.1093/jambio/lxac023
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36626755/
+DOI URL: https://doi.org/10.1093/jambio/lxac023
+
+--- Abstract ---
+AIMS: Extensively drug-resistant (XDR) Acinetobacter baumannii poses a severe threat to public health due to its ability to form biofilms and persister cells, which contributes to critical drug resistance and refractory device-associated infections. A novel strategy to alleviate such an emergency is to identify promising compounds that restore the antimicrobial susceptibility of existing antibiotics against refractory infections.
+
+METHODS AND RESULTS: Here, we found a significant synergy among three combinations of SPR741, clarithromycin and erythromycin with a potent antimicrobial activity against XDR A. baumannii (SPR741/CLA/E at 8/10/10 μg ml-1 for XDR AB1069 and at 10/16/10 μg ml-1 for XDR AB1208, respectively). Moreover, the triple combination therapy exhibits a significant antipersister and antibiofilm effect against XDR strains. Mechanistic studies demonstrate that SPR741 may promote intracellular accumulation of macrolides by permeabilizing the outer membrane as well as disrupting membrane potential and further enhance the quorum sensing inhibition activity of the macrolides against XDR A. baumannii and its biofilms. In addition, the triple combination of SPR741 with clarithromycin and erythromycin was not easy to induce resistance in A. baumannii and had effective antimicrobial activity with low toxicity in vivo.
+
+SIGNIFICANCE AND IMPACT OF THE STUDY: Collectively, these results reveal the potential of SPR741 in combination with clarithromycin and erythromycin as a clinical therapy for refractory infections caused by XDR A. baumannii.

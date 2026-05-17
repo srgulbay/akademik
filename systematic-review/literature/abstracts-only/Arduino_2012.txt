@@ -1,0 +1,13 @@
+PMID: 22723256
+Title: Transposons and integrons in colistin-resistant clones of Klebsiella pneumoniae and Acinetobacter baumannii with epidemic or sporadic behaviour.
+Authors: Arduino S., Quiroga M., Ramírez M., Merkier A., Errecalde L., Di Martino A., Smayevsky J., Kaufman S., Centrón D.
+Journal: Journal of medical microbiology
+Year: 2012
+DOI: 10.1099/jmm.0.038968-0
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/22723256/
+DOI URL: https://doi.org/10.1099/jmm.0.038968-0
+
+--- Abstract ---
+Multiple transposons, integrons and carbapenemases were found in Klebsiella pneumoniae colistin-resistant isolates as well as a genomic resistance island of the AbaR type in Acinetobacter baumannii colistin-resistant isolates from different hospitals from Buenos Aires City. PFGE analysis showed a polyclonal dissemination of antimicrobial resistance mechanisms among K. pneumoniae isolates, while in A. baumannii isolates the epidemic clone 1 from South America was found. Resistance determinants associated with horizontal gene transfer are contributing to the evolution to pandrug resistance in both epidemic and sporadic clones.

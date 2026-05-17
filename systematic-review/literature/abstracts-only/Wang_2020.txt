@@ -1,0 +1,14 @@
+PMID: 32903329
+Title: Identification of a Novel Acinetobacter baumannii Phage-Derived Depolymerase and Its Therapeutic Application in Mice.
+Authors: Wang C., Li P., Zhu Y., Huang Y., Gao M., Yuan X., Niu W., Liu H., Fan H., Qin Y., Tong Y., Mi Z., Bai C.
+Journal: Frontiers in microbiology
+Year: 2020
+DOI: 10.3389/fmicb.2020.01407
+PMC: PMC7396526
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/32903329/
+DOI URL: https://doi.org/10.3389/fmicb.2020.01407
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7396526/
+
+--- Abstract ---
+The rapid expansion of Acinetobacter baumannii clinical isolates exhibiting resistance to most or all available antibiotics is a global concern. Current treatments for infections caused by this bacterium have become less effective, and the need to explore new alternative therapies is urgent. Depolymerases derived from phages are emerging as attractive anti-virulence agents. In this study, a previously isolated A. baumannii phage (designated as vB_AbaM_IME285) was characterized, and genomic study was carried out using various bioinformatics tools. A gene predicted as encoding for the depolymerase was cloned and expressed, and the depolymerase activity of the recombinant enzyme (Dp49) was identified both in vitro and in experimental mice. The results showed that phage IME285 formed translucent halos around the plaques when inoculated onto a lawn of the host bacteria, exibiting depolymerase activity against this strain. On the basis of complete genome sequencing and bioinformatics analysis, ORF49 was speculated to be a gene encoding for the putative capsule depolymerase. The expressed recombinant Dp49 displayed an effective depolymerase activity and had a spectrum of activity similar to its parental phage IME285, which was active against 25 out of 49 A. baumannii strains. It was found that Dp49 greatly improved the inhibitory effect of serum on bacterial growth in vitro, and the administration of this enzyme significantly increased the survival rates of A. baumannii-infected mice in the animal experiment. In conclusion, the phage-encoded depolymerase Dp49 might be a promising alternative means of controlling infections mediated by multidrug-resistant A. baumannii.

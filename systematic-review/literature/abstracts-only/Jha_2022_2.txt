@@ -1,0 +1,13 @@
+PMID: 35339024
+Title: An extensive computational study to identify potential inhibitors of Acyl-homoserine-lactone synthase from Acinetobacter baumannii (strain AYE).
+Authors: Jha R., Jabeer Khan R., Singh E., Kumar A., Jain M., Muthukumaran J., Singh A.
+Journal: Journal of molecular graphics & modelling
+Year: 2022
+DOI: 10.1016/j.jmgm.2022.108168
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/35339024/
+DOI URL: https://doi.org/10.1016/j.jmgm.2022.108168
+
+--- Abstract ---
+A member of the ESKAPE family of pathogens, A. baumannii, is an opportunistic gram-negative multidrug-resistant bacterium. A. baumannii is a ubiquitous coccobacillus involved in various hospital-related infections such as wound infections, pneumonia, urinary tract infections, septicaemia, endocarditis and ventilator assisted pneumonia and accounts for approximately 1-2% of all nosocomial bloodstream infections; hence it becomes imperative to identify potential therapeutic agents against the dreadful pathogen. The quorum-sensing pathway becomes an attractive drug target due to its role in biofilm regulation and formation, which provides the bacteria insulation from the harsh environment. A crucial protein in biofilm formation and regulation is Acyl-homoserine-lactone synthase (AHLS), responsible for producing signal molecules that trigger the signalling pathway for biofilm formation and regulation. The current study modeled the three-dimensional structure of AHLS in A. baumannii (strain AYE) followed by high-throughput virtual screening of the enamine-AC small-molecule database to identify lead molecules against its acylated-ACP (Acyl Carrier Protein) substrate-binding site. Based on the estimated binding affinity, estimated inhibition constant, ADME analysis and interaction patterns of the screened molecules, three lead candidates (Z815888654, Z2416029019, Z3766992625) were identified along with a control molecule (J8-C8). These molecules were then subjected to molecular dynamics simulations where the physiological effect of ligand binding on the protein was virtually predicted and analysed. The MM/PBSA based binding free energy calculations showed favourable results for Z815888654 (-22.77 ± 2.94 kcal/mol), Z2416029019 (-33.68 ± 2.63 kcal/mol), Z3766992625 (-21.44 ± 3.40 kcal/mol). The study employed global and essential dynamics analyses, MM/PBSA based binding free energy, free energy landscape and dynamic cross-correlation matrix to suggest Z815888654, Z2416029019 and Z3766992625 as potential inhibitors against the acylated-ACP substrate-binding site in AHLS from A. baumannii.

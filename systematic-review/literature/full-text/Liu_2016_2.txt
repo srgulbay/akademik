@@ -1,0 +1,111 @@
+Title: Biofilm-Related Genes: Analyses in Multi-Antibiotic Resistant Acinetobacter Baumannii Isolates From Mainland China
+PMID: 27234982
+PMCID: PMC
+DOI: 10.12659/MSM.898959
+
+=== ABSTRACT ===
+# Background
+
+Acinetobacter baumannii is an important nosocomial pathogen which shows a high level of mortality risk. Several papers have reported biofilm formation as a well-known pathogenic mechanism in A. baumannii infections and exceptional antibiotic resistance. The study aims to explore the potential relationships between biofilm-related genes and antimicrobial resistance.
+
+
+# Material/Methods
+
+Samples from 122 patients with lower respiratory tract infections of A. baumannii were collected at Fujian Longyan First Hospital from January 2013 to September 2014. A. baumannii was isolated from sputum specimens. Biofilm-related genes including abaI, csuE, ompA, and bla-PER1 were analyzed by PCR. The minimum inhibitory concentration method was used to determine the sensitivity of each strain to antibiotics.
+
+
+# Results
+
+The clinical manifestations of A. baumannii-induced lower respiratory tract infections lacked specificity. Infected patients were most commonly admitted to intensive care units (54.9%) and frequently had chronic obstructive pulmonary disease (27.0%). The detection rates of abaI and csuE were both 59.8%, and those of ompA and bla-PER1 were 100% and 0%, respectively. After genetic testing, antimicrobial resistance to amikacin, ampicillin/sulbactam, and 14 other types of antimicrobials was higher in abaI- and csuE-positive strains than in abaI- and csuE-negative strains (P<0.05).
+
+
+# Conclusions
+
+The findings of our study suggest that abaI- and csuE-positive Acinetobacter baumannii strains are associated with a higher incidence of antibiotic resistance in 14 types of antimicrobials.
+
+=== FULL TEXT ===
+# Background
+
+Acinetobacter baumannii is an important nosocomial pathogen that causes pneumonia, bacteremia, meningitis, urinary tract infections, and other inflammation-related diseases [1–5]. It is difficult to treat A. baumannii infections owing to the occurrence of drug resistance and the ability of the pathogen to propagate worldwide. This infection contributes to the high mortality rates of in-patients (23%) and patients in the intensive care unit (ICU; 43%) and represents a major clinical issue [6].
+
+Currently, A. baumannii drug resistance is believed to be related to specific antibiotic hydrolases produced by A. baumannii; these hydrolases could alter drug-binding proteins, bacterial structure, and the number of porins, and could increase the activity of efflux pumps [7–10]. Furthermore, A. baumannii can live in the form of a biofilm in the external environment, resistant to disinfectants, ultraviolet light, and host immune defenses. This biofilm increases the difficulty of preventing and controlling A. baumannii infections [11].
+
+A previous review illustrated several specific genes, including csuA/BABCDE, ompA, abaI, and pgaABCD, that may determine the biofilm formation of A. baumannii [12]. Furthermore, alternative protein complexes involved in biofilm formation are assembled in different A. baumannii strains and are highly correlated with the uneven distributions of different biofilm-associated protein (BAP) types [13]. The relationship between biofilm-related genes and A. baumannii biofilm formation was described in previous studies [14–18]. For example, Breij et al. suggested that there may be an association between the csuA/BABCDE gene and A. baumannii biofilm formation on abiotic surfaces [14]. Furthermore, ompA can be integrated into host epithelial cell and mitochondrial membranes and induce cell death, or participate in the extrusion of compounds from the periplasmic space through the outer membrane and couple with inner membrane efflux systems, which may be associated with drug resistance in A. baumannii infections [16]. The autoinducer synthase abaI is necessary for biofilm formation and plays an important role in the late stages of biofilm maturation [15,17]. Moreover, the ability of A. baumannii to adhere to epithelial cells may be enhanced by bla-PER1 [18]. Currently, although several potential relationships have been detected in previous studies, the relationship between biofilm-related genes, biofilm formation, and drug resistance of A. baumannii in China remains unclear. Furthermore, the correlations between antibiotic resistance and the four A. baumannii genes related to biofilm formation are still controversial. Therefore, we conducted a retrospective study to explore the potential association between the four biofilm-related genes and drug resistance by detecting csuA/BABCDE, ompA, abaI, and bla-PER1 in A. baumannii isolates from clinical specimens.
+
+
+# Material and Methods
+
+
+## Ethics statement
+
+This study was approved by the Ethics Committee of Longyan First Affiliated Hospital of Fujian Medical University, Longyan, Fujian, China (2012001). The purpose and procedures of the study were carefully explained to all participants and written informed consent was obtained from all participants. All the clinical isolates analyzed in this work were collected as part of routine medical care. All the data analyzed in this work had already been anonymized before analysis.
+
+
+## Patients and inclusion criteria
+
+One hundred twenty-two patients with lower respiratory tract infection by A. baumannii were enrolled in this study after hospitalization in various departments at Fujian Longyan First Hospital between January 2013 and September 2014. The exclusion criteria included immune deficiency and previous use of hormone therapy. Patients’ primary disease, aggressive treatment, clinical symptoms, temperature, white blood cell count (WBC), and X-ray examination results were recorded by investigators. The patients had clinical symptoms that included cough with purulent sputum or increasing sputum volume, moist crackles, or lung X-ray examination with pulmonary infiltrates or with fuzzy and increased lung markings. Furthermore, we also carried out laboratory tests, imaging examinations, and microbiological examinations. Using “Diagnostic Criteria for Hospital Infections” as the basis for diagnosis, patients were eligible for inclusion in the study if the following criteria were met: (1) A. baumannii was detected from two consecutive sputum cultures, and (2) A. baumannii ≥105 CFU/mL was detected from lower respiratory tract secretions that were collected by fiber optic bronchoscopy or artificial airways.
+
+
+## Source of bacterial strains
+
+A. baumannii bacteria were obtained from sputum specimens from the first deep lung expectorant of patients after waking and rinsing their mouths using normal saline. Strains were detected using a BD Phoenix100 automated microbial identification system (Becton Dickinson and Company, NJ, USA). The reference strains Escherichia coli ATCC25922 and Pseudomonas aeruginosa ATCC27853 were used as controls (OXOID Company, Basingstoke, England).
+
+
+## Genomic DNA extraction
+
+A pure culture colony was picked and placed in a 1.0 mL centrifuge tube. A. baumannii genomic DNA was extracted using a TIANGEN bacterial genomic DNA extraction kit (TIANGEN Biotech Company, Beijing, China) according to the manufacturer’s instructions. DNA was stored at −20°C until use.
+
+
+## Gene detection
+
+Target genes were detected using polymerase chain reaction (PCR). The various target gene primer sequences [16–18] and product lengths are shown in Table 1. Each biofilm-associated gene amplification reaction included 1 μL each of P1 and P2 primers (10 nM), 3 μL of 200 mM dNTPs, 3 μL of buffer containing 15 mM MgCl2, 2 μL DNA template, 5 U/μL Taq enzyme (1 μL), and 19 μL of double-distilled H2O for a total reaction volume of 30 μL.
+
+The PCR thermal cycling parameters for abaI and csuE were an initial denaturation at 95°C for 10 minutes; followed by 35 cycles of 95°C for 30 seconds, 63°C for 30 seconds, and 72°C for 1 minute; and a final extension at 72°C for 10 minutes. The PCR thermal cycling parameters for ompA and bla-PER1 were an initial denaturation at 95°C for 10 minutes; followed by 35 cycles of 95°C for 30 seconds, 52°C for 30 seconds, and 72°C for 1 minute; and a final extension at 72°C for 10 minutes.
+
+By comparing the resulting bands and a DNA base pair marker following 2% agarose gel electrophoresis, products that showed the expected molecular weight were regarded as positive [19].
+
+
+## Drug sensitivity test
+
+The microdilution quantitative minimum inhibitory concentration (MIC) method was used to determine the antimicrobial susceptibility of each strain. According to the US CLSI2013 susceptibility criteria, susceptibility paper from the OXOID Company was applied for the assessment of drug sensitivity. Multidrug resistance was defined as isolates showing drug resistance to three or more of the following five classes of antibiotics: cephalosporins, carbapenems, compounds of β-lactamase inhibitors, fluoroquinolones, and aminoglycosides. Pan-drug resistance was defined as isolates showing drug resistance to all classes excluding polymyxin.
+
+
+## Statistical analyses
+
+Baseline data are presented as the mean ± standard deviation and rate. Comparisons between positive and negative genes were made using t-tests and χ2 tests. First, we used univariate logistic regression to determine any potential confounders. Furthermore, drug resistance was investigated by logistic regression for analyzing the odds ratio after adjustment for gender, mean age, department, ventilator, tracheotomy, cardiovascular disease, and diabetes. Statistical analyses were performed with two-sided tests. Differences with P-values of less than 0.05 were considered statistically significant. The data were analyzed using Statistical Package for the Social Sciences version 19.0 (SPSS 19.0).
+
+
+# Results
+
+
+## Baseline characteristics
+
+As shown in Table 2, there were 102 men and 20 women enrolled in this study. The mean age of the enrolled patients was 64±22 years. Additionally, 54.9% (67/122) of A. baumannii-infected patients were admitted to the ICU, and 33 patients (27%, 33/122) had chronic obstructive pulmonary disease (COPD). The long-term invasive treatments to which patients were exposed included tracheotomy, mechanical ventilation, intravenous indwelling catheterization, retention catheterization, and sputum suction. The proportion of infections associated with tracheotomy, mechanical ventilation, and sputum suction were 74.07% (40/54), 71.67% (43/60), and 46.67% (28/60), respectively. Patients had cough, sputum, pulmonary moist rales, imaging changes, and other clinical symptoms.
+
+
+## Biofilm-related gene analysis
+
+In the 122 sputum specimens, the detection rates of abaI and csuE were both 59.8%, and those of ompA and bla-PER1 were 100% and 0%, respectively. The results of our analysis of biofilm-related genes are shown in Table 3.
+
+
+## Antibiotic resistance
+
+Resistance rates are shown in Table 4. abaI- and csuE-positive and negative specimens showed statistically significant differences in the rates of resistance to amikacin, ampicillin/sulbactam, cefepime, cefoperazone/sulbactam, cefotaxime, ceftazidime, ciprofloxacin, gentamicin, imipenem, meropenem, piperacillin/tazobactam, tetracycline, cotrimoxazole (SMZco), and levofloxacin (P<0.001). Moreover, there was a statistically significant difference between abaI-positive and abaI-negative groups (P<0.05) whereas no statistically significant difference was observed between csuE positive and csuE-negative groups (P>0.05). The odds ratios for the association between specific drug resistance rates and positivity for the abaI and csuE genes are presented in Table 5. Overall, we noted that abaI and csuE positivity were associated with a statistically significant impact on amikacin, ampicillin, cefepime, sulbactam, cefotaxime, ceftazidime, ciprofloxacin, gentamicin, imipenem, meropenem, piperacillin, tetracycline, SMZco, and levofloxacin resistance after adjustment for gender, mean age, department, ventilator, tracheotomy, cardiovascular disease, and diabetes.
+
+
+# Discussion
+
+A. baumannii is an opportunistic pathogen that can colonize the skin, conjunctiva, oral cavities, respiratory tract, gastrointestinal tract, and urinary tract [20]. Furthermore, A. baumannii infections frequently occur in the intensive care unit and respiratory department. These patients are often in critical condition, have lower immune function, exhibit poor nutritional status, and may also have diabetes, cancer, chronic wasting disease, and other diseases of the brain, heart, kidneys, or lungs. Thus, these patients often have decreased resistance and increased susceptibility to infection [21]. The symptoms caused by lower respiratory tract infections of A. baumannii include cough, sputum, and pulmonary moist rales. In addition, patients often exhibit distinct x-ray images, such as multiple scattered small patchy shadows, large patchy shadows, cystic lung or cylindrical bronchiectasis, and pleural effusions, which lack clinical specificity. Therefore, microbiological examinations are needed to confirm A. baumannii infection as soon as possible in order to maximize recovery rates. The findings of our study suggested that abaI- and csuE-positive strains were associated with 14 types of antimicrobial resistance, as shown in Table 4. Furthermore, after adjusting for gender, mean age, department, ventilator, tracheotomy, cardiovascular disease, and diabetes, abaI and csuE were associated with significant effects on amikacin, ampicillin, cefepime, sulbactam, cefotaxime, ceftazidime, ciprofloxacin, gentamicin, imipenem, meropenem, piperacillin, tetracycline, SMZco, and levofloxacin resistance.
+
+Bacterial biofilms are associated with problems in the prevention and treatment of A. baumannii infection [11]. Biofilms irreversibly adhere in the host’s tissues or on abiotic surfaces and are supported by polymer matrices that are secreted by the microorganisms themselves, facilitating the formation of bacterial communities [22]. This viscous matrix can separate bacteria from harmful external factors, thereby increasing the resistance of the microbial community [22]. These observations may be explained as follows: (1) permeation limitation: bacteria at high density in biofilms can produce an extracellular matrix that impedes antibiotic penetration; (2) nutrition restrictions: bacteria in biofilms are maintained in a state of low metabolism and a slow growth rate, making them less sensitive to outside stimuli, such as antibiotics; (3) phenotype inference: biological membranes select or induce strains with resistant phenotypes and increase the number of antibiotic resistance genes and the expression of resistance efflux pumps, leading to drug resistance; (4) immune suppression: A. baumannii biofilms are a natural physical barrier that limit immune-mediated killing of the organism; and (5) quorum sensing: following an increase in the number of A. baumannii, some bacteria are detached from the surface of the biofilm by quorum sensing and are transformed into a planktonic growth state, allowing bacteria to adhere to appropriate media and leading to the spread of infection and relapse [14,23,24].
+
+The clinical signs of A. baumannii-infected patients and the possible factors that influence drug resistance were also examined in this study. The reasons for this include permeation limitation, nutrition restrictions, phenotype inference, immune suppression, and quorum sensing, as discussed above. Therefore, the following prevention and treatment methods are recommended: (1) regular disinfection of wards and medical containers should be conducted; (2) medical personnel should practice hand hygiene; (3) the duration of mechanical ventilation and body catheterization should be shortened; and (4) early diagnosis and drug resistance testing should be a priority in order to enhance preventive measures.
+
+Our study had several limitations. First, stratified analyses based on potential confounders were not conducted due to the insufficient sample size. Second, patients with different disease statuses and admitted to different clinical centers were enrolled in this study, which may have affected the observed results.
+
+Thus, an improved understanding of the association between biofilm formation and resistance mechanisms is needed because once drug-resistant strains form biofilms, treatment becomes extremely difficult. AbaI- and csuE-positive strains were the most resistant to the 14 types of antimicrobials; therefore, detecting these genes can guide antibiotic use in A. baumannii-infected patients. Further studies are needed to determine whether strains carrying abaI and csuE are associated with biofilm formation.
+
+
+# Conclusions
+
+A. baumannii infected patients were most commonly admitted to intensive care units and the respiratory department, and the patients frequently had chronic obstructive pulmonary disease. The patients infected with A. baumannii-induced lower respiratory tract infections lacked clinical specificity. The majority of the A. baumannii isolates from mainland China were susceptible to polymyxin E. AbaI- and csuE-positive strains were associated with higher incidence of 14 types of antimicrobial resistance. Detecting the abaI and csuE genes can provide important information for clinical treatment by certain antibiotics. An improved understanding of the association between biofilm formation and resistance mechanisms is needed, and some preventive measures such as shortening the duration of mechanical ventilation should be instituted to avoid biofilm formation.

@@ -1,0 +1,14 @@
+PMID: 29410443
+Title: Evolution of the Quorum network and the mobilome (plasmids and bacteriophages) in clinical strains of Acinetobacter baumannii during a decade.
+Authors: López M., Rueda A., Florido J., Blasco L., Fernández-García L., Trastoy R., Fernández-Cuenca F., Martínez-Martínez L., Vila J., Pascual A., Bou G., Tomas M.
+Journal: Scientific reports
+Year: 2018
+DOI: 10.1038/s41598-018-20847-7
+PMC: PMC5802823
+Publication types: Comparative Study; Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/29410443/
+DOI URL: https://doi.org/10.1038/s41598-018-20847-7
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5802823/
+
+--- Abstract ---
+In this study, we compared eighteen clinical strains of A. baumannii belonging to the ST-2 clone and isolated from patients in the same intensive care unit (ICU) in 2000 (9 strains referred to collectively as Ab_GEIH-2000) and 2010 (9 strains referred to collectively as Ab_GEIH-2010), during the GEIH-REIPI project (Umbrella BioProject PRJNA422585). We observed two main molecular differences between the Ab_GEIH-2010 and the Ab_GEIH-2000 collections, acquired over the course of the decade long sampling interval and involving the mobilome: i) a plasmid harbouring genes for blaOXA 24/40 ß-lactamase and abKA/abkB proteins of a toxin-antitoxin system; and ii) two temperate bacteriophages, Ab105-1ϕ (63 proteins) and Ab105-2ϕ (93 proteins), containing important viral defence proteins. Moreover, all Ab_GEIH-2010 strains contained a Quorum functional network of Quorum Sensing (QS) and Quorum Quenching (QQ) mechanisms, including a new QQ enzyme, AidA, which acts as a bacterial defence mechanism against the exogenous 3-oxo-C12-HSL. Interestingly, the infective capacity of the bacteriophages isolated in this study (Ab105-1ϕ and Ab105-2ϕ) was higher in the Ab_GEIH-2010 strains (carrying a functional Quorum network) than in the Ab_GEIH-2000 strains (carrying a deficient Quorum network), in which the bacteriophages showed little or no infectivity. This is the first study about the evolution of the Quorum network and the mobilome in clinical strains of Acinetobacter baumannii during a decade.

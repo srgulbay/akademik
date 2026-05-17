@@ -1,0 +1,14 @@
+PMID: 26666934
+Title: Evolution of AbGRI2-0, the Progenitor of the AbGRI2 Resistance Island in Global Clone 2 of Acinetobacter baumannii.
+Authors: Blackwell G., Nigro S., Hall R.
+Journal: Antimicrobial agents and chemotherapy
+Year: 2015
+DOI: 10.1128/AAC.02662-15
+PMC: PMC4775934
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/26666934/
+DOI URL: https://doi.org/10.1128/AAC.02662-15
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4775934/
+
+--- Abstract ---
+A320, isolated in the Netherlands in 1982 and also known as RUH134, is the earliest available multiply antibiotic-resistant (MAR) Acinetobacter baumannii isolate belonging to global clone 2 (GC2) and is the reference strain for this clone. The draft genome sequence of A320 was used to investigate the original location and configuration of the IS26-bounded AbGRI2 resistance island found in current GC2 isolates. PCR mapping and sequencing were used to order contigs composing the resistance islands. A320 contains two IS26-bounded resistance islands, AbGRI2-0a and AbGRI2-0b, of 7.8 kb and 25.4 kb, respectively. Together they contain blaTEM, aacC1, aadA1, sul1, catA1, and aphA1b genes, which confer resistance to antibiotics used clinically in the 1970s, as well as an incomplete mercury resistance module. Tracking the continuity of the chromosome and the target site duplications revealed that the two resistance islands were originally together as AbGRI2-0, an island of 32.4 kb, and were subsequently separated via an IS26-mediated intramolecular inversion that reversed the orientation of 1.54 Mb of the chromosome and duplicated an IS26. A320 contains an ancestral form of AbGRI2, and the original insertion site of the AbGRI2 island was identified. Many of the AbGRI2 versions present in the completed GC2 genomes can be derived from it via the variant AbGRI2-1. IS26-mediated inversions have also played a part in forming AbGRI2-0, and, upon reversal, large regions of AbGRI2-0 are identical to parts of AbaR0, the ancestral version of the AbaR islands present in GC1 isolates. This indicates a common source.

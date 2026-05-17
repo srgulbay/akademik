@@ -1,0 +1,19 @@
+PMID: 21873287
+Title: AbaR4 replaces AbaR3 in a carbapenem-resistant Acinetobacter baumannii isolate belonging to global clone 1 from an Australian hospital.
+Authors: Hamidian M., Hall R.
+Journal: The Journal of antimicrobial chemotherapy
+Year: 2011
+DOI: 10.1093/jac/dkr356
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/21873287/
+DOI URL: https://doi.org/10.1093/jac/dkr356
+
+--- Abstract ---
+OBJECTIVES: To explore the diversity of genomic resistance islands in multiply antibiotic-resistant Acinetobacter baumannii isolates in global clone 1 (GC1) from Australian hospitals.
+
+METHODS: PCR was used to characterize isolates, detect antibiotic resistance genes and insertion sequences and screen for genomic resistance islands. Structures of genomic islands were determined by PCR mapping and sequencing. Multilocus sequence typing was performed using the Oxford scheme.
+
+RESULTS: Eleven isolates that belong to GC1 were found among 90 A. baumannii isolated between 2001 and 2010 at Australian hospitals, and 5 were carbapenem resistant. Ten isolates had the features characteristic of AbaR3 and related islands, but one carbapenem-resistant isolate did not. Instead, D36 carried the bla(OXA-23) gene in transposon Tn2006, with Tn2006 in AbaR4, and AbaR4 in the chromosomal comM gene, replacing the AbaR3-type island usually associated with multiply antibiotic-resistant GC1 isolates. D36 was resistant to gentamicin, kanamycin and tobramycin due to the aadB gene cassette in the context found in plasmid pRAY and to sulfamethoxazole due to the sul2 gene. D36 was of a rare sequence type (ST), ST247. Bioinformatic analysis identified five potential transposition genes in the AbaR backbone transposons.
+
+CONCLUSIONS: Substantial diversity was observed among the GC1 isolates. This is the first report of AbaR4 replacing the AbaR3-type island seen in most GC1 isolates, and D36 represents a distinct new GC1 lineage. The AbaRs are members of a large, previously undocumented family of transposons that target comM.

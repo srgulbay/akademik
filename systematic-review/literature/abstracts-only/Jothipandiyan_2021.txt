@@ -1,0 +1,13 @@
+PMID: 34961388
+Title: Heteroleptic pincer palladium(II) complex coated orthopedic implants impede the AbaI/AbaR quorum sensing system and biofilm development by Acinetobacter baumannii.
+Authors: Jothipandiyan S., Suresh D., Sankaran S., Thamotharan S., Shanmugasundaram K., Vincent P., Sekaran S., Gowrishankar S., Pandian S., Paramasivam N.
+Journal: Biofouling
+Year: 2021
+DOI: 10.1080/08927014.2021.2015336
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/34961388/
+DOI URL: https://doi.org/10.1080/08927014.2021.2015336
+
+--- Abstract ---
+Implant-associated infections mediated by Acinetobacter baumannii biofilms have become a major concern in the healthcare sector. As biofilm formation by this important pathogen is mediated by quorum sensing, quorum sensing inhibitors (QSI) have gained much attention. The present study confirms that novel thiazolinyl-picolinamide based palladium(II) complexes had good biofilm disruptive and QSI properties against A. baumannii. Key QS-mediated virulence factors like pili mediated surface motility and polysaccharide production were inhibited by the best Pd(II) complex (E). This also showed potent inhibitory activity against both the standard and clinical strains of A. baumannii. Molecular docking analysis also proved the potent binding affinity of Pd(II)-E with the virulence targets. The Pd(II) complex also disrupted preformed biofilms and down-regulated the expression of QS mediated virulence genes in the biofilms established on implant material (titanium plates). As a whole, the present study showed that the novel thiazolinyl-picolinamide based Pd(II) complexes offer a promising anti-infective strategy to combat biofilm-mediated implant infections.

@@ -1,0 +1,14 @@
+PMID: 32457749
+Title: The Antimicrobial Peptide Human Beta-Defensin 2 Inhibits Biofilm Production of Pseudomonas aeruginosa Without Compromising Metabolic Activity.
+Authors: Parducho K., Beadell B., Ybarra T., Bush M., Escalera E., Trejos A., Chieng A., Mendez M., Anderson C., Park H., Wang Y., Lu W., Porter E.
+Journal: Frontiers in immunology
+Year: 2020
+DOI: 10.3389/fimmu.2020.00805
+PMC: PMC7225314
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't; Research Support, U.S. Gov't, Non-P.H.S.
+URL: https://pubmed.ncbi.nlm.nih.gov/32457749/
+DOI URL: https://doi.org/10.3389/fimmu.2020.00805
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7225314/
+
+--- Abstract ---
+Biofilm production is a key virulence factor that facilitates bacterial colonization on host surfaces and is regulated by complex pathways, including quorum sensing, that also control pigment production, among others. To limit colonization, epithelial cells, as part of the first line of defense, utilize a variety of antimicrobial peptides (AMPs) including defensins. Pore formation is the best investigated mechanism for the bactericidal activity of AMPs. Considering the induction of human beta-defensin 2 (HBD2) secretion to the epithelial surface in response to bacteria and the importance of biofilm in microbial infection, we hypothesized that HBD2 has biofilm inhibitory activity. We assessed the viability and biofilm formation of a pyorubin-producing Pseudomonas aeruginosa strain in the presence and absence of HBD2 in comparison to the highly bactericidal HBD3. At nanomolar concentrations, HBD2 - independent of its chiral state - significantly reduced biofilm formation but not metabolic activity, unlike HBD3, which reduced biofilm and metabolic activity to the same degree. A similar discrepancy between biofilm inhibition and maintenance of metabolic activity was also observed in HBD2 treated Acinetobacter baumannii, another Gram-negative bacterium. There was no evidence for HBD2 interference with the regulation of biofilm production. The expression of biofilm-related genes and the extracellular accumulation of pyorubin pigment, another quorum sensing controlled product, did not differ significantly between HBD2 treated and control bacteria, and in silico modeling did not support direct binding of HBD2 to quorum sensing molecules. However, alterations in the outer membrane protein profile accompanied by surface topology changes, documented by atomic force microscopy, was observed after HBD2 treatment. This suggests that HBD2 induces structural changes that interfere with the transport of biofilm precursors into the extracellular space. Taken together, these data support a novel mechanism of biofilm inhibition by nanomolar concentrations of HBD2 that is independent of biofilm regulatory pathways.

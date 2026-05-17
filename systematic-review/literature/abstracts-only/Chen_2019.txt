@@ -1,0 +1,18 @@
+PMID: 31771504
+Title: Effect of calcium on the interaction of Acinetobacter baumannii with human respiratory epithelial cells.
+Authors: Chen Y., Shao T., Fang S., Pan P., Jiang J., Cheng T., Wan H., Yu D.
+Journal: BMC microbiology
+Year: 2019
+DOI: 10.1186/s12866-019-1643-z
+PMC: PMC6880639
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/31771504/
+DOI URL: https://doi.org/10.1186/s12866-019-1643-z
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6880639/
+
+--- Abstract ---
+BACKGROUND: Investigating the factors that influence Acinetobacter baumannii(Ab) adhesion/invasion of host cells is important to understand its pathogenicity. Metal cations have been shown to play an important role in regulating the biofilm formation and increasing the virulence of Ab; however, the effect of calcium on host-bacterial interaction has yet to be clarified. Here, the dynamic process of the interaction between Ab and human respiratory epithelial cells and the effect of calcium on host-bacterial interaction were explored using microscopic imaging, quantitative PCR and real time cellular analysis (RTCA).
+
+RESULTS: The concentration of calcium, multiplicity of infection and co-culture time were all demonstrated to have effects on host-bacterial interaction. A unique "double peak" phenomenon changed to a sharp "single peak" phenomenon during the process of Ab infection under the effect of calcium was observed in the time-dependent cell response profiles. Moreover, calcium can increase Ab adhesion/invasion of epithelial cells by regulating the expression of Ab-related genes (ompA, bfmRS, abaI).
+
+CONCLUSIONS: Effective control of calcium concentrations can provide new approaches for the prevention and treatment of multi-drug resistant Ab.

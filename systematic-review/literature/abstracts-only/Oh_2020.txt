@@ -1,0 +1,21 @@
+PMID: 33025548
+Title: AbaR is a LuxR type regulator essential for motility and the formation of biofilm and pellicle in Acinetobacter baumannii.
+Authors: Oh M., Han K.
+Journal: Genes & genomics
+Year: 2020
+DOI: 10.1007/s13258-020-01005-8
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/33025548/
+DOI URL: https://doi.org/10.1007/s13258-020-01005-8
+
+--- Abstract ---
+BACKGROUND: Acinetobacter baumannii is a major opportunistic pathogen causing nosocomial infections. Acinetobacter baumannii possesses a quorum sensing system consisting of abaI, encoding an autoinducer synthase, and abaR, encoding a putative LuxR type regulator. AbaI is required for motility and biofilm formation in A. baumannii. However, the functions of AbaR on the expression of abaI, motility, and the formation of biofilm and pellicle have not yet been explored.
+
+OBJECTIVE: The aim of this study was to investigate the effects of abaR mutation on the expression of abaI, motility, and the formation of biofilm and pellicle.
+
+METHODS: Functions of AbaR were assessed by the construction of an isogenic mutant and by evaluating the effects of abaR mutation on the expression of abaI, motility, and the formation of biofilm and pellicle.
+
+RESULTS: The abaR mutant revealed a significant decrease in the expression of abaI. The disruption of abaR resulted in substantial defects in motility and the formation of biofilm and pellicle. Introduction of abaR in trans complemented the defects.
+
+CONCLUSIONS: AbaR of A. baumannii is required for the expression of abaI and plays important roles in motility and the formation of biofilm and pellicle. AbaR may be considered to be a target of anti-biofilm agents.

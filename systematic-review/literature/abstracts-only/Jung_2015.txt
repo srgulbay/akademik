@@ -1,0 +1,13 @@
+PMID: 25693672
+Title: Acinetobacter species as model microorganisms in environmental microbiology: current state and perspectives.
+Authors: Jung J., Park W.
+Journal: Applied microbiology and biotechnology
+Year: 2015
+DOI: 10.1007/s00253-015-6439-y
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/25693672/
+DOI URL: https://doi.org/10.1007/s00253-015-6439-y
+
+--- Abstract ---
+Acinetobacter occupies an important position in nature because of its ubiquitous presence in diverse environments such as soils, fresh water, oceans, sediments, and contaminated sites. Versatile metabolic characteristics allow species of this genus to catabolize a wide range of natural compounds, implying active participation in the nutrient cycle in the ecosystem. On the other hand, multi-drug-resistant Acinetobacter baumannii causing nosocomial infections with high mortality has been raising serious concerns in medicine. Due to the ecological and clinical importance of the genus, Acinetobacter was proposed as a model microorganism for environmental microbiological studies, pathogenicity tests, and industrial production of chemicals. For these reasons, Acinetobacter has attracted significant attention in scientific and biotechnological fields, but only limited research areas such as natural transformation and aromatic compound degradation have been intensively investigated, while important physiological characteristics including quorum sensing, motility, and stress response have been neglected. The aim of this review is to summarize the recent achievements in Acinetobacter research with a special focus on strain DR1 and to compare the similarities and differences between species or other genera. Research areas that require more attention in future research are also suggested.

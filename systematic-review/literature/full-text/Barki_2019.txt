@@ -1,0 +1,170 @@
+Title: Electric Field Based Dressing Disrupts Mixed-Species Bacterial Biofilm Infection and Restores Functional Wound Healing
+PMID: 29099398
+PMCID: PMC
+DOI: 10.1097/SLA.0000000000002504
+
+=== ABSTRACT ===
+# Objective:
+
+This study was designed to employ electroceutical principles, as an alternative to pharmacological intervention, to manage wound biofilm infection. Mechanism of action of a United States Food and Drug Administration-cleared wireless electroceutical dressing (WED) was tested in an established porcine chronic wound polymicrobial biofilm infection model involving inoculation with Pseudomonas aeruginosa PAO1 and Acinetobacter baumannii 19606.
+
+
+# Background:
+
+Bacterial biofilms represent a major wound complication. Resistance of biofilm toward pharmacologic interventions calls for alternative therapeutic strategies. Weak electric field has anti-biofilm properties. We have previously reported the development of WED involving patterned deposition of Ag and Zn on fabric. When moistened, WED generates a weak electric field without any external power supply and can be used as any other disposable dressing.
+
+
+# Methods:
+
+WED dressing was applied within 2 hours of wound infection to test its ability to prevent biofilm formation. Alternatively, WED was applied after 7 days of infection to study disruption of established biofilm. Wounds were treated with placebo dressing or WED twice a week for 56 days.
+
+
+# Results:
+
+Scanning electron microscopy demonstrated that WED prevented and disrupted wound biofilm aggregates. WED accelerated functional wound closure by restoring skin barrier function. WED blunted biofilm-induced expression of (1) P. aeruginosa quorum sensing mvfR (pqsR), rhlR and lasR genes, and (2) miR-9 and silencing of E-cadherin. E-cadherin is critically required for skin barrier function. Furthermore, WED rescued against biofilm-induced persistent inflammation by circumventing nuclear factor kappa B activation and its downstream cytokine responses.
+
+
+# Conclusion:
+
+This is the first pre-clinical porcine mechanistic study to recognize the potential of electroceuticals as an effective platform technology to combat wound biofilm infection.
+
+=== FULL TEXT ===
+The Center for Disease Control estimates that 65% of all human infections are caused by bacteria with a biofilm phenotype and National Institutes of Health estimates that this number is closer to 80%.1 Biofilm infection, often manifested as bacterial aggregates,2 is implicated in numerous human soft tissue and device-related infections.3 Biofilms shelter bacteria within structural extracellular polymeric substance (EPS) typically made up of polymeric sugars, bacterial proteins, bacterial DNA, and even co-opted host substances.4,5 Such physical protective barrier affords antibiotic tolerance and impedes host clearance.5 In the treatment of biofilm infection, antimicrobial strategies have performed poorly.6 Adaptive resistance to antimicrobials represents a versatile dynamic process that affords antimicrobial defenses, employing evolving mechanisms that seem to be designed to respond to counter the specific pharmacological threat in question.6
+
+That weak electric fields may have anti-biofilm property was first reported in 1992.7 Bacteria rely on electrostatic interactions for adhesion to surfaces, an important aspect of biofilm formation.8 The flow of electric current is directly implicated in interbacterial communication, another key aspect of the pathogenesis of biofilm.9 Conductive nanowires afford physical interactions between biofilm forming bacterial cells.10 In addition to being implicated in bacterial biofilm formation, several lines of evidence from ours and other laboratories support that changes in electrical parameters in the wound microenvironment may modulate migration and function of host cells relevant to wound healing.11,12 In 1857, Dubois-Reymond first observed that human skin is electrically active.13 Despite evidence supporting a role of electrical principles in both bacterial and host biology, there are no in vivo studies addressing the significance of electroceutical intervention in a pathogenic setting of host biofilm interaction.
+
+In 2014, we reported a wireless electroceutical dressing (WED) that relies on electrochemistry, enabled by Ag/Zn printed on fabric, to generate a weak electric field.11,14 WED, a textile-based disposable wound dressing, may be left on the wound just as any other dressing on a long-term basis without the need for any external power supply. The fact that WED dressing15 is United States Food and Drug Administration (FDA) cleared and already in clinical use heightens the need to understand underlying mechanisms to enable optimal use. WED relies on electrical principles and is therefore not subject to the metabolic pathways that may promote drug resistance. Understanding how WED may influence microbial, host as well as host-microbe interactions will inform optimal use of this technology platform.
+
+Biofilm infection has been mostly studied in vitro16,17 or ex vivo18 where the immune system is not involved. While such an approach is powerful in understanding microbiological processes, it is limited in its ability to address biofilm mechanisms in the context of host infection.17 For biofilm of pathogenic relevance to human health, there are 2 primary factors: (1) microbial mechanisms, and (2) host response, which shape microbial mechanisms over time.17 Pre-clinical wound infection studies, involving intact immune system, are necessary to understand the temporal cascade of events that causes biofilm pathology.17,19 Deliberate infection with highly pathogenic biofilm-forming bacteria may only be conducted in a pre-clinical wound setting.19 Thus, in this work, we utilize an established porcine pre-clinical model of chronic biofilm infection19 to understand the mechanism of action of WED.
+
+In cutaneous wounds complicated by biofilm infection, compromised barrier function of the repaired skin is recognized as a key pathological endpoint.19 This work tested whether this deficit may be rescued by treatment of biofilm-infected wounds with WED. To that end, focus was directed in identifying biofilm-inducible pathological mechanisms that could be circumvented in the presence of WED. Of several skin barrier proteins screened, the adherens junction protein E-cadherin emerged as the single candidate that was repressed following biofilm infection by mechanisms that were sensitive to WED. E-cadherin is essential for in vivo epidermal barrier function by regulating tight junctions.20 Study of mechanistic underpinnings recognized cutaneous wound-edge miR-9 as being biofilminducible. E-cadherin is subject to post-transcriptional gene silencing by miR-9, as predicted using RNAHybrid.21 Thus, we sought to test the central hypothesis that wound biofilm infection induces cutaneous miR-9, which in turn silences E-cadherin disrupting barrier function of the repaired skin. The significance of WED in sparing such pathology was tested.
+
+
+# METHODS
+
+
+## Ethics Statement
+
+The Ohio State University Institutional Animal Care and Use Committee (IACUC) approved all animal experiments.
+
+
+## Ag/Zn Bioelectric Dressing
+
+A commercialized WED as described previously was used.11,14 The same polyester textile lacking silver and zinc deposition was used as placebo (control).11,14
+
+
+## Bacterial Isolates
+
+Pseudomonas aeruginosa strain PAO1 was grown on LB agar plates at 37°C.19
+Acinetobacter baumannii strain 19606 with spontaneous rifampicin mutation was grown on Luria agar (LA) plates with 100 μg/mL rifampicin at 37°C.19
+
+
+## Porcine Full Thickness Burns and Biofilm Infection
+
+Domestic Yorkshire female pigs were wounded and infected to establish biofilm infection as described previously.19 Briefly, 6 to 8 burn wounds (2 × 2 inch) were developed on the dorsum. On day 3 post-burn, wounds were inoculated with P. aeruginosa PAO1 (PA) and A. baumannii 19606 (AB) as described.19 The infected burn wounds were treated with WED or placebo. The dressings were changed twice a week for up to 56 days post-inoculation. Following deliberate inoculation of open wounds with pathogenic bacteria of interest (250 μL of 1 × 105 CFU/mL of PA and 1 × 106 CFU/mL of AB), referred to as induced infection (II),19 wounds were treated with WED 2 hours after inoculation for the study of prevention of biofilm formation referred to as “prevention model.” In order to study rescue from established biofilm infection, 7 days were allowed to elapse after induced infection (II)19 following which the wounds were treated with WED.
+
+
+## Histology and Imaging
+
+Histopathology was performed as described19 using listed primary antibodies (Supplemental Table 1, http://links.lww.com/ SLA/B322). Zeiss Axio Scan Z1 images were quantified using ImageJ software.22
+
+
+## Characterization of Polymicrobial Wound Infection
+
+In addition to P. aeruginosa strain PAO1 and A. baumannii strain 19606 added, other bacteria spontaneously colonized the wound. Wound tissues were harvested 7 days after infection (day7). Tissues were immersed in 37°C water bath for 1 minute. Brain-Heart Infusion Broth (0.5 mL), pre-warmed to 37°C, was added to the tissue and vortexed moderately for 30 seconds. The resulting suspension (50 μL) was used to inoculate each of the following: Columbia agar + 5% sheep blood, MacConkey agar, CNA agar (Becton Dickenson, NJ) and Brucella Blood agar (Anaerobe Systems, CA). Blood-containing agars, with the exception of Brucella Blood, were incubated at 35°C in 5% CO2. MacConkey agar was incubated at 35°C in ambient air, and Brucella Blood agar was incubated at 35°C in an anaerobic sachet (Pouch-Anaero; Mitsubishi Gas Chemical Co, Japan). Growth was checked every 24 hours for 3 days, and bacterial colonies were chosen for subsequent isolation and identification based on differentiating phenotypic characteristics (hemolysis type, size, color, shape, texture). Identification was performed via MALDI-TOF (Bruker, MA).23 In addition to P. aeruginosa and A. baumanii, bacteria identified are listed in Supplemental Table 2, http://links.lww.com/SLA/B322.
+
+
+## Scanning Electron Microscopy
+
+Processing and imaging of samples were performed as described.19
+
+
+## Transepidermal Water Loss (TEWL)
+
+Transepidermal water loss (TEWL) was measured from the wound using DermaLab TEWL Probe (cyberDERM Inc., Broomall, PA).19 TEWL was expressed in g2/h.
+
+
+## Cell Culture, Adenoviral Delivery, and Transfection
+
+Human immortalized keratinocytes (HaCaT; provided kindly by Dr. NE Fusenig of German Cancer Research Center, Heidelberg, Germany) were grown and transfected under standard culture conditions as previously described.19 After 72 hours infection with adenovirus encoding for nuclear factor kappa B (NF-κB) promoter luciferase reporter, cells were subjected to in vitro static biofilm co-culture and harvested for NF-κB reporter luciferase assay.24
+
+
+## In Vitro Static Biofilm Co-culture
+
+Bacterial biofilms were grown on HaCaT cells using a co-culture model system as reported.19
+
+
+## Western Blot
+
+Western blot was performed using antibodies against E-cadherin (Thermo Fisher Scientific, Waltham, MA), antisera against lasR and rhlR (kindly provided by Prof. E. Peter Greenberg, University of Washington)25 as described previously.24,26,27
+
+
+## RNA Isolation and Quantitative Real-Time PCR
+
+Total RNA, including the miRNA, was isolated using mirVana RNA isolation kit followed by quantitative (Q)PCR assay as reported.19,24
+
+
+## ELISA
+
+Levels of cytokines were measured from cell lysates using commercially available ELISA kits (R & D Systems, Minneapolis, MN) as per manufacturer’s instructions.24
+
+
+## miR-Target 3′-UTR Luciferase Reporter Assay
+
+HaCaT keratinocytes were transfected with miRIDIAN mimic-miR-9 followed by transfection with miR target E-cadherin 3′-UTR plasmid. Luciferase assay and normalization was performed using the dual-luciferase reporter assay system (Promega, WI).19,24
+
+
+## Immunocytochemistry
+
+Cells were fixed with fixation buffer (eBioscience, CA), permeabilized, blocked, and incubated with primary antibody against E-cadherin (1:200) overnight at 4°C. Signal was visualized using FITC-tagged α-rabbit, 1:200 (Invitrogen, CA) and counterstained with DAPI (Invitrogen 1:10,000).19
+
+
+## DNA Binding of NF-κB
+
+Binding of the NF-κB family of proteins to their consensus sites was determined from nuclear protein extracts of cells using an ELISA-based Trans-AM NF-κB kit (Active Motif, Carlsbad, CA) as described previously24 according to the manufacturer’s instructions (Active Motif).
+
+
+## Statistics
+
+In vitro data are reported as mean ± SEM of 3 to 8 experiments as indicated in the respective figure legends. For animal studies, data are reported as mean ± SEM of at least 3 to 4 animals as indicated. Student t test (two-tailed) was used to determine significant differences between means. Comparisons among multiple groups were tested using ANOVA with post-hoc Tukey HSD test. P < 0.05 was considered statistically significant.
+
+
+# RESULTS
+
+
+## WED Disrupted Bacterial Aggregates and Biofilm on the Wound Surface
+
+Open wounds are likely to be readily colonized. In an acute wound setting, there is the opportunity to resist such colonization. In this study, we refer to that approach as “prevention.” We have reported that from colonization, it takes 7 days to develop mature biofilm infection.19 Once such biofilm aggregates have been formed, as expected in chronic as well as in acute wounds, the approach to disrupt established biofilm infection is referred to as “rescue.” In this work, both preventive and rescue properties of WED have been tested. Following deliberate inoculation of open wounds with pathogenic bacteria of interest, referred to as II,19 wounds were treated with WED 2 hours after inoculation for study of prevention of biofilm formation. In order to study rescue from established biofilm infection, 7 days were allowed to elapse from II to WED treatment.19 Such infection, in the absence of WED, resulted in the formation of bacterial aggregates consistent with our previous report19 (Fig. 1). Application of WED within 2 hours of inoculation prevented the formation of bacterial aggregates (Fig. 1A–C). Application of WED after 7 days of inoculation, on mature biofilm, disrupted such aggregates (Fig. 1D–F). Structural aggregates of bacteria encased in EPS is a hallmark characteristic of biofilm infection.4,5 After 14 days of bacterial inoculation, robust biofilm aggregates were detected by scanning electron microscopy (SEM, Fig. 2A). In wounds treated with WED, such bacterial aggregates were markedly minimized enabling the visualization of infiltrating host defense leukocytes (Fig. 2A).
+
+During biofilm formation, bacteria use quorum sensing (QS) to coordinate certain behaviors such as antibiotic resistance.28 Above and beyond structural properties of the biofilm, molecular mechanisms of QS serve as productive markers of biofilm infection. In P. aeruginosa, QS is driven by a series of small molecule receptors, including the master QS systems mvfR (pqsR), rhlR, and lasR.29 In line with structural observations on biofilm aggregates, the expression of mvfR (pqsR), lasA, lasI, lasR, rhlR, and rhlI was markedly high on day 14 after inoculation. Treatment of inoculated wounds with WED markedly reduced the bacterial load consequently less active QS gene levels (Fig. 2B–E) consistent with published in vitro studies.30
+
+
+## Compromised Skin Barrier Function is Restored by WED
+
+Wound closure is primarily aimed at re-establishment of barrier function of the defective skin. Measured by TEWL, skin barrier function represents a functional descriptor of wound healing.19 The significance of this parameter was heightened by our report that although biofilm infection may not markedly impair the rate of wound closure as determined by macrophotography, most profound effects of such infection are evident in the inability of the wound to re-establish barrier function.19 Wounds clearly disrupted barrier function of the skin (Fig. 3A,B). In wounds subjected to biofilm infection, macrophotographic evidence of wound closure (Fig. 3C–F) was not consistent with improvements in barrier function of the repaired skin as has been reported for wounds not infected by biofilm.19 Even in those wounds where biofilm infection was allowed to mature before any intervention, WED markedly rescued skin barrier function such that significant improvements were recorded within 7 days of intervention (Fig. 3B). In the case of prevention studies where WED intervention was applied within 2 hours of inoculation, significant improvements in barrier function at the injury site were noted 3 weeks after intervention. In both prevention and rescue settings, the benefits of WED were sustained until end of experiment on day 56 (Fig. 3A,B). Such improvements in functional wound closure caused by WED were consistent with the beneficial effects of WED on the rate of wound re-epithelialization (Fig. 3G,H, Figure S1, http://links.lww.com/SLA/B322).
+
+
+## Biofilm-Inducible Cutaneous miR-9 Silences E-cadherin to Compromise Skin Barrier Function: Reversible by WED
+
+Our previous work was the first to report that wound biofilm infection induces cutaneous miRs.19 As we sought to discover WED-sensitive mechanisms that are biofilm-inducible and may compromise skin barrier function, we identified E-cadherin as a critical target (Fig. 4A–D). E-cadherin is essential for proper localization of tight junctional proteins, the disruption of which would lead to permeable junctions20 and compromised barrier function.31 Poly-microbial biofilm infection resulted in a loss of epidermal E-cadherin, which was prevented by the application of WED (Fig. 4A–D). Efforts to understand underlying molecular mechanisms led to the finding of miR-9 as a biofilm-inducible miR in the skin (Fig. 4E). This was an important development considering that according to RNAHybrid,21 E-cadherin is a predicted target of miR-9 (Fig. 5A).
+
+Human HaCaT keratinocytes were studied to categorically characterize E-cadherin as a target of miR-9 in the skin (Fig. 5). Consistent with in vivo findings (Fig. 4E), exposure of keratinocytes to biofilm infection induced miR-9 (Fig. 5B) and silenced its putative target E-cadherin (Fig. 5C,D). WED markedly rescued against these deleterious effects of biofilm infection (Fig. 5B–D). On the basis of the computational prediction of the presence of miR-9 binding sites on E-cadherin mRNA (Fig. 5A), studies were conducted using E-cadherin 3′-UTR firefly luciferase expression constructs. In support of the role of miR-9 as a silencer of E-cadherin, miR-9 mimic suppressed E-cadherin 3′-UTR reporter activity (Fig. 5E). Further evidence establishing E-cadherin as a target of miR-9 in keratinocytes included the observation that miR-9 mimic silenced E-cadherin expression, whereas miR-9 inhibitor desilenced and therefore increased the expression of E-cadherin (Fig. 5F,G).
+
+
+## Biofilm Exacerbated Inflammatory Response and its Control by WED
+
+Chronic infection complicates and prolongs wound inflammation.32 Persistent inflammation compromises skin barrier function as evident in atopic dermatitis.33 Activation of NF-κB is widely recognized as a hallmark of inflammation.34 We report that biofilm formation results in potent transactivation of NF-κB (Fig. 6A,B). In addition to the reporter assay (Fig. 6B), the expression of NF-κB directed pro-inflammatory genes IL-1β as well as TNF-α was markedly induced by biofilm infection. WED markedly blunted the induction of the above-mentioned pro-inflammatory responses in human keratinocytes (Fig. 6A–F). Next, we asked whether such protective effect of WED is effective in vivo. Immunohistochemical staining of active phospho-p65 of NF-κB in the wound-edge tissue of biofilm-infected wounds showed marked activation of NF-κB (Fig. 6G,H). Such persistent inflammation in vivo was markedly blunted in infected wounds dressed with WED (Fig. 6G,H).
+
+
+# DISCUSSION
+
+Cells, prokaryotic and eukaryotic, behavior are highly sensitive to bioelectrical cues.35 This physiological bioelectric code is implicated in organism growth and development.35 In 2015, we reported the design of a disposable WED wherein geometric patterning of Ag and Zn deposition on fabric of choice resulted in the generation of electric field in a moist wound environment.11 The weak electrical properties were adequate to disrupt bacterial biofilm infection invitro.30 Note that the Ag in WED is not an active principle, as it has been reported that Ag is ineffective to treat bacterial infection in the biofilm format.19 Withdrawal of Zn from WED and retention of Ag failed to disrupt biofilm infection.30 WED is FDA cleared for over the counter use in wound care management. Pathogenesis of clinically relevant bacterial biofilm infection is dependent on an iterative process where infecting bacteria acquire resistance to host defense systems and emerge as an entity that may not be generated either in vitro or in ex vivo models lacking exposure to host immune defense systems.17 This work tests, for the first time, an electroceutical intervention in a pre-clinical experimental model of long-term wound biofilm infection involving an intact host immune defense system. Findings of this study demonstrate that when used preventively within 2 hours of the development of an acute wound, WED is effective in circumventing biofilm formation. Importantly, even after a pathogenic biofilm infection is allowed to establish over 7 days of infection,19 application of WED twice a week is effective in disrupting biofilm infection and related pathological complications. These findings establish that electroceuticals represent a translationally viable opportunity to disrupt wound biofilm infection invivo. WED may be viewed as a first-generation wound care dressing in this regard.
+
+During burn injury, barrier function of the skin is breached leaving the body vulnerable. This is a significant concern in burn injury because not only would the patient risk dehydration but also the functional deficiency would allow entry of foreign agents such as bacteria and allergen into the body causing potential health complications.36 In addition, metabolic acidosis, and conditions such as anhydremia are capable of complicating recovery from burn injury.37 Because quantitative assessment of skin barrier function is not a part of standard of care, the potential of biofilm infection to complicate recovery and cause wound recurrence may be viewed as a silent threat that has no clinical manifestation until the pathology has set in. In the case of say smaller partial thickness burns, clinical decisions are based on visualization of skin repair. Once the defect is covered by repaired skin and there is no discharge, the wound is considered closed. Was the repaired skin functionally intact providing the desired barrier function? Our previous findings comparing biofilm with nonbiofilm infection of burn wounds led to the novel observation that, even in the absence of other underlying complicating factors, biofilm infection may not impede covering of the wound, commonly interpreted as wound closure.19 However, it is important to note that such repaired skin is functionally compromised such that restoration of barrier function is not achieved.19
+
+This work recognizes that biofilm infection potently silences skin epithelial cadherin, an adherens junction protein, in burn injury, which is rescued by WED. Burn injury causes calcium wasting.38 Skin is the sole source of endogenous vitamin D3, critical for calcium retention.38 Ca2+ wasting impairs Ca2+-dependent biochemical processes including dimerization of E-cadherin.39 In vivo studies at post-burn day 3 showed that low E-cadherin caused intestinal barrier dysfunction associated with bacterial translocation.40 Although involvement of biofilm was not tested, the bacteria involved is known to be a potent biofilm-forming microbe.41 Also, conditional inactivation of epidermal E-cadherin caused perinatal death of mice because of loss of skin barrier function.20 Thus, E-cadherin is a critical contributor to the skin barrier function. Low epithelial E-cadherin compromises skin architecture and barrier function20 making way for biofilm-forming microbes to enter the body. Inducible miR-9 is known to be responsive to infection and inflammation.42 Other than cancer,43,44 miR-9 has not been implicated in any other skin function. This work shows for the first time that biofilm infection significantly induces miR-9 in the wound-edge epithelium. To determine whether the biofilm-dependent induction of miR-9 occurs in keratinocytes, human keratinocytes were subjected to biofilm infection. Such approach was helpful in establishing that biofilm infection induces miR-9 in keratinocytes. miRs are known to target specific coding genes in a cell-specific manner.45 This work systematically characterized E-cadherin as a miR-9 target in human keratinocytes. Activation of NF-κB is a hallmark of inflammation.34 Induction of miR-9 is known to drive NF-κB activation.46 We observed that in biofilm-infected keratinocytes with induced miR-9, NF-κB activation was robust. Comparable findings were observed in vivo supporting the contention that biofilm infection may cause persistent unresolved inflammation. WED intervention was effective in managing biofilm-caused persistent inflammation. In addition to sparing induction of miR-9, WED may have direct effect on wound-site macrophages, as it is reported that electric field may favor the M2 pro-resolving fate of macrophages.24,47
+
+Drug resistance in bacteria is a major threat.6,48 Antibiotic-resistant biofilm infections are estimated to account for at least 75% of bacterial infections49 in the U.S. Findings of this work demonstrate that clinically applicable WED may effectively manage bio-film infection utilizing electrophysical forces that are unlikely to be mitigated by the robust mechanisms of drug resistance inherent to biofilm-forming bacteria. mvfR, rhlR, and lasR are QS systems that support the biosynthesis of pyocyanin.29 The complete virulence of P. aeruginosa can only be experienced when pyocyanin is produced.50 WED blunted pqsR, lasA, lasI, lasR, rhlR, and rhlI expression compromising the QS pathways. In summary, WED brings the electroceutical intervention platform for wound biofilm management to a clinically applicable format. Both from bacterial biofilm structure and host response perspectives, WED was consistently effective (Fig. 7).51 Findings of this work warrant clinical testing of WED for the management of wound biofilm infection.
+
+
+# Supplementary Material

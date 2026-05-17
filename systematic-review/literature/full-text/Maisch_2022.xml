@@ -1,0 +1,823 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Eur J Microbiol Immunol (Bp)</journal-id><journal-id journal-id-type="iso-abbrev">Eur J Microbiol Immunol (Bp)</journal-id><journal-id journal-id-type="pmc-domain-id">2183</journal-id><journal-id journal-id-type="pmc-domain">eujmi</journal-id><journal-id journal-id-type="publisher-id">EUJMI</journal-id><journal-title-group><journal-title>European Journal of Microbiology &amp; Immunology</journal-title></journal-title-group><issn pub-type="ppub">2062-509X</issn><issn pub-type="epub">2062-8633</issn><publisher><publisher-name>Akadémiai Kiadó</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9530676</article-id><article-id pub-id-type="pmcid-ver">PMC9530676.1</article-id><article-id pub-id-type="pmcaid">9530676</article-id><article-id pub-id-type="pmcaiid">9530676</article-id><article-id pub-id-type="pmid">36149764</article-id><article-id pub-id-type="doi">10.1556/1886.2022.00015</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Antibacterial effects of vanilla ingredients provide novel treatment options for infections with multidrug-resistant bacteria – A recent literature review</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Maisch</surname><given-names initials="NA">Noah A.</given-names></name><xref rid="aff1" ref-type="aff"/></contrib><contrib contrib-type="author"><name name-style="western"><surname>Bereswill</surname><given-names initials="S">Stefan</given-names></name><xref rid="aff1" ref-type="aff"/></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6399-651X</contrib-id><name name-style="western"><surname>Heimesaat</surname><given-names initials="MM">Markus M.</given-names></name><xref rid="aff1" ref-type="aff"/><xref rid="cor1" ref-type="corresp">*</xref><email>markus.heimesaat@charite.de</email></contrib><aff id="aff1">
+<institution>Gastrointestinal Microbiology Research Group, Institute of Microbiology, Infectious Diseases and Immunology, Charité - University Medicine Berlin, Corporate Member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health</institution>, <city>Berlin</city>, <country>Germany</country>
+</aff></contrib-group><author-notes><corresp id="cor1">
+<label>*</label>Corresponding author. <institution>Charité - University Medicine Berlin, CC5, Institute of Microbiology, Infectious Diseases and Immunology, Campus Benjamin Franklin, FEM</institution>, <city>Garystr. 5, D-14195 Berlin</city>, <country>Germany</country>. Tel.: +49-30-450524318. E-mail: <email>markus.heimesaat@charite.de</email>
+</corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>9</month><year>2022</year></pub-date><pub-date date-type="collection" publication-format="electronic"><month>9</month><year>2022</year></pub-date><pub-date date-type="pub" publication-format="print"><month>9</month><year>2022</year></pub-date><volume>12</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">418489</issue-id><fpage>53</fpage><lpage>62</lpage><history><date date-type="received"><day>03</day><month>8</month><year>2022</year></date><date date-type="accepted"><day>07</day><month>9</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>23</day><month>09</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>17</day><month>10</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2022-10-18 00:18:05.090"><day>18</day><month>10</month><year>2022</year></date></event></pub-history><permissions><copyright-statement>© 2022 The Author(s)</copyright-statement><copyright-year>2022</copyright-year><copyright-holder>The Author(s)</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>
+<bold>Open Access.</bold> This is an open-access article distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium for non-commercial purposes, provided the original author and source are credited, a link to the CC License is provided, and changes – if any – are indicated.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="eujmi-12-53.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="eujmi-12-53.pdf"/><abstract><title>Abstract</title><p>Due to the increasing application of antibiotics not only in healthcare settings but also in conventional agriculture and farming, multidrug-resistant (MDR) bacterial pathogens are rising worldwide. Given the increasing prevalence of infections caused by MDR bacteria such as <italic toggle="yes">Enterococcus faecium</italic>, <italic toggle="yes">Staphylococcus aureus</italic>, <italic toggle="yes">Klebsiella pneumoniae</italic>, <italic toggle="yes">Acinetobacter baumannii</italic>, <italic toggle="yes">Pseudomonas aeruginosa</italic> and <italic toggle="yes">Enterobacter</italic> species (<italic toggle="yes">ESKAPE</italic> pathogen complex), it is pivotal to explore novel alternative or adjunct treatment options such as phytochemicals with antibiotic properties. Vanillin and vanillin acid represent biologically active ingredients in vanilla that has been known for long for its health-beneficial including antimicrobial effects besides its role as flavoring agent. Therefore, we performed a literature search from the past 10 years summarizing the knowledge regarding the effects of vanilla constituents against bacterial including MDR pathogens. Our survey revealed that vanillin and vanillic acid exerted potent effects directed against distinct Gram-positive and Gram-negative bacteria by inhibiting growth, viability, biofilm formation, quorum sensing and virulence. Remarkably, when combining vanillin or vanillic acid with defined synthetic antibiotics pronounced synergistic effects directed against distinct pathogenic including <italic toggle="yes">ESCAPE</italic> strains could be observed. In conclusion, vanilla ingredients constitute promising alternative or adjunct options in the combat of infections caused by MDR bacterial pathogens.</p></abstract><kwd-group><title>Keywords</title><kwd>vanillin</kwd><kwd>vanillic acid</kwd><kwd>phenolic compounds</kwd><kwd>phytochemicals</kwd><kwd>natural products</kwd><kwd>synergistic antimicrobial effects</kwd><kwd>antibiotic enhancers</kwd><kwd>novel antimicrobial therapies</kwd><kwd>multidrug-resistant (MDR) bacteria</kwd><kwd>ESCAPE pathogens</kwd></kwd-group><counts><table-count count="1"/><equation-count count="2"/><ref-count count="44"/><page-count count="10"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="introduction" id="S1"><title>Introduction</title><sec id="S1.1"><title>Antibiotic resistance</title><p>Infectious diseases pose a major threat to public health. Bacterial infections have become treatable since the introduction of antibiotics at the beginning of the 20th century. The amount of antibiotics used has risen worldwide in the recent years. For instance, the consumption of antibiotic drugs increased by 35% from 2000 to 2010 with Brazil, Russia, India, China, and South Africa (BRICS) accounting for 76% of this increase [<xref rid="B1" ref-type="bibr">1</xref>]. In 2010 the usage of antibiotics in farming and veterinary medicine was conservatively estimated at 63,151 (±1,560) tons with another estimated rise by 67% to 105,596 (±3,605) tons until 2030, and a doubling in respective BRICS countries [<xref rid="B2" ref-type="bibr">2</xref>]. This growing (ab)use of antibiotics imposes the emergence of drug-resistant bacterial strains due to selection pressure [<xref rid="B1" ref-type="bibr">1</xref>]. In consequence, the prevalence of infections caused by multidrug-resistant (MDR), extensively drug-resistant and even pandrug-resistant bacterial pathogens is rising and this trend provokes the prescription of last-resort antibiotics, such as carbapenems and polymyxins including colistin [<xref rid="B3" ref-type="bibr">3</xref>]. Accumulation of carbapenem resistance is a particular problem especially among Gram-negative bacteria. For instance, results obtained from a study by Cai et al. revealed that in respiratory tract infections 50.3% of <italic toggle="yes">Acinetobacter baumannii</italic> and 19.4% of <italic toggle="yes">Pseudomonas aeruginosa</italic> isolates were resistant to carbapenems resulting in extended hospitalization and elevated mortality in the clinical setting [<xref rid="B4" ref-type="bibr">4</xref>]. <italic toggle="yes">A. baumannii</italic> and <italic toggle="yes">P. aeruginosa</italic> together with <italic toggle="yes">E. faecium</italic>, <italic toggle="yes">Staphylococcus</italic>
+<italic toggle="yes"> aureus</italic>, <italic toggle="yes">Klebsiella pneumoniae</italic> and <italic toggle="yes">Enterobacter</italic> species (spp.) form part of the so-called <italic toggle="yes">ESKAPE</italic> complex which represents the group of Gram-positive and Gram-negative bacteria that are responsible for increasing nosocomial infections and life-threatening morbidities [<xref rid="B5" ref-type="bibr">5</xref>].</p><p>Although MDR bacteria are nowadays acknowledged as major global threats to human health with progressive emergence, bacterial resistance to antibiotics is a rather old natural phenomenon that is mainly caused by the selection pressure of antimicrobials produced by microorganisms and plants during evolution. In their studies, D'Costa et al. reported abundance of resistance genes to β-lactams, tetracyclines and glycopeptide antibiotics in bacterial samples taken from 30,000-year-old Beringian permafrost sediments [<xref rid="B6" ref-type="bibr">6</xref>]. In fact, bacteria have been confronted with environmental threats for millennia and therefore, developed resistances due to Darwinian principles of evolution [<xref rid="B6" ref-type="bibr">6</xref>]. However, this problem <italic toggle="yes">per se</italic> is amplified by global antibiotic (ab)use in recent years. Overall, there are two major strategies of bacteria to adapt to the antibiotic “attack”: First, by mutational events causing resistance and second, by horizontal gene transfer [<xref rid="B7" ref-type="bibr">7</xref>]. Mutational resistance emerges through mutations in genes that enhance cell survival in the environment, providing benefits to the cell versus susceptible bacteria. This can be achieved by (i) modifications of the antibacterial target resulting in a loss of affinity for the drug; (ii) a decrease in drug uptake by encapsulation or spore formation; (iii) an enhancement of efflux mechanisms to carry the harmful molecule out of the cell; or (iv) via the modulation of metabolic pathways [<xref rid="B7" ref-type="bibr">7</xref>].</p><p>Horizontal gene transfer is defined as the acquisition of foreign DNA material in different ways which is one of the most important drivers of bacterial evolution [<xref rid="B7" ref-type="bibr">7</xref>]. This can happen via (i) transformation, (ii) transduction, and (iii) conjugation. The latter represents an efficient way of gene transfer that involves cell-to-cell contact and is often observed in the emergence of hospital-related antibiotic resistance [<xref rid="B7" ref-type="bibr">7</xref>]. Recently, Kwon and Powderly postulated that the post-antibiotic era has already begun, given the progressive and highly dynamic rise in resistance development on one side and a virtual lack of novel antibiotic classes to fight infections caused by multidrug-, extensively drug- and even pandrug-resistant pathogens on the other side [<xref rid="B8" ref-type="bibr">8</xref>]. In this perspective a shortcoming of drugs available to prevent or treat bacterial infections leads to the view that even routine surgical or chemotherapeutical interventions may be considered dangerous. Hence, it is pivotal to explore novel and innovative strategies to combat bacterial multidrug resistance. In this context natural products including phytochemicals with antimicrobial and/or immune-modulatory properties will form part of alternatives or adjunct options for routine antibiotic treatment.</p></sec><sec id="S1.2"><title>Biologically active ingredients in vanilla</title><p>Since centuries the vanilla bean <italic toggle="yes">Vanilla planifolia</italic> has been well-known for its healing properties in traditional medicine. Furthermore, its main constituents are used as preservatives and aromatics in the food industry. The plant contains more than 200 molecular components of which the phenolic aldehyde vanillin accounts for the main part of its medicinal activity with a share of one to two percent weight by weight (w/w) in cured vanilla pods [<xref rid="B9" ref-type="bibr">9</xref>]. Phenols are commonly abundant in nature and regarding their chemical structure, they consist of one or more benzene rings and hydroxyl group(s) [<xref rid="B10" ref-type="bibr">10</xref>]. Further, along with terpenoids, alkaloids, lectins and polypeptides, phenols constitute an important chemical class of phytochemicals long known for their antimicrobial effects which protect the plants against microbial infections [<xref rid="B11" ref-type="bibr">11</xref>]. Phytochemicals exhibit antibacterial effects, for example, by inhibiting biofilm formation or disrupting existing biofilms which are used by a large proportion of bacteria in nature to protect against antibiotics, and the resulting resistances pose an additional challenge in the treatment of human bacterial infections [<xref rid="B12" ref-type="bibr">12</xref>, <xref rid="B13" ref-type="bibr">13</xref>]. One well-investigated antibacterial molecular mechanism of phytochemicals is the ability to interrupt bacterial quorum-sensing systems which are essential for regulating gene expression, virulence, and biofilm formation [<xref rid="B11" ref-type="bibr">11</xref>, <xref rid="B14" ref-type="bibr">14</xref>]. In 2006, Choo et al. reported that the extract of <italic toggle="yes">Vanilla planifolia</italic> Andrews could effectively inhibits quorum-sensing in <italic toggle="yes">Chromobacterium violaceum</italic> [<xref rid="B15" ref-type="bibr">15</xref>].</p><sec id="S1.2.1"><title>Vanillin</title><p>Vanillin (4-hydroxy-3-methoxybenzaldehyde) is a phenolic aldehyde which was first isolated from vanilla in 1885 [<xref rid="B10" ref-type="bibr">10</xref>]. Nowadays, it is used as flavoring agent in food products, beverages and parfums [<xref rid="B16" ref-type="bibr">16</xref>]. It is estimated that in 2010, 15,000 tons of vanillin were sold all around the globe. It is interesting to note that only one percent of vanillin is extracted from vanilla pods [<xref rid="B9" ref-type="bibr">9</xref>]. A major part of vanillin is synthetically produced from guaiacol or lignin, and thus, it has become accessible for a wide range of use [<xref rid="B10" ref-type="bibr">10</xref>]. Vanillin consists of a phenol ring with an aldehyde-, a methoxy- and a hydroxy-group at specific positions. Besides its role as flavoring agent, vanillin has been proven to exert potent antimicrobial effects against distinct bacteria and yeasts [<xref rid="B17" ref-type="bibr">17</xref>] and furthermore, the molecule has antioxidant, antiinflammatory, and even anticarcinogenic properties [<xref rid="B18" ref-type="bibr">18–20</xref>].</p></sec><sec id="S1.2.2"><title>Vanillic acid</title><p>The hydrobenzoic derivative of vanillin, vanillic acid, is derived from vanillin by replacement of the aldehyde group with a carboxylic acid group. To date, anabolic, radical scavenging, and antioxidant effects of vanillic acid have been described, whereas the molecule could exert pronounced antiinflammatory properties as shown for treatment of ulcerative colitis and cardiotoxicity in rats [<xref rid="B21" ref-type="bibr">21–23</xref>].</p></sec></sec><sec id="S1.3"><title>Objective</title><p>This literature review aims to summarize scientific reports on the antibacterial effects of vanillin and vanillic acid against MDR pathogens including bacteria of the <italic toggle="yes">ESKAPE</italic> complex. Furthermore, we intend to focus on potential synergistic effects of vanilla constituents if applied in combination with synthetic antibiotics.</p></sec></sec><sec sec-type="methods" id="S2"><title>Methods</title><sec id="S2.1"><title>Inclusion and exclusion criteria</title><p>In this review we include the most recent (i.e., from the past 10 years) <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic> studies addressing the antibacterial and antibiofilm effects of vanillin and vanillic acid. In addition, we included studies focusing on bacterial resistance, synergies with antibiotic compounds or investigations addressing <italic toggle="yes">ESKAPE</italic> pathogens. We excluded studies that examined (i) the antimicrobial properties of plant extracts, in which the individual effect of vanillin and vanillic acid as among other phytochemicals was not specified, and (ii) the effects of vanilla components on apathogenic bacteria in human and veterinary medicine, as well as farming or aquaculture.</p></sec><sec id="S2.2"><title>Search</title><p>The literature search for this review was performed from June 28th, 2022 to July 20th, 2022 using the MEDLINE database PubMed. The exact process is shown in <xref rid="T1" ref-type="table">Table 1</xref>. For this review, a Boolean operator was used, which consisted of four major parts. First, the database was searched for the keyword “vanillin”. Thereby it became apparent that there was no MeSH term covering vanillin and its derivates. As a result we added the derivates and synonyms “vanillic acid”, “vanillyl ester”, “vanillic acid”, “vanillate” and “vanillamides” and divided them with the operator “OR”. To ensure the keyword only be in the title or the abstract the tag “title/abstract” was added. The second part contained the keywords “antibacterial”, “antibiotic” and “antibiofilm” to assure that only studies focusing on the antibacterial effects were included. The third part was dedicated to bacterial resistances and the <italic toggle="yes">ESKAPE</italic> bacteria. Finally, the third and fourth searches were combined with the operator “OR” and finally added to <italic toggle="yes">search #1</italic> and <italic toggle="yes">#2</italic> by using the operator “AND”. All together 64 studies have been found.</p><table-wrap position="float" id="T1" orientation="portrait"><label>Table 1.</label><caption><p>Search query</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td rowspan="1" colspan="1">Search</td><td rowspan="1" colspan="1">Query (using Boolean logic)</td><td rowspan="1" colspan="1">Results</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">
+<bold>#1</bold>
+</td><td rowspan="1" colspan="1">
+<bold>Search:</bold> "Vanillin"[Title/Abstract] OR "vanillyl ester"[Title/Abstract] OR "vanillic acid"[Title/Abstract] OR "vanillate"[Title/Abstract] OR "vanillamides"[Title/Abstract]<break/>
+<bold>Filters:</bold> in the last 10 years</td><td rowspan="1" colspan="1">2,918</td></tr><tr><td rowspan="1" colspan="1">
+<bold>#2</bold>
+</td><td rowspan="1" colspan="1">
+<bold>Search:</bold> "antibacterial"[Title/Abstract] OR "antibiotic"[Title/Abstract] OR "antibiofilm"[Title/Abstract]<break/>
+<bold>Filters:</bold> in the last 10 years</td><td rowspan="1" colspan="1">172,568</td></tr><tr><td rowspan="1" colspan="1">
+<bold>#3</bold>
+</td><td rowspan="1" colspan="1">
+<bold>Search:</bold> "bacterial resistance"[Title/Abstract] OR "mdr bacteria"[Title/Abstract] OR "multi drug resistance"[Title/Abstract] OR "antibiotic resistance"[Title/Abstract] OR "drug resistance"[Title/Abstract] OR "resistant bacteria"[Title/Abstract] OR "resistant"[Title/Abstract] OR "resistance"[Title/Abstract] OR "drug resistance, bacterial"[MeSH Terms]<break/>
+<bold>Filters:</bold> in the last 10 years</td><td rowspan="1" colspan="1">556,930</td></tr><tr><td rowspan="1" colspan="1">
+<bold>#4</bold>
+</td><td rowspan="1" colspan="1">
+<bold>Search:</bold> ("ESKAPE"[Title/Abstract] OR "enterococcus faecium"[Title/Abstract] OR "staphylococcus aureus"[Title/Abstract] OR "klebsiella Pneumoniae"[Title/Abstract]) OR ("acinetobacter baumannii"[Title/Abstract] OR "pseudomonas aeruginosa"[Title/Abstract] OR "enterobacter"[Title/Abstract])<break/>
+<bold>Filters:</bold> in the last 10 years</td><td rowspan="1" colspan="1">87,102</td></tr><tr><td rowspan="1" colspan="1">
+<bold>#5</bold>
+</td><td rowspan="1" colspan="1">
+<bold>Search:</bold> (#1) AND (#2) AND ((#3) OR (#4)<break/>
+<bold>Filters:</bold> in the last 10 years</td><td rowspan="1" colspan="1">64</td></tr></tbody></table></table-wrap><p>After reading the abstract of these 64 studies, 26 were removed due to the exclusion criteria (see above). Of the remaining 38 studies, 13 were excluded because they addressed other topics, whereas three were excluded because they focused on other phenolic acids. Of the remaining 22 one was a retracted paper, and two publications were reviews. These were excluded as well. The remaining 19 studies were included and are commented in this review.</p></sec></sec><sec sec-type="results" id="S3"><title>Results</title><sec id="S3.1"><title>Antibacterial properties</title><p>In a recent study, Qian et al. [<xref rid="B24" ref-type="bibr">24</xref>] investigated potential antibacterial effects of vanillic acid on carbapenem-resistant <italic toggle="yes">Enterobacter hormaechei</italic>, which belongs to the Gram-negative <italic toggle="yes">Enterobacter cloacae</italic> complex. Using the agar diffusion method, the minimal inhibitory concentrations (MICs) were determined for four clinical carbapenem-resistant <italic toggle="yes">E. hormaechei</italic> isolates and the reference strain <italic toggle="yes">E. hormaechei</italic> ATCC 700323. The carbapenem-resistant <italic toggle="yes">E. hormaechei</italic> strain CREH-9 exhibited the highest MICs for meropenem (256 mg L<sup>−1</sup>) and imipenem (512 mg L<sup>−1</sup>) and was used for further testing. Vanillic acid exerted a MIC of 800 mg L<sup>−1</sup> against carbapenem-resistant <italic toggle="yes">E. hormaechei</italic> strain CREH-9 and hence, revealed significant growth inhibition of the tested carbapenem-resistant <italic toggle="yes">E. hormaechei</italic> isolates at concentrations ranging from 0.5× MIC to 2× MIC. Moreover, at vanillic acid concentrations according to the MIC or exceeding the MIC twofold, carbapenem-resistant <italic toggle="yes">E. hormaechei</italic> cells showed significant reductions in intracellular ATP and pH, indicative for a loss of bacterial cell membrane integrity. By using a field emission scanning electron microscope and transmission electron microscopy, Qian and colleagues further noticed significant anti-biofilm effects of vanillic acid at the MIC and the twofold increased MIC compared to the control group and furthermore, serious cell membrane damage to carbapenem-resistant <italic toggle="yes">E. hormaechei</italic> CREH-9 cells. Hence, vanillic acid exerts potent antibacterial effects directed against carbapenem-resistant <italic toggle="yes">E. hormaechei</italic> given bacterial cell membrane disruption and inhibition of biofilm formation along with decreases in carbapenem-resistant <italic toggle="yes">E. hormaechei</italic> cells within the biofilm [<xref rid="B24" ref-type="bibr">24</xref>].</p><p>Qian et al. [<xref rid="B25" ref-type="bibr">25</xref>] further tested the antibacterial activity of vanillic acid against carbapenem-resistant <italic toggle="yes">Enterobacter cloacae</italic>. However, this paper was retracted given two figures that had already been published in another publication focusing on the antibacterial effects of ursolic acid against carbapenem-resistant <italic toggle="yes">E. cloacae</italic> [<xref rid="B26" ref-type="bibr">26</xref>]. The authors asserted that their findings that vanillic acid exerted a significant antibacterial activity against carbapenem-resistant <italic toggle="yes">E. cloacae</italic> were nevertheless reliable [<xref rid="B27" ref-type="bibr">27</xref>]. In their study [<xref rid="B25" ref-type="bibr">25</xref>], the authors tested vanillic acid against the carbapenem-resistant <italic toggle="yes">E. cloacae</italic> isolate CREC-16, displaying a high level of antibiotic resistance due to production of both the <italic toggle="yes">Klebsiella pneumoniae</italic> carbapenemase (KPC) and the New Delhi metallo-<inline-formula>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M1" overflow="scroll"><mml:mi>β</mml:mi></mml:math>
+</inline-formula>-lactamase-1 (NDM-1). The MIC of vanillic acid against CREC-16 was 600 mg L<sup>−1</sup> and overall, vanillic acid showed similarly potent antibacterial effects on carbapenem-resistant <italic toggle="yes">E. cloacae</italic> when compared to carbapenem-resistant <italic toggle="yes">E. hormaechei</italic> in their previous study [<xref rid="B24" ref-type="bibr">24</xref>, <xref rid="B25" ref-type="bibr">25</xref>]. Given decreases in intracellular ATP and pH levels indicative for cell death, vanillic acid also exerted pronounced antibacterial effects against carbapenem-resistant <italic toggle="yes">E. cloacae</italic> which also held true for biofilm formation and inactivation of bacterial cells within the biofilm [<xref rid="B25" ref-type="bibr">25</xref>].</p><p>Alvarado-Martinez et al. [<xref rid="B28" ref-type="bibr">28</xref>] addressed the antibacterial effects of vanillic acid, gallic acid, and protocatechuic acid against the Gram-negative enteropathogen <italic toggle="yes">Salmonella enterica</italic> serovar Typhimurium. All three compounds displayed pronounced concentration-dependent bactericidal effects with vanillic acid exerting a MIC of 1,500 mg L<sup>−1</sup> and a minimum bactericidal concentration (MBC) of 2000 mg L<sup>−1</sup> resulting in a MBC/MIC ratio of 1.33. Moreover, incubation of <italic toggle="yes">Salmonella</italic> Typhimurium with sub-inhibitory concentrations of vanillic acid over 12 generations did not result in increases in the MIC which would have been indicative for resistance development. Concerning mechanisms of action, an increased uptake of propidium iodide by <italic toggle="yes">Salmonella</italic> Typhimurium cells after exposure to all three phenolic compounds pointed towards increases in membrane permeability. Additionally, the authors performed expression analyses of several <italic toggle="yes">Salmonella</italic> Typhimurium virulence genes. While coincubation with gallic acid or protocatechuic acid resulted in downregulation of important virulence genes, vanillic acid itself did not exert such effects in a statistically significant manner. Conversely, vanillic acid even led to an upregulation of the <italic toggle="yes">fliC</italic> gene enhancing bacterial motility. The authors concluded that the impact of vanillic acid on <italic toggle="yes">Salmonella</italic> Typhimurium virulence remains still unclear, however a vanillic acid induced <italic toggle="yes">fliC</italic> upregulation might be indicative for cellular stress reactions in response to the disturbances in membrane integrity [<xref rid="B28" ref-type="bibr">28</xref>].</p><p>Another investigation evaluated antimicrobial properties of ten amides derived from vanillic acid [<xref rid="B29" ref-type="bibr">29</xref>]. Several amides were used together with (benzotriazol-1-yloxy)tripyrrolidinophsphonium hexafluorosphosphate (PyBOP) as a coupling agent for derivates 1 to 6 and dicyclohexylcarbodiimide (DCC) as a coupling agent for derivates 7 to 10. When using the microdilution technique, all ten compounds showed antibacterial effects against <italic toggle="yes">S. aureus</italic> ATCC 25925 with MICs ranging from 3.14 to 4.48 mmol L<sup>−1</sup>. No changes in MICs of respective compounds versus placebo could be determined when tested against <italic toggle="yes">P. aeruginosa</italic> strain ATCC 8027, <italic toggle="yes">P. aeruginosa</italic> isolate 102 and <italic toggle="yes">S. aureus</italic> isolate 47, however, indicative for lacking antibacterial effects [<xref rid="B29" ref-type="bibr">29</xref>].</p><p>Huang and colleagues [<xref rid="B30" ref-type="bibr">30</xref>] tested the antibacterial properties of Vanillic Acid-Loaded Core-Shell Nanospheres/Mesoporous Silica Nanoparticles (VA@Au-MSNs) as potential treatment option for orthopedic infections. These nanoparticles were produced by coating gold nanoparticles with mesoporous silica nanoparticles that were subsequently coated with vanillic acid. After coating the diameters of the nanoparticles increased from 101.1 ± 8.5 nm to 116.7 ± 9.2 nm indicating a loading efficiency of 18.56%. <italic toggle="yes">In vitro</italic> experiments revealed that the temperatures of the Au@MSN suspension increased up to 60 °C after 12 s of irradiation with the near-infrared ray laser light (808 nm). The authors emphasized the importance of this effect given that 78.95 ±1.41% of vanillic acid has been shown to be released at 42 °C which is significantly higher than 42.62 ±1.71% observed at 37 °C. Furthermore, VA@Au-MSNs did not exert any cytotoxic effects when tested in different several cell lines. The authors then explored the antibacterial effects of VA@Au-MSNs against <italic toggle="yes">S. aureus</italic>. The obtained results revealed that coincubation with VA@Au-MSN and VA@Au-MSN irradiated with near-infrared ray decreased <italic toggle="yes">S. aureus</italic> cell numbers when compared to Au-MSN treated and control cultures. The authors concluded that the antibacterial effects against <italic toggle="yes">S. aureus</italic> due to vanillic acid released from the VA@Au-MSN might point towards a promising future therapeutic option in orthopedic infections [<xref rid="B30" ref-type="bibr">30</xref>].</p><p>Bernal-Mercado et al. [<xref rid="B31" ref-type="bibr">31</xref>] investigated the antibacterial and antioxidative effects of vanillic acid against uropathogenic <italic toggle="yes">Escherichia coli</italic> (UPEC). Vanillic acid alone exerted a MIC of 11.80 mM and a MBC of 17.84 mM against planktonic UPEC. Using the checkerboard method, a synergistic effect could be assessed upon combining 0.74 mM vanillic acid with 1.62 mM protocatechuic acid and 0.05 mM catechin. In addition, the antibiofilm properties of vanillic acid were evaluated in UPEC and a minimum biofilm inhibitory concentration (MBIC) of 7.13 mM was determined. At this concentration cellular adhesion to silicon surfaces was shown to be entirely inhibited whereas planktonic cell growth was not affected. The combination of 0.74 mM vanillic acid, 1.62 mM protocatechuic acid, and 0.05 mM catechin again revealed a synergism resulting in a 6.89-, 9.83-, and 1398-times reduction of MBIC values for protocatechuic acid, vanillic acid, and catechin, respectively, if compared to singular application. With regard to biofilm formation of UPEC, a vanillic acid concentration of 2× MIC (25.95 mM) resulted in 100% inactivation of viable bacterial cells in biofilms. In addition, a combination of 2.97 mM vanillic acid, 3.2 mM protocatechuic acid, and 1.72 mM catechin led to an 100% inactivation of bacteria in pre-formed biofilms and further reduced the biofilm production of UPEC by 70%. In summary, vanillic acid when combined with protocatechuic acid and catechin exerts potent antibacterial effects against UPEC and constitutes a potent inhibitor of biofilm formation [<xref rid="B31" ref-type="bibr">31</xref>].</p><p>A study by Orlo et al. [<xref rid="B32" ref-type="bibr">32</xref>] assessed the antibacterial effects of vanillin, eugenol and capsaicin against <italic toggle="yes">E. coli, P. aeruginosa</italic>, and <italic toggle="yes">S. aureus</italic> isolates. Concentrations of vanillin inhibiting 50% of the bacteria were determined at 5.87 mM <italic toggle="yes">for E. coli</italic>, 9.12 mM for <italic toggle="yes">P. aeruginosa</italic> and 1.38 mM for <italic toggle="yes">S. aureus</italic>. MICs and MBCs were found to be 12.5 mM and 25 mM, respectively, against both <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. aureus</italic>. Against <italic toggle="yes">P. aeruginosa</italic>, the MIC of vanillin was 25 mM and the MBC 50 mM. The authors concluded that all three phytochemicals showed potent antibacterial properties against <italic toggle="yes">E. coli, P. aeruginosa</italic> and <italic toggle="yes">S. aureus</italic> isolates, whereas vanillin, however, was found to be less active compared to capsaicin and eugenol [<xref rid="B32" ref-type="bibr">32</xref>].</p><p>In a study conducted by Hussain et al. [<xref rid="B33" ref-type="bibr">33</xref>], vanillin derived 1,4-disubstituted 1,2,3-triazoles and <italic toggle="yes">bis</italic> 1,2,3-triazols were synthesized and evaluated for their antibacterial activities. Therefore, vanillin was used as the main structural core and several derivates of 1,2,3-triazoles (compounds 3a-f) or <italic toggle="yes">bis</italic> 1,2,3-triazols (compounds 3g-k) were added. Next, the agar diffusion method was used to determine anti-bacterial properties against Gram-positive bacteria including <italic toggle="yes">Bacillus subtilis,</italic> methicillin-resistant <italic toggle="yes">S. aureus</italic> (MRSA) NCTC 10442 strain, <italic toggle="yes">S. aureus</italic> (ATCC25923), <italic toggle="yes">Staphylococcus epidermidis, Staphylococcus saprophyticus, Streptococcus pyogenes, E. faecalis, vancomycin-resistant Enterococcus</italic> (VRE) species and Gram-negative bacteria such as <italic toggle="yes">E. coli</italic> (JM109)<italic toggle="yes">, K. pneumoniae</italic> (ATCC33495), <italic toggle="yes">P. aeruginosa</italic> (ATTC15692) and <italic toggle="yes">Shigella</italic> species. Overall, the authors ranked the observed antibacterial effects of all derivates as moderate to good. Compound 3g exerted the most prominent antibacterial effects given MICs of 5 mg L<sup>−1</sup> against MRSA, <italic toggle="yes">S. epidermidis</italic> and VRE and 10 mg L<sup>−1</sup> against <italic toggle="yes">S. aureus, S. pyogenes</italic> and <italic toggle="yes">E. faecalis.</italic> Ciprofloxacin was used as a control displaying MICs of 5 mg L<sup>−1</sup> against <italic toggle="yes">S. aureus, E. faecalis</italic> and VRE and MICs of 10 mg L<sup>−1</sup> against MRSA and <italic toggle="yes">S. epidermidis</italic>. Furthermore, compound 3g exerted weaker antimicrobial effects against Gram-negative bacteria given a MIC of 15 mg L<sup>−1</sup> when tested against <italic toggle="yes">K. pneumoniae</italic>. The control compound colistin displayed MICs of 5 mg L<sup>−1</sup>, 10 mg L<sup>−1</sup> and 15 mg L<sup>−1</sup> against <italic toggle="yes">E. coli, P. aeruginosa</italic> and <italic toggle="yes">K. pneumoniae</italic>, respectively. The authors concluded that given the antibacterial effects against both Gram-positive and Gram-negative bacteria the derivates of <italic toggle="yes">bis</italic> 1,2,3-triazols may be promising candidates for new antimicrobial agents [<xref rid="B33" ref-type="bibr">33</xref>].</p><p>In their publication from 2018, Gao et al. [<xref rid="B34" ref-type="bibr">34</xref>] reported the design, synthesis, and antibacterial properties of vanillin hydroxamic acid derivatives. The compounds were synthesized using vanillin as a coupling agent between hydroxamic acid and indole derivates and were thus classified as vanillin hydroxamic acids. In particular, compound 8 displayed strong antibacterial effects as indicated by a very low MIC of 0.32 mg L<sup>−1</sup> against both <italic toggle="yes">E. coli</italic> (ATCC 10124) and <italic toggle="yes">S. aureus</italic> (ATCC 25923). Furthermore, a molecular docking study revealed that compound 8 shared the same binding interaction as actinonin, a known peptide deformylase inhibitor. Given a lack of toxic effects as revealed by i<italic toggle="yes">n silico</italic> analyses the authors proposed the compound 8 as a promising antibacterial drug for future application in infection medicine [<xref rid="B34" ref-type="bibr">34</xref>].</p><p>The aim of a study by Vale et al. [<xref rid="B35" ref-type="bibr">35</xref>] was to evaluate potential synergistic antibacterial effects of ethylenediaminetetraacetic acid (EDTA) when combined the phytochemicals vanillic acid, quercetin, cuminaldehyde, and indole-3-carbinol against <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic> in planktonic and sessile states. First, the MICs were determined using the microdilution technique with vanillic acid presenting a MIC of 15 mM against both <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic>, whereas the MBCs were 25 mM for <italic toggle="yes">E. coli</italic> and 20 mM for <italic toggle="yes">S. epidermidis</italic>. The MIC of EDTA were &gt;25 mM and 3 mM when tested against <italic toggle="yes">E. coli</italic> and <italic toggle="yes">S. epidermidis</italic>, respectively. However, no significant changes of the antibacterial activities could be determined when using EDTA in combination with vanillic acid against respective bacteria [<xref rid="B35" ref-type="bibr">35</xref>].</p></sec><sec id="S3.2"><title>Synergies with common antibiotic compounds</title><p>A study focusing on antibiotic effects upon combinations of different drugs was performed by Brochado et al. [<xref rid="B36" ref-type="bibr">36</xref>]. Approximately 3,000 dose-resolved combinations of antibiotic substances, human-targeted drugs and food additives were tested against six strains of the three Gram-negative bacterial species <italic toggle="yes">E. coli</italic>, <italic toggle="yes">P. aeruginosa</italic>, and <italic toggle="yes">Salmonella</italic> Typhimurium. First, the results revealed that more than 70% of drug-drug interactions were bacterial species-specific, whereas 20% were strain-specific. In the case of vanillin and common antibiotics the authors discovered both, synergistic and antagonistic antimicrobial effects. For instance, increased protein levels of the efflux pump AcrA were detected in vanillin treated <italic toggle="yes">E. coli</italic>, resulting in elevated MICs of chloramphenicol and ciprofloxacin [<xref rid="B36" ref-type="bibr">36</xref>]. These results confirm data published by Abdelhamid and Abozahra [<xref rid="B37" ref-type="bibr">37</xref>], who found that an overexpression of the <italic toggle="yes">acrA and mdfA</italic> genes in <italic toggle="yes">E. coli</italic> resulted in increased resistance against levofloxacin. In contrast, Brochado et al. [<xref rid="B36" ref-type="bibr">36</xref>] observed a <italic toggle="yes">mdfA</italic>-dependent decrease of spectinomycin MIC against <italic toggle="yes">E. coli</italic> BW2511 upon addition of 100 mg L<sup>−1</sup> vanillin and cells expressing <italic toggle="yes">mdfA</italic> were more susceptible to spectinomycin with vanillin in combination enhancing this effect. Furthermore, a loss of synergy was observed in <italic toggle="yes">E. coli</italic> cells that did not express <italic toggle="yes">mdfA</italic>. In order to prove that the synergy of vanillin and spectinomycin was not related to vanillin's previously described effect on the efflux pump gene <italic toggle="yes">acrA</italic>, the same experiment was performed in single-gene knockouts of the <italic toggle="yes">acrAB</italic>-<italic toggle="yes">tolC</italic> efflux pump gene. Finally, the synergism of vanillin and spectinomycin was further confirmed <italic toggle="yes">in vivo</italic> given an increasing survival rate of vanillin plus spectinomycin treated wax moths (<italic toggle="yes">Galleria mellonella</italic>) that had been infected by MDR <italic toggle="yes">E. coli</italic> [<xref rid="B36" ref-type="bibr">36</xref>].</p><p>Bezerra et al. [<xref rid="B38" ref-type="bibr">38</xref>] also addressed potential synergistic effects of vanillin in combination with common antibiotics directed against six strains of <italic toggle="yes">S. aureus, E. coli</italic>, and <italic toggle="yes">P. aeruginosa</italic> including MDR strains. Firstly, based on the fact that the MICs of vanillin against all six strains were ≥1,024 mg L<sup>−1</sup>, the authors concluded that vanillin was lacking a direct antibacterial effect. In case of <italic toggle="yes">S. aureus</italic>, however, a synergistic effect of vanillin in combination with gentamicin and imipenem could be observed, which in contrast, did not hold true for vanillin combined with norfloxacin, tetracycline or erythromycin against the same <italic toggle="yes">S. aureus</italic> strains. In case of <italic toggle="yes">E. coli</italic> the authors obtained similar results with vanillin decreasing the MICs of imipenem and gentamicin, with a lack of such combinatory effect in case of norfloxacin, tetracycline or erythromycin. Interestingly, decreased norfloxacin MICs could be assessed against <italic toggle="yes">P. aeruginosa</italic> upon combination with vanillin, while there was even an antagonistic effect when combing vanillin with tetracycline and erythromycin. Finally, combinations of vanillin with gentamicin and imipenem showed no enhanced antibiotic activity against <italic toggle="yes">P. aeruginosa</italic> [<xref rid="B38" ref-type="bibr">38</xref>].</p><p>In their study Oh and Jeon [<xref rid="B39" ref-type="bibr">39</xref>] investigated interactions of fluoroquinolones and macrolides with 21 phenolic compounds against the food-borne Gram-negative enteropathogen <italic toggle="yes">Campylobacter jejuni</italic>. Five phenolic acids (namely, vanillic acid, p-coumaric acid, sinapic acid, caffeic acid, gallic acid) and one flavonoid (taxifolin) exhibited synergistic antibacterial effects with both antibiotic substance classes. Adding 8 mg L<sup>−1</sup> vanillic acid to ciprofloxacin reduced the MIC by a factor of 4–16 when tested against five <italic toggle="yes">C. jejuni</italic> strains. Similarly, the MICs of erythromycin against <italic toggle="yes">C. jejuni</italic> decreased 2- to 16-fold following coincubation with 8 mg L<sup>−1</sup> vanillic acid. However, comparable results were obtained when adding the other phenolic acids [<xref rid="B39" ref-type="bibr">39</xref>].</p><p>Arya et al. [<xref rid="B40" ref-type="bibr">40</xref>] assessed the effects of vanillin capped gold nanoparticles (VAuNPs) in combination with common synthetic antibiotics against extensively drug-resistant <italic toggle="yes">P. aeruginosa</italic> strains PA11 and PA14. In order to increase its bioactivity of bioavailability, vanillin was added to VAuNPs as a reducing and capping agent. Chemically synthesized gold nanoparticeles (CSAuNPs) were used as controls. First, the MICs of VAuNPs alone were determined to be higher than 2000 mg L<sup>−1</sup> and considered as non-bactericidal with reference to a paper by Simões et al. [<xref rid="B11" ref-type="bibr">11</xref>]. Next, the checkerboard assay containing several concentrations of antibiotics and VAuNPs was used to identify a concentration of 50 mg L<sup>−1</sup> VAuNPs and vanillin to be the basis for potentiation studies. When combining the antibiotics chloramphenicol, levofloxacin, ciprofloxacin, tigecycline, meropenem, trimethoprim and fosfomycin with VAuNPs or vanillin, a reduction of respective MICs was observed in most cases. With regards to <italic toggle="yes">P. aeruginosa</italic> strain PA11, VAuNPs reduced the MICs of meropenem (10-fold) and trimethoprim (14-fold) when compared to the control. Similarly, for <italic toggle="yes">P. aeruginosa</italic> strain PA14, the MICs of trimethoprim could be lowered upon coincubation with vanillin by 3-fold and with VAuNPs by 4.8-fold. In contrast, no MIC reduction of meropenem was found when tested in combination with either vanilla constituent against the PA14 strain. In the case of <italic toggle="yes">P. aeruginosa</italic> strain PA14, VAuNPs were proven to be more effective than vanillin following combination with chloramphenicol, ciprofloxacin, trimethorprim, and tigecyclin. The same held true when tested against the PA11 strain given that the synergistic effects of VAuNPs in combination chloramphenicol, tigeclycline, meropenem, and trimethoprim were more pronounced as compared to vanillin. Another aim of their study was to unravel the effects of VAuNPs and vanillin on the expression of the gene encoding for the MexAB-OprM efflux pump. The analyses revealed lower efflux pump gene expression levels in VAuNPs and vanillin as compared to CSAuNPs treated extensively drug-resistant <italic toggle="yes">P. aeruginosa</italic> strains PA11 and PA14 strains indicating that both compounds act as efflux pump inhibitors [<xref rid="B40" ref-type="bibr">40</xref>].</p></sec><sec id="S3.3"><title>Anti-quorum sensing effects</title><p>By using global approaches Sivasankar et al. [<xref rid="B41" ref-type="bibr">41</xref>] performed transcriptomic and <italic toggle="yes">in silico</italic> analyses to find natural agents targeting the quorum sensing system of the Gram-negative enteropathogen <italic toggle="yes">Yersinia enterocolitica</italic>. A swarming assay revealed that vanillic acid at concentrations ≥200 mg L<sup>−1</sup> substantially attenuated bacterial motility, whereas migration was completely stopped by 400 mg L<sup>−1</sup> vanillic acid representing the minimal quorum sensing inhibition concentration (MQIC). When applying the broth microdilution assay, growth inhibition of <italic toggle="yes">Y. enterocolitica</italic> occurred with 500 mg L<sup>−1</sup> vanillic acid treatment. The authors further demonstrated that vanillic acid could inhibit 16% of cell-surface hydrophobicity constituting a factor for cell adhesion and pathogenesis. Moreover, production of extracellular polymeric substances (EPS) was reduced by up to 52% in vanillic acid treated cultures. EPS helps bacterial cells to develop durable biofilms and further supports adherence to host surfaces. To assess the viability of <italic toggle="yes">Y. enterocolitica</italic> towards human blood the study included a blood sensitivity assay. Results revealed that up to 92% of cells treated with vanillic acid died, whereas viability in non-treated cells decreased to 22% indicative for the potential of vanillic acid for treating bacteremia due to <italic toggle="yes">Y. enterocolitica</italic> infection. A transcriptomic analysis performed to evaluate the effects of vanillic acid on gene expression of <italic toggle="yes">Y. enterocolitica</italic> revealed that certain stress response genes such as superoxide dismutase genes, or the phage induced protein PspA, had been up-regulated significantly. In contrast, expression of distinct virulence genes modulating iron and nitrite metabolism, efflux-transporters and motility was repressed. For instance, compared to the control the authors proved that flagella-related genes such as <italic toggle="yes">fliJ</italic>, <italic toggle="yes">fliL</italic>, <italic toggle="yes">flgA</italic>, <italic toggle="yes">flgN</italic>, <italic toggle="yes">flgL</italic> and <italic toggle="yes">flgB</italic> were not expressed in vanillic acid treated <italic toggle="yes">Y. enterocolitica</italic> and further, the expression of genes responsible for chemotaxis such as <italic toggle="yes">cheB</italic> and <italic toggle="yes">cheR</italic> were attenuated. Hence, a downregulation of such flagella- and chemotaxis-related genes may decrease motility and biofilm formation <italic toggle="yes">in vivo</italic>. Finally, Sivasankar et al. found that the gene encoding for the multidrug-efflux transporter yegMNOB, also known as <italic toggle="yes">mdtABCD</italic>, to be downregulated in vanillic acid treated <italic toggle="yes">Y. enterocolitica</italic> which may lead to changing resistance patterns of common antibiotics. Therefore, the authors performed an antibiotic susceptibility testing by using the disc diffusion method and observed that following co-incubation with vanillic acid, the sensitivity of <italic toggle="yes">Y. enterocolitica</italic> towards gentamicin and amikacin changed from intermediate to susceptible, whereas sensitivities against ciprofloxacin, chloramphenicol, ampicillin and azithromycin were not affected by vanillin acid [<xref rid="B41" ref-type="bibr">41</xref>].</p><p>The aim of a study performed by Mok et al. [<xref rid="B42" ref-type="bibr">42</xref>] was to evaluate the effect of vanillin on quorum sensing in <italic toggle="yes">P. aeruginosa</italic>. A molecular docking study revealed that vanillin interacted with the active binding side of the <italic toggle="yes">Pseudomonas</italic> quinolone signal-binding response regulator PqsR constituting a regulatory unit in one of three interconnected quorum sensing systems in <italic toggle="yes">P. aeruginosa</italic>. The authors further showed that 1 mM vanillin could reduce the bacterial twitching motility, inhibit pyocyanin production and reduce the <italic toggle="yes">Pseudomonas</italic> quinolone signal (PQS) concentrations in planktonic cultures. Furthermore, adding 1 mM vanillin reduced the MIC of colistin on planktonic <italic toggle="yes">P. aeruginosa</italic> from 1 mg L<sup>−1</sup> to 0.5 mg L<sup>−1</sup>. Moreover, combinatory therapy of vanillin and colistin enhanced the eradication of <italic toggle="yes">P. aeruginosa</italic> biofilms at a minimal biofilm eradication concentration of 1mg L<sup>−1</sup> vanillin. The authors then confirmed these <italic toggle="yes">in vitro</italic> results <italic toggle="yes">in vivo</italic> by using the acute <italic toggle="yes">Caenorhabditis elegans</italic> infection model and found out that colistin in combination with vanillin increased the survival rate of <italic toggle="yes">C. elegans</italic>. The authors considered application of vanillin in the here applied concentration of 1 mM (0.015% weight by volume (w/v)) as safe given a use of far higher concentrations in food production and consumption (typically 2% w/v) [<xref rid="B42" ref-type="bibr">42</xref>].</p><p>The impact of plant phenolic compounds on growth and biofilm formation of <italic toggle="yes">P. aeruginosa</italic> was further addressed in a study by Plyuta et al. [<xref rid="B12" ref-type="bibr">12</xref>]. Hereby, the authors showed both, increased and decreased biofilm formation in vanillin treated <italic toggle="yes">P. aeruginosa</italic>, depending on the concentration. When growth of planktonic <italic toggle="yes">P. aeruginosa</italic> was reduced by 20–50%, biofilm formation was at its peak. The ability of <italic toggle="yes">P. aeruginosa</italic> PAO1 strain to form biofilm was enhanced by up to 7-times when vanillin was added in concentrations of up to 750 mg L<sup>−1</sup>. However, both swarming and twitching motility of <italic toggle="yes">P. aeruginosa</italic> were not affected following coincubation with vanillin, gallic acid or 4-hydroxybenozoid acid indicating that enhanced biofilm formation upon vanillin exposure was not related to increasing bacterial swarming or twitching motility. Interestingly, when adding 400–800 mg L<sup>−1</sup> of vanillin, the diameters of <italic toggle="yes">P. aeruginosa</italic> PAO1 swarming motility zones decreased by 50–60%. Even higher vanillin concentrations, however, resulted in inhibited biofilm formation, whereas also bacterial growth was restrained. One hypothesis for the enhanced biofilm formation by <italic toggle="yes">P. aeruginosa</italic> upon coincubation of vanillin in subinhibitory concentrations could be that phenolic compounds mimic N-acyl-homoserine lactones (AHLs) as part of the <italic toggle="yes">P. aeruginosa</italic> quorum sensing system. To test this, the authors measured 3-oxo-C12-HSL and N-butanoyl-<sc>l</sc>-homoserine lactone (C4-HSL), two metabolites both of which synthesized by the two AHL-based quorum sensing systems. While synthesis of 3-oxo-C12-HSL was increased following application of vanillin, gallic acid and 4-hydroxybenzoic, the synthesis of C4-HSL was not increased. The authors concluded that phenolic molecules do not mimic AHLs and may modulate AHLs by interaction with the metabolism of <italic toggle="yes">P. aeruginosa</italic> PAO1 [<xref rid="B12" ref-type="bibr">12</xref>].</p><p>The antibacterial and antibiofilm effects of vanillin and syringic acid against methicillin-resistant <italic toggle="yes">S. epidermidis</italic> strains were further investigated by Minich et al. [<xref rid="B43" ref-type="bibr">43</xref>]. When using 1/20, 1/40 and 1/60 of the assessed MICs as subinhibitory concentrations, no effects on the cell viability in the biofilm were observed. The antibiofilm and inhibitory effects of both drugs on EPS production were further evaluated by crystal violet staining of three <italic toggle="yes">S. epidermidis</italic> strains, namely RP62a and two clinical isolates (745 and 817). Results revealed that vanillin applied at 1/20 of MIC reduced the biofilm formation of all three strains by more than 70%. Furthermore, vanillin significantly reduced the EPS levels in biofilms of all three <italic toggle="yes">S. epidermidis</italic> strains. Whereas the protein contents of the biofilms did not change upon vanillin treatment, increased sugar concentrations could be observed at all vanillin concentrations applied. The authors further asked whether vanillin would affect expression of distinct <italic toggle="yes">aqr</italic> genes involved in quorum sensing and EPS composition and found that in the presence of vanillin, the <italic toggle="yes">agrA</italic> and <italic toggle="yes">agrD</italic> genes, both of which under the control of the P2 promoter, were downregulated by 5-times if compared to the control group. The authors concluded that this attenuation of the quorum sensing signaling pathway by vanillin may result in the dampened biofilm formation as well as its changed EPS composition [<xref rid="B43" ref-type="bibr">43</xref>].</p></sec><sec id="S3.4"><title>Further findings</title><p>An <italic toggle="yes">in vitro</italic> study conducted by Keman and Soyer [<xref rid="B44" ref-type="bibr">44</xref>] addressed the resistance development in <italic toggle="yes">S. aureus</italic> upon exposure to vanillic acid, 2-hydroxycinnamic acid (2-HCA) and vancomycin in subinhibitory concentrations. As part of the experiment the concentrations of vanillic acid, 2-HCA and vancomycin were increased after 24, 48 and 72 h of incubation. The initial MICs were 2.5 g L<sup>−1</sup> for vanillic acid, 1.6 g L<sup>−1</sup> for 2-hydroxycinnamic acid and 0.01 g L<sup>−1</sup> for vancomycin when measured against the applied MRSA and methicillin-susceptible <italic toggle="yes">S. aureus</italic> (MSSA) strains. Next, the bacteria were incubated with 1.3 g L<sup>−1</sup> vanillic acid or 1.2 g L<sup>−1</sup> 2-HCA. Vancomycin was used in concentrations of 0.005 g L<sup>−1</sup> for MRSA and 0.0075 g L<sup>−1</sup> for MSSA. The concentrations of vanillic acid and 2-HCA were increased by 0.1 g L<sup>−1</sup> per cycle, while 0.0005 g L<sup>−1</sup> vancomycin were added per cycle. The final concentrations used for incubation were 1.5 g L<sup>−1</sup> vanillic acid and 1.4 g L<sup>−1</sup> 2-HCA for both bacteria. Vancomycin was applied in concentrations of 0.006 g L<sup>−1</sup> for MRSA and 0.0085 g L<sup>−1</sup> for MSSA. Finally, MICs were determined after 48 h of incubation in an antimicrobial-free media. The final MICs of vanillic acid and 2-HCA remained unchanged when tested against both <italic toggle="yes">S. aureus</italic> isolates, whereas the MICs of vancomycin increased from 0.01 to 0.015 g L<sup>−1</sup> in case of MRSA and from 0.01 to 0.025 g L<sup>−1</sup> in case of MSSA. The authors concluded that resistance to both phenolic compounds could not be induced supporting the potential of vanillic acid and 2-HCA as a promising option for the treatment of infections causes by MDR pathogenic bacteria including MRSA [<xref rid="B44" ref-type="bibr">44</xref>].</p></sec></sec><sec sec-type="discussion" id="S4"><title>Discussion</title><sec id="S4.1"><title>Findings of the search</title><p>Overall, the results of this literature review revealed distinct antimicrobial effects of vanillin and vanillic acid on both, Gram-positive and Gram-negative bacteria, whereas in some instances, however, the findings were rather inconsistent. For example, vanillic acid exhibited direct antibacterial effects against Gram-negative bacteria such as <italic toggle="yes">E. hormaechei, E. cloacae</italic>, <italic toggle="yes">Salmonella</italic> Typhimurium and <italic toggle="yes">E. coli</italic> [<xref rid="B24" ref-type="bibr">24</xref>, <xref rid="B25" ref-type="bibr">25</xref>, <xref rid="B28" ref-type="bibr">28</xref>, <xref rid="B31" ref-type="bibr">31</xref>, <xref rid="B35" ref-type="bibr">35</xref>], which also held true for the Gram-positive bacteria <italic toggle="yes">S. aureus</italic> and <italic toggle="yes">S. epidermidis</italic> [<xref rid="B30" ref-type="bibr">30</xref>, <xref rid="B44" ref-type="bibr">44</xref>, <xref rid="B35" ref-type="bibr">35</xref>]. In case of vanillin, antibacterial effects against <italic toggle="yes">E. coli</italic>, <italic toggle="yes">P. aeruginosa</italic> and <italic toggle="yes">S. aureus</italic> were observed [<xref rid="B32" ref-type="bibr">32</xref>]. In contrast, two papers concluded that the obtained MICs were too high to consider antibacterial effects of vanillin or VAuNPs against <italic toggle="yes">E. coli</italic>, <italic toggle="yes">P. aeruginosa</italic>, and <italic toggle="yes">S. aureus</italic> [<xref rid="B38" ref-type="bibr">38</xref>, <xref rid="B40" ref-type="bibr">40</xref>].</p><p>Interestingly, two studies applied vanillin as a structural compound for the development of future antibacterial drugs. Firstly, vanillin was combined with 1,2,3-triazoles or with <italic toggle="yes">bis 1,2,3-triazols</italic> resulting in antibacterial effects on Gram-positive and Gram-negative bacteria [<xref rid="B33" ref-type="bibr">33</xref>]. The second study used vanillin to synthesize derivatives of vanillin hydroxamic acid with effects against <italic toggle="yes">S. aureus</italic> and <italic toggle="yes">E. coli</italic> [<xref rid="B34" ref-type="bibr">34</xref>]. In view of the lower MICs measured, these new components may provide efficient antibacterial therapeutic options in the future.</p><p>Another important finding was the potential of vanillin and vanillic acid to interfere with the quorum sensing system of distinct Gram-negative bacteria, which resulted in a decrease in bacterial motility and biofilm formation [<xref rid="B12" ref-type="bibr">12</xref>, <xref rid="B41" ref-type="bibr">41</xref>, <xref rid="B42" ref-type="bibr">42</xref>]. One study detected an inhibition of quorum sensing and an antibiofilm effect in Gram-positive <italic toggle="yes">S. epidermidis</italic> by vanillin [<xref rid="B43" ref-type="bibr">43</xref>]. Other antibiofilm effects of were upon coincubation of carbapenem-resistant <italic toggle="yes">E. hormaechei</italic>, carbapenem-resistant <italic toggle="yes">E. cloacae</italic>, and UPEC with vanillic acid [<xref rid="B24" ref-type="bibr">24</xref>, <xref rid="B25" ref-type="bibr">25</xref>, <xref rid="B31" ref-type="bibr">31</xref>]. Furthermore, two studies addressed the potential resistance development in distinct bacteria following coincubation with vanillin. However, no increases in vanillin MICs could be observed when tested against <italic toggle="yes">Salmonella</italic> Tymphimurium and <italic toggle="yes">S. aureus</italic> [<xref rid="B28" ref-type="bibr">28</xref>, <xref rid="B44" ref-type="bibr">44</xref>].</p><p>In general, various synergistic, but also antagonistic effects could be assessed when combining vanilla ingredients with distinct antibiotic compounds. In <italic toggle="yes">Yersinia enterocolitica</italic>, for instance, vanillic acid exerted synergistic antibiotic effects when combined with ciprofloxacin, gentamicin, and amikacin, whereas in case of the latter two antibiotics, the sensitivity changed from intermediate to susceptible [<xref rid="B41" ref-type="bibr">41</xref>]. In the case of <italic toggle="yes">E. coli</italic>, lower MICs were measured for spectinomycin, gentamicin, and imipenem when adding vanillin [<xref rid="B36" ref-type="bibr">36</xref>, <xref rid="B38" ref-type="bibr">38</xref>]. Increasing MICs, however, were identified when treating <italic toggle="yes">E. coli</italic> with vanillin and ciprofloxacin or chloramphenicol resulting in increased bacterial efflux pump expression [<xref rid="B36" ref-type="bibr">36</xref>]. A synergism of vanillin with gentamicin and imipenem was also demonstrated against <italic toggle="yes">S. aureus</italic> [<xref rid="B38" ref-type="bibr">38</xref>].</p><p>Furthermore, the MICs of norfloxacin and colistin decreased in combination with vanillin when tested against <italic toggle="yes">P. aeruginosa</italic> [<xref rid="B38" ref-type="bibr">38</xref>, <xref rid="B42" ref-type="bibr">42</xref>], which also held true for meropenem, trimethoprim, chloramphenicol, ciprofloxacin, tigecycline, and levofloxacin when using gold nanoparticles covered with vanillin [<xref rid="B40" ref-type="bibr">40</xref>]. Conversely, however, antagonistic effects were observed in <italic toggle="yes">P. aeruginosa</italic> upon vanillin coincubation with tetracycline or erythromycin [<xref rid="B38" ref-type="bibr">38</xref>]. Against <italic toggle="yes">C. jejuni</italic>, the activities of erythromycin and ciprofloxacin were increased by vanillic acid [<xref rid="B39" ref-type="bibr">39</xref>].</p><p>Finally, three studies evaluated the cytotoxicity of vanillin and VA@Au-MSNs in the concentrations used and considered the application of respective compounds as safe [<xref rid="B30" ref-type="bibr">30</xref>, <xref rid="B34" ref-type="bibr">34</xref>, <xref rid="B42" ref-type="bibr">42</xref>].</p></sec><sec id="S4.2"><title>Conclusion and outlook</title><p>In conclusion, vanillin and vanillic acid display pronounced antibacterial effects by inhibition of growth, viability, virulence, and biofilm formation directed against distinct Gram-positive and Gram-negative pathogens including MDR strains. Further, there are potent synergistic effects when combining vanillin or vanillic acid with common synthetic antibiotic compounds. These results provide the basis for novel strategies to use phytochemicals including biologically active ingredients in vanilla as alternative or adjunct antibiotic option to treat infections caused by a significant number of bacterial pathogens including MDR strains. Nevertheless, more research both, <italic toggle="yes">in vitro</italic> and particularly <italic toggle="yes">in vivo</italic> needs to be undertaken to better understand the molecular mechanisms underlying the antibiotic effects exerted by vanillic acid and vanillin implemented in antibiotic drugs.</p></sec><sec id="S4.3"><title>Limitations</title><p>The aim of this review was to survey the antibacterial effects of vanillin and its derivatives. It is important to underline the heterogeneity of the group of studies with different derivatives of vanilla constituents, applied methods and included bacterial strains. Given these heterogeneities, a direct comparison of the obtained results is rather difficult. Moreover, of the 19 publications reviewed, only two included <italic toggle="yes">in vivo</italic> experiments. Lastly, the search strategy was done by a single investigator and therefore research mistakes cannot be excluded even though the search strategy was undertaken as carefully as possible.</p></sec></sec><sec id="S5"><title>Declarations</title></sec><sec sec-type="conflict of interest" id="S5.1"><title>Ethics statement</title><p>Not applicable (literature survey).</p></sec><sec sec-type="conflict of interest" id="S5.2"><title>Conflict of interests</title><p>SB and MMH are Editorial Board members.</p></sec><sec sec-type="conflict of interest" id="S5.3"><title>Funding</title><p>This work was supported by grants from the German Federal Ministries of Education and Research (BMBF) in frame of the zoonoses research consortium PAC-Campylobacter (IP7/01KI1725D) and from the Federal Ministry for Economic Affairs and Energy following a resolution of the German National Parliament, Deutscher Bundestag (ZIM, ZF4117908 AJ8) to SB and MMH.</p><p>The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript.</p></sec><sec sec-type="conflict of interest" id="S5.4"><title>Authors' contributions</title><p>NAM conceived and designed the survey, wrote the paper. SB provided critical advice in design of the survey, edited paper. MMH supervised the survey, co-wrote the paper.</p></sec></body><back><glossary><title>List of abbreviations:</title><def-list><def-item><term>AHL</term><def><p>N-acyl-homoserine lactone</p></def></def-item><def-item><term>BRICS</term><def><p>Brazil, Russia, India, China and South Africa</p></def></def-item><def-item><term>C4-HSL</term><def><p>N-butanoyl-L-homoserine lactone</p></def></def-item><def-item><term>DCC</term><def><p>dicyclohexylcarbodiamide</p></def></def-item><def-item><term>EDTA</term><def><p>ethylenediaminetetraacetic acid</p></def></def-item><def-item><term>
+<italic toggle="yes">ESKAPE</italic>
+</term><def><p>
+<italic toggle="yes">Enterococcus faeciu</italic>m, <italic toggle="yes">Staphylococcus aureus</italic>, <italic toggle="yes">Klebsiella pneumoniae Enterobacter</italic> species</p></def></def-item><def-item><term>EPS</term><def><p>extracellular polymeric substances</p></def></def-item><def-item><term>2-HCA</term><def><p>2-hydroxycinnamic acid</p></def></def-item><def-item><term>KPC</term><def><p>
+<italic toggle="yes">Klebsiella pneumoniae</italic> carbapenemase</p></def></def-item><def-item><term>MBC</term><def><p>minimum bactericidal concentration</p></def></def-item><def-item><term>MBIC</term><def><p>minimum biofilm inhibitory concentration</p></def></def-item><def-item><term>MDR</term><def><p>multidrug-resistant</p></def></def-item><def-item><term>MIC</term><def><p>minimal inhibitory concentration</p></def></def-item><def-item><term>MQIC</term><def><p>minimal quorum sensing inhibition concentration</p></def></def-item><def-item><term>MRSA</term><def><p>methicillin-resistant <italic toggle="yes">Staphylococcus aureus</italic>
+</p></def></def-item><def-item><term>MSSA</term><def><p>methicillin-susceptible <italic toggle="yes">Staphylococcus aureus</italic>
+</p></def></def-item><def-item><term>NDM-1</term><def><p>New Delhi metallo-<inline-formula>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="M2" overflow="scroll"><mml:mi>β</mml:mi></mml:math>
+</inline-formula>-lactamase-1</p></def></def-item><def-item><term>PQS</term><def><p>
+<italic toggle="yes">Pseudomonas</italic> quinolone signal</p></def></def-item><def-item><term>PqsR</term><def><p>
+<italic toggle="yes">Pseudomonas</italic> quinolone signal-binding response regulator</p></def></def-item><def-item><term>PyBOP</term><def><p>(benzotriazol-1-yloxy)tripyrrolidinophsphonium hexafluorosphosphate</p></def></def-item><def-item><term>spp.</term><def><p>species</p></def></def-item><def-item><term>UPEC</term><def><p>uropathogenic <italic toggle="yes">Escherichia coli</italic>
+</p></def></def-item><def-item><term>VAuNPs</term><def><p>vanillin capped gold nanoparticles</p></def></def-item><def-item><term>VA@Au-MSN</term><def><p>Vanillic Acid-Loaded Core-Shell Nanospheres/Mesoporous Silica Nanoparticles</p></def></def-item><def-item><term>VRE</term><def><p>vancomycin-resistant enterococci</p></def></def-item><def-item><term>w/v</term><def><p>weight by volume</p></def></def-item><def-item><term>w/w</term><def><p>weight by weight</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="B1"><label>1.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Van Boeckel</surname>
+<given-names>TP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gandra</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ashok</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caudron</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grenfell</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levin</surname>
+<given-names>SA</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Global antibiotic consumption 2000 to 2010: an analysis of national pharmaceutical sales data</article-title>. <source>Lancet Infect Dis.</source>
+<year>2014</year>;<volume>14</volume>(<issue>8</issue>):<fpage>742</fpage>–<lpage>750</lpage>.<pub-id pub-id-type="pmid">25022435</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(14)70780-7</pub-id></mixed-citation></ref><ref id="B2"><label>2.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Boeckel</surname>
+<given-names>TPV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brower</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gilbert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grenfell</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levin</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robinson</surname>
+<given-names>TP</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Global trends in antimicrobial use in food animals</article-title>. <source>Proc Natl Acad Sci.</source>
+<year>2015</year>;<volume>112</volume>(<issue>18</issue>):<fpage>5649</fpage>–<lpage>5654</lpage>.<pub-id pub-id-type="pmid">25792457</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1503141112</pub-id><pub-id pub-id-type="pmcid">PMC4426470</pub-id></mixed-citation></ref><ref id="B3"><label>3.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Laxminarayan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matsoso</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pant</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brower</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Røttingen</surname>
+<given-names>J-A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klugman</surname>
+<given-names>K</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Access to effective antimicrobials: a worldwide challenge</article-title>. <source>The Lancet</source>
+<year>2016</year>;<volume>387</volume>(<issue>10014</issue>):<fpage>168</fpage>–<lpage>175</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(15)00474-2</pub-id><pub-id pub-id-type="pmid">26603918</pub-id></mixed-citation></ref><ref id="B4"><label>4.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Cai</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Echols</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Magee</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arjona Ferreira</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morgan</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ariyasu</surname> <given-names>M</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Prevalence of carbapenem-resistant gram-negative infections in the United States predominated by acinetobacter baumannii and Pseudomonas aeruginosa</article-title>. <source>Open Forum Infect Dis.</source>
+<year>2017</year>;<volume>4</volume>(<issue>3</issue>):<fpage>ofx176</fpage>.<pub-id pub-id-type="pmid">29026867</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofx176</pub-id><pub-id pub-id-type="pmcid">PMC5629822</pub-id></mixed-citation></ref><ref id="B5"><label>5.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Rice</surname>
+<given-names>LB</given-names>
+</string-name>
+</person-group>. <article-title>Progress and challenges in implementing the research on ESKAPE pathogens</article-title>. <source>Infect Control Hosp Epidemiol.</source>
+<year>2010</year>;<volume>31</volume>(<issue>Suppl 1</issue>):<fpage>S7</fpage>–<lpage>S10</lpage>.<pub-id pub-id-type="pmid">20929376</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1086/655995</pub-id></mixed-citation></ref><ref id="B6"><label>6.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>D’Costa</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>King</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kalan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sung</surname>
+<given-names>WWL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwarz</surname>
+<given-names>C</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Antibiotic resistance is ancient</article-title>. <source>Nature</source>
+<year>2011</year>;<volume>477</volume>(<issue>7365</issue>):<fpage>457</fpage>–<lpage>461</lpage>.<pub-id pub-id-type="pmid">21881561</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature10388</pub-id></mixed-citation></ref><ref id="B7"><label>7.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Munita</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arias</surname>
+<given-names>CA</given-names>
+</string-name>
+</person-group>. <article-title>Mechanisms of antibiotic resistance</article-title>. <source>Microbiol Spectr.</source>
+<year>2016</year>;<volume>4</volume>(<issue>2</issue>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/microbiolspec.VMBF-0016-2015</pub-id><pub-id pub-id-type="pmcid">PMC4888801</pub-id><pub-id pub-id-type="pmid">27227291</pub-id></mixed-citation></ref><ref id="B8"><label>8.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kwon</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Powderly</surname>
+<given-names>WG</given-names>
+</string-name>
+</person-group>. <article-title>The post-antibiotic era is here</article-title>. <source>Science</source>
+<year>2021</year>;<volume>373</volume>(<issue>6554</issue>):<fpage>471</fpage>.<pub-id pub-id-type="pmid">34326211</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.abl5997</pub-id></mixed-citation></ref><ref id="B9"><label>9.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Gallage</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Møller</surname>
+<given-names>BL</given-names>
+</string-name>
+</person-group>. <article-title>Vanillin-bioconversion and bioengineering of the most popular plant flavor and its de novo biosynthesis in the vanilla orchid</article-title>. <source>Mol Plant</source>
+<year>2015</year>;<volume>8</volume>(<issue>1</issue>):<fpage>40</fpage>–<lpage>57</lpage>.<pub-id pub-id-type="pmid">25578271</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.molp.2014.11.008</pub-id></mixed-citation></ref><ref id="B10"><label>10.</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Zeb</surname>
+<given-names>A</given-names>
+</string-name>
+</person-group>. <source>Chemistry of phenolic antioxidants</source>. <edition>1st ed.</edition>
+<publisher-loc>Cham, Switzerland</publisher-loc>: <publisher-name>Springer Nature Switzerland AG</publisher-name>, <year>2021</year>.</mixed-citation></ref><ref id="B11"><label>11.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Simões</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bennett</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosa</surname>
+<given-names>EAS</given-names>
+</string-name>
+</person-group>. <article-title>Understanding antimicrobial activities of phytochemicals against multidrug resistant bacteria and biofilms</article-title>. <source>Nat Prod Rep.</source>
+<year>2009</year>;<volume>26</volume>(<issue>6</issue>):<fpage>746</fpage>–<lpage>757</lpage>.<pub-id pub-id-type="pmid">19471683</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/b821648g</pub-id></mixed-citation></ref><ref id="B12"><label>12.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Plyuta</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zaitseva</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lobakova</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zagoskina</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuznetsov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khmel</surname>
+<given-names>I</given-names>
+</string-name>
+</person-group>. <article-title>Effect of plant phenolic compounds on biofilm formation by Pseudomonas aeruginosa</article-title>. <source>Apmis</source>
+<year>2013</year>;<volume>121</volume>(<issue>11</issue>):<fpage>1073</fpage>–<lpage>1081</lpage>.<pub-id pub-id-type="pmid">23594262</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/apm.12083</pub-id></mixed-citation></ref><ref id="B13"><label>13.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Pang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raudonis</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glick</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>Z</given-names>
+</string-name>
+</person-group>. <article-title>Antibiotic resistance in Pseudomonas aeruginosa: mechanisms and alternative therapeutic strategies</article-title>. <source>Biotechnol Adv.</source>
+<year>2019</year>;<volume>37</volume>(<issue>1</issue>):<fpage>177</fpage>–<lpage>192</lpage>.<pub-id pub-id-type="pmid">30500353</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biotechadv.2018.11.013</pub-id></mixed-citation></ref><ref id="B14"><label>14.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Munguia</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nizet</surname>
+<given-names>V</given-names>
+</string-name>
+</person-group>. <article-title>Pharmacological targeting of the host-pathogen interaction: alternatives to classical antibiotics to combat drug-resistant superbugs</article-title>. <source>Trends Pharmacol Sci.</source>
+<year>2017</year>;<volume>38</volume>(<issue>5</issue>):<fpage>473</fpage>–<lpage>488</lpage>.<pub-id pub-id-type="pmid">28283200</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tips.2017.02.003</pub-id><pub-id pub-id-type="pmcid">PMC5750058</pub-id></mixed-citation></ref><ref id="B15"><label>15.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Choo</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rukayadi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hwang</surname>
+<given-names>JK</given-names>
+</string-name>
+</person-group>. <article-title>Inhibition of bacterial quorum sensing by vanilla extract</article-title>. <source>Lett Appl Microbiol.</source>
+<year>2006</year>;<volume>42</volume>(<issue>6</issue>):<fpage>637</fpage>–<lpage>641</lpage>.<pub-id pub-id-type="pmid">16706905</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1472-765X.2006.01928.x</pub-id></mixed-citation></ref><ref id="B16"><label>16.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sinha</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>UK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>N</given-names>
+</string-name>
+</person-group>. <article-title>A comprehensive review on vanilla flavor: extraction, isolation and quantification of vanillin and others constituents</article-title>. <source>Int J Food Sci Nutr.</source>
+<year>2008</year>;<volume>59</volume>(<issue>4</issue>):<fpage>299</fpage>–<lpage>326</lpage>.<pub-id pub-id-type="pmid">17886091</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/09687630701539350</pub-id></mixed-citation></ref><ref id="B17"><label>17.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Ngarmsak</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delaquis</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toivonen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ngarmsak</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ooraikul</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mazza</surname>
+<given-names>G</given-names>
+</string-name>
+</person-group>. <article-title>Antimicrobial activity of vanillin against spoilage microorganisms in stored fresh-cut mangoes</article-title>. <source>J Food Prot.</source>
+<year>2006</year>;<volume>69</volume>(<issue>7</issue>):<fpage>1724</fpage>–<lpage>1727</lpage>.<pub-id pub-id-type="pmid">16865911</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4315/0362-028x-69.7.1724</pub-id></mixed-citation></ref><ref id="B18"><label>18.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Tai</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sawano</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yazama</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ito</surname>
+<given-names>H</given-names>
+</string-name>
+</person-group>. <article-title>Evaluation of antioxidant activity of vanillin by using multiple antioxidant assays</article-title>. <source>Biochim Biophys Acta</source>
+<year>2011</year>;<volume>1810</volume>(<issue>2</issue>):<fpage>170</fpage>–<lpage>177</lpage>.<pub-id pub-id-type="pmid">21095222</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbagen.2010.11.004</pub-id></mixed-citation></ref><ref id="B19"><label>19.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Costantini</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sinjari</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Falasca</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reale</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caputi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jagarlapodii</surname>
+<given-names>S</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Assessment of the vanillin anti-inflammatory and regenerative potentials in inflamed primary human gingival fibroblast</article-title>. <source>Mediators Inflamm.</source>
+<year>2021</year>;<volume>2021</volume>:<elocation-id>5562340</elocation-id>.<pub-id pub-id-type="pmid">34035660</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2021/5562340</pub-id><pub-id pub-id-type="pmcid">PMC8116147</pub-id></mixed-citation></ref><ref id="B20"><label>20.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kong</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tong</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeng</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Vanillin downregulates NNMT and attenuates NNMT-related resistance to 5-fluorouracil via ROS-induced cell apoptosis in colorectal cancer cells</article-title>. <source>Oncol Rep.</source>
+<year>2021</year>;<volume>45</volume>(<issue>6</issue>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/or.2021.8061</pub-id><pub-id pub-id-type="pmcid">PMC8082342</pub-id><pub-id pub-id-type="pmid">33907844</pub-id></mixed-citation></ref><ref id="B21"><label>21.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Ziadlou</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barbero</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alini</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Anti-inflammatory and chondroprotective effects of vanillic acid and epimedin C in human osteoarthritic chondrocytes</article-title>. <source>Biomolecules</source>
+<year>2020</year>;<volume>10</volume>(<issue>6</issue>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/biom10060932</pub-id><pub-id pub-id-type="pmcid">PMC7356262</pub-id><pub-id pub-id-type="pmid">32575510</pub-id></mixed-citation></ref><ref id="B22"><label>22.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Um</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hong</surname>
+<given-names>SH</given-names>
+</string-name>
+</person-group>. <article-title>The beneficial effect of vanillic acid on ulcerative colitis</article-title>. <source>Molecules</source>
+<year>2010</year>;<volume>15</volume>(<issue>10</issue>):<fpage>7208</fpage>–<lpage>7217</lpage>.<pub-id pub-id-type="pmid">20959795</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/molecules15107208</pub-id><pub-id pub-id-type="pmcid">PMC6259113</pub-id></mixed-citation></ref><ref id="B23"><label>23.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Stanely Mainzen Prince</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rajakumar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dhanasekar</surname>
+<given-names>K</given-names>
+</string-name>
+</person-group>. <article-title>Protective effects of vanillic acid on electrocardiogram, lipid peroxidation, antioxidants, proinflammatory markers and histopathology in isoproterenol induced cardiotoxic rats</article-title>. <source>Eur J Pharmacol.</source>
+<year>2011</year>;<volume>668</volume>(<issue>1–2</issue>):<fpage>233</fpage>–<lpage>240</lpage>.<pub-id pub-id-type="pmid">21763302</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejphar.2011.06.053</pub-id></mixed-citation></ref><ref id="B24"><label>24.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Qian</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Antibacterial mechanism of vanillic acid on physiological, morphological, and biofilm properties of carbapenem-resistant Enterobacter hormaechei</article-title>. <source>J Food Prot.</source>
+<year>2020</year>;<volume>83</volume>(<issue>4</issue>):<fpage>576</fpage>–<lpage>583</lpage>.<pub-id pub-id-type="pmid">31855457</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4315/JFP-19-469</pub-id></mixed-citation></ref><ref id="B25"><label>25.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Qian</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>In Vitro antibacterial activity and mechanism of vanillic acid against carbapenem-resistant Enterobacter cloacae</article-title>. <source>Antibiotics (Basel)</source>
+<year>2019</year>;<volume>8</volume>(<issue>4</issue>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/antibiotics8040220</pub-id><pub-id pub-id-type="pmcid">PMC6963763</pub-id><pub-id pub-id-type="pmid">31766130</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC7345013"/></mixed-citation></ref><ref id="B26"><label>26.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Qian</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>RETRACTED: antibacterial and antibiofilm activity of ursolic acid against carbapenem-resistant Enterobacter cloacae</article-title>. <source>J Biosci Bioeng.</source>
+<year>2020</year>;<volume>130</volume>(<issue>6</issue>):<fpage>672</fpage>.<pub-id pub-id-type="pmid">32948421</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jbiosc.2020.08.008</pub-id></mixed-citation></ref><ref id="B27"><label>27.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<collab>Editorial Office A. Retraction</collab>: <string-name name-style="western">
+<surname>Qian</surname>
+<given-names>W</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>In vitro antibacterial activity and mechanism of vanillic acid against carbapenem-resistant Enterobacter cloacae</article-title>. <source>Antibiotics</source>
+<year>2019</year>;<volume>8</volume>:<fpage>220</fpage>. <comment>Antibiotics (Basel). 2020;9(6)</comment>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/antibiotics9060322</pub-id><pub-id pub-id-type="pmcid">PMC7345013</pub-id><pub-id pub-id-type="pmid">32545420</pub-id></mixed-citation></ref><ref id="B28"><label>28.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Alvarado-Martinez</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bravo</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kennedy</surname>
+<given-names>NF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krishna</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hussain</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Young</surname>
+<given-names>AC</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Antimicrobial and antivirulence impacts of phenolics on Salmonella enterica serovar Typhimurium</article-title>. <source>Antibiotics (Basel)</source>
+<year>2020</year>;<volume>9</volume>(<issue>10</issue>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/antibiotics9100668</pub-id><pub-id pub-id-type="pmcid">PMC7600263</pub-id><pub-id pub-id-type="pmid">33022945</pub-id></mixed-citation></ref><ref id="B29"><label>29.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Santos Oliveira</surname>
+<given-names>AJM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Castro</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pessôa</surname>
+<given-names>HLF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wadood</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Sousa</surname>
+<given-names>DP</given-names>
+</string-name>
+</person-group>. <article-title>Amides derived from vanillic acid: coupling reactions, antimicrobial evaluation, and molecular docking</article-title>. <source>Biomed Res Int.</source>
+<year>2019</year>;<volume>2019</volume>:<elocation-id>9209676</elocation-id>.<pub-id pub-id-type="pmid">31139660</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2019/9209676</pub-id><pub-id pub-id-type="pmcid">PMC6500666</pub-id></mixed-citation></ref><ref id="B30"><label>30.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>
+</person-group>. <article-title>Preparation of vanillic acid-loaded core-shell gold nanospheres/mesoporous silica nanoparticles for the treatment of orthopedic infection</article-title>. <source>ACS Omega.</source>
+<year>2021</year>;<volume>6</volume>(<issue>4</issue>):<fpage>2899</fpage>–<lpage>2905</lpage>.<pub-id pub-id-type="pmid">33553908</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acsomega.0c05245</pub-id><pub-id pub-id-type="pmcid">PMC7860075</pub-id></mixed-citation></ref><ref id="B31"><label>31.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Bernal-Mercado</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vazquez-Armenta</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tapia-Rodriguez</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Islas-Osuna</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mata-Haro</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonzalez-Aguilar</surname>
+<given-names>GA</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Comparison of single and combined use of catechin, protocatechuic, and vanillic acids as antioxidant and antibacterial agents against uropathogenic Escherichia coli at planktonic and biofilm levels</article-title>. <source>Molecules</source>
+<year>2018</year>;<volume>23</volume>(<issue>11</issue>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/molecules23112813</pub-id><pub-id pub-id-type="pmcid">PMC6278301</pub-id><pub-id pub-id-type="pmid">30380712</pub-id></mixed-citation></ref><ref id="B32"><label>32.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Orlo</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Russo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nugnes</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lavorgna</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Isidori</surname>
+<given-names>M</given-names>
+</string-name>
+</person-group>. <article-title>Natural methoxyphenol compounds: antimicrobial activity against foodborne pathogens and food spoilage bacteria, and role in antioxidant processes</article-title>. <source>Foods</source>
+<year>2021</year>;<volume>10</volume>(<issue>8</issue>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/foods10081807</pub-id><pub-id pub-id-type="pmcid">PMC8392586</pub-id><pub-id pub-id-type="pmid">34441583</pub-id></mixed-citation></ref><ref id="B33"><label>33.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hussain</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qadri</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hussain</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saeed</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Channar</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shehzadi</surname>
+<given-names>SA</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Synthesis, antibacterial activity and molecular docking study of vanillin derived 1,4-disubstituted 1,2,3-triazoles as inhibitors of bacterial DNA synthesis</article-title>. <source>Heliyon</source>
+<year>2019</year>;<volume>5</volume>(<issue>11</issue>):<elocation-id>e02812</elocation-id>.<pub-id pub-id-type="pmid">31768438</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.heliyon.2019.e02812</pub-id><pub-id pub-id-type="pmcid">PMC6872831</pub-id></mixed-citation></ref><ref id="B34"><label>34.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Gao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qiu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>F</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Design, synthesis, and biological evaluation of vanillin hydroxamic acid derivatives as novel peptide deformylase inhibitors</article-title>. <source>Curr Comput Aided Drug Des.</source>
+<year>2018</year>;<volume>14</volume>(<issue>1</issue>):<fpage>95</fpage>–<lpage>101</lpage>.<pub-id pub-id-type="pmid">28606047</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1573409913666170613074601</pub-id></mixed-citation></ref><ref id="B35"><label>35.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Vale</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ribeiro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abreu</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soares-Silva</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Simões</surname>
+<given-names>M</given-names>
+</string-name>
+</person-group>. <article-title>The use of selected phytochemicals with EDTA against Escherichia coli and Staphylococcus epidermidis single- and dual-species biofilms</article-title>. <source>Lett Appl Microbiol.</source>
+<year>2019</year>;<volume>68</volume>(<issue>4</issue>):<fpage>313</fpage>–<lpage>320</lpage>.<pub-id pub-id-type="pmid">30790318</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/lam.13137</pub-id></mixed-citation></ref><ref id="B36"><label>36.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Brochado</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Telzerow</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bobonis</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Banzhaf</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mateus</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Selkrig</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al.</etal>
+</person-group>
+<article-title>Species-specific activity of antibacterial drug combinations</article-title>. <source>Nature</source>
+<year>2018</year>;<volume>559</volume>(<issue>7713</issue>):<fpage>259</fpage>–<lpage>263</lpage>.<pub-id pub-id-type="pmid">29973719</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-018-0278-9</pub-id><pub-id pub-id-type="pmcid">PMC6219701</pub-id></mixed-citation></ref><ref id="B37"><label>37.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Abdelhamid</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abozahra</surname>
+<given-names>RR</given-names>
+</string-name>
+</person-group>. <article-title>Expression of the fluoroquinolones efflux pump genes acrA and mdfA in urinary Escherichia coli isolates</article-title>. <source>Pol J Microbiol.</source>
+<year>2017</year>;<volume>66</volume>(<issue>1</issue>):<fpage>25</fpage>–<lpage>30</lpage>.<pub-id pub-id-type="pmid">29359692</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.5604/17331331.1234990</pub-id></mixed-citation></ref><ref id="B38"><label>38.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Bezerra</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Camilo</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>do Nascimento Silva</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Freitas</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ribeiro-Filho</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coutinho</surname>
+<given-names>HDM</given-names>
+</string-name>
+</person-group>. <article-title>Vanillin selectively modulates the action of antibiotics against resistant bacteria</article-title>. <source>Microb Pathog.</source>
+<year>2017</year>;<volume>113</volume>:<fpage>265</fpage>–<lpage>268</lpage>.<pub-id pub-id-type="pmid">29107747</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.micpath.2017.10.052</pub-id></mixed-citation></ref><ref id="B39"><label>39.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Oh</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jeon</surname>
+<given-names>B</given-names>
+</string-name>
+</person-group>. <article-title>Synergistic anti-Campylobacter jejuni activity of fluoroquinolone and macrolide antibiotics with phenolic compounds</article-title>. <source>Front Microbiol.</source>
+<year>2015</year>;<volume>6</volume>:<fpage>1129</fpage>.<pub-id pub-id-type="pmid">26528273</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmicb.2015.01129</pub-id><pub-id pub-id-type="pmcid">PMC4602130</pub-id></mixed-citation></ref><ref id="B40"><label>40.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Arya</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Das</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rookes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cahill</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lenka</surname>
+<given-names>SK</given-names>
+</string-name>
+</person-group>. <article-title>Vanillin mediated green synthesis and application of gold nanoparticles for reversal of antimicrobial resistance in Pseudomonas aeruginosa clinical isolates</article-title>. <source>Heliyon</source>
+<year>2019</year>;<volume>5</volume>(<issue>7</issue>):<elocation-id>e02021</elocation-id>.<pub-id pub-id-type="pmid">31312733</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.heliyon.2019.e02021</pub-id><pub-id pub-id-type="pmcid">PMC6609825</pub-id></mixed-citation></ref><ref id="B41"><label>41.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sivasankar</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jha</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singh</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murali</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shetty</surname>
+<given-names>PH</given-names>
+</string-name>
+</person-group>. <article-title>Molecular evaluation of quorum quenching potential of vanillic acid against Yersinia enterocolitica through transcriptomic and in silico analysis</article-title>. <source>J Med Microbiol</source>
+<year>2020</year>;<volume>69</volume>(<issue>11</issue>):<fpage>1319</fpage>–<lpage>1331</lpage>.<pub-id pub-id-type="pmid">33084565</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1099/jmm.0.001261</pub-id></mixed-citation></ref><ref id="B42"><label>42.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Mok</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chan</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chua</surname>
+<given-names>SL</given-names>
+</string-name>
+</person-group>. <article-title>Vanillin inhibits PqsR-mediated virulence in Pseudomonas aeruginosa</article-title>. <source>Food Funct.</source>
+<year>2020</year>;<volume>11</volume>(<issue>7</issue>):<fpage>6496</fpage>–<lpage>6508</lpage>.<pub-id pub-id-type="pmid">32697213</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/d0fo00046a</pub-id></mixed-citation></ref><ref id="B43"><label>43.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Minich</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levarski</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mikulášová</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Straka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liptáková</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stuchlík</surname>
+<given-names>S</given-names>
+</string-name>
+</person-group>. <article-title>Complex analysis of vanillin and syringic acid as natural antimicrobial agents against Staphylococcus epidermidis biofilms</article-title>. <source>Int J Mol Sci.</source>
+<year>2022</year>;<volume>23</volume>(<issue>3</issue>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms23031816</pub-id><pub-id pub-id-type="pmcid">PMC8836540</pub-id><pub-id pub-id-type="pmid">35163738</pub-id></mixed-citation></ref><ref id="B44"><label>44.</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Keman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soyer</surname>
+<given-names>F</given-names>
+</string-name>
+</person-group>. <article-title>Antibiotic-resistant Staphylococcus aureus does not develop resistance to vanillic acid and 2-hydroxycinnamic acid after continuous exposure in vitro</article-title>. <source>ACS Omega</source>
+<year>2019</year>;<volume>4</volume>(<issue>13</issue>):<fpage>15393</fpage>–<lpage>15400</lpage>.<pub-id pub-id-type="pmid">31572838</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acsomega.9b01336</pub-id><pub-id pub-id-type="pmcid">PMC6761616</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

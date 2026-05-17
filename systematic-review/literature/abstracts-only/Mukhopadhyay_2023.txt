@@ -1,0 +1,13 @@
+PMID: 37937608
+Title: A thermosensitive hydrogel formulation of phage and colistin combination for the management of multidrug-resistant Acinetobacter baumannii wound infections.
+Authors: Mukhopadhyay S., To K., Liu Y., Bai C., Leung S.
+Journal: Biomaterials science
+Year: 2023
+DOI: 10.1039/d3bm01383a
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/37937608/
+DOI URL: https://doi.org/10.1039/d3bm01383a
+
+--- Abstract ---
+Chronic skin wounds are often associated with multidrug-resistant bacteria, impeding the healing process. Bacteriophage (phage) therapy has been revitalized as a promising strategy to counter the growing concerns of antibiotic resistance. However, phage monotherapy also faces several application drawbacks, such as a narrow host spectrum, the advent of resistant phenotypes and poor stability of phage preparations. Phage-antibiotic synergistic (PAS) combination therapy has recently been suggested as a possible approach to overcome these shortcomings. In the present study, we employed a model PAS combination containing a vB_AbaM-IME-AB2 phage and colistin to develop stable wound dressings of PAS to mitigate infections associated with Acinetobacter baumannii. A set of thermosensitive hydrogels were synthesized with varying amounts of Pluronic® F-127 (PF-127 at 15, 17.5 and 20 w/w%) modified with/without 3 w/w% hydroxypropyl methylcellulose (HPMC). Most hydrogel formulations had a gelation temperature around skin temperature, suitable for topical application. The solidified gels were capable of releasing the encapsulated phage and colistin in a sustained manner to kill bacteria. The highest bactericidal effect was achieved with the formulation containing 17.5% PF-127 and 3% HPMC (F5), which effectively killed bacteria in both planktonic (by 5.66 log) and biofilm (by 3 log) states and inhibited bacterial regrowth. Good storage stability of F5 was also noted with negligible activity loss after 9 months of storage at 4 °C. The ex vivo antibacterial efficacy of the F5 hydrogel formulation was also investigated in a pork skin wound infection model, where it significantly reduced the bacterial burden by 4.65 log. These positive outcomes warrant its further development as a topical PAS-wound dressing.

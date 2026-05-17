@@ -1,0 +1,14 @@
+PMID: 34680777
+Title: Co-Occurrence of blaOXA-23 in the Chromosome and Plasmid: Increased Fitness in Carbapenem-Resistant Acinetobacter baumannii.
+Authors: Wang Z., Li H., Zhang J., Wang H.
+Journal: Antibiotics (Basel, Switzerland)
+Year: 2021
+DOI: 10.3390/antibiotics10101196
+PMC: PMC8532878
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/34680777/
+DOI URL: https://doi.org/10.3390/antibiotics10101196
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8532878/
+
+--- Abstract ---
+This study aims to explore the co-occurrence of chromosomal and plasmid blaOXA-23 in carbapenem-resistant A. baumannii (CRAB) and its influence on phenotypes. A total of 11 CRAB isolates containing copies of blaOXA-23 on the chromosome and plasmid (CO), as well as 18 closely related isolates with blaOXA-23, located on either the chromosome or plasmid (SI), were selected for the determination of antibiotic susceptibility, virulence phenotype, and characteristic genomic differences. The co-occurrence of blaOXA-23 on the CRAB chromosome and plasmids did not enhance carbapenem resistance, but trimethoprim/sulfamethoxazole exhibited significantly reduced minimum inhibitory concentrations in CO. CO demonstrated a higher degree of fitness compared to SI. An increased biofilm formation ability and serum tolerance were also identified in CO, which may be associated with virulence genes, which include csuD, entE, pgaA, and plc. blaOXA-23-carrying transposons were found at different insertion sites on the chromosome. The most common site was AbaR-type genomic islands (50%). Two types of plasmids were found in CO. The co-occurrence of blaOXA-23 on the chromosome and a plasmid in CRAB had little effect on carbapenem susceptibility but was accompanied by increased fitness and virulence. Different origins and independent insertions of blaOXA-23-carrying transposons were identified in both the chromosomal and plasmid sequences.

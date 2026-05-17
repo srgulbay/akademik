@@ -1,0 +1,14 @@
+PMID: 32086747
+Title: Inhibition of quorum sensing-associated virulence factors and biofilm formation in Pseudomonas aeruginosa PAO1 by Mycoleptodiscus indicus PUTY1.
+Authors: Ahmed T., Pattnaik S., Khan M., Ampasala D., Busi S., Sarma V.
+Journal: Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]
+Year: 2020
+DOI: 10.1007/s42770-020-00235-y
+PMC: PMC7203316
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/32086747/
+DOI URL: https://doi.org/10.1007/s42770-020-00235-y
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203316/
+
+--- Abstract ---
+Pseudomonas aeruginosa is the second most emerging multidrug-resistant, opportunistic pathogen after Acinetobacter baumannii that poses a threat in nursing homes, hospitals, and patients who need devices such as ventilators and blood catheters. Its ability to form quorum sensing-regulated virulence factors and biofilm makes it more resistant to top most therapeutic agents such as carbapenems and next-generation antibiotics. In the current study, we studied the quorum quenching potential of secondary metabolites of Mycoleptodiscus indicus PUTY1 strain. In vitro observation showed a mitigation in virulence factors such as rhamnolipids, protease, elastase pyocyanin, exopolysaccharides, and hydrogen cyanide gas. Furthermore, a significant reduction in the motility such as swimming, swarming, twitching, and inhibition in biofilm formation by Pseudomonas aeruginosa PAO1 was observed. Results of in vitro studies were further confirmed by in silico studies through docking and molecular dynamic simulation of GC-MS-detected compounds of Mycoleptodiscus indicus employing LasR and RhlR proteins. Both in vitro and in silico observations indicate a new alternative approach for combating virulence of Pseudomonas aeruginosa by targeting its protein receptors LasR and RhlR. Graphical abstract.

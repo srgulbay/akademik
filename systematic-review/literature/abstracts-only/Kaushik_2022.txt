@@ -1,0 +1,13 @@
+PMID: 35083758
+Title: Therapeutic strategies against potential antibiofilm targets of multidrug-resistant Acinetobacter baumannii.
+Authors: Kaushik V., Tiwari M., Joshi R., Tiwari V.
+Journal: Journal of cellular physiology
+Year: 2022
+DOI: 10.1002/jcp.30683
+PMC: 
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/35083758/
+DOI URL: https://doi.org/10.1002/jcp.30683
+
+--- Abstract ---
+Acinetobacter baumannii is the causative agent of various hospital-acquired infections. Biofilm formation is one of the various antimicrobial resistance (AMR) strategies and is associated with high mortality and morbidity. Hence, it is essential to review the potential antibiofilm targets in A. baumannii and come up with different strategies to combat these potential targets. This review covers different pathways involved in the regulation of biofilm formation in A. baumannii like quorum sensing (QS), cyclic-di-GMP signaling, two-component system (TCS), outer-membrane protein (ompA), and biofilm-associated protein (BAP). A newly discovered mechanism of electrical signaling-mediated biofilm formation and contact-dependent biofilm modulation has also been discussed. As biofilm formation and its maintenance in A. baumannii is facilitated by these potential targets, the detailed study of these targets and pathways can bring light to different therapeutic strategies such as anti-biofilm peptides, natural and synthetic molecule inhibitors, QS molecule degrading enzymes, and other strategies. These strategies may help in suppressing the lethality of biofilm-mediated infections. Targeting essential proteins/targets which are crucial for biofilm formation and regulation may render new therapeutic strategies that can aid in combating biofilm, thus reducing the recalcitrant infections and morbidity associated with the biofilm of A. baumannii.

@@ -1,0 +1,14 @@
+PMID: 32331271
+Title: Investigating Bacteriophages Targeting the Opportunistic Pathogen Acinetobacter baumannii.
+Authors: Styles K., Thummeepak R., Leungtongkam U., Smith S., Christie G., Millard A., Moat J., Dowson C., Wellington E., Sitthisak S., Sagona A.
+Journal: Antibiotics (Basel, Switzerland)
+Year: 2020
+DOI: 10.3390/antibiotics9040200
+PMC: PMC7235909
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/32331271/
+DOI URL: https://doi.org/10.3390/antibiotics9040200
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235909/
+
+--- Abstract ---
+The multi-drug resistance of the opportunistic pathogen Acinetobacter baumannii is of growing concern, with many clinical isolates proving to be resistant to last resort as well as front line antibiotic treatments. The use of bacteriophages is an attractive alternative to controlling and treating this emerging nosocomial pathogen. In this study, we have investigated bacteriophages collected from hospital wastewater in Thailand and we have explored their activity against clinical isolates of A. baumannii. Bacteriophage vB_AbaM_PhT2 showed 28% host range against 150 multidrug resistant (MDR) isolates and whole genome sequencing did not detect any known virulence factors or antibiotic resistance genes. Purified vB_AbaM_PhT2 samples had endotoxin levels below those recommended for preclinical trials and were not shown to be directly cytotoxic to human cell lines in vitro. The treatment of human brain and bladder cell lines grown in the presence of A. baumannii with this bacteriophage released significantly less lactate dehydrogenase compared to samples with no bacteriophage treatment, indicating that vB_AbaM_PhT2 can protect from A. baumannii induced cellular damage. Our results have also indicated that there is synergy between this bacteriophage and the end line antibiotic colistin. We therefore propose bacteriophage vB_AbaM_PhT2 as a good candidate for future research and for its potential development into a surface antimicrobial for use in hospitals.

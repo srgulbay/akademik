@@ -1,0 +1,14 @@
+PMID: 39288183
+Title: Manipulation of natural transformation by AbaR-type islands promotes fixation of antibiotic resistance in Acinetobacter baumannii.
+Authors: Tuffet R., Carvalho G., Godeux A., Mazzamurro F., Rocha E., Laaberki M., Venner S., Charpentier X.
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Year: 2024
+DOI: 10.1073/pnas.2409843121
+PMC: PMC11441513
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39288183/
+DOI URL: https://doi.org/10.1073/pnas.2409843121
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11441513/
+
+--- Abstract ---
+The opportunistic pathogen Acinetobacter baumannii, carries variants of A. baumannii resistance islands (AbaR)-type genomic islands conferring multidrug resistance. Their pervasiveness in the species has remained enigmatic. The dissemination of AbaRs is intricately linked to their horizontal transfer via natural transformation, a process through which bacteria can import and recombine exogenous DNA, effecting allelic recombination, genetic acquisition, and deletion. In experimental populations of the closely related pathogenic Acinetobacter nosocomialis, we quantified the rates at which these natural transformation events occur between individuals. When integrated into a model of population dynamics, they lead to the swift removal of AbaRs from the population, contrasting with the high prevalence of AbaRs in genomes. Yet, genomic analyses show that nearly all AbaRs specifically disrupt comM, a gene encoding a helicase critical for natural transformation. We found that such disruption impedes gene acquisition, and deletion, while moderately impacting acquisition of single nucleotide polymorphism. A mathematical evolutionary model demonstrates that AbaRs inserted into comM gain a selective advantage over AbaRs inserted in sites that do not inhibit or completely inhibit transformation, in line with the genomic observations. The persistence of AbaRs can be ascribed to their integration into a specific gene, diminishing the likelihood of their removal from the bacterial genome. This integration preserves the acquisition and elimination of alleles, enabling the host bacterium-and thus its AbaR-to adapt to unpredictable environments and persist over the long term. This work underscores how manipulation of natural transformation by mobile genetic elements can drive the prevalence of multidrug resistance.

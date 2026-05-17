@@ -1,0 +1,219 @@
+filename,pmcid,status
+Hetta_2025,PMC12845504,xml_ok
+Arazi_2025,PMC12859838,pdf_download_err:HTTPError; xml_ok
+Nosair_2025,PMC12701606,xml_ok
+deVilliersdelaNoue_2025,PMC12656882,xml_ok
+VeraJauregui_2025,PMC12561047,xml_ok
+Santajit_2025,PMC12501579,xml_ok
+Nghiem_2025,PMC12444785,xml_ok
+Sorenson_2025,PMC12388334,xml_ok
+Essam_2025,PMC12308983,xml_ok
+DudaMadej_2025,PMC12299710,xml_ok
+MajidiFard_2025,PMC12297010,xml_ok
+Ghavanloughajar_2025,PMC12289009,xml_ok
+Wiradiputra_2025,PMC12272471,pdf_download_err:HTTPError; xml_ok
+Cui_2025,PMC12269709,pdf_download_err:HTTPError; xml_ok
+Lebreton_2025,PMC12220160,xml_ok
+Azimi_2025,PMC12172066,xml_ok
+Cui_2025_2,PMC12162036,pdf_download_err:HTTPError; xml_ok
+Carpenito_2025,PMC12108150,xml_ok
+Wheeler_2025,PMC12109783,xml_ok
+Xie_2025,PMC12217454,xml_ok
+Li_2025,PMC12073863,xml_ok
+Krishnan_2025,PMC11920071,xml_ok
+Su_2025,PMC11889872,pdf_download_err:HTTPError; xml_ok
+Beasley_2025,PMC11785035,pdf_download_err:HTTPError; xml_ok
+Zhang_2025,PMC11731405,xml_ok
+Sharma_2025,PMC11724464,pdf_download_err:HTTPError; xml_ok
+Liu_2024,PMC11699857,pdf_download_err:HTTPError; xml_ok
+Rothong_2024,PMC11674141,xml_ok
+Benyamini_2024,PMC11432228,xml_ok
+Yao_2024,PMC11428969,xml_ok
+Tuffet_2024,PMC11441513,pdf_download_err:HTTPError; xml_ok
+Pumirat_2024,PMC11401864,pdf_download_err:HTTPError; xml_ok
+Dong_2024,PMC11383728,pdf_download_err:HTTPError; xml_ok
+Harkova_2024,PMC11410210,xml_ok
+Escalante_2024,PMC11333713,pdf_download_err:HTTPError; xml_ok
+Li_2024,PMC11283397,xml_ok
+Escalante_2024_2,PMC11160873,xml_ok
+Guo_2024,PMC11134903,pdf_download_err:HTTPError; xml_ok
+Gonzales_2024,PMC11110857,xml_ok
+Rajangam_2024,PMC11290764,OA_unavailable:idIsNotOpenAccess; xml_ok
+Elfaky_2024,PMC10981156,pdf_download_err:HTTPError; xml_ok
+Lu_2024,PMC10965436,pdf_download_err:HTTPError; xml_ok
+Jiang_2024_2,PMC10958429,xml_ok
+Correa_2024,PMC11014353,pdf_download_err:HTTPError; xml_ok
+Cook_2024,PMC10808703,xml_ok
+YousefiNojookambari_2024,PMC10846280,xml_ok
+FernndezVzquez_2023,PMC10773864,xml_ok
+Bhowmik_2023,PMC10626324,pdf_download_err:HTTPError; xml_ok
+Mendes_2023,PMC10651561,xml_ok
+ChvezHernndez_2023,PMC10608816,xml_ok
+Natsheh_2023,PMC10525453,xml_ok
+Lin_2023,PMC10475287,pdf_download_err:HTTPError; xml_ok
+Cui_2023,PMC10465187,pdf_download_err:HTTPError; xml_ok
+Mumtaz_2023,PMC10410175,pdf_download_err:HTTPError; xml_ok
+Venkateswaran_2023,PMC10339816,xml_ok
+Mardiana_2023,PMC10345192,xml_ok
+Sitthisak_2023,PMC10167329,xml_ok
+Zeng_2023,PMC10097947,xml_ok
+Peters_2023,PMC10051250,xml_ok
+Traglia_2023,PMC10045941,xml_ok
+Rajapaksha_2023,PMC10044867,xml_ok
+Tiwari_2023,PMC9852675,pdf_download_err:HTTPError; xml_ok
+Pourhajibagher_2023,PMC9850556,xml_ok
+Panda_2022,PMC9763703,xml_ok
+EsmaeiliFardBarzegar_2022,PMC9723426,pdf_download_err:HTTPError; xml_ok
+Kumkar_2022,PMC9742364,xml_ok
+Wintachai_2022,PMC9695679,xml_ok
+Kim_2022,PMC9657202,xml_ok
+Zhu_2022,PMC9637306,xml_ok
+Bazaid_2022,PMC9607359,xml_ok
+Shenkutie_2022,PMC9603859,xml_ok
+Santajit_2022,PMC9598666,xml_ok
+Maisch_2022,PMC9530676,pdf_download_err:HTTPError; xml_ok
+Yadav_2022,PMC9428484,xml_ok
+Escalante_2022,PMC9420150,xml_ok
+Segatore_2022,PMC9404735,xml_ok
+Jacobmeyer_2022,PMC9404926,xml_ok
+Xiong_2022,PMC9380347,xml_ok
+Wang_2022_2,PMC9430643,xml_ok
+Cui_2022,PMC9431217,xml_ok
+Zore_2022,PMC9207386,xml_ok
+Djahanschiri_2022,PMC9162365,xml_ok
+Golberg_2022,PMC9144697,xml_ok
+Charalambous_2022,PMC9146490,xml_ok
+Nogbou_2022,PMC9138137,xml_ok
+Roy_2022,PMC8987773,xml_ok
+Romero_2022,PMC9790458,xml_ok
+Li_2022,PMC8865539,xml_ok
+Godeux_2022,PMC8787482,xml_ok
+Wienhold_2021,PMC8778864,xml_ok
+Ghosh_2022,PMC8773049,xml_ok
+Koong_2021,PMC8767349,xml_ok
+Tierney_2021,PMC8601201,xml_ok
+Kim_2021,PMC8583241,xml_ok
+Lus_2021,PMC8532685,xml_ok
+Wang_2021,PMC8532878,xml_ok
+Lin_2021,PMC8465190,xml_ok
+Khadke_2021,PMC8466663,xml_ok
+Rodgers_2021,PMC8446060,xml_ok
+Le_2021,PMC8557393,xml_ok
+Sun_2021,PMC8439540,xml_ok
+Yan_2021,PMC8401170,xml_ok
+Lazar_2021,PMC8359898,xml_ok
+Pimentel_2021,PMC8300715,xml_ok
+Sun_2021_2,PMC8312687,xml_ok
+Li_2021_2,PMC8274629,pdf_download_err:HTTPError; xml_ok
+Tuttobene_2021,PMC8239052,xml_ok
+Deng_2021,PMC8229158,xml_ok
+Hetta_2021,PMC8144575,xml_ok
+Pimentel_2021_2,PMC8069197,xml_ok
+Tyumentseva_2021,PMC7918744,xml_ok
+Zhong_2021,PMC7882596,xml_ok
+Rajput_2021,PMC7842365,xml_ok
+LpezMartn_2021,PMC8088503,xml_ok
+Fischer_2020,PMC7743143,xml_ok
+Tang_2020,PMC7699449,pdf_download_err:HTTPError; xml_ok
+Alam_2020,PMC7679466,pdf_download_err:HTTPError; xml_ok
+GilbertGirard_2020,PMC7700524,xml_ok
+Shenkutie_2020,PMC7698371,xml_ok
+Gonalves_2020,PMC7690887,xml_ok
+Alreshidi_2020,PMC7690738,xml_ok
+Mayer_2020,PMC7554515,xml_ok
+Vukotic_2020,PMC7461965,xml_ok
+Wang_2020,PMC7396526,xml_ok
+Liu_2020,PMC7431629,xml_ok
+Huang_2020,PMC7449629,xml_ok
+Godeux_2020,PMC7508600,xml_ok
+Bi_2020,PMC7253598,xml_ok
+Parducho_2020,PMC7225314,xml_ok
+Khamari_2020,PMC7768151,OA_unavailable:idIsNotOpenAccess; xml_ok
+Styles_2020,PMC7235909,xml_ok
+Seleem_2020,PMC7180647,xml_ok
+PrezVarela_2020,PMC7253615,OA_unavailable:idIsNotOpenAccess; xml_ok
+Ahmed_2020,PMC7203316,OA_unavailable:idIsNotOpenAccess; xml_ok
+Zhu_2020,PMC7263877,OA_unavailable:idIsNotOpenAccess; xml_ok
+Amin_2019,PMC6914661,pdf_download_err:HTTPError; xml_ok
+Chen_2019,PMC6880639,xml_ok
+Qvortrup_2019,PMC6838868,xml_ok
+Navidifar_2019,PMC6512781,pdf_download_err:HTTPError; xml_ok
+Dettweiler_2019,PMC6531439,xml_ok
+Ng_2019,PMC6523755,xml_ok
+Bi_2019,PMC6437538,OA_unavailable:idIsNotOpenAccess; xml_ok
+Meumann_2019,PMC6487312,xml_ok
+PaulkTierney_2019,PMC7240881,OA_unavailable:idIsNotOpenAccess; xml_ok
+Richwagen_2019,PMC6374630,xml_ok
+FernandezGarcia_2018,PMC6304438,xml_ok
+Oliveira_2019,PMC6364002,OA_unavailable:idIsNotOpenAccess; xml_ok
+Mayer_2018,PMC6146095,xml_ok
+Karlapudi_2018,PMC6146548,pdf_download_err:HTTPError; xml_ok
+Jansen_2018,PMC6147977,xml_ok
+Trastoy_2018,PMC6148185,OA_unavailable:idIsNotOpenAccess; xml_ok
+Bergonzi_2018,PMC6062542,xml_ok
+CastaedaTamez_2018,PMC6030374,xml_ok
+Sato_2018,PMC5858813,xml_ok
+Milton_2018,PMC5816815,xml_ok
+Lpez_2018,PMC5802823,xml_ok
+Nicol_2018,PMC5796163,xml_ok
+Barki_2019,PMC6568008,OA_unavailable:idIsNotOpenAccess; xml_ok
+Gerdt_2017,PMC5600713,OA_unavailable:idIsNotOpenAccess; xml_ok
+Chen_2017,PMC5635159,xml_ok
+Lpez_2017,PMC5423435,xml_ok
+Dou_2017,PMC5436197,pdf_download_err:HTTPError; xml_ok
+Zhang_2017,PMC5410158,xml_ok
+Holt_2016,PMC5320584,xml_ok
+Lpez_2017_2,PMC5362224,xml_ok
+Krger_2016,PMC5295007,xml_ok
+Cardile_2017,PMC5438303,OA_unavailable:idIsNotOpenAccess; xml_ok
+Gala_2016,PMC5116906,pdf_download_err:HTTPError; xml_ok
+Selasi_2016,PMC5021322,xml_ok
+Buttimer_2016,PMC5000817,xml_ok
+Modarresi_2016,PMC4906721,xml_ok
+Blackwell_2016,PMC4899885,xml_ok
+Liu_2016,PMC4886253,xml_ok
+Liu_2016_2,PMC4913728,xml_ok
+Tan_2016,PMC4879401,OA_unavailable:idIsNotOpenAccess; xml_ok
+Tay_2016,PMC4780937,OA_unavailable:idIsNotOpenAccess; xml_ok
+Blackwell_2015,PMC4775934,OA_unavailable:idIsNotOpenAccess; xml_ok
+Kostoulias_2015,PMC4704244,OA_unavailable:idIsNotOpenAccess; xml_ok
+Kandi_2015,PMC4525511,OA_unavailable:idIsNotOpenAccess; xml_ok
+Kim_2015,PMC4538507,OA_unavailable:idIsNotOpenAccess; xml_ok
+He_2015,PMC4505227,OA_unavailable:idIsNotOpenAccess; xml_ok
+Tipton_2015,PMC4518826,OA_unavailable:idIsNotOpenAccess; xml_ok
+Luo_2015,PMC4381447,xml_ok
+Modarresi_2015_2,PMC4601488,OA_unavailable:idIsNotOpenAccess; xml_ok
+Liu_2014,PMC4367897,xml_ok
+Li_2014,PMC4335871,OA_unavailable:idIsNotOpenAccess; xml_ok
+Chang_2014,PMC4192346,xml_ok
+Traglia_2014,PMC4202317,pdf_download_err:HTTPError; xml_ok
+Merabishvili_2014,PMC4128745,xml_ok
+Chan_2014,PMC4101932,xml_ok
+Peng_2014,PMC4094691,xml_ok
+Allen_2014,PMC4051507,OA_unavailable:idIsNotOpenAccess; xml_ok
+Bhargava_2014,PMC4136213,OA_unavailable:idIsNotOpenAccess; xml_ok
+Chow_2013,PMC3957888,OA_unavailable:idIsNotOpenAccess; xml_ok
+Que_2013,PMC3868577,xml_ok
+Hamidian_2013,PMC3956371,xml_ok
+RumboFeal_2013,PMC3758355,xml_ok
+Vilacoba_2013,PMC3889758,OA_unavailable:idIsNotOpenAccess; xml_ok
+Kim_2013,PMC3811275,OA_unavailable:idIsNotOpenAccess; xml_ok
+Garner_2013,PMC3634625,xml_ok
+Zhu_2013,PMC3691203,xml_ok
+Garner_2013_2,PMC3655197,xml_ok
+Saroj_2013,PMC3623334,OA_unavailable:idIsNotOpenAccess; xml_ok
+Stacy_2012,PMC3566574,OA_unavailable:idIsNotOpenAccess; xml_ok
+Sung_2012,PMC3427819,pdf_download_err:HTTPError; xml_ok
+Stacy_2012_2,PMC3477293,OA_unavailable:idIsNotOpenAccess; xml_ok
+Kim_2012,PMC3421569,OA_unavailable:idIsNotOpenAccess; xml_ok
+Garner_2012,PMC3358330,xml_ok
+Seputiene_2012,PMC3318354,OA_unavailable:idIsNotOpenAccess; xml_ok
+Zhou_2011,PMC3187012,OA_unavailable:idIsNotOpenAccess; xml_ok
+Clemmer_2011,PMC3352170,OA_unavailable:idIsNotOpenAccess; xml_ok
+Krizova_2011,PMC3122396,OA_unavailable:idIsNotOpenAccess; xml_ok
+Turton_2011,PMC3122835,OA_unavailable:idIsNotOpenAccess; xml_ok
+Ramirez_2011,PMC3067174,OA_unavailable:idIsNotOpenAccess; xml_ok
+Peleg_2009,PMC2687231,OA_unavailable:idIsNotOpenAccess; xml_ok
+Peleg_2008,PMC2567192,OA_unavailable:idIsNotOpenAccess; xml_ok
+Vallenet_2008,PMC2265553,xml_ok
+Niu_2008,PMC2347373,OA_unavailable:idIsNotOpenAccess; xml_ok

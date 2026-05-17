@@ -1,0 +1,14 @@
+PMID: 27240484
+Title: Analysis of tigecycline resistance development in clinical Acinetobacter baumannii isolates through a combined genomic and transcriptomic approach.
+Authors: Liu L., Cui Y., Zheng B., Jiang S., Yu W., Shen P., Ji J., Li L., Qin N., Xiao Y.
+Journal: Scientific reports
+Year: 2016
+DOI: 10.1038/srep26930
+PMC: PMC4886253
+Publication types: Case Reports; Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/27240484/
+DOI URL: https://doi.org/10.1038/srep26930
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4886253/
+
+--- Abstract ---
+Tigecycline (Tgc) is considered a last-resort antibiotic for the treatment of multi-drug resistant bacteria. To study Tgc resistance development in the important nosocomial pathogen Acinetobacter baumannii, we adopted six clinical isolates from three patients undergoing antibiotic treatment, and bacterial genomic sequences and seven strand-specific transcriptomes were studied. Interestingly, the Tgc-intermediate 2015ZJAB1 only differed from Tgc-resistant 2015ZJAB2 in an SNP-clustered region including OprD, a sugar-type MFS permease, and a LuxR-type transcriptional regulator. Surprisingly, an almost identical region was found in 2015ZJAB3, which supports the possibility of a homologous recombination event that increased Tgc resistance. Furthermore, comparative transcriptomic analysis identified significantly regulated genes associated with Tgc resistance, which was verified using qRT-PCR. Three enriched COG categories included amino acid transport and metabolism, transcription, and inorganic ion transport and metabolism. KEGG analysis revealed common features under Tgc conditions, including up regulated benzoate degradation and a less active TCA cycle. This may be related to selective antimicrobial pressure in the environment and adaptation by lowering metabolism. This study provides the first report of an in vivo evolutionary process that included a putative homologous recombination event conferring Tgc resistance in clinical A. baumannii isolates in which transcriptome analysis revealed resistance-conferring genes and related metabolism characteristics.

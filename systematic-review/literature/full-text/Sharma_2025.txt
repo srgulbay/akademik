@@ -1,0 +1,178 @@
+Title: Comparative study of phenotypic and genotypic expression of virulence factors in colonizing and pathogenic carbapenem resistant Acinetobacter baumannii (CRAB)
+PMID: 39799303
+PMCID: PMC
+DOI: 10.1186/s12866-024-03727-1
+
+=== ABSTRACT ===
+# Abstract
+
+Carbapenem resistant Acinetobacter baumannii has evolved as the most troublesome microorganism with multiple virulence factors. Biofilm formation, porins, micronutrient capturing mechanism and quorum sensing, provide protection against desiccation, host-pathogen killing and enhance its persistence. The conservation of these factors between colonizing and pathogenic carbapenem resistant A. baumannii has been barely investigated. We studied biofilm formation, desiccation survival, motility and hemolysis in pathogenic carbapenem resistant A. baumannii and colonizer carbapenem resistant A. baumannii from the hospital environment. The virulent genes pgaA, csuE, bap, ompA, abaI, pilA and bauA were detected by simplex-PCR and Quantitative Real-Time PCR was done for expressional studies. In-vivo survival percentage was studied by Galleria mellonella (wax moth) killing assay. Phenotypic characterization revealed that the biofilm formation and desiccation survival proportion was significantly higher in colonizer carbapenem resistant A. baumannii (p < 0.05). Twitching motility was found comparable (mean 0.5 to 1.5 cm). Surface associated motility varied widely. None showed hemolysis. The csuE, bap, ompA, abaI, pilA and bauA genes were detected in almost all the pathogenic and colonizer carbapenem resistant A. baumannii isolates while none harboured pgaA gene. The expression of bap, ompA and bauA gene was found significantly higher in pathogenic carbapenem resistant A. baumannii while expression of csuE and abaI gene was comparable in both. Overexpression of pilA gene was seen in those with higher surface associated motility. Pathogenic carbapenem resistant A. baumannii showed significantly higher pathogenicity in-vivo, as 100% of larvae died on 4th day post-infection. In conclusion high level expression of outer membrane proteins (ompA) and siderophores is significantly associated with the pathogenicity in carbapenem resistant A. baumannii isolated from infections, which can be a differentiating point from the colonizers.
+
+
+# Clinical Trial
+
+Not Applicable
+
+
+# Supplementary Information
+
+The online version contains supplementary material available at 10.1186/s12866-024-03727-1.
+
+=== FULL TEXT ===
+# Introduction
+
+Carbapenem resistant Acinetobacter baumannii (CRAB), the ‘Priority 1’ critical pathogen is one of the leading causes of hospital- and community-acquired infections [1, 2]. Once a low-category organism, its importance as a human pathogen has been linked with two important factors. First, its ability to survive on animate and inanimate surfaces for longer duration in various temperature, pH conditions, on dry and moist conditions, pose a risk for prolonged endemic [3, 4]. Secondly, its resistance to multiple antibiotics including carbapenems, which complicates the treatment, is an added advantage [3]. Among several virulence factors of A. baumannii, biofilm formation is one of the crucial ones. There are series of factors that help in biofilm formation, the key factor being biofilm-associated protein or Bap that impact the rigidity and bio-volume. The csuA/BABCDE operon plays an essential role in pili production which initiates the biofilm formation. A polysaccharide, poly-β-(1–6)-N-acetylglucosamine (PNAG) found in biofilm forming communities might assist in the synthesis and is controlled by the pgaABCD locus. Furthermore, the autoinducer synthase abaI gene regulates the production of acylhomoserine lactone molecules, which are required for quorum sensing and the subsequent stages of biofilm formation. Another factor, major outer membrane protein (OmpA) appears to be involved in the attachment of bacterial cells to abiotic surfaces as well as the attachment of human alveolar epithelial cells. Additionally, A. baumannii have a type IV pilus appendage that allows twitching motility across semisolid and abiotic surfaces. Another important factor that has been the reason behind the success of A. baumannii is its ability to capture host nutrients. A major siderophore called acinetobactin helps this bacterium in iron uptake using a set of genes bauA-E [5–8]. It has been speculated that the presence of these factors and their expression profiles determine the severity of biofilm formation and hence, virulence in A. baumannii. Despite the large number of studies published on A. baumannii virulence factors, only a small number of potential virulence factors have been linked to disease pathogenesis. There has been scarcity of studies that determine the conservation of these factors between colonizer and pathogenic Acinetobacter isolates [9].
+
+We have previously studied the endemicity and sustained outbreaks of CRAB in one of the typical tertiary care hospitals in India, where several adaptations of CRAB in their virulence factors were seen to be responsible for the persistence of the organisms in the hospital environment causing sustained outbreaks [10]. We have also studied the nosocomial environment including hospital surfaces as the major sources of these CRAB especially in the intensive care units (ICU). As cross-transmission of microorganisms from abiotic surfaces may play a role in ICU-acquired infections, we have also documented the probable route of transmission of this organism in the hospital environment [11]. In this endemic setup, we further hypothesized that certain differences in the phenotypic and genotypic expression profiles can delineate colonizers and pathogens CRAB in the hospital setup. Therefore, the study was conducted to compare the different virulence factors in CRAB isolates colonizing the hospital environment and pathogenic isolates from the clinically confirmed infections.
+
+
+# Methods
+
+
+## Study setting, design, and bacterial isolates
+
+The prospective study was conducted in the Department of Microbiology and Multidisciplinary Research Unit, Institute of Medical Sciences, Banaras Hindu University, Varanasi, India. The study included 60 isolates of previously confirmed and characterized CRAB. Of these 30 were pathogens from clinically confirmed infections [12] and 30 were colonizers recovered from the hospital environment and hands of healthcare workers from the adult ICU [11]. The source of these isolates has been shown in Supplementary Table 1.
+
+
+## Phenotypic determination of virulence factors
+
+
+### Biofilm formation
+
+The capacity of biofilm formation in pathogenic CRAB and colonizer CRAB isolates from the environment was tested by the standard 96-well microtiter plate assay with 0.1% crystal violet staining method as previously described [13, 14]. The bacterial suspension was prepared by adding a pure isolated colony of A. baumannii into LB (Luria Bertani) broth medium. After overnight incubation at 37ºC the bacterial suspension was diluted 1:20 in LB broth in order to match 0.5 McFarland (∼1.5 × 108 CFU/mL). The optical density measurement at 578 nm (OD578) was taken using LisaScan® EM micro-titer plate reader (Eli-LIMS, Transasia Bio Medical Ltd., India). The categories of no/weak/moderate/strong biofilm producers were selected on the basis of three standard deviations above the mean OD (0.054) of a clean microtiter plate stained by the same procedure [13, 14]. Biofilm formation in Staphylococcus epidermidis ATCC 35,984 was used as a positive control.
+
+
+### Desiccation survival
+
+The tolerance to survive desiccation between the pathogenic CRAB and colonizer CRAB isolates from the environment was tested for more than 100 days. Briefly, 1 ml of overnight grown culture was centrifuged at 15,000 rpm for 5 min. The pellets were twice washed with sterile distilled water and subsequently resuspended in 1 ml of distilled water. A volume of 20 µl of this suspension was placed onto the cover slips and stored inside covered Petri plates. These Petri plates were kept within sterile plastic boxes with relative humidity maintained at 31% ± 3% inside the plastic boxes. Viable counts were determined at every 20 days’ interval [13–15].
+
+
+### Hemolytic activity
+
+The hemolytic activity of these isolates was tested as described by Boone RL et al., 2021. Briefly, the isolates were streaked over Columbia 5% sheep blood agar plates (HiMedia Laboratories Pvt Ltd, India) and incubated overnight at 37 °C. The 2–3 pure isolated colonies were subcultured into 5 ml LB broth (HiMedia Laboratories Pvt Ltd, India) and kept for overnight incubation at 37°C with constant shaking at 180 rpm. The bacterial suspension was adjusted according to 0.5 McFarland standard and 3 µl of this suspension was inoculated on fresh Columbia 5% sheep blood agar plates. The plates were kept for 24 h incubation at 37°C and further observed for ß-hemolysis [5].
+
+
+## Motility testing
+
+
+### Surface-associated motility
+
+To determine the surface-associated motility, swimming agar plates (peptone 5 g/L, NaCL 2.5 g/L and 0.3% agarose) were prepared. The overnight grown bacterial suspension in LB broth was normalized with 0.5 McFarland and 2 µl was inoculated in the center of the plate. Plates were kept for incubation at 37 °C in dark. The migration from the center was noted at 24 h post-inoculation [5].
+
+
+### Twitching motility
+
+For determination of twitching motility, plates containing peptone 10 g/L, NaCl 5 g/L and 1% agarose were prepared. A single pure isolated colony from overnight growth was stabbed at the agarose/petriplate interphase with the help of a sterile straight wire. The inoculated plates were kept for incubation at 37 °C in dark. The result was interpreted at 24 h post-inoculation with 0.1% staining. For this, the agarose was carefully removed from the plates and the plates were subsequently washed thrice with phosphate buffered saline (PBS). The plates were stained with 0.1% crystal violet for 5 min and again washed gently with PBS. The plates were kept at room temperature for air dry and the migration was measured with the help of a scale. The plates were freshly prepared on the day of inoculation. A. baumannii ATCC 19,606 was used as control strain as it exhibits very low motility (mean motility diameter of 1.1 cm) [5].
+
+
+## Molecular detection of virulence genes
+
+The presence of following genes; pgaA, csuE, bap, ompA, abaI, pilA, bauA in all the isolates was detected by conventional Polymerase Chain Reaction (PCR) (T100 PCR thermal cycler, Bio-Rad laboratories India Pvt. Ltd ) as described earlier [8, 16, 17]. The oligonucleotide sequences used as primers have been shown in Table 1. Reaction mixture (25 µL) was prepared by adding 2.5 µL Taq DNA buffer, 2 µL of dNTP, and 1 µL of each primer (10 picomole; Eurofins Scientific), 0.3 µL of Taq DNA polymerase (Genei, Bangalore, India). To maintain volume, 5 µL of template DNA (100 ng/mL) and nuclease free water was added. Reactions were run under the following conditions: for bap, ompA and csuE genes, initial denaturation 94ºC for 3 min, 35 cycles of 94 °C for 30 s, 56ºC for 30 s, 72ºC for 30 s. and final extension at 72ºC for 10 min.For abaI and ompA genes, initial denaturation 94ºC for 3 min, 35 cycles of 94 °C for 30 s, 59ºC for 30 s, 72ºC for 30 s. and final extension at 72ºC for 10 min. For pilA and bauA genes, initial denaturation 95ºC for 10 min, 40 cycles of 95 °C for 15 s, 60ºC for 60 s, 72ºC for 30 s. and final extension at 72ºC for 10 min.The amplified PCR products were identified in 2% agarose gel by agarose gel electrophoresis.
+
+Table 1Primer sequences used for the amplification of the target genesPrimer sequence 5′-3′Target geneFunctionAmplicon sizeF: GCCGACGGTCGCGATACR: ATGCACATCGCCAAAACGGTACT
+pgaA
+Biofilm formation150F: TCAGACCGGAGAAAAACTTAACGR: GCCGGAAGCCGTATGTAGAA
+csuE
+Biofilm formation, adhesion150F: AATGCACCGGTACTTGATCCR: TATTGCCTGCAGGGTCAGTT
+Bap
+Biofilm formation205F: ATGAAAAAGACAGCTATCGCGATTGCAR: CACCAAAAGCACCAGCGCCCAGTTG
+ompA
+Adherence and invasion, induction of apoptosis, serum resistance, biofilm formation, cytotoxicity136F: AATGCCTATTCCCTGCTCACR: ATTGCTTCTTGCAGAATTGC
+abaI
+Biofilm formation, conjugation, motility, host-pathogen interactions132F: CTGAGTCAGTTGCTGTTGCTGR: GATCGTGGTTGCCATTATCGG
+pilA
+Twitching or surface-associated motility, DNA uptake, evasion188F: ACCACTTGCACCGTTGGTATR: GCAAGTTGCAACATCGAGCA
+bauA
+In-vivo survival172F: ACTCCTACGGGAGGCAGCAGTR: TATTACCGCGGCTGCTGGC
+16 S rRNA
+198
+
+
+## Expression of virulence genes by quantitative real-time PCR (qRT-PCR)
+
+Based on the result of phenotypic tests and presence/absence of virulence genes, 10 isolates of each pathogenic CRAB and colonizer CRAB were included in the expression study. Total RNA was extract using RNeasy Mini Kit (Qiagen, Pvt. Ltd, India) according to manufacturer’s instruction form the freshly grown culture in LB broth. cDNA was prepared by the reverse transcriptions of 400ng/µl of total RNA using oligo dT primers and RevertAid transcriptase in a total reaction volume of 20 µl (ThermoScientific, Pvt. Ltd, India). qRT-PCR was performed using SYBR Green PCR master mix (GCC Biotech, India Pvt. Ltd.) and primers described in Table 1.Each reaction mixture was prepared in a final volume of 20 µl containing 10 µl of SYBR Green PCR master, 0.5 µl of each forward and reverse primer (10 picomole; Eurofins Scientific, India), 5 µl of 400ng cDNA and remaining volume was maintained by adding nuclease free water. The reaction was run under following condition: initial denaturation 95ºC for 5 min, 39 cycles of 95ºC for 15 s, 60ºC for 20 s, 72ºC for 3 min.16 S rRNA gene was used for normalization of gene expression. A. baumannii ATCC 19,606 used asreference strain. Fold change in gene expression were calculated using comparative Ct method (2¯ΔΔCt ).
+
+
+## Galleria mellonella survival assay
+
+The G. mellonella (wax moth) were obtained from UDeS Honey Farms, Varanasi, India and reared in the laboratory at 30 °C in dark with natural beeswax diet. The last instar larvae, weighing 250 mg – 350 mg were used for the experiment. For survival assay a total of 10 isolates of each pathogenic CRAB and colonizer CRAB included in expression analysis were selected. Bacterial suspension was prepared by mixing 2–3 pure isolated colonies into sterile PBS, from overnight growth on MacConkey agar plates. The bacterial cell count was adjusted to 1.5 × 108 CFU/ml according 0.5 McFarland. 5 µl of the bacterial suspension was injected into the last proleg of the larvae with help of microliter™ syringe (10 µl glass syringe FN (701 N) P/n 80300, Hamilton® Reno, Nevada, USA). A set of control group i.e., larvae injected with A. baumannii ATCC 19,606 bacterial suspension, injected with sterile PBS and free larvae without any injection were included with each experiment. The larvae were kept at 37 °C in dark and observed every 24 h for consecutive 6 days. The survival of larvae was assessed by any response to physical stimuli. The experiments were repeated two times with 5 larvae in each experimental group [18].
+
+
+## Statistical analysis
+
+The degree of biofilm formation and surface associated motility and expressional changes between the pathogenic CRAB and colonizer CRAB from the environment was statistically compared using t-test. The in-vitro and in-vivo survival proportion between both the groups was compared with the help of Log-rank (Mantel-Cox) test. All the analysis was done using GraphPad prism version 5 Software: La Jolla California USA, and using the data derived from at least two biological replicates.
+
+
+# Results
+
+
+## Biofilm formation
+
+Number of isolates with biofilm forming capacity among the pathogen were 96.66% (n = 29) and colonizer were 90%. (n = 27). Both were strong biofilm producers (Fig. 1a). The mean OD578 value was found significantly higher (p = 0.03) for colonizer isolates in comparison with pathogenic isolates. The cut-off values for the categories were as follows: Non-biofilm producer: OD578 < 0.162; Weak-biofilm producer: 0.162 ≤ OD578 < 0.324; Medium-biofilm producer: 0.324 ≤ OD578 < 0.486; Strong-biofilm producer: 0.486 ≤ OD578.
+
+Fig. 1Comparison of (a) degree of biofilm formation (b) desiccation survival in pathogenic and colonizer CRAB isolates. Biofilm formation was found to be significantly higher (p = 0.03) for colonizer isolates in comparison with pathogenic isolates. The desiccation survival proportion was found significantly higher (p = 0.002) in colonizer CRAB isolates
+
+
+## Desiccation survival
+
+The colonizers from the environment survived desiccation better in comparison to pathogenic CRAB isolates. The desiccation survival proportion was found significantly higher (p = 0.002) in colonizer CRAB isolates (survival proportions, 46.90%) than in pathogenic CRAB isolates (survival proportions, 20.89%) (Fig. 1b).
+
+
+## Hemolytic activity
+
+Among all the pathogenic CRAB and colonizers CRAB isolates from the environment, none of the isolates showed any hemolytic activity on Columbia 5% sheep blood agar plates even after 48 h of incubation (Supplementary Fig. 1).
+
+
+## Motility
+
+Twitching motility in both the pathogenic and colonizer CRAB isolates ranged from an average of 0.5 to 1.5 cm (Fig. 2a). There was considerable variability in surface-associated motility between the pathogenic and colonizer CRAB isolates (Fig. 2b). The mean range recorded for surface-associated motility in pathogenic CRAB isolates was 0.4 to 1.5 cm. while, colonizer CRAB isolates it ranged from 0.6 to > 9.0 cm. Two CRAB isolates from the environment exhibited surface-associated motility exceeding 5 cm. Moreover, the difference in surface associated motility between the pathogenic and colonizer CRAB isolates was found insignificant (p = 0.24) (Fig. 2c).
+
+Fig. 2Petri-Plates showing (a) twitching motility and (b) surface associated motility (c) comparison of surface associated motility in pathogenic and colonizer CRAB isolates. Twitching motility ranged from 0.5 to 1.5 cm, surface-associated motility varied without any significant difference between the pathogenic and colonizers
+
+Fig. 3Expression of biofilm, motility and siderophores associated genes in pathogenic and colonizer CRAB isolates from the hospital environment. The expression levels of mRNA of the ompA (p = 0.0004) and bauA (p = 0.018) genes were significantly increased for pathogenic CRAB isolates. The increased expression level of pilA gene was seen for 2 highly motile isolates of colonizer CRAB
+
+
+## Distribution of virulent determinants
+
+All the pathogenic CRAB isolates producing either high biofilm or moderate biofilm were carrying csuE, bap, ompA, and abaI genes. While the 2 colonizer CRAB isolates from the environment producing high biofilm and 3 isolates producing moderate biofilm were carrying csuE, ompA, and abaI genes. The remaining isolates harbored csuE, bap, ompA, and abaI genes. All the pathogenic CRAB and colonizer CRAB from the environment were found carrying pilA and bauA gene (Supplementary Fig. 2). However, none of the isolate showed presence of pgaA gene.
+
+
+## Expressional analysis of genes
+
+To determine the expression levels of the genes involved in biofilm formation, motility and iron uptake, between the pathogenic CRAB and colonizer CRAB from the environment, 10 isolates of each harboring all the tested virulent determinants were included. Figure 3 shows the expression means of the genes in comparison to A. baumannii ATCC 19,606. According to these results, the expression means of bap (p = 0.129) gene was found slightly higher for colonizer CRAB isolates while for csuE (p = 0.935) and abaI (p = 0.930) genes it was found comparable in both pathogen CRAB and colonizer CRAB isolates. The expression levels of mRNA of the ompA (p = 0.0004) and bauA (p = 0.018) genes were found significantly increased for pathogenic CRAB isolates. The increased expression level of pilA gene was seen for 2 highly motile isolates of colonizer CRAB. However, the mean expression level was higher for pathogenic CRAB isolates compared to that of colonizer CRAB from the environment (p = 0.339).
+
+
+## Galleria mellonella survival assay
+
+The pathogenic CRAB isolates significantly showed higher pathogenicity in-vivo, as 100% of larvae died after day 4th post-infection. Larvae infected with colonizer CRAB isolates showed 80.5% survival at day 4th while only 8.73% survived after day 7th post-infection. All the larvae injected only with sterile PBS showed 100% survival rate. While 45.37% larvae infected with A. baumannii ATCC 19,606 survived after day 7th (Fig. 4).
+
+Fig. 4In-vivo survival proportion of pathogenic and colonizer CRAB isolates. The pathogenic CRAB isolates significantly showed higher mortality in G. melonella in-vivo (p < 0.0001)
+
+
+# Discussion
+
+The study clearly demonstrated the distribution of virulence factors in pathogenic and colonizing CRAB emphasizing their adaptations for persistence and survival in the hospital environment and their ability to cause infections. CRAB has been widely acknowledged as one of the most difficult antibiotic-resistant gram-negative bacilli to control and treat. The acquisition of foreign genetic determinants and the up regulation of innate resistance mechanisms are critical characteristics for the survival of A. baumannii during stress condition or environmental pressures such as hospital environment [1]. The transition of bacteria under stressed condition (i.e., on inanimate surfaces) to a new environment (i.e., inside a new host) with available nutrients and suitable temperature has been vital in conversion of certain factors that promotes subsequent colonization or infection [19]. The study clearly emphasized that not only the pathogenic CRAB isolates but the colonizer CRAB isolates from the hospital environment are also equipped with various virulence factors. This could suggest the linkage between the survival of A. baumannii in the patient care environment and the related risk of nosocomial infections.
+
+Despite the large number of studies published on A. baumannii virulence factors, only a small number of potential virulence factors have been linked to disease pathogenesis. There has been scarcity of studies that determine the conservation of these factors between colonizer and pathogenic Acinetobacter isolates [9]. Previous studies have reported a significant association between biofilm formation, desiccation, and antibiotic resistance [7, 10, 20, 21]. The study included CRAB isolates from different sources like clinical specimens, environment, and hands of HCWs for the determination of virulence factors and found cusE, ompA, abaI, pilA, and bauA as the most common virulent genes associated with strong or moderate biofilm producers irrespective of their sources. Biofilm formation in A. baumannii has been one of the key factors associated with the survival of the bacteria under harsh conditions [19]. The genes encoding ompA, bap, pgaA, csuE and abaI are known to be actively involved in biofilm formation. The study revealed that the genetic profile of bap, csuE, ompA, abaI was present in all the pathogenic CRAB isolates producing strong or moderate biofilm. While some colonizer CRAB from the environment producing strong or moderate biofilm lacked the bap gene. These findings suggest in addition to the presence of these genes, their level of expression also plays an important part in the determination of the capacity of biofilm formation. The results were in agreement with previous studies done by Amin M et al., 2019 and Wang YC et al., 2018 [16, 22].
+
+While biofilm-related genotypes have been studied widely, not much has been known related to motility in A. baumannii isolates. The study noted very less and comparable twitching motility in both groups. However, two of the colonizer CRAB isolates from the environment showed exceptionally high surface-associated motility. Both the isolates were moderate producers. It has been seen in other bacteria that the bacterial cell producing high biofilm often down-regulates the motility related genes [23, 24]. Another reason behind differences in the motility of isolates might be because of certain strain-specific alterations in the type IV pili and variation in major pilin subunit, pilA which is highly variable among the A. baumannii clinical isolates. Still very less is known about type IV biogenesis in A. baumannii [25].
+
+High level of expression of ompA and bauA genes was found significantly associated with pathogenic CRAB isolates. Outer membrane proteins are one of the major factors that regulate the biofilm formation and adhesion, specifically to host epithelial cells [1]. It has been noted that the overproduction of ompA has been an independent risk factor for A. baumannii causing fatal nosocomial pneumonia and bacteremia [26]. Also, the siderophores, help Acinetobacter to capture host nutrients thus adapting to a metal deficient environment enforced by the host [8]. It has been also supported by the result of this study. The in-vivo survival percentage of G. mellonella larvae infected with pathogenic CRAB isolates showed significantly less survival in comparison with colonizer CRAB isolates from the environment which demonstrated lower expression of ompA and bauA gene. Therefore, based on the study results it can be inferred that the outer membrane proteins (ompA) and siderophores might be responsible for the pathogenicity in pathogenic CRAB, a differentiating point from the colonizers.
+
+However, the study had some limitations. The gene-expressional analysis and in-vivo study were conducted for a limited number of CRAB isolates. Nevertheless, the study clearly revealed potential virulence factors that can be further used to develop an anti-virulence strategy and as a therapeutic target against A. baumannii isolates.
+
+
+# Conclusion
+
+Colonizing and pathogenic CRAB do not significantly differ in expression of virulence factors like desiccation survival, biofilm formation, hemolysis and motility. However, outer membrane proteins (ompA) and siderophores might be responsible for the pathogenicity in CRAB isolated from infections, which could be the differentiating point from the colonizers.
+
+
+# Electronic supplementary material
+
+Below is the link to the electronic supplementary material.
+
+Supplementary Material 1
+
+Supplementary Material 2: Supplementary Fig. 1: Representative figure of columbia 5% sheep blood agar plates showing growth of (a) A. baumannii test isolates and (b) A. baumannii ATCC 19606 strain for absence of β-hemolysis.
+
+Supplementary Material 3: Supplementary Fig. 2: Representative gel images showing amplification of different virulent genes in the pathogenic and colonizer CRAB study isolates.

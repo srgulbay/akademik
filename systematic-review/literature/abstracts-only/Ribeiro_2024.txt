@@ -1,0 +1,13 @@
+PMID: 39293727
+Title: Eugenol as a promising antibiofilm and anti-quorum sensing agent: A systematic review.
+Authors: Ribeiro T., Dos Santos G., Dos Santos C., Soares D., Saraiva M., Leal D., Sachs D.
+Journal: Microbial pathogenesis
+Year: 2024
+DOI: 10.1016/j.micpath.2024.106937
+PMC: 
+Publication types: Journal Article; Systematic Review
+URL: https://pubmed.ncbi.nlm.nih.gov/39293727/
+DOI URL: https://doi.org/10.1016/j.micpath.2024.106937
+
+--- Abstract ---
+The spread of bacterial resistance has become a significant public health concern, resulting in increased healthcare costs, mortality, and morbidity. Phytochemicals such as Eugenol, the major component of Indian clove and cinnamon essential oils, have attracted attention due to their antimicrobial potential. Thus, this systematic review aims to analyze the existing literature on the antibacterial potential of Eugenol concerning its activity against biofilms, bacterial communication systems (quorum sensing - QS), and associated virulence factors. For this, four databases were systematically searched to retrieve articles published between 2010 and 2023. Fourteen articles were selected based on eligibility criteria and the evaluation of antibacterial activity through minimum inhibitory concentration (MIC) assays, biofilm studies, and assessment of virulence factors. The results revealed that Eugenol has the potential to act as an antimicrobial, antibiofilm, anti-virulence, and anti-QS agent against a variety of bacterial strains associated with chronic, dental, and foodborne infections, including resistant strains, particularly those in the ESKAPE group (Enterococcus spp., Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter spp.) and clinical isolates. Furthermore, Eugenol effectively targets key genes involved in bacterial virulence regulation, biofilm, and QS, as supported by data from multiple assays and research techniques. This review suggests Eugenol's antibacterial activity against biofilm and virulence factors likely stems from its influence on different QS systems. Finally, Eugenol holds promise as a potential candidate for combating resistant bacterial infections, serving as an anti-biofilm agent in medical devices and hospital surfaces, as well as in the food industry, as a toothpaste additive, and as a molecule for the development of new therapeutic agents with the potential to inhibit bacterial virulence, QS systems and avoiding bacterial resistance.

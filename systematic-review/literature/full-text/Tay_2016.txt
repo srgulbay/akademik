@@ -1,0 +1,10 @@
+Title: Anti-virulent Disruption of Pathogenic Biofilms using Engineered Quorum-quenching Lactonases
+PMID: 26779961
+PMCID: PMC
+DOI: 10.3791/53243
+
+=== ABSTRACT ===
+The rapid emergence of multi-drug resistant bacteria has accelerated the need for novel therapeutic approaches to counter life-threatening infections. The persistence of bacterial infection is often associated with quorum-sensing-mediated biofilm formation. Thus, the disruption of this signaling circuit presents an attractive anti-virulence strategy. Quorum-quenching lactonases have been reported to be effective disrupters of quorum-sensing circuits. However, there have been very few reports of the effective use of these enzymes in disrupting bacterial biofilm formation. This protocol describes a method to disrupt biofilm formation in a clinically relevant A. baumannii S1 strain through the use of an engineered quorum-quenching lactonase. Acinetobacter baumannii is a major human pathogen implicated in serious hospital-acquired infections globally and its virulence is attributed predominantly to its biofilm's tenacity. The engineered lactonase treatment achieved significant A. baumannii S1 biofilm reduction. This study also showed the possibility of using engineered quorum-quenching enzymes in future treatment of biofilm-mediated bacterial diseases. Lastly, the method may be used to evaluate the competency of promising quorum-quenching enzymes.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

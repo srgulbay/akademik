@@ -1,0 +1,13 @@
+PMID: 30227225
+Title: Differential anti-microbial secondary metabolites in different ESKAPE pathogens explain their adaptation in the hospital setup.
+Authors: Tiwari V., Meena K., Tiwari M.
+Journal: Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases
+Year: 2018
+DOI: 10.1016/j.meegid.2018.09.010
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/30227225/
+DOI URL: https://doi.org/10.1016/j.meegid.2018.09.010
+
+--- Abstract ---
+Nosocomial infections are caused by ESKAPE (E. faecium, S. aureus, K. pneumoniae, A. baumannii, P. aeruginosa, and E. cloacae) pathogens, and their co-existence is associated with their ability to survive in the hospital setup. They may produce molecules, which helps in the better survival of one ESKAPE pathogens over other. We have identified all secondary metabolite gene clusters in six ESKAPE pathogens and predicted antimicrobial and anti-biofilm properties of their product secondary metabolites. To validate our model, we have taken the secondary metabolites of ESKAPE pathogens and studied their interaction with diguanylate cyclase (involved in quorum sensing) and biofilm-associated protein (involved in biofilm formation) of Acinetobacter baumannii. Results suggest the presence of differential secondary metabolites in all ESKAPE pathogens with only three common non-antimicrobial secondary metabolites. Out of twenty-three antimicrobial secondary metabolites, TP-1161, nosiheptide and meilingmycin, showed the best antimicrobial activity and nineteen showed high anti-biofilm activity. Interaction study showed that secondary metabolites produced by other ESKAPE pathogens (non-Acinetobacter) have very good interaction with diguanylate cyclase and biofilm-associated protein of A. baumannii. This concludes that better survival of these ESKAPE pathogens in hospital setup can be correlated with differential production of antimicrobial secondary metabolites. The present study also investigates the molecular mechanism of the competition of different pathogens living in similar hospital setup (similar habitat). Therefore, the present study will initiate research that might lead to the discovery of antibiotics from one ESKAPE pathogen that controls the infection of other ESKAPE pathogens or other pathogens.

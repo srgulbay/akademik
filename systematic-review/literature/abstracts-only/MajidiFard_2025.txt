@@ -1,0 +1,22 @@
+PMID: 40718444
+Title: Investigation of Peppermint (Mentha piperita) Extract on the Inhibition of Biofilm Formation by Acinetobacter baumannii Strains Isolated from Clinical Samples.
+Authors: Majidi Fard Z., Irani Mavi N., Akbari S., Erfani Y., Eghtedari S.
+Journal: Iranian journal of pharmaceutical research : IJPR
+Year: 2025
+DOI: 10.5812/ijpr-160772
+PMC: PMC12297010
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40718444/
+DOI URL: https://doi.org/10.5812/ijpr-160772
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12297010/
+
+--- Abstract ---
+BACKGROUND: Acinetobacter baumannii is a hospital-acquired opportunistic pathogen, with biofilm formation playing a crucial role in its multidrug resistance. Given the rise in antibiotic resistance, herbal medicines, including peppermint (Mentha piperita), have gained attention for their potential antibacterial properties.
+
+OBJECTIVES: This study aimed to evaluate the inhibitory effects of peppermint extract on biofilm formation in A. baumannii strains isolated from clinical samples.
+
+METHODS: A total of 25 A. baumannii strains were isolated from clinical samples at the Faculty of Allied Medical Sciences, Tehran. Their biofilm-forming ability and antibiotic susceptibility against nine antibiotics were assessed using the disk diffusion method. The antibacterial activity of peppermint extract was evaluated by well diffusion, with its minimum inhibitory concentration (MIC) and minimum bactericidal concentration (MBC) compared to ciprofloxacin. Synergistic effects between the extract and ciprofloxacin were analyzed, followed by a time-kill assay. Polymerase chain reaction (PCR) was used to detect the presence of PgaA and AbaI genes linked to biofilm formation.
+
+RESULTS: The study found that 88% of A. baumannii strains exhibited strong biofilm formation. Peppermint extract effectively inhibited biofilm formation, with MIC values ranging from 1.5 to 6 mg/mL (mean MIC: 3.75 ± 1.38 mg/mL) and MBC values equivalent to their respective MIC concentrations. For ciprofloxacin, the MIC for all samples was greater than 2048 mg/mL. No significant synergistic effect was observed between peppermint extract and ciprofloxacin. Both PgaA (involved in biofilm matrix synthesis) and AbaI (quorum sensing-related autoinducer synthase) genes were present in all tested strains.
+
+CONCLUSIONS: Peppermint extract demonstrates biofilm-inhibitory properties against A. baumannii, suggesting its potential as an alternative therapeutic approach for combating biofilm-associated infections.

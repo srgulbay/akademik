@@ -1,0 +1,13 @@
+PMID: 21369976
+Title: Acinetobacter oleivorans sp. nov. is capable of adhering to and growing on diesel-oil.
+Authors: Kang Y., Jung J., Jeon C., Park W.
+Journal: Journal of microbiology (Seoul, Korea)
+Year: 2011
+DOI: 10.1007/s12275-011-0315-y
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/21369976/
+DOI URL: https://doi.org/10.1007/s12275-011-0315-y
+
+--- Abstract ---
+A diesel-oil and n-hexadecane-degrading novel bacterial strain, designated DR1(T), was isolated from a rice paddy in Deok-So, South Korea. The strain DR1(T) cells were Gram-negative, aerobic coccobacilli, and grew at 20-37°C with the optimal temperature of 30°C, and an optimal pH of 6-8. Interestingly, strain DR1(T) was highly motile (swimming and swarming motility) using its fimbriae, and generated N-acyl homoserine lactones as quorum-sensing signals. The predominant respiratory quinone as identified as ubiquinone-9 (Q-9) and DNA G+C content was 41.4 mol%. Comparative 16S rRNA gene sequence-based phylogenetic analysis placed the strain in a clade with the species A. calcoaceticus, A. haemolyticus, A. baumannii, A. baylyi, and A. beijerinckii, with which it evidenced sequence similarities of 98.2%, 97.4%, 97.2%, 97.1%, and 97.0%, respectively. DNA-DNA hybridization values between strain DR1(T) and other Acinetobacter spp. were all less than 20%. The physiological and taxonomic characteristics with the DNA-DNA hybridization data supported the identification of strain DR1(T) in the genus Acinetobacter as a novel species, for which the name Acinetobacter oleivorans sp. nov. is proposed. The type strain is DR1(T) (=KCTC 23045(T) =JCM 16667(T)).

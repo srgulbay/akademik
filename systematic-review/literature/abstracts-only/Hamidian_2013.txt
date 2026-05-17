@@ -1,0 +1,20 @@
+PMID: 24235096
+Title: A GC1 Acinetobacter baumannii isolate carrying AbaR3 and the aminoglycoside resistance transposon TnaphA6 in a conjugative plasmid.
+Authors: Hamidian M., Holt K., Pickard D., Dougan G., Hall R.
+Journal: The Journal of antimicrobial chemotherapy
+Year: 2013
+DOI: 10.1093/jac/dkt454
+PMC: PMC3956371
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/24235096/
+DOI URL: https://doi.org/10.1093/jac/dkt454
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3956371/
+
+--- Abstract ---
+OBJECTIVES: To locate the acquired antibiotic resistance genes, including the amikacin resistance transposon TnaphA6, in the genome of an Australian isolate belonging to Acinetobacter baumannii global clone 1 (GC1).
+
+METHODS: A multiply antibiotic-resistant GC1 isolate harbouring TnaphA6 was sequenced using Illumina HiSeq, and reads were used to generate a de novo assembly and determine multilocus sequence types (STs). PCR was used to assemble the AbaR chromosomal resistance island and a large plasmid carrying TnaphA6. Plasmid DNA sequences were compared with ones available in GenBank. Conjugation experiments were conducted.
+
+RESULTS: The A. baumannii GC1 isolate G7 was shown to include the AbaR3 antibiotic resistance island. It also contains an 8.7 kb cryptic plasmid, pAb-G7-1, and a 70,100 bp plasmid, pAb-G7-2, carrying TnaphA6. pAb-G7-2 belongs to the Aci6 Acinetobacter plasmid family. It encodes transfer functions and was shown to conjugate. Plasmids related to pAb-G7-2 were detected in further amikacin-resistant GC1 isolates using PCR. From the genome sequence, isolate G7 was ST1 (Institut Pasteur scheme) and ST231 (Oxford scheme). Using Oxford scheme PCR-based methods, the isolate was ST109 and this difference was traced to a single base difference resulting from the inclusion of the original primers in the gpi segment analysed.
+
+CONCLUSIONS: The multiply antibiotic-resistant GC1 isolate G7 carries most of its resistance genes in AbaR3 located in the chromosome. However, TnaphA6 is on a conjugative plasmid, pAb-G7-2. Primers developed to locate TnaphA6 in pAb-G7-2 will simplify the detection of plasmids related to pAb-G7-2 in A. baumannii isolates.

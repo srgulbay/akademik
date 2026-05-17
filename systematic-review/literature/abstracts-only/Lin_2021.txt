@@ -1,0 +1,14 @@
+PMID: 34576087
+Title: Role of Iron-Containing Alcohol Dehydrogenases in Acinetobacter baumannii ATCC 19606 Stress Resistance and Virulence.
+Authors: Lin G., Hsieh M., Shu H.
+Journal: International journal of molecular sciences
+Year: 2021
+DOI: 10.3390/ijms22189921
+PMC: PMC8465190
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/34576087/
+DOI URL: https://doi.org/10.3390/ijms22189921
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8465190/
+
+--- Abstract ---
+Most bacteria possess alcohol dehydrogenase (ADH) genes (Adh genes) to mitigate alcohol toxicity, but these genes have functions beyond alcohol degradation. Previous research has shown that ADH can modulate quorum sensing in Acinetobacter baumannii, a rising opportunistic pathogen. However, the number and nature of Adh genes in A. baumannii have not yet been fully characterized. We identified seven alcohol dehydrogenases (NAD+-ADHs) from A. baumannii ATCC 19606, and examined the roles of three iron-containing ADHs, ADH3, ADH4, and ADH6. Marker-less mutation was used to generate Adh3, Adh4, and Adh6 single, double, and triple mutants. Disrupted Adh4 mutants failed to grow in ethanol-, 1-butanol-, or 1-propanol-containing mediums, and recombinant ADH4 exhibited strongest activity against ethanol. Stress resistance assays with inorganic and organic hydroperoxides showed that Adh3 and Adh6 were key to oxidative stress resistance. Virulence assays performed on the Galleria mellonella model organism revealed that Adh4 mutants had comparable virulence to wild-type, while Adh3 and Adh6 mutants had reduced virulence. The results suggest that ADH4 is primarily involved in alcohol metabolism, while ADH3 and ADH6 are key to stress resistance and virulence. Further investigation into the roles of other ADHs in A. baumannii is warranted.

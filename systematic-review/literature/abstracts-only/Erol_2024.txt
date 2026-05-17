@@ -1,0 +1,13 @@
+PMID: 38444208
+Title: Characterization of two bacteriophages specific to Acinetobacter baumannii and their effects on catheters biofilm.
+Authors: Erol H., Kaskatepe B., Yildiz S., Altanlar N., Bayrakdar F.
+Journal: Cell biochemistry and function
+Year: 2024
+DOI: 10.1002/cbf.3966
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38444208/
+DOI URL: https://doi.org/10.1002/cbf.3966
+
+--- Abstract ---
+Multidrug-resistant strains of Acinetobacter baumannii cause major nosocomial infections. Bacteriophages that are specific to the bacterial species and destroy bacteria can be effectively used for treatment. In this study, we characterized lytic bacteriophages specific to A. baumannii strains. We isolated lytic bacteriophages from environmental water samples and then investigated their morphology, host range, growth characteristics, stability, genome analysis, and biofilm destruction on the catheter surface. Our results showed that the efficacy of the phages varied between 32% and 78%, tested on 78 isolates of A. baumannii; 80 phages were isolated, and two lytic bacteriophages, vB_AbaP_HB01 (henceforth called C2 phage) and vB_AbaM_HB02 (henceforth called K3 phage), were selected for characterization. Electron microscopy scans revealed that the C2 and K3 phages were members of the Podoviridae and Myoviridae families, respectively. Whole-genome sequencing revealed that the sequence of the C2 phage is available in the NCBI database (accession number: OP917929.1), and it was found sequence identity with Acinetobacter phage AB1 18%, the K3 phage DNA sequence is closely related to Acinetobacter phage vB_AbaM_phiAbaA1 (94% similarity). The cocktail of C2 and K3 phages demonstrated a promising decrease in the bacterial cell counts of the biofilm after 4 h. Under a scanning electron microscope, the cocktail treatment destructed the biofilm on the catheter. We propose that the phage cocktail could be a strong alternative to antibiotics to control the A. baumannii biofilm in catheter infections.

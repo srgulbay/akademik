@@ -1,0 +1,13 @@
+PMID: 36190592
+Title: Droperidol as a potential inhibitor of acyl-homoserine lactone synthase from A. baumannii: insights from virtual screening, MD simulations and MM/PBSA calculations.
+Authors: Jha R., Singh E., Khan R., Kumar A., Jain M., Muthukumaran J., Singh A.
+Journal: Molecular diversity
+Year: 2022
+DOI: 10.1007/s11030-022-10533-2
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36190592/
+DOI URL: https://doi.org/10.1007/s11030-022-10533-2
+
+--- Abstract ---
+Acinetobacter baumannii belongs to the ESKAPE family of pathogens and is a multi-drug resistant, gram-negative bacteria which follows the anaerobic form of respiration. A. baumannii is known to be the causative agent of hospital-related infections such as pneumonia, meningitis, endocarditis, septicaemia and a plethora of infections such as urinary tract infections found primarily in immunocompromised patients. These attributes of A. baumannii make it a priority pathogen against which potential therapeutic agents need to be developed. A. baumannii employs the formation of a biofilm to insulate its colonies from the outer environment, which allows it to grow under harsh environmental conditions and develop resistance against various drug molecules. Acyl-homoserine lactone synthase (AHLS) is an enzyme involved in the quorum-sensing pathway in A. baumannii, which is responsible for the synthesis of signal molecules known as acyl-homoserine lactones, which trigger the signalling pathway to regulate the factors involved in biofilm formation and regulation. The present study utilised a homology-modelled structure of AHLS to virtually screen it against the ZINC in trial/FDA-approved drug molecule library to find a subset of potential lead candidates. These molecules were then filtered based on Lipinski's, toxicological and ADME properties, binding affinity, and interaction patterns to delineate lead molecules. Finally, three promising molecules were selected, and their estimated binding affinity values were corroborated using AutoDock 4.2. The identified molecules and a control molecule were subsequently subjected to MD simulations to mimic the physiological conditions of protein ligand-binding interaction under the influence of a GROMOS forcefield. The global and essential dynamics analyses and MM/PBSA based binding free energy computations suggested Droperidol and Cipargamin as potential inhibitors against the binding site of AHLS from A. baumannii. The binding free energy calculations based on the MM/PBSA method showed excellent results for Droperidol (- 50.02 ± 4.67 kcal/mol) and Cipargamin (- 42.29 ± 4.05 kcal/mol).

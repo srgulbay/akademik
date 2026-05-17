@@ -1,0 +1,14 @@
+PMID: 32778544
+Title: Scarless Removal of Large Resistance Island AbaR Results in Antibiotic Susceptibility and Increased Natural Transformability in Acinetobacter baumannii.
+Authors: Godeux A., Svedholm E., Lupo A., Haenni M., Venner S., Laaberki M., Charpentier X.
+Journal: Antimicrobial agents and chemotherapy
+Year: 2020
+DOI: 10.1128/AAC.00951-20
+PMC: PMC7508600
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/32778544/
+DOI URL: https://doi.org/10.1128/AAC.00951-20
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7508600/
+
+--- Abstract ---
+With a great diversity in gene composition, including multiple putative antibiotic resistance genes, AbaR islands are potential contributors to multidrug resistance in Acinetobacter baumannii However, the effective contribution of AbaR to antibiotic resistance and bacterial physiology remains elusive. To address this, we sought to accurately remove AbaR islands and restore the integrity of their insertion site. To this end, we devised a versatile scarless genome editing strategy. We performed this genetic modification in two recent A. baumannii clinical strains: the strain AB5075 and the nosocomial strain AYE, which carry AbaR11 and AbaR1 islands of 19.7 kbp and 86.2 kbp, respectively. Antibiotic susceptibilities were then compared between the parental strains and their AbaR-cured derivatives. As anticipated by the predicted function of the open reading frame (ORF) of this island, the antibiotic resistance profiles were identical between the wild type and the AbaR11-cured AB5075 strains. In contrast, AbaR1 carries 25 ORFs, with predicted resistance to several classes of antibiotics, and the AYE AbaR1-cured derivative showed restored susceptibility to multiple classes of antibiotics. Moreover, curing of AbaRs restored high levels of natural transformability. Indeed, most AbaR islands are inserted into the comM gene involved in natural transformation. Our data indicate that AbaR insertion effectively inactivates comM and that the restored comM is functional. Curing of AbaR consistently resulted in highly transformable and therefore easily genetically tractable strains. Emendation of AbaR provides insight into the functional consequences of AbaR acquisition.

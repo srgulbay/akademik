@@ -1,0 +1,13 @@
+PMID: 39938338
+Title: Targeting the quorum sensing network in Acinetobacter baumannii: A dual target structure-based approach for the development of novel antimicrobials.
+Authors: Bell I P., Muniyan R.
+Journal: Computers in biology and medicine
+Year: 2025
+DOI: 10.1016/j.compbiomed.2025.109828
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39938338/
+DOI URL: https://doi.org/10.1016/j.compbiomed.2025.109828
+
+--- Abstract ---
+Acinetobacter baumannii, a notorious opportunistic pathogen, has emerged as a significant threat to global healthcare due to its alarming rise in antibiotic resistance. This ability of this bacterium to develop and disseminate resistance mechanisms, facilitated by quorum-sensing (QS) systems, has rendered conventional antibiotic treatments ineffective. QS systems, particularly the AbaI and AbaR proteins, play a crucial role in its virulence and antibiotic resistance. AbaI, an autoinducer synthase, produces signalling molecules, while AbaR, a transcriptional regulator, controls gene expression in response to these signals. This study employed in-silico design and screening to identify potential dual-targeting inhibitors against proteins AbaI and AbaR, the key players in QS. Compounds from an open source library (Life Chemicals) was screened using Lipinski's filters, molecular docking (fast rank and exhaustive). The resulted six hit compounds were subsequently performed with molecular dynamics simulations (MDS). The MDS analysis reveals that among the six top hits, hit 2 demonstrated potent dual-targeting inhibition and favourable pharmacokinetic properties, displaying selectivity against the proteins. These findings offer a novel therapeutic agent to disrupt QS in A. baumannii, to develop effective treatments against antibiotic-resistant A. baumannii, addressing a critical health concern and improving patient outcomes.

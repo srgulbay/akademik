@@ -1,0 +1,19 @@
+PMID: 20375036
+Title: Evolution of AbaR-type genomic resistance islands in multiply antibiotic-resistant Acinetobacter baumannii.
+Authors: Post V., White P., Hall R.
+Journal: The Journal of antimicrobial chemotherapy
+Year: 2010
+DOI: 10.1093/jac/dkq095
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/20375036/
+DOI URL: https://doi.org/10.1093/jac/dkq095
+
+--- Abstract ---
+OBJECTIVES: To determine if members of the European clonal lineages are present amongst multiply antibiotic-resistant Acinetobacter baumannii isolates from Australia. To search for AbaR-type genomic antibiotic resistance islands and determine the genetic organization of any AbaR detected.
+
+METHODS: Two groups of multiply antibiotic-resistant A. baumannii strains isolated between 2002 and 2007 at three Sydney hospitals were studied. Various molecular techniques were used to determine whether they belong to European epidemic clones and to detect and characterize the AbaR.
+
+RESULTS: One group of five isolates belonged to European clone I. In these, an AbaR-type island, characterized by the presence of resistance genes and Tn6018, was present. Mapping revealed two novel AbaR configurations, AbaR6 and AbaR7, with IS26-generated deletions of 29 and 36.2 kb, respectively, relative to AbaR5. The second group contained seven isolates belonging to European clone II and, in these, a different transposon was present in the same chromosomal location as the AbaR genomic resistance islands.
+
+CONCLUSIONS: Multiply antibiotic-resistant A. baumannii strains belonging to both European epidemic clonal lineages I and II are found in Australian hospitals, indicating that these clones are globally distributed. Amongst the isolates examined, only the clone I strains harboured an AbaR-type resistance island, and two novel types, AbaR6 and AbaR7, carrying only four antibiotic resistance genes were identified. Hence, AbaR are continuously evolving and IS26 plays a key role in this process.

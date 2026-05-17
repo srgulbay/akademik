@@ -1,0 +1,13 @@
+PMID: 36191015
+Title: Ecofriendly phytosynthesized zirconium oxide nanoparticles as antibiofilm and quorum quenching agents against Acinetobacter baumannii.
+Authors: Siddique M., Hayat S., Muzammil S., Ashraf A., Khan A., Ijaz M., Khurshid M., Afzal M.
+Journal: Drug development and industrial pharmacy
+Year: 2022
+DOI: 10.1080/03639045.2022.2132260
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36191015/
+DOI URL: https://doi.org/10.1080/03639045.2022.2132260
+
+--- Abstract ---
+The worldwide increase of multi-drug resistance has directed the researchers to focus on ecofriendly ways of nanoparticles synthesis with effective antivirulence properties. Here, we report the antibiofilm and quorum quenching (QQ) potential of zirconium oxide nanoparticles (ZrO2 NPs) synthesized from aqueous ginger extract against multi-drug resistant (MDR) Acinetobacter baumannii. The results indicated that ZrO2 NPs were of tetragonal shape with average diameter of 16 nm. Minimum inhibitory concentration (MIC) and minimum bactericidal concentration (MBC) values for A. baumannii were 15.6 and 62.5 µg/ml, respectively, as revealed by broth microdilution assay. Exposure of bacterial cells to ZrO2 NPs resulted in reactive oxygen species (ROS) generation which in turn led to cellular membrane disruption as observed by an increase in leakage of cellular contents, such as proteins, sugars, and DNA. The antibiofilm activity was evaluated by microtiter plate assay and the results revealed that the percentage inhibition of biofilm was found to be 14.3-80.6%. ZrO2 NPs also obstructed the chemical composition of biofilms matrix by reducing the proteins and carbohydrate contents. Molecular docking studies of ZrO2 NPs with four proteins (2NAZ, 4HKG, 5D6H, and 5HM6) involved in biofilm formation of A. baumannii revealed the interaction of zirconium with target proteins. These findings suggested the in vitro efficacy of phytosynthesized ZrO2 NPs as antibiofilm and QQ agents that can be exploited in the development of alternative therapeutic options against MDR A. baumannii.

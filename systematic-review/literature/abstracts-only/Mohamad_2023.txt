@@ -1,0 +1,13 @@
+PMID: 38063097
+Title: Down-regulation of abaI, abaR, Bap and OmpA genes in Acinetobacter baumannii by ethanol extract of Glycyrrhiza glabra after toxicity assessment.
+Authors: Mohamad T., Rahman J., Ahmed A., Ganjo A.
+Journal: Cellular and molecular biology (Noisy-le-Grand, France)
+Year: 2023
+DOI: 10.14715/cmb/2023.69.12.31
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38063097/
+DOI URL: https://doi.org/10.14715/cmb/2023.69.12.31
+
+--- Abstract ---
+Acinetobacter baumannii is a pathogen that has caused rising concerns within healthcare facilities in recent years. As antibiotic overuse and resistance rise, natural remedies with the potential have received attention as antibiotics that might have fewer side effects and lower resistance. Glycyrrhiza glabra was used to investigate its effects on A. baumannii's quorum sensing and biofilm production abilities. In this study, the toxicity assessment of Glycyrrhiza glabra L. extract on rats, the phytochemical analysis and the quantitative measurement for the association of the biofilm reduction with the active components in the plant was determined. The results indicated ciprofloxacin and gentamicin were the most effective antibiotics and that various capabilities of biofilm-productions were demonstrated, only four percent of the samples established robust biofilm, while 40% to 56% demonstrated weak to moderate biofilm production, respectively. Phytochemical qualitative testing of ethanol leaf extracts from Glycyrrhiza glabra showed the existence of flavonoids, alkaloids, phenolic, tannic acid, and terpenoids, but no saponins. Assessment of toxicity revealed a low hazard, with an LD50 of 4.95 g/Kg. Our results showed that the extract's SICs elucidated a substantial quantitative decrease in biofilm production by the bacterial isolates, including the reference ATCC strain, which is known to be a potent biofilm producer. As a conclusion, biofilm creation in Acinetobacter baumannii has been shown to be greatly reduced by G. glabra extract.

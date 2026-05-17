@@ -1,0 +1,14 @@
+PMID: 27563033
+Title: Genome Sequence of Jumbo Phage vB_AbaM_ME3 of Acinetobacter baumanni.
+Authors: Buttimer C., O'Sullivan L., Elbreki M., Neve H., McAuliffe O., Ross R., Hill C., O'Mahony J., Coffey A.
+Journal: Genome announcements
+Year: 2016
+DOI: 10.1128/genomeA.00431-16
+PMC: PMC5000817
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/27563033/
+DOI URL: https://doi.org/10.1128/genomeA.00431-16
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5000817/
+
+--- Abstract ---
+Bacteriophage (phage) vB_AbaM_ME3 was previously isolated from wastewater effluent using the propagating host Acinetobacter baumannii DSM 30007. The full genome was sequenced, revealing it to be the largest Acinetobacter bacteriophage sequenced to date with a size of 234,900 bp and containing 326 open reading frames (ORFs).

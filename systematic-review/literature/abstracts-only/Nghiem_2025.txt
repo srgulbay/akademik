@@ -1,0 +1,14 @@
+PMID: 40961326
+Title: Dominance of high-risk clones ST2 and ST571 and the diversity of resistance islands in clinical Acinetobacter baumannii isolates from Hanoi, Vietnam.
+Authors: Nghiem M., Bui D., Ha V., Tran H., Nguyen D., Vo T.
+Journal: Microbial genomics
+Year: 2025
+DOI: 10.1099/mgen.0.001500
+PMC: PMC12444785
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40961326/
+DOI URL: https://doi.org/10.1099/mgen.0.001500
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12444785/
+
+--- Abstract ---
+Multidrug-resistant Acinetobacter baumannii poses a significant threat to hospital environments worldwide, including Vietnam. In this study, we conducted whole-genome sequencing on 30 clinical A. baumannii isolates from Hanoi to explore their genomic diversity, antibiotic resistance determinants, virulence factors and mobile genetic elements. Phylogenetic analyses, utilizing both SNP-based and multilocus sequence typing-based approaches, revealed that the isolates clustered into various sequence types (STs). Among these, ST2 and ST571 emerged as the dominant high-risk clones. The ST2 isolates exhibited a wide range of resistance genes, such as bla OXA-23, mph(E), msr(E) and armA. Additionally, they contained mobile genetic elements, including plasmids and AbaR-type resistance islands, which promote horizontal gene transfer. Virulence gene analysis showed the presence of several key determinants like ompA, adeFGH and bfmRS and quorum sensing regulators abaI and abaR, underscoring the strains' potential for persistent colonization and infection. These findings highlight the marked genomic diversity and robust resistance profiles of Vietnamese A. baumannii isolates. The predominance of ST2 and ST571, corresponding to global clones GC2 and GC1, respectively, along with frequent co-occurrence of bla OXA-23 and armA, suggests region-specific features distinct from those reported in other parts of Southeast Asia. This underscores the need for improved surveillance and targeted infection control strategies.

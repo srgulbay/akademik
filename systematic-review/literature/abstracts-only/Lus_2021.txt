@@ -1,0 +1,14 @@
+PMID: 34680848
+Title: Screening of the Potential Bioactivities of Pennyroyal (Mentha pulegium L.) Essential Oil.
+Authors: Luís Â., Domingues F.
+Journal: Antibiotics (Basel, Switzerland)
+Year: 2021
+DOI: 10.3390/antibiotics10101266
+PMC: PMC8532685
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/34680848/
+DOI URL: https://doi.org/10.3390/antibiotics10101266
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8532685/
+
+--- Abstract ---
+Increasing resistance of pathogens towards conventional antibiotics presents a major threat to public health because it reduces the effectiveness of antibiotic treatment. Mentha pulegium L., also known as pennyroyal, is an aromatic herb that belongs to the family Lamiaceae. Its essential oil has been traditionally used in medicine, aromatherapy, and cosmetics. The purpose of this work was to study the chemical composition of a pennyroyal essential oil and to evaluate their bioactivities, specifically, antioxidant, antimicrobial, anti-quorum sensing, and anti-inflammatory. A special focus was given to the antibacterial activity of the essential oil against Acinetobacter baumannii. The chemical composition of the essential oil was studied by GC-MS/GC-FID. The DPPH free radical scavenging assay and the β-carotene/linoleic acid system were used to evaluate the antioxidant properties. The antimicrobial and anti-quorum sensing activities were evaluated by disk diffusion assays and complemented with optical microscopy observations. The results showed that pulegone was the major compound (88.64%) of the pennyroyal essential oil. Regarding the antimicrobial activity, the action against Acinetobacter baumannii stands out, which, together with the capacity of the essential oil to inhibit the quorum sensing mechanisms, may suggest the use of the pennyroyal essential oil to further develop surface disinfectants for hospitals.

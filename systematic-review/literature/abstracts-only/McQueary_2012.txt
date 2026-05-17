@@ -1,0 +1,13 @@
+PMID: 22752907
+Title: Extracellular stress and lipopolysaccharide modulate Acinetobacter baumannii surface-associated motility.
+Authors: McQueary C., Kirkup B., Si Y., Barlow M., Actis L., Craft D., Zurawski D.
+Journal: Journal of microbiology (Seoul, Korea)
+Year: 2012
+DOI: 10.1007/s12275-012-1555-1
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/22752907/
+DOI URL: https://doi.org/10.1007/s12275-012-1555-1
+
+--- Abstract ---
+Acinetobacter baumannii is a nosocomial bacterial pathogen, and infections attributed to this species are further complicated by a remarkable ability to acquire antimicrobial resistance genes and to survive in a desiccated state. While the antibiotic resistance and biofilm formation of A. baumannii is well-documented, less is known about the virulence attributes of this organism. Recent studies reported A. baumannii strains display a motility phenotype, which appears to be partially dependent upon Type IV pili, autoinducer molecules, and the response to blue light. In this study, we wanted to determine the prevalence of this trait in genetically diverse clinical isolates, and any additional required factors, and environmental cues that regulate motility. When strains are subjected to a wide array of stress conditions, A. baumannii motility is significantly reduced. In contrast, when extracellular iron is provided or salinity is reduced, motility is significantly enhanced. We further investigated whether the genes required for the production of lipopolysaccharide (lpsB) and K1 capsule (epsA/ptk) are required for motility as demonstrated in other Gram-negative bacteria. Transposon mutagenesis resulted in reduced motility by the insertion derivatives of each of these genes. The presence of the parental allele provided in trans, in the insertion mutant background, could only restore motility in the lpsB mutant. The production of core LPS directly contributes to the motility phenotype, while capsular polysaccharide may have an indirect effect. Further, the data suggest motility is regulated by extracellular conditions, indicating that A. baumannii is actively sensing the environment and responding accordingly.

@@ -1,0 +1,17 @@
+PMID: 26582430
+Title: Attenuation of quorum sensing-mediated virulence of Acinetobacter baumannii by Glycyrrhiza glabra flavonoids.
+Authors: Bhargava N., Singh S., Sharma A., Sharma P., Capalash N.
+Journal: Future microbiology
+Year: 2015
+DOI: 10.2217/fmb.15.107
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/26582430/
+DOI URL: https://doi.org/10.2217/fmb.15.107
+
+--- Abstract ---
+AIM: To develop an alternative quorum quenching therapy against multidrug-resistant Acinetobacter baumannii.
+
+METHODS & RESULTS: Activity-guided partially purified fraction (F1) from Glycyrrhiza glabra significantly (p < 0.05) reduced quorum sensing regulated virulence factors of A. baumannii viz. motility, biofilm formation and production of antioxidant enzymes. Mechanistically, F1 downregulated the expression of autoinducer synthase gene, abaI, and consequently reduced (92%) the production of 3-OH-C12-HSL as determined by ESI-MS. Q-TOF and Q-TRAP analyses suggested the presence of flavonoids viz. licoricone, glycyrin and glyzarin as the active ingredients.
+
+CONCLUSION: This is the first report on quorum quenching activity of G. glabra linked to its flavonoids that downregulated the expression of abaI and attenuated quorum sensing regulated virulence of A. baumannii.

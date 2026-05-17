@@ -1,0 +1,20 @@
+PMID: 35625238
+Title: Whole-Genome Sequencing of a Colistin-Resistant Acinetobacter baumannii Strain Isolated at a Tertiary Health Facility in Pretoria, South Africa.
+Authors: Nogbou N., Ramashia M., Nkawane G., Allam M., Obi C., Musyoki A.
+Journal: Antibiotics (Basel, Switzerland)
+Year: 2022
+DOI: 10.3390/antibiotics11050594
+PMC: PMC9138137
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/35625238/
+DOI URL: https://doi.org/10.3390/antibiotics11050594
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9138137/
+
+--- Abstract ---
+BACKGROUND: Acinetobacter baumannii's (A. baumannii) growing resistance to all available antibiotics is of concern. The study describes a colistin-resistant A. baumannii isolated at a clinical facility from a tracheal aspirate sample. Furthermore, it determines the isolates' niche establishment ability within the tertiary health facility.
+
+METHODS: An antimicrobial susceptibility test, conventional PCR, quantitative real-time PCR, phenotypic evaluation of the efflux pump, and whole-genome sequencing and analysis were performed on the isolate.
+
+RESULTS: The antimicrobial susceptibility pattern revealed a resistance to piperacillin/tazobactam, ceftazidime, cefepime, cefotaxime/ceftriaxone, imipenem, meropenem, gentamycin, ciprofloxacin, trimethoprim/sulfamethoxazole, tigecycline, and colistin. A broth microdilution test confirmed the colistin resistance. Conventional PCR and quantitative real-time PCR investigations revealed the presence of adeB, adeR, and adeS, while mcr-1 was not detected. A MIC of 0.38 µg/mL and 0.25 µg/mL was recorded before and after exposure to an AdeABC efflux pump inhibitor. The whole-genome sequence analysis of antimicrobial resistance-associated genes detected beta-lactam: blaOXA-66; blaOXA-23; blaADC-25; blaADC-73; blaA1; blaA2, and blaMBL; aminoglycoside: aph(6)-Id; aph(3″)-Ib; ant(3″)-IIa and armA) and a colistin resistance-associated gene lpsB. The whole-genome sequence virulence analysis revealed a biofilm formation system and cell-cell adhesion-associated genes: bap, bfmR, bfmS, csuA, csuA/B, csuB, csuC, csuD, csuE, pgaA, pgaB, pgaC, and pgaD; and quorum sensing-associated genes: abaI and abaR and iron acquisition system associated genes: barA, barB, basA, basB, basC, basD, basF, basG, basH, basI, basJ, bauA, bauB, bauC, bauD, bauE, bauF, and entE. A sequence type classification based on the Pasteur scheme revealed that the isolate belongs to sequence type ST2.
+
+CONCLUSIONS: The mosaic of the virulence factors coupled with the resistance-associated genes and the phenotypic resistance profile highlights the risk that this strain is at this South African tertiary health facility.

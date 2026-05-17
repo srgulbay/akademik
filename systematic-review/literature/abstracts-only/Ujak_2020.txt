@@ -1,0 +1,13 @@
+PMID: 33188577
+Title: Methoxy-Substituted Hydroxychalcone Reduces Biofilm Production, Adhesion and Surface Motility of Acinetobacter baumannii by Inhibiting ompA Gene Expression.
+Authors: Ušjak D., Dinić M., Novović K., Ivković B., Filipović N., Stevanović M., Milenković M.
+Journal: Chemistry & biodiversity
+Year: 2020
+DOI: 10.1002/cbdv.202000786
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/33188577/
+DOI URL: https://doi.org/10.1002/cbdv.202000786
+
+--- Abstract ---
+An increasing lack of available therapeutic options against Acinetobacter baumannii urged researchers to seek alternative ways to fight this extremely resistant nosocomial pathogen. Targeting its virulence appears to be a promising strategy, as it offers considerably reduced selection of resistant mutants. In this study, we tested antibiofilm potential of four synthetic chalcone derivatives against A. baumannii. Compound that showed the greatest activity was selected for further evaluation of its antivirulence properties. Real-time PCR was used to evaluate mRNA expression of biofilm-associated virulence factor genes (ompA, bap, abaI) in treated A. baumannii strains. Also, we examined virulence properties related to the expression of these genes, such as fibronectin- and collagen-mediated adhesion, surface motility, and quorum-sensing activity. The results revealed that the expression of all tested genes is downregulated together with the reduction of adhesion and motility. The conclusion is that 2'-hydroxy-2-methoxychalcone exhibits antivirulence activity against A. baumannii by inhibiting the expression of ompA and bap genes, which is reflected in reduced biofilm formation, adhesion, and surface motility.

@@ -1,0 +1,20 @@
+PMID: 36060733
+Title: In silico analysis reveals the co-existence of CRISPR-Cas type I-F1 and type I-F2 systems and its association with restricted phage invasion in Acinetobacter baumannii.
+Authors: Yadav G., Singh R.
+Journal: Frontiers in microbiology
+Year: 2022
+DOI: 10.3389/fmicb.2022.909886
+PMC: PMC9428484
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36060733/
+DOI URL: https://doi.org/10.3389/fmicb.2022.909886
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9428484/
+
+--- Abstract ---
+INTRODUCTION: Acinetobacter baumannii, an opportunistic pathogen, rapidly acquires antibiotic resistance, thus compelling researchers to develop alternative treatments at utmost priority. Phage-based therapies are of appreciable benefit; however, CRISPR-Cas systems are a major constraint in this approach. Hence for effective implementation and a promising future of phage-based therapies, a multifaceted understanding of the CRISPR-Cas systems is necessary.
+
+METHODS: This study investigated 4,977 RefSeq genomes of A. baumannii from the NCBI database to comprehend the distribution and association of CRISPR-Cas systems with genomic determinants.
+
+RESULTS: Approximately 13.84% (n = 689/4,977) isolates were found to carry the CRSIPR-Cas system, and a small fraction of isolates, 1.49% (n = 74/4,977), exhibited degenerated CRISPR-Cas systems. Of these CRISPR-Cas positive (+) isolates, 67.48% (465/689) isolates harbored type I-F1, 28.59% (197/689) had type I-F2, and 3.7% (26/689) had co-existence of both type I-F1 and type I-F2 systems. Co-existing type I-F1 and type I-F2 systems are located distantly (∼1.733 Mb). We found a strong association of CRISPR-Cas systems within STs for type I-F1 and type I-F2, whereas the type I-F1 + F2 was not confined to any particular ST. Isolates with type I-F1 + F2 exhibited a significantly high number of mean spacers (n = 164.58 ± 46.41) per isolate as compared to isolates with type I-F2 (n = 82.87 ± 36.14) and type I-F1 (n = 54.51 ± 26.27) with majority targeting the phages. Isolates with type I-F1 (p < 0.0001) and type I-F2 (p < 0.0115) displayed significantly larger genome sizes than type I-F1 + F2. A significantly reduced number of integrated phages in isolates with co-existence of type I-F1 + F2 compared with other counterparts was observed (p = 0.0041). In addition, the isolates carrying type I-F1 + F2 did not exhibit reduced resistance and virulence genes compared to CRISPR-Cas(-) and CRISPR-Cas (+) type I-F1 and type I-F2, except for bap, abaI, and abaR.
+
+CONCLUSION: Our observation suggests that the co-existence of type I-F1 and F2 is more effective in constraining the horizontal gene transfer and phage invasion in A. baumannii than the isolates exhibiting only type I-F1 and only type I-F2 systems.

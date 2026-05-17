@@ -1,0 +1,14 @@
+PMID: 37156803
+Title: Antibacterial activity of vB_AbaM_PhT2 phage hydrophobic amino acid fusion endolysin, combined with colistin against Acinetobacter baumannii.
+Authors: Sitthisak S., Manrueang S., Khongfak S., Leungtongkam U., Thummeepak R., Thanwisai A., Burton N., Dhanoa G., Tsapras P., Sagona A.
+Journal: Scientific reports
+Year: 2023
+DOI: 10.1038/s41598-023-33822-8
+PMC: PMC10167329
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/37156803/
+DOI URL: https://doi.org/10.1038/s41598-023-33822-8
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10167329/
+
+--- Abstract ---
+Phage lytic enzymes are promising antimicrobial agents. In this study, an endolysin derived from vB_AbaM_PhT2 (vPhT2), was identified. This endolysin represented the conserved lysozyme domain. Recombinant endolysin (lysAB- vT2) and hydrophobic fusion endolysin (lysAB-vT2-fusion) were expressed and purified. Both endolysins showed lytic activity against bacterial crude cell wall of Gram-negative bacteria. The MIC of lysAB-vT2-fusion was 2 mg/ml corresponding to 100 µM, while the MIC of lysAB-vT2 was more than 10 mg/ml (400 µM). Combination of lysAB-vT2-fusion with colistin, polymyxin B or copper was synergistic against A. baumannii (FICI value as 0.25). Antibacterial activity of lysAB-vT2-fusion plus colistin at the fractional inhibitory concentrations (FICs) revealed that it can inhibit Escherichia coli, Klebsiella pneumoniae and various strains of extremely drug-resistant A. baumannii (XDRAB) and phage resistant A. baumannii. The lysAB- vT2-fusion still retained its antibacterial activity after incubating the enzyme at 4, 20, 40 and 60 °C for 30 min. The lysAB-vT2-fusion could inhibit the mature biofilm, and incubation of lysAB-vT2-fusion with T24 human cells infected with A. baumannii led to a partial reduction of LDH release from T24 cells. In summary, our study highlights the antimicrobial ability of engineered lysAB-vT2-fusion endolysin, which can be applied for the control of A. baumannii infection.

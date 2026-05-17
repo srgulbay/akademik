@@ -1,0 +1,13 @@
+PMID: 41102536
+Title: Harnessing Plant Essential Oils to Combat Acinetobacter baumannii: Research Progress in Antimicrobial Mechanisms and Therapeutic Prospects.
+Authors: Wei S., Sun Y., Lu Q., Liang Z., Zhu T., Li Y., Xu D., Li C., Feng F., Zeng H.
+Journal: Current microbiology
+Year: 2025
+DOI: 10.1007/s00284-025-04533-2
+PMC: 
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/41102536/
+DOI URL: https://doi.org/10.1007/s00284-025-04533-2
+
+--- Abstract ---
+Acinetobacter baumannii, a priority pathogen designated by the World Health Organization, poses a severe threat to global healthcare due to its widespread multidrug resistance (MDR) and ability to form persistent biofilms. Plant essential oils (EOs) have emerged as promising natural antimicrobials, but existing reviews lack systematic integration of their antimicrobial mechanisms, safety profiles, and clinical translational potential-especially in combination with advanced delivery systems. Work Plan: This review focuses on plant EOs from different families and genera, and conducts a systematic analysis from three core dimensions:(1) Antimicrobial activity dimension: It compares the differences in minimum inhibitory concentrations (MICs) of EOs from various families and genera against A. baumannii to clarify the strength of their antimicrobial efficacy; (2) Mechanism of action dimension: It analyzes the dual-level effects of bacterial intervention and host regulation. At the bacterial level, it focuses on the intervention effects on key targets such as cell membranes, biofilms, efflux pumps, and quorum sensing (QS); at the host level, it investigates the immunomodulatory effects in infection models; (3) Clinical potential dimension: It evaluates the translational value of these EOs, including their safety profiles, synergistic effects with antibiotics, and compatibility with advanced delivery systems. Innovation & Significance: This review is the first to construct an integrated framework covering EO antimicrobial mechanisms, host immunomodulation, and clinical priority ranking. Via multi-dimensional analysis, it fully explores EOs' potential against A. baumannii. The study provides actionable technical guidance for reducing this bacterium's resistance and developing green antimicrobial strategies.

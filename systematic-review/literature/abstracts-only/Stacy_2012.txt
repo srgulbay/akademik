@@ -1,0 +1,14 @@
+PMID: 23258305
+Title: Synthesis and biological evaluation of triazole-containing N-acyl homoserine lactones as quorum sensing modulators.
+Authors: Stacy D., Le Quement S., Hansen C., Clausen J., Tolker-Nielsen T., Brummond J., Givskov M., Nielsen T., Blackwell H.
+Journal: Organic & biomolecular chemistry
+Year: 2012
+DOI: 10.1039/c2ob27155a
+PMC: PMC3566574
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't; Research Support, U.S. Gov't, Non-P.H.S.
+URL: https://pubmed.ncbi.nlm.nih.gov/23258305/
+DOI URL: https://doi.org/10.1039/c2ob27155a
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3566574/
+
+--- Abstract ---
+Many bacterial species are capable of assessing their local population densities through a cell-cell signaling mechanism termed quorum sensing (QS). This intercellular communication process is mediated by small molecule or peptide ligands and their cognate protein receptors. Numerous pathogens use QS to initiate virulence once they achieve a threshold cell number on a host. Consequently, approaches to intercept QS have attracted considerable attention as potential anti-infective therapies. Our interest in the development of small molecule tools to modulate QS pathways motivated us to evaluate triazole-containing analogs of natural N-acyl L-homoserine lactone (AHL) signals as non-native QS agonists and antagonists in Gram-negative bacteria. We synthesized 72 triazole derivatives of five broad structure types in high yields and purities using efficient Cu(I)-catalyzed azide-alkyne couplings. These compounds were evaluated for their ability to activate or inhibit two QS receptors from two prevalent pathogens - LasR from Pseudomonas aeruginosa and AbaR from Acinetobacter baumannii- using bacterial reporter strains. Several triazole derivatives were identified that were capable of strongly modulating the activity of LasR and AbaR. These compounds represent a new and synthetically accessible class of AHL analogs, and could find utility as chemical tools to study QS and its role in bacterial virulence.

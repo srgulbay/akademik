@@ -1,0 +1,21 @@
+PMID: 32484105
+Title: Evaluation of type II Toxin-Antitoxin Systems, Antibiotic Resistance Profiles, and Biofilm Quorum Sensing Genes in Acinetobacter Baumannii Isolates in Iraq.
+Authors: Al Marjania M., Kouhsari E., Ali F., Authman S.
+Journal: Infectious disorders drug targets
+Year: 2021
+DOI: 10.2174/1871526520666200525170318
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/32484105/
+DOI URL: https://doi.org/10.2174/1871526520666200525170318
+
+--- Abstract ---
+BACKGROUND: Bacterial Toxin-Antitoxin (TAs) systems are extensive two-component elements in the bacterial genome, which are involved in many key biological functions, including growth arrest, survival, biofilm formation, plasmid maintenance, defense against phages, persistence, and virulence.
+
+AIM: This study aimed to assess the molecular determinants involved in TAs, biofilm quorum sensing, and antibiotic resistance profiles in Acinetobacter baumannii isolated from Baghdad's hospitals in Iraq.
+
+METHODS: A total of 127 A. baumannii isolates were collected from 2160 different clinical samples. The antimicrobial susceptibility test was performed using the disk diffusion test. All isolates were characterized for molecular determinants involved in TAs and biofilm formation using the wellknown PCR-based sequencing assay.
+
+RESULTS: A high multi-drug resistant (MDR) (96.06%; 122/127) and imipenem resistance (84.25%; 107/127) rates were observed from A.baumannii isolates. Results showed the presence of rhlIR gene in three isolates (2.36%), and lasIR gene appeared in two isolates (1.57%) isolates, whilst, mazEF, ccdAB, and relBE genes have not been detected among any of the isolates.
+
+CONCLUSION: A high MDR and imipenem resistance rates within a low prevalence of rhlIR, and lasIR genes could be found in clinical A. baumannii isolates from some of the Iraqi hospitals.

@@ -1,0 +1,14 @@
+PMID: 37063277
+Title: Effect of traditional Chinese medicine monomers interfering with quorum-sensing on virulence factors of extensively drug-resistant Acinetobacter baumannii.
+Authors: Zeng L., Lin F., Ling B.
+Journal: Frontiers in pharmacology
+Year: 2023
+DOI: 10.3389/fphar.2023.1135180
+PMC: PMC10097947
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/37063277/
+DOI URL: https://doi.org/10.3389/fphar.2023.1135180
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10097947/
+
+--- Abstract ---
+The antimicrobial resistance of Acinetobacter baumannii (A. baumannii) clinical isolates has emerged as a great threat to public health. Quorum sensing (QS) is one of the resistance mechanisms for drug-resistant A. baumannii. Interfering with QS is a promising strategy to combat infections caused by drug-resistant bacteria. This study explored the QS inhibition ability of thirty-four traditional Chinese medicine monomers (TCMMs) and assessed the effect of QS inhibitors (QSIs) on the virulence factors of twelve extensively drug-resistant A. baumannii (XDRAB) strains. Nine traditional Chinese medicine monomers, such as caffeic acid, cinnamic acid, and myricetin, were found to be able to inhibit the bacterial QS. Then, at 1/8 of the minimal inhibitory concentration, we found that these QSIs inhibited extensively drug-resistant A. baumannii adhesion and biofilm formation and downregulated the expression levels of virulence-associated genes (abaI, abaR, csuE, pgaA, and bap). In conclusion, nine traditional Chinese medicine monomers have QS inhibitory activity and may downregulate QS genes to interfere with the QS system, which could inhibit the expression of extensively drug-resistant A. baumannii virulence factors. These results suggest that traditional Chinese medicine monomers could develop as novel anti-virulence compounds to control extensively drug-resistant A. baumannii infections.

@@ -1,0 +1,19 @@
+PMID: 33836275
+Title: The anti-biofilm capability of nano-emodin-mediated sonodynamic therapy on multi-species biofilms produced by burn wound bacterial strains.
+Authors: Pourhajibagher M., Rahimi-Esboei B., Ahmadi H., Bahador A.
+Journal: Photodiagnosis and photodynamic therapy
+Year: 2021
+DOI: 10.1016/j.pdpdt.2021.102288
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/33836275/
+DOI URL: https://doi.org/10.1016/j.pdpdt.2021.102288
+
+--- Abstract ---
+BACKGROUND: Management of burn wound infections (BWIs) is difficult due to the emergence of multidrug-resistant microorganisms. This study aimed to explore the anti-biofilm efficacy of sonodynamic therapy (SDT) using nano-emodin (N-EMO) against multi-species bacterial biofilms containing Staphylococcus aureus, Pseudomonas aeruginosa, and Acinetobacter baumannii.
+
+METHODS: Following synthesis and confirmation of N-EMO as a sonosensitizer, the anti-biofilm efficacy of SDT against multi-species bacterial biofilms was determined using minimum inhibitory concentrations (MIC), minimum biofilm inhibitory concentration (MBIC), and minimal biofilm eradication concentration (MBEC) of N-EMO. The reduction of multi-species bacterial biofilms was then evaluated following the treatments using Log reduction and crystal violet (CV) assays. In addition, the expression profiling of abaI, agrA, and lasI genes using SDT with sub-MIC, sub-MBIC, and sub-MBEC of N-EMO was assessed.
+
+RESULTS: Successful synthesis of N-EMO was confirmed through several characterization tests. As the results demonstrated, the MIC value of N-EMO for the multi-species bacterial suspension was 0.15 × 10-4 g/L, as well as, the MBEC value of N-EMO was 2.5 × 10-4 g/L, approximately 4-fold higher than that of MBIC (0.62 × 10-4 g/L). According to the CV assay, there were 57.8 %, 71.0 %, and 81.5 % reduction in the biofilm of multi-species bacterial growth following SDT using 1/128 MBEC, 1/16 MBIC, and 1/2 MIC of N-EMO, respectively. Log reductions analysis demonstrated that 1/2 MIC of N-EMO was more potent in inhibiting the biofilm growth of multi-species test bacteria by 5.725 ± 0.12 (99.9993 %). In this study, N-EMO-mediated SDT could obviously downregulate the gene expression of virulence factors (P < 0.05). The gene expression of lasI, agrA, and abaI were downregulated about 2.5-, 3.6-, and 5.5-fold; and 3.0-, 5.2-, and 7.4-fold following SDT with sub-MBIC and sub-MBEC of N-EMO, respectively.
+
+CONCLUSION: These results highlight the potential of N-EMO-mediated SDT in inhibition of biofilm formation, degradation of formed biofilms, and reduction of virulence factor associated with biofilms of multi-species bacterial biofilms in BWIs.

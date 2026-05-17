@@ -1,0 +1,14 @@
+PMID: 41305464
+Title: Rational Design of a Potent Two-Phage Cocktail Against a Contemporary Acinetobacter baumannii Strain Recovered from a Burned Patient at the Lausanne University Hospital.
+Authors: de Villiers de la Noue H., Golliard G., Vuattoux X., Resch G.
+Journal: Viruses
+Year: 2025
+DOI: 10.3390/v17111441
+PMC: PMC12656882
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/41305464/
+DOI URL: https://doi.org/10.3390/v17111441
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12656882/
+
+--- Abstract ---
+Acinetobacter baumannii is a critical public health threat, particularly with the rise in multidrug-resistant (MDR) and extensively drug-resistant (XDR) strains that limit treatment options. Phage therapy, which uses bacteriophages to target bacteria, offers a promising alternative. We isolated an XDR strain (Ab125) from a burn wound infection and screened 34 phages, identifying vB_AbaM_3098 as the only effective candidate. However, resistance rapidly emerged, producing a derivative strain (Ab139). Interestingly, Ab139, though resistant to vB_AbaM_3098, became susceptible to six previously inactive phages. While various potential determinants were identified through comparative genomics and proteomics, the mechanism causing phage resistance to vB_AbaM_3098 and simultaneous susceptibility to other phages remains to be elucidated. Among the six new candidates, vB_AbaM_3014 was the most promising. While each phage alone allowed bacterial regrowth, combining vB_AbaM_3098 and vB_AbaM_3014 completely suppressed Ab125 growth. In a Galleria mellonella infection model, this cocktail achieved 90% survival after five days compared to 0% in untreated controls. Notably, the cocktail combined one phage with modest activity and another inactive phage against the parental strain; together, they produced strong bactericidal effects. These findings highlight both the complexity of phage cocktail design and their promise as adjunct therapies against drug-resistant A. baumannii.

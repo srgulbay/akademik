@@ -1,0 +1,93 @@
+Title: Lytic potential of a filamentous bacteriophage isolated from sewage water in Tehran on clinical carbapenem-resistant strains
+PMID: 36531823
+PMCID: PMC
+DOI: 10.18502/ijm.v14i5.10966
+
+=== ABSTRACT ===
+# Background and Objectives:
+
+Acinetobacter baumannii (A. baumannii), an opportunistic pathogen, has been isolated from sewage, soil, and hospital wards. The prevalence of multidrug-resistance A. baumannii has seriously caused a health crisis in hospital settings. Bacteriophages have been used as an alternative therapy for control carbapenem-resistant bacteria-caused infections. We aimed to assay lytic effect of a filamentous phage on clinical bacterial strains.
+
+
+# Materials and Methods:
+
+500-ml water samples was collected from sewage in Tehran. Sewage samples were precipitated at 6000 rpm for 10 minutes and filtered using 0.45-μm syringe filters. Bacteriophage was isolated using double-layer agar assay and evaluated its stability at various pH and temperature ranges. In addition, the stability of the phage was assayed at chloroform 0.1%.
+
+
+# Results:
+
+Transmission electron microscopy imagine showed phage is filamentous called vB-AbaI-TMU2. The phage affected on its own host so that could not effect on any Pseudomonas aeruginosa and Klebsiella pneumoniae strains. vB-AbaITMU2 phage was stable at pH 5 and 7 and also temperatures 25 and 37°C. vB-AbaI-TMU2 was stable at chloroform 0.1%. vB-AbaI-TMU2 phage infected carbapenem-resistant A. baumannii strains while other bacterial strains were resistant to.
+
+
+# Conclusion:
+
+The present study indicated the isolated phage had a narrow host range and is susceptible to various pH values and temperatures.
+
+=== FULL TEXT ===
+# INTRODUCTION
+
+Acinetobacter baumannii is a Gram-negative bacterium that is spread in most of environment settings such as soil, water, sewage and hospital (1). This pathogen widely causes nosocomial infections. However, antibiotics are commonly used in A. baumannii infection therapy. Most of the clinical A. baumannii strains isolated from nosocomial settings are mostly resistant to these chemicals nowadays. Emergence of multidrug-resistant (MDR) and pan-drug resistant (PDR) A. baumannii strains has frequently been reported worldwide (2, 3). In recent years, carbapenem has been used as the major therapeutic agent of MDR A. baumannii strains, while MDR A. baumannii strains have become resistant to almost all antibiotics, including carbapenem, aminoglycosides, fluoroquinolones and cephalosporins. Unfortunately, MDR
+
+A. baumannii resistance rate to both antibiotics tigecycline and polymixin has increased (4–6). Moreover, studies have reported colistin-resistant A. baumannii strains. The global spread of carbapenem-resistant A. baumannii (CRAB) strains has caused challenging issues. Therefore, researches have focused on alternative therapies of carbapenem-resistant A. baumannii infections. In recent years, bacteriophages (phages) have been used as an alternative therapy for the control of carbapenem-resistant A. baumannii infections. Bacteriophages or viruses infects bacteria are ubiquitous in environment such as sewage, soil and water. Phages, were first introduced in 1920 by Felix d’Herelle, are able to infect their own host (7, 8). The specificity of those on their host and lack of adverse effects on human cells have been become as an alternative therapy in some countries such as Eastern Europe, Soviet Union and Georgia (9). Recently, phage therapy on laboratory animals with burns and pulmonary infections has successfully been carried out (10). Most of A. baumannii phages are isolated from different sewage sources such as municipal sewage, hospital sewages and even industries sewage. Municipal-originated sewage consists various range of sewage sources such as domestic sewage and agriculture sewage, showing that is a good source for collecting phages. A. baumannii phages have different morphologic, some of which have long tail, while others may have short tail. Almost all of those phages set into one of three major family Myoviridae, Podoviridae and Siphoviridae (11). Newly, some filamentous phages have been isolated from municipal sewage, which could be considered as a therapeutic choice against hospital infection-causing by A. baumannii. We aimed to study on physicochemical characterization of a vB-AbaI-TMU2 phage isolated from sewage.
+
+
+# MATERIALS AND METHODS
+
+Bacterial strains. Ten clinical carbapenem-resistance A. baumannii, five extended-spectrum drug resistant Pseudomonas aeruginosa and carbapenem-resistant Klebsiella pneumoniae strains were collected (Table 1) and their carbapenem resistance had determined previously using disk diffusion and minimum inhibitory concentration (12) by imipenem (10 μg). These strains were selected as phage host (10, 13). Bacteria were verified using phenotypic and genotypic assays such as bla
+oxa-51 gene investigation for A. baumannii (Table 2) and biochemical assays such as IMViC test for others (14, 15).
+
+[TABLE: Bacterial strains recovered from hospitalized patients]
+
+[TABLE: Primer used for confirming of A. baumannii strains]
+
+Sewage sample preparation and collection. All of sewage samples were collected from different areas of Tehran. 500-ml sewage samples from nine geographical areas included two areas 5 and 22 on the west and north-west, two areas 4 and 13 on the east and north-east areas and three areas 6, 11 and 10 at the center and two on the south of Tehran were randomly collected. Samples collected of the west and northern-west areas of city were sewage which had been felled off into the Kan River (Fig. 1). Other samples were collected of either domestic or agriculture sewages. Samples collected were centrifuged at 6000 rpm for 6 min and then filtered through 0.45-μm syringe filters for removing bacterial contamination. 10 mL of the overnight bacterial culture (1× 106 cfu/ml) were added to filtrate and incubated at 37 °C for 24 h. Sample was reprecipitated at 6000 rpm for 10 min and filtered using 0.45-μm syringe filters.
+
+[FIGURE: The geographical areas of sewage samples collected of Tehran province. Blue color areas: sewage samples collected. Red color areas: samples were not collected, Grey color areas: Outside areas.]
+
+Bacteriophage detection, purification and propagation. Phage isolation was performed using double-layer agar assay described by kitty et al. with slight modification (17). Briefly, 100 μL of the filtrate was enriched in 1 mL of overnight cultured bacteria and incubated at 25°C for 15 min. samples were re-suspended in 6.5 mL of molten nutrient agar (0.75% agar) and well agitated 3–5 times. Suspension was rapidly overlaid on nutrient agar plate and incubated at 37°C. To purify and propagate phages, procedure were repeated 5–7 times until plaques were well separated each other. To study phages, phages were concentrated to 108 pfu/ml. Plaque-isolated phages were stored at −20°C in SM buffer (10 mM tris-HCl, pH 7.5; 10 mM MgSO4 .7H2 O; 100 mM NaCl) with 15% glycerol for two months (16).
+
+Bacteriophage morphology. A single plaque coated on carbon grid and then negatively stained with 1% uranyl acetate. After being dried was showed using Zeiss Transmission Electron Microscope (TEM) (Zeiss, Germany) at 80 kV (18).
+
+Physicochemical characterization of bacteriophage. vB-AbaI-TMU2 phage was studied as effectiveness on bacterial range, stability at pH and temperature changes. Also, stability of the phage was assayed at 0.1% of chloroform. To assess phage host range, in addition to CRAb strains, antibiotic extended spectrum-Pseudomonas aeruginosa and carbapenem-resistant Klebsiella pneumoniae were also chosen and were assessed using double-layer agar method with a few modification. Briefly, Bacterial strains were incubated at 37°C for 16–18 h in 3 ml of tryptone soy broth (TSB). Bacteriophages (1 × 108 pfu/mL) were added to 0.1 mL of each bacterial strains and incubated at 25°C for 15 min. These were transferred into 3.5 mL of molten nutrient agar (with %0.75 agar) and agitated gently. Bacteriophages were propagated on nutrient agar plates at 37°C for 24 h (19). For thermal stability assessment, phages (1 × 108 pfu/mL) were incubated at −20, 4, 25, 30 and 50°C for 18–24 h and then assessed using double-layer agar assay. For phage pH stability assessment, phages (1 × 108 pfu/mL) were incubated at a pH range of 3, 5, 7, 9 and 11 for 24 h. All pHs range were prepared with 1× PBS. Furthermore, phage chloroform stability was assessed. Briefly, 0.3 mL of the phage preparation was added to 0.1 mL of chloroform (0.1%) and incubated at 25°C for 24 h. All experiments were carried out in TSB and nutrient agar media.
+
+One-step growth. The method of Lu et al. was a few modification performed to assay one-step growth of vB-AbaI-TMU2(20). Briefly, vB-AbaI-TMU2 phage at multiplicity of infection (M.O.I) 0.1 was effected on CRAB for 60 min at 37°C and then centrifuged at 10,000 rpm for 50 s. The pelleted cells were re-suspended in 5 ml of preheated nutrient broth and incubated at 37°C. Samples were taken every 10 min and phage titer (Pfu/ml) were immediately obtained (21) Experiments were repeated at least three times with duplicate samples.
+
+
+# RESULTS
+
+Isolation of bacterial strains.
+Acinetobacter isolates were initially screened using by biochemical tests. For confirming clinical A. baumannii strains, The PCR-based oxa
+-51 was performed (Fig. 2). Other bacterial strains studied were detected using tests described in material and methods section.
+
+[FIGURE: bla
+oxa-51 amplification (353 bp). Bands 1, 2 & 4: clinical strains, band 3: positive control, band 5: DNA marker (1kbp).]
+
+Isolation of phages. Among 9 areas of Tehran sewage samples were collected. 2 areas include areas 15 and 20 (on the south of Tehran) were isolated vB-AbaI-TMU2 phage (Fig. 3). Notably, the phage isolated of areas 15 and 20 had agriculture origin, indicating that raw water consists more A. baumannii strains, as phages were often found where there is more numerous A. baumannii. In spite of more contamination of sewage at central areas of city, vB-AbaI-TMU2 was not isolated.
+
+[FIGURE: the areas of vB-AbaI-TMU2 phage isolation from sewage samples. Green color areas: the phage was isolated. Red color areas: the phage was not isolated.]
+
+The phage properties. As seen in Fig 4, the phage included a long flexible filament with 20 nm in diameter and 3000 nm in length; hence, the phage was a filamentous phage and classified into Inoviridae family. The phage formed clear circular plaques on double-layer agar plates following incubation at 37°C for 24 h (Fig. 5). The phage was similar to other filamentous phages such as M13 , Fd phage (Escherichia coli phages) and Pf1 phage (P. aeruginosa phage).
+
+[FIGURE: Micrograph of the vB-AbaI-TMU2 phage (black arrow) using by transmission electron microscopy with 1% uranyl acetate staining. The scale bar is 500 nm]
+
+[FIGURE: Plaques of vB-AbaI-TMU2 formed on nutrient agar plate using by double-layer agar method after 18-h incubation at 37°C.]
+
+The results showed that the phage specifically infected its bacterial hosts. Of 10 carbapenem-resistant A. baumannii strains, 2 strains were infected by the phage. Study of the virus host range on other bacteria demonstrated that of five clinical P. aeruginosa, only one strain was susceptible to the phage. To assess pH stability of the phage, pH range (3, 5, 7, 9 and 11) was used on the phages using overnight incubation at 25°C and spreading on double-layer agar plates. Results showed the phage was persisted to pH 5 and 7 and susceptible to pH 3, 9 and 11. Bacteriophages usually show stability to various temperatures. Moreover, the current study investigated phage stability at various temperatures such as −20, 4, 25, 30 and 50°C within 24 h of incubation. As shown by the results from this study, the phage included specific susceptibility at −20 and 50°C. Furthermore, the phage lost its infective ability on carbapenem-resistant A. baumannii strains after 24 h of incubation at −20 and 50°C; therefore, plaques were not formed on double-layer agar plates. In contrast, phage showed its maximum stability at 4 and 25°C. Assessment of chloroform stability of the phage showed that the phage was stable as shown in Fig. 6. Therefore, it could not lyse none of carbapenem-resistant A. baumannii strains.
+
+[FIGURE: chloroform stability of vB-AbaI-TMU2 for 24 hour]
+
+One-step growth curve. As shown in Fig. 7 latent phase of the phage was 20 min and its burst size was 80 pfu/cell. Phage titer started to be decreased after 80 min and in the end reached to 107 pfu/ml at 110 min. Adsorption ratio was >80% at 8 min.
+
+[FIGURE: One-step growth curve of vB-AbaI-TMU2 phage in 110 min.]
+
+
+# DISCUSSION
+
+Use of extended-spectrum antibiotics as effective treatment on multiple-drug resistance A. baumannii has long been useful. However, they are not effective enough nowadays. Bacteria acquired various resistance mechanisms against antibiotics. Therefore, antibiotic era may be soon expired. Hence, interests in phage therapy, as an alternative treatment for the infections produced by multidrug resistant strains, has been renewed in nosocomial and community settings. With increased prevalence of CRAB-producing infections and relative mortalities in hospitals, use of phages in treatment of these infections has increased (22, 23). Advantages of phage therapy in comparison to antibiotics are due to phage characteristics, including less bacterial resistance, lack of side effects on human cells and stability at high temperatures and pH values. Up-to-date, more than 100 specific Acinetobacter bacteriophages have been isolated from environment sources (11, 24). Almost all Acinetobacter phages isolated from these sources include an icosahedral head and a tail, which belong to one of three major groups of Myoviridae, Siphoviridae and Podoviridae. Recently, a novel filamentous phage with a long flexible tail has been isolated from sewage water (12). Despite other Acinetobacter phages, it includes no collars or whiskers in its structure. The current study showed that the isolated phage is able to infect 20% of carbapenem-resistant A. baumannii strains. In addition, the phage was able to infect 10% of other bacterial strains. Similarly, 45 carbapenem-resistant A. baumannii strains were studied by Jeon et al; from which, 21 strains were infected by Bϕ-R1215 and Bϕ-R2315 phages (25). Two phages of Bϕ-R1215 and Bϕ-R2315 belonged to Myoviridae family. However, the phage isolated in the current study belonged to Inoviridae family. Results of Thawal et al. showed that Bϕ-AB7-IBB2 infected 48.71% of A. baumannii strains (26). Ghajavand et al. isolated two phages of IsfAB78 and Is-fAB39 from water samples with no lytic effects on other bacterial strains; however, IsfAB78 could lyse 11 strains of 43 A. baumannii as IsfAB39 could (18).
+
+In general, phages mostly show various stabilities to pH changes. However, some phages are more sensitive to pH changes than the other phages. Therefore, these phages include less lytic effects on bacterial strains in various environments. Results of the current study demonstrated that the isolated phage included efficacious lytic effects on CRAB strains at pH ≤ 7 and the phage concentration (1 × 108 pfu/mL) did not decrease over 30 days of incubation at 4°C. However, the phage concentration clearly decreased (5 × 103 pfu/mL) over 50 days of incubation. The phage was quiet inactivated at temperatures higher than 37°C due to its natural denaturation. In recent years, thermal resistance of Acinetobacter phages has increased. Thermal-resistant phages have been isolated from hot spring and dairy products. Results of Yang et al. showed that the AB1 phage included thermal resistance ability (27). Of the antiseptic agents used in phage stability study, chloroform is more important. Chloroform is a lipid-solvent liquid that removes bacterial lipid membranes. Therefore, Gram-negative bacteria are more sensitive to this chemical. Stability of phages against chloroform, as one of the most important features of the phages, has recently been studied. The current results showed that the phage was stability to chloroform, similar to the phi G7 phage (1 × 1010 pfu/mL) by reported by Kusradze et al. (19). In contrast to the present results, the AB2 phage from Chen et al. study included a higher stability to chloroform. The AB2 phage showed a 360-day stability time at 0.5% chloroform concentration. Chen et al. exhibited that nearly 20% of the phages potentially infected MDR A. baumannii over 360 days, while the present study showed that vB-AbaI-TMU2 was a chloroform-labile phage, which lost its potential infectivity of A. baumannii strains overnight.
+
+
+# CONCLUSION
+
+Based on the recent studies on effective phages on treatment of CRAB-caused infections, identification and characterization of A. baumannii phages help better understanding of A. baumannii phages. Therefore, isolation of the filamentous phage in this study has shown that Acinetobacter phages include various features; by which, they are able to affect multiple-drug resistance pathogens such as carbapenem-resistant A. baumannii, K. pneumoniae and P. aeruginosa strains. Moreover, findings have shown that sewage samples are profuse sources of Acinetobacter phages that can be more effective on these strains. However, further studies should be performed on phages isolated from sewage.

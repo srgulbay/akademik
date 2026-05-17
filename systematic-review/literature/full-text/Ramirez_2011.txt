@@ -1,0 +1,10 @@
+Title: Genomic Analysis of Acinetobacter baumannii A118 by Comparison of Optical Maps: Identification of Structures Related to Its Susceptibility Phenotype▿
+PMID: 21282446
+PMCID: PMC
+DOI: 10.1128/AAC.01595-10
+
+=== ABSTRACT ===
+Acinetobacter baumannii A118, a naturally competent clinical isolate, is unusually susceptible to several antibiotics. Comparison of the optical map of strain A118 with in silico-generated restriction maps of sequenced genomes and sequence analyses showed that the AbaR region, commonly found inserted within the comM gene in other isolates, is missing in strain A118, which could in part explain the susceptible phenotype exhibited by this isolate. These comparative studies also showed differences in regions where genes coding for functions that may be involved in drug resistance or susceptibility are located. Further sequencing demonstrated that cat and blaADC, named blaADC-55, are present but that a tet(A) gene usually found in other strains is not. In addition, carO and pbp2, which may play a role in susceptibility to carbapenems, are present in strain A118. These findings support the idea that A. baumannii strains possess multiple mechanisms that contribute to antibiotic resistance, and the presence of some of them is not sufficient for a resistant phenotype. The results shown here indicate that optical mapping is a useful tool for preliminary comparative genomic analysis.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

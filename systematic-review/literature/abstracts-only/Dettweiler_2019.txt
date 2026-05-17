@@ -1,0 +1,14 @@
+PMID: 31118466
+Title: American Civil War plant medicines inhibit growth, biofilm formation, and quorum sensing by multidrug-resistant bacteria.
+Authors: Dettweiler M., Lyles J., Nelson K., Dale B., Reddinger R., Zurawski D., Quave C.
+Journal: Scientific reports
+Year: 2019
+DOI: 10.1038/s41598-019-44242-y
+PMC: PMC6531439
+Publication types: Comparative Study; Historical Article; Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/31118466/
+DOI URL: https://doi.org/10.1038/s41598-019-44242-y
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6531439/
+
+--- Abstract ---
+A shortage of conventional medicine during the American Civil War (1861-1865) spurred Confederate physicians to use preparations of native plants as medicines. In 1863, botanist Francis Porcher compiled a book of medicinal plants native to the southern United States, including plants used in Native American traditional medicine. In this study, we consulted Porcher's book and collected samples from three species that were indicated for the formulation of antiseptics: Liriodendron tulipifera, Aralia spinosa, and Quercus alba. Extracts of these species were tested for the ability to inhibit growth in three species of multidrug-resistant pathogenic bacteria associated with wound infections: Staphylococcus aureus, Klebsiella pneumoniae, and Acinetobacter baumannii. Extracts were also tested for biofilm and quorum sensing inhibition against S. aureus. Q. alba extracts inhibited growth in all three species of bacteria (IC50 64, 32, and 32 µg/mL, respectively), and inhibited biofilm formation (IC50 1 µg/mL) in S. aureus. L. tulipifera extracts inhibited biofilm formation (IC50 32 µg/mL) in S. aureus. A. spinosa extracts inhibited biofilm formation (IC50 2 µg/mL) and quorum sensing (IC50 8 µg/mL) in S. aureus. These results support that this selection of plants exhibited some antiseptic properties in the prevention and management of wound infections during the conflict.

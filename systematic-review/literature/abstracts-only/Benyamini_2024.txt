@@ -1,0 +1,14 @@
+PMID: 39337268
+Title: The Comparative Characterization of a Hypervirulent Acinetobacter baumannii Bacteremia Clinical Isolate Reveals a Novel Mechanism of Pathogenesis.
+Authors: Benyamini P.
+Journal: International journal of molecular sciences
+Year: 2024
+DOI: 10.3390/ijms25189780
+PMC: PMC11432228
+Publication types: Journal Article; Comparative Study
+URL: https://pubmed.ncbi.nlm.nih.gov/39337268/
+DOI URL: https://doi.org/10.3390/ijms25189780
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11432228/
+
+--- Abstract ---
+Acinetobacter baumannii is an opportunistic Gram-negative pathogen with exquisite survival capabilities under various environmental conditions and displays widespread resistance to common antibiotics. A. baumannii is a leading cause of nosocomial infections that result in high morbidity and mortality rates. Accordingly, when multidrug resistance rates surpass threshold levels, the percentage of A. baumannii clinical isolates surges. Research into A. baumannii has increased in the past decade, and multiple mechanisms of pathogenesis have been identified, including mechanisms underlying biofilm development, quorum sensing, exotoxin production, secretion system utilization, and more. To date, the two gold-standard strains used to investigate different aspects of A. baumannii pathogenesis include ATCC 17978 and ATCC 19606. Here, we report a comparative characterization study of three additional A. baumannii clinical isolates obtained from different infection types and derived from different anatomical regions of infected patients. The comparison of three clinical isolates in addition to the ATCC strains revealed that the hypervirulent bacteremia clinical isolate, known as HUMC1, employs a completely different mechanism of pathogenesis when compared to all its counterparts. In stark contrast to the other genetic variants, the hypervirulent HUMC1 isolate does not form biofilms, is antibiotic-susceptible, and has the capacity to reach higher levels of quorum compared to the other clinically relevant strains. Our data also reveal that HUMC1 does not shed endotoxin into the extracellular milieu, rather secretes the evolutionarily conserved, host-mimicking, Zonula occludens toxin (Zot). Taken together, our hypothesis that HUMC1 cells have the ability to reach higher levels of quorum and lack biofilm production and endotoxin shedding, accompanied by the substantial elaboration of Zot, suggests a novel mechanism of pathogenesis that appears to afford the hypervirulent pathogen with stealth-like capabilities when disseminating through the circulatory system in a state of bacteremia.

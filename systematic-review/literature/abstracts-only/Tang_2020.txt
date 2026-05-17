@@ -1,0 +1,20 @@
+PMID: 33262621
+Title: Contribution of the AbaI/AbaR Quorum Sensing System to Resistance and Virulence of Acinetobacter baumannii Clinical Strains.
+Authors: Tang J., Chen Y., Wang X., Ding Y., Sun X., Ni Z.
+Journal: Infection and drug resistance
+Year: 2020
+DOI: 10.2147/IDR.S276970
+PMC: PMC7699449
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/33262621/
+DOI URL: https://doi.org/10.2147/IDR.S276970
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7699449/
+
+--- Abstract ---
+BACKGROUND: Acinetobacter baumannii (A. baumannii) is one of the most important pathogens that cause serious nosocomial infections worldwide. However, there are few reports on the virulence of A. baumannii clinical isolates, and little is known about the mechanism regulating virulence and drug resistance. The aim of this study was to determine the prevalence of drug resistance and virulence profiles and explore features related to quorum sensing (QS).
+
+METHODS: A total of 80 clinical A. baumannii isolates were collected from Jilin province of China from 2012 to 2017. We investigated these clinical isolates with respect to biofilm formation, surface motility, adherence, invasion into A549 human alveolar epithelial cells, and virulence to Galleria mellonella. We also explored the prevalence of the AbaI/AbaR QS system and its correlation with bacterial virulence and drug resistance.
+
+RESULTS: The resistance rates of the isolates to 17 commonly used antibiotics were higher than 50%, and 75% of the isolates were multi-drug resistant. Approximately 95% (76/80) of the isolates showed the ability to form biofilms, of which 38 showed strong biofilm formation ability (+++). Only 5 strains showed strong surface-related motility. A high level of variability was found in adherence and invasion into A549 epithelial cells, and 16 isolates showed strong virulence to Galleria mellonella (none survived after 6 days of infection). Of the 61 isolates carrying abaI and abaR genes, 24 were found to produce N-acyl homoserine lactones (AHLs) detectable by biosensor bacteria. Correlation analysis revealed that abaI and abaR genes positively correlated with bacterial resistance rates. All strains showing obvious surface-related motility carried abaI and abaR genes and produced AHLs. The isolates with detectable QS systems also showed stronger invasiveness into A549 cells and pathogenicity toward G. mellonella than the QS-deficient isolates.
+
+CONCLUSION: Our study demonstrates that the AbaI/AbaR QS system was widely distributed among the A. baumannii clinical isolates, was necessary for surface-related motility, and significantly correlated with drug resistance, invasion into epithelial cells, and virulence to G. mellonella.

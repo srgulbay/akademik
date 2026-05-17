@@ -1,0 +1,14 @@
+PMID: 31737611
+Title: Small Molecule Anti-biofilm Agents Developed on the Basis of Mechanistic Understanding of Biofilm Formation.
+Authors: Qvortrup K., Hultqvist L., Nilsson M., Jakobsen T., Jansen C., Uhd J., Andersen J., Nielsen T., Givskov M., Tolker-Nielsen T.
+Journal: Frontiers in chemistry
+Year: 2019
+DOI: 10.3389/fchem.2019.00742
+PMC: PMC6838868
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/31737611/
+DOI URL: https://doi.org/10.3389/fchem.2019.00742
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6838868/
+
+--- Abstract ---
+Microbial biofilms are the cause of persistent infections associated with various medical implants and distinct body sites such as the urinary tract, lungs, and wounds. Compared with their free living counterparts, bacteria in biofilms display a highly increased resistance to immune system activities and antibiotic treatment. Therefore, biofilm infections are difficult or impossible to treat with our current armory of antibiotics. The challenges associated with biofilm infections have urged researchers to pursue a better understanding of the molecular mechanisms that are involved in the formation and dispersal of biofilms, and this has led to the identification of several steps that could be targeted in order to eradicate these challenging infections. Here we describe mechanisms that are involved in the regulation of biofilm development in Pseudomonas aeruginosa, Escherichia coli, and Acinetobacter baumannii, and provide examples of chemical compounds that have been developed to specifically inhibit these processes. These compounds include (i) pilicides and curlicides which inhibit the initial steps of biofilm formation by E. coli; (ii) compounds that interfere with c-di-GMP signaling in P. aeruginosa and E. coli; and (iii) compounds that inhibit quorum-sensing in P. aeruginosa and A. baumannii. In cases where compound series have a defined molecular target, we focus on elucidating structure activity relationship (SAR) trends within the particular compound series.

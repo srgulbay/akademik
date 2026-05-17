@@ -1,0 +1,14 @@
+PMID: 39241032
+Title: Cyclic AMP is a global virulence regulator governing inter and intrabacterial signalling in Acinetobacter baumannii.
+Authors: Harkova L., de Dios R., Rubio-Valle A., Pérez-Pulido A., McCarthy R.
+Journal: PLoS pathogens
+Year: 2024
+DOI: 10.1371/journal.ppat.1012529
+PMC: PMC11410210
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39241032/
+DOI URL: https://doi.org/10.1371/journal.ppat.1012529
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11410210/
+
+--- Abstract ---
+Acinetobacter baumannii is an opportunistic nosocomial pathogen with high morbidity and mortality rates. Current treatment options for this pathogen are limited due to its increasing resistance to last-resort antibiotics. Despite A. baumannii's leading position in the World Health Organisations priority pathogens list, little is known about its virulence regulation. Through a high-throughput screening approach to identify novel biofilm regulators, we identified a previously uncharacterised predicted adenylate cyclase (AC), CavA, as a central regulator of this phenotype. cAMP is a crucial mediator of various aspects of bacterial physiology in other species but information about its role in A. baumannii is limited. We confirm that CavA AC is functional and synthesizes cAMP in A. baumannii. Using dRNA-seq, we verify that CavA is a negative biofilm formation regulator affecting Csu pili and exopolysaccharide production. We demonstrate for the first time that in A. baumannii, cAMP is atop of a hierarchical signalling cascade controlling inter- and intrabacterial signalling by modulating quorum sensing and cyclic di-GMP systems, ultimately governing virulence in vivo and adaptive antibiotic resistance. In contrast to the well-established paradigm in other bacteria where cAMP and cyclic di-GMP levels are inversely regulated, we uncover that the levels of these second messengers are directly proportional in A. baumannii. Overall, this study uncovers the central role of CavA and cAMP in the pathogenic success of A. baumannii and highlights this signalling cascade as a high potential target for novel therapeutic development.

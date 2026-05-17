@@ -1,0 +1,21 @@
+PMID: 38158095
+Title: Antimicrobial and anti-virulence activities of 4-shogaol from grains of paradise against gram-negative bacteria: Integration of experimental and computational methods.
+Authors: Koshak A., Okairy H., Elfaky M., Abdallah H., Mohamed G., Ibrahim S., Alzain A., Abulfaraj M., Hegazy W., Nazeih S.
+Journal: Journal of ethnopharmacology
+Year: 2023
+DOI: 10.1016/j.jep.2023.117611
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/38158095/
+DOI URL: https://doi.org/10.1016/j.jep.2023.117611
+
+--- Abstract ---
+ETHNOPHARMACOLOGICAL RELEVANCE: Bacterial resistance to antibiotics is a growing global concern, highlighting the urgent need for new antimicrobial candidates. Aframomum melegueta was traditionally used for combating urinary tract and soft tissue infections, which implies its potential as an antimicrobial agent.
+
+AIM OF STUDY: This study was designed to explore the antibacterial and anti-virulence capabilities of 4-shogaol isolated from A. melegueta seeds versus gram-negative bacteria: Serratia marcescens, Klebsiella pneumoniae, Acinetobacter baumannii, and the clinically important pathogen Pseudomonas aeruginosa.
+
+MATERIALS AND METHODS: 4-Shogeol was isolated from A. melegueta seeds and its MICs were determined for Acinetobacter baumannii (ATCC-17978), Pseudomonas aeruginosa (ATCC-27853), Klebsiella pneumoniae (ATCC-700603), and Serratia marcescens clinical isolate. The anti-efflux activity and effect on the bacterial cell membrane for the compound were evaluated. Furthermore, the anti-virulence activities of the compound were evaluated. The effects of 4-shogeol at sub-MIC on bacterial motility, biofilm formation, and production of virulent enzymes and pigments were assessed. The anti-quorum sensing activities of 4-shogeol were evaluated virtually and by quantification its effect on the expression of quorum sensing encoding genes. The in vivo protection assay was conducted to evaluate the effect of 4-shogaol on the P. aeruginosa capacity to induce pathogenesis in mice. Finally, the effect of shogaol-antibiotics combination was assessed.
+
+RESULTS: The research revealed that 4-shogaol's antibacterial action primarily involves disrupting the bacterial cell membrane and efflux pumps. It also exhibited significant anti-virulence effects by reducing biofilm development and repressing virulence factors production, effectively protecting mice against P. aeruginosa infection. Furthermore, when combined with antibiotics, 4-shogaol demonstrated synergistic effects, leading to reduced minimum inhibitory concentrations (MICs) against P. aeruginosa. Its anti-virulence properties were linked to its ability to disrupt bacterial quorum sensing (QS) mechanisms, as evidenced by its interaction with QS receptors and downregulation of QS-related genes. Notably, in silico analysis indicated that 4-shogaol exhibited strong binding affinity to different P. aeruginosa QS targets.
+
+CONCLUSION: These findings suggest that 4-shogaol holds promise as an effective anti-virulence agent that can be utilized in combination with antibiotics for treating severe infections caused by gram-positive bacteria.

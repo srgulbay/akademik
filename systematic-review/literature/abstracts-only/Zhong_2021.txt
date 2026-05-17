@@ -1,0 +1,14 @@
+PMID: 33597937
+Title: Quorum Sensing Inhibition or Quenching in Acinetobacter baumannii: The Novel Therapeutic Strategies for New Drug Development.
+Authors: Zhong S., He S.
+Journal: Frontiers in microbiology
+Year: 2021
+DOI: 10.3389/fmicb.2021.558003
+PMC: PMC7882596
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/33597937/
+DOI URL: https://doi.org/10.3389/fmicb.2021.558003
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7882596/
+
+--- Abstract ---
+Acinetobacter baumannii is a Gram-negative opportunistic nosocomial pathogen, which can cause ventilator-related and blood infection in critically ill patients. The resistance of A. baumannii clinical isolates to common antimicrobials and their tolerance to desiccation have emerged as a serious problem to public health. In the process of pathogenesis, bacteria release signals, which regulate virulence and pathogenicity-related genes. Such bacteria coordinate their virulent behavior in a cell density-dependent phenomenon called quorum sensing (QS). In contrast, the two main approaches of QS interference, quorum sensing inhibitors (QSIs) and quorum quenching (QQ) enzymes, have been developed to reduce the virulence of bacteria, thus reducing the pressure to produce bacterial drug resistance. Therefore, QSIs or QQ enzymes, which interfere with these processes, might potentially inhibit bacterial QS and ultimately biofilm formation. In this review, we aim to describe the state-of-art in the QS process in A. baumannii and elaborate on the use of QSIs or QQ enzymes as antimicrobial drugs in various potential sites of the QS pathway.

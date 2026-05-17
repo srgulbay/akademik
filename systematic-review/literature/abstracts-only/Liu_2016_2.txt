@@ -1,0 +1,14 @@
+PMID: 27234982
+Title: Biofilm-Related Genes: Analyses in Multi-Antibiotic Resistant Acinetobacter Baumannii Isolates From Mainland China.
+Authors: Liu H., Wu Y., Chen L., Gao X., Huang H., Qiu F., Wu D.
+Journal: Medical science monitor : international medical journal of experimental and clinical research
+Year: 2016
+DOI: 10.12659/msm.898959
+PMC: PMC4913728
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/27234982/
+DOI URL: https://doi.org/10.12659/msm.898959
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4913728/
+
+--- Abstract ---
+BACKGROUND Acinetobacter baumannii is an important nosocomial pathogen which shows a high level of mortality risk. Several papers have reported biofilm formation as a well-known pathogenic mechanism in A. baumannii infections and exceptional antibiotic resistance. The study aims to explore the potential relationships between biofilm-related genes and antimicrobial resistance. MATERIAL AND METHODS Samples from 122 patients with lower respiratory tract infections of A. baumannii were collected at Fujian Longyan First Hospital from January 2013 to September 2014. A. baumannii was isolated from sputum specimens. Biofilm-related genes including abaI, csuE, ompA, and bla-PER1 were analyzed by PCR. The minimum inhibitory concentration method was used to determine the sensitivity of each strain to antibiotics. RESULTS The clinical manifestations of A. baumannii-induced lower respiratory tract infections lacked specificity. Infected patients were most commonly admitted to intensive care units (54.9%) and frequently had chronic obstructive pulmonary disease (27.0%). The detection rates of abaI and csuE were both 59.8%, and those of ompA and bla-PER1 were 100% and 0%, respectively. After genetic testing, antimicrobial resistance to amikacin, ampicillin/sulbactam, and 14 other types of antimicrobials was higher in abaI- and csuE-positive strains than in abaI- and csuE-negative strains (P<0.05). CONCLUSIONS The findings of our study suggest that abaI- and csuE-positive Acinetobacter baumannii strains are associated with a higher incidence of antibiotic resistance in 14 types of antimicrobials.

@@ -1,0 +1,13 @@
+PMID: 36781570
+Title: Antibiofilm properties of cathelicidin LL-37: an in-depth review.
+Authors: Memariani H., Memariani M.
+Journal: World journal of microbiology & biotechnology
+Year: 2023
+DOI: 10.1007/s11274-023-03545-z
+PMC: 
+Publication types: Review; Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36781570/
+DOI URL: https://doi.org/10.1007/s11274-023-03545-z
+
+--- Abstract ---
+Notwithstanding ceaseless endeavors toward developing effective antibiofilm chemotherapeutics, biofilm-associated infections continue to be one of the most perplexing challenges confronting medicine today. Endogenous host defense peptides, such as the human cathelicidin LL-37, are being propounded as promising options for treating such infectious diseases. Over the past decennium, LL-37 has duly received tremendous research attention by virtue of its broad-spectrum antimicrobial activity and immunomodulatory properties. No attempt has hitherto been made, as far as we are aware, to comprehensively review the antibiofilm effects of LL-37. Accordingly, the intent in this paper is to provide a fairly all-embracing review of the literature available on the subject. Accumulating evidence suggests that LL-37 is able to prevent biofilm establishment by different bacterial pathogens such as Acinetobacter baumannii, Aggregatibacter actinomycetemcomitans, Bacteroides fragilis, Burkholderia thailandensis, Cutibacterium acnes, Escherichia coli, Francisella tularensis, Helicobacter pylori, Klebsiella pneumoniae, Pseudomonas aeruginosa, Staphylococcus aureus, and Streptococcus pyogenes. Inhibition of bacterial adhesion, downregulation of biofilm-associated genes, suppression of quorum-sensing pathways, degradation of biofilm matrix, and eradication of biofilm-residing cells are the major mechanisms responsible for antibiofilm properties of LL-37. In terms of its efficacy and safety in vivo, there are still many questions to be answered. Undoubtedly, LL-37 can open up new windows of opportunity to prevent and treat obstinate biofilm-mediated infections.

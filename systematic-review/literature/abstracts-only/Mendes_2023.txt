@@ -1,0 +1,14 @@
+PMID: 37897520
+Title: Co-regulation of biofilm formation and antimicrobial resistance in Acinetobacter baumannii: from mechanisms to therapeutic strategies.
+Authors: Mendes S., Combo S., Allain T., Domingues S., Buret A., Da Silva G.
+Journal: European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology
+Year: 2023
+DOI: 10.1007/s10096-023-04677-8
+PMC: PMC10651561
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/37897520/
+DOI URL: https://doi.org/10.1007/s10096-023-04677-8
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10651561/
+
+--- Abstract ---
+In recent years, multidrug-resistant Acinetobacter baumannii has emerged globally as a major threat to the healthcare system. It is now listed by the World Health Organization as a priority one for the need of new therapeutic agents. A. baumannii has the capacity to develop robust biofilms on biotic and abiotic surfaces. Biofilm development allows these bacteria to resist various environmental stressors, including antibiotics and lack of nutrients or water, which in turn allows the persistence of A. baumannii in the hospital environment and further outbreaks. Investigation into therapeutic alternatives that will act on both biofilm formation and antimicrobial resistance (AMR) is sorely needed. The aim of the present review is to critically discuss the various mechanisms by which AMR and biofilm formation may be co-regulated in A. baumannii in an attempt to shed light on paths towards novel therapeutic opportunities. After discussing the clinical importance of A. baumannii, this critical review highlights biofilm-formation genes that may be associated with the co-regulation of AMR. Particularly worthy of consideration are genes regulating the quorum sensing system AbaI/AbaR, AbOmpA (OmpA protein), Bap (biofilm-associated protein), the two-component regulatory system BfmRS, the PER-1 β-lactamase, EpsA, and PTK. Finally, this review discusses ongoing experimental therapeutic strategies to fight A. baumannii infections, namely vaccine development, quorum sensing interference, nanoparticles, metal ions, natural products, antimicrobial peptides, and phage therapy. A better understanding of the mechanisms that co-regulate biofilm formation and AMR will help identify new therapeutic targets, as combined approaches may confer synergistic benefits for effective and safer treatments.

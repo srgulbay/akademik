@@ -1,0 +1,13 @@
+PMID: 27842758
+Title: Characterisation of successive Acinetobacter baumannii isolates from a deceased haemophagocytic lymphohistiocytosis patient.
+Authors: Choi H., Kil M., Choi J., Kim S., Park K., Kim Y., Ko K.
+Journal: International journal of antimicrobial agents
+Year: 2016
+DOI: 10.1016/j.ijantimicag.2016.09.024
+PMC: 
+Publication types: Case Reports; Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/27842758/
+DOI URL: https://doi.org/10.1016/j.ijantimicag.2016.09.024
+
+--- Abstract ---
+In this study, 38 Acinetobacter baumannii isolates successively isolated from blood, skin swabs and tracheal aspirates from a single patient who died from haemophagocytic lymphohistiocytosis were investigated. The isolates were collected between March 2012 and August 2012. A. baumannii genotypes were determined by multilocus sequence typing (MLST) and pulsed-field gel electrophoresis (PFGE). In vitro antimicrobial susceptibility testing was performed and colistin heteroresistance and persistence were evaluated. The structure of AbaR resistance islands was explored, and serum sensitivity was determined. Based on MLST analysis, all 38 A. baumannii isolates showed the same sequence type (ST138). However, PFGE analysis showed that isolates from blood samples belonged to different genotypes depending on the isolation time: whilst blood isolates obtained at the early stages showed restriction patterns similar to those of isolates from other sources, isolates obtained at later stages exhibited a distinct pattern. All isolates were resistant to imipenem, cefepime, ciprofloxacin and piperacillin/tazobactam. Five isolates from tracheal aspirates and one from a skin swab were resistant to polymyxins, and two isolates from skin swabs and one from another source were non-susceptible to tigecycline. All colistin-susceptible isolates showed heteroresistance to colistin, and four were persisters. Isolates from blood showed higher survival rates against human serum than those from other sources. This study shows that the patient was infected with more than one A. baumannii strain. Heteroresistance, persistence or evasion of the innate immune response may explain the failure of antimicrobial treatments in this patient.

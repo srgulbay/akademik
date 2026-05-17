@@ -1,0 +1,10 @@
+Title: Variations of AbaR4-Type Resistance Islands in Acinetobacter baumannii Isolates from South Korea
+PMID: 22668861
+PMCID: PMC
+DOI: 10.1128/AAC.00880-12
+
+=== ABSTRACT ===
+AbaR resistance islands in Acinetobacter baumannii isolates from South Korea were investigated. AbaR4-type resistance islands, including blaOXA-23-containing Tn2006, interrupted the comM gene in A. baumannii ST75 isolates. However, Tn2006 was not identified within AbaR resistance islands of ST138 isolates, although the blaOXA-23 gene was detected in them. The similar structures of resistance islands suggest that most carbapenem-resistant A. baumannii isolates in South Korea have originated from the same ancestor with a globally disseminated clone, GC II.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

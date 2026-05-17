@@ -1,0 +1,19 @@
+PMID: 31100499
+Title: Efficacy of newly isolated and highly potent bacteriophages in a mouse model of extensively drug-resistant Acinetobacter baumannii bacteraemia.
+Authors: Leshkasheli L., Kutateladze M., Balarjishvili N., Bolkvadze D., Save J., Oechslin F., Que Y., Resch G.
+Journal: Journal of global antimicrobial resistance
+Year: 2019
+DOI: 10.1016/j.jgar.2019.05.005
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/31100499/
+DOI URL: https://doi.org/10.1016/j.jgar.2019.05.005
+
+--- Abstract ---
+OBJECTIVES: Bacteraemia can be caused by Acinetobacter baumannii (A. baumannii), with clinical manifestations ranging from transient bacteraemia to septic shock. Extensively drug-resistant A. baumannii (XDRAB) strains producing the New Delhi metallo-ß-lactamase, which confers resistance to all ß-lactams including carbapenems, have emerged. Infected patients suffer increased mortality, morbidity and length of hospitalisation. The lack of new antimicrobials has led to a renewed interest in phage therapy, the so-called forgotten cure. Accordingly, we tested new lytic bacteriophages in a Galleria mellonella and a mouse model of XDRAB-induced bacteraemia.
+
+METHODS: Galleria mellonella were challenged with 5.105 CFU of the XDRAB strain FER. Phages vB_AbaM_3054 and vB_AbaM_3090 were administrated alone or in combination 30min after bacterial challenge. Saline and imipenem were injected as controls. Mice were intraperitoneally (i.p.) challenged with 6.107 CFU of A. baumannii FER. vB_AbaM_3054 and vB_AbaM_3090 were administrated i.p. alone or in combination 2h after bacterial challenge. Saline and imipenem were injected as controls. Larvae and mice survival were followed for 7 days and compared with Log-Rank (Mantel-Cox) and Gehan-Breslow-Wilcoxon tests.
+
+RESULTS: Phage-based treatments showed high efficacy in larvae (ca. 100% survival at 80h) and mice (ca. 100% survival at day 7) compared with the untreated controls (0% survival at 48h and 24h in larvae and mice, respectively).
+
+CONCLUSIONS: The present data reporting efficacy of phage therapy in a mouse model of bacteraemia support the development of phage-based drugs to manage infection due to multi-drug resistant A. baumannii and particularly XDRAB.

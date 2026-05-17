@@ -1,0 +1,14 @@
+PMID: 36335338
+Title: Insight into carbapenem resistance and virulence of Acinetobacter baumannii from a children's medical centre in eastern China.
+Authors: Zhu Y., Zhang X., Wang Y., Tao Y., Shao X., Li Y., Li W.
+Journal: Annals of clinical microbiology and antimicrobials
+Year: 2022
+DOI: 10.1186/s12941-022-00536-0
+PMC: PMC9637306
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36335338/
+DOI URL: https://doi.org/10.1186/s12941-022-00536-0
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9637306/
+
+--- Abstract ---
+Carbapenem-resistant Acinetobacter baumannii (CRAB) appeared more frequently in children and caused a great threat to global public health. It is urgent to investigate the carbapenem resistance and virulence of CRAB for clinicians to choose appropriate antibiotics. A retrospective study of 77 nonduplicated CRAB isolates was conducted. The carbapenem resistance and virulence genes were characterized by polymerase chain reaction (PCR) and gel electrophoresis. In the present study, A. baumannii mainly came from the intensive care unit and was mostly isolated from sputum samples. The carbapenem resistant rate of A. baumannii in 2018-2020 increased significantly compared with that in 2016-2017. All isolates had carbapenem resistant genes. They were highly resistant to a variety of antibiotics but were relatively sensitive to fluoroquinolones and tetracyclines. blaVIM and blaOXA-23 were detected in all isolates, whereas blaOXA-51, blaIMP and blaNDM were present in 98.70%, 67.53% and 31.17% of isolates, respectively. Notably, 1 isolate A. baumannii was identified as multidrug-resistant A. baumannii (MDR-AB), and 76 other extensively drug-resistance (XDR) isolates were also detected. Virulence genes were present in 100% of all isolates, including genes in the iron acquisition system (basJ), secretion systems (ompA, plcD), quorum sensing system (abaI) and biofilm formation (csuA). adeH, pgaA, and ptk were present in 98.70%, 98.70% and 94.80% of isolates, respectively. CRAB, which is prevalent in east China, carries a large number of drug resistance and virulence genes. Fluoroquinolones and tetracyclines may be effective antibiotics for the treatment of CRAB infection in children. An in-depth understanding of the resistance and virulence of CRAB is conducive to timely guiding empirical drug use and controlling infection.

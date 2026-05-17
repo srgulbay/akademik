@@ -1,0 +1,14 @@
+PMID: 36030268
+Title: Human serum albumin (HSA) regulates the expression of histone-like nucleoid structure protein (H-NS) in Acinetobacter baumannii.
+Authors: Escalante J., Nishimura B., Tuttobene M., Subils T., Pimentel C., Georgeos N., Sieira R., Bonomo R., Tolmasky M., Ramirez M.
+Journal: Scientific reports
+Year: 2022
+DOI: 10.1038/s41598-022-19012-y
+PMC: PMC9420150
+Publication types: Journal Article; Research Support, Non-U.S. Gov't; Research Support, U.S. Gov't, Non-P.H.S.; Research Support, N.I.H., Extramural
+URL: https://pubmed.ncbi.nlm.nih.gov/36030268/
+DOI URL: https://doi.org/10.1038/s41598-022-19012-y
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9420150/
+
+--- Abstract ---
+According to the Centers for Disease Control and Prevention, Acinetobacter baumannii is listed among the most threatening pathogens. A. baumannii is mainly a nosocomial pathogen with a distinctive ability to survive in multiple environments. These characteristics together with this bacterium's ability to acquire antibiotic resistance determinants make it a notorious pathogen. The presence of human serum albumin (HSA) is associated with modification of expression levels in numerous genes. The presence of HSA in the culture medium is also correlated with a reduction in levels of the global suppressor histone-like nucleoid structure protein, H-NS. Comparative transcriptome analysis of the wild type and isogenic Δhns strains cultured in lysogeny broth (LB) in the presence or absence of HSA revealed that the expression of a subset of eleven genes are modified in the Δhns cultured in LB and the wild-type strain in the presence of HSA, pointing out these genes as candidates to be regulated by the presence of HSA through H-NS. Six and five of these genes were up- or down-regulated, respectively. Three of these genes have functions in quorum sensing (acdA, kar and fadD), one in quorum quenching (aidA), two in stress response (katE, ywrO), three in metabolism (phaC, yedL1, and yedL2), one in biofilm formation (csuAB), and one in β-oxidation of fatty acids (fadA). The regulation of these genes was assessed by: (i) transcriptional analysis and qPCR at the transcriptional level; and (ii) by determining the phenotypic characteristics of each function. The results of these studies support the hypothesis that HSA-mediated reduction of H-NS levels may be one very important regulatory circuit utilized by A. baumannii to adapt to selected environments, such as those where HSA-containing human fluids are abundant.

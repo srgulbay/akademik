@@ -1,0 +1,13 @@
+PMID: 26350174
+Title: Effect of iron on expression of efflux pump (adeABC) and quorum sensing (luxI, luxR) genes in clinical isolates of Acinetobacter baumannii.
+Authors: Modarresi F., Azizi O., Shakibaie M., Motamedifar M., Valibeigi B., Mansouri S.
+Journal: APMIS : acta pathologica, microbiologica, et immunologica Scandinavica
+Year: 2015
+DOI: 10.1111/apm.12455
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/26350174/
+DOI URL: https://doi.org/10.1111/apm.12455
+
+--- Abstract ---
+Resistance-nodulation-division efflux system (RND) adeABC contributes to intrinsic resistance to various drug classes in Acinetobacter baumannii. Similarly, quorum sensing (QS) plays an important role in the biofilm formation and pathogenicity of this bacterium. The aims of this study were to evaluate the influence of iron limitation on the expression of efflux pump (adeABC) genes and QS (luxI, luxR) system by relative quantitative real-time polymerase chain reaction (qRT-PCR). In addition, DNA sequence and phylogenetic relatedness of biofilm-associated protein (Bap) gene was also investigated. Sixty-five multidrug-resistant isolates of A. baumannii were recovered from ICU patients of three hospitals in Kerman, Iran. The isolates were highly resistant to at least 11 antibiotics (MIC ≥64 μg/mL); however, 87% and 89% were susceptible to colistin and tigecycline, respectively (MIC 0.05 μg/mL) (p ≤ 0.05). We detected the presence of RND efflux pump, QS, and bap genes with the frequencies of 92% (adeA), 61.5% (adeB), 84.6% (adeC), 80% (luxI), 61% (luxR), and 66% (bap), respectively. qRT-PCR analysis showed that in some isolates, expression of both adeABC and luxI/R was increased more than fourfold in the presence of low iron (20 μm), suggesting the additional regulatory role of iron on both efflux pump and QS system. Alignment and phylogenetic analysis on the strong biofilm forming isolates confirmed that the fragments amplified were indeed part of bap gene and deduced sequence was similar to A. baumannii K9B410.

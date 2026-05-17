@@ -1,0 +1,14 @@
+PMID: 39160175
+Title: Carbapenem-resistant Acinetobacter baumannii (CRAB): metabolic adaptation and transcriptional response to human urine (HU).
+Authors: Escalante J., Hamza M., Nishimura B., Melecio M., Davies-Sala C., Tuttobene M., Subils T., Traglia G., Pham C., Sieira R., Actis L., Bonomo R., Tolmasky M., Ramirez M.
+Journal: Scientific reports
+Year: 2024
+DOI: 10.1038/s41598-024-70216-w
+PMC: PMC11333713
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39160175/
+DOI URL: https://doi.org/10.1038/s41598-024-70216-w
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11333713/
+
+--- Abstract ---
+Carbapenem-resistant Acinetobacter baumannii (CRAB) is a major human pathogen and a research priority for developing new antimicrobial agents. CRAB is a causative agent of a variety of infections in different body sites. One of the manifestations is catheter-associated urinary tract infection, which exposes the bacteria to the host's urine, creating a particular environment. Exposure of two CRAB clinical isolates, AB5075 and AMA40, to human urine (HU) resulted in the differential expression levels of 264 and 455 genes, respectively, of which 112 were common to both strains. Genes within this group play roles in metabolic pathways such as phenylacetic acid (PAA) catabolism, the Hut system, the tricarboxylic acid (TCA) cycle, and other processes like quorum sensing and biofilm formation. These results indicate that the presence of HU induces numerous adaptive changes in gene expression of the infecting bacteria. These changes presumably help bacteria establish and thrive in the hostile conditions in the urinary tract. These analyses advance our understanding of CRAB's metabolic adaptations to human fluids, as well as expand knowledge on bacterial responses to distinct human fluids containing different concentrations of human serum albumin (HSA).

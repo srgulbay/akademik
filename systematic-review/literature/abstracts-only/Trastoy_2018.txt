@@ -1,0 +1,14 @@
+PMID: 30068737
+Title: Mechanisms of Bacterial Tolerance and Persistence in the Gastrointestinal and Respiratory Environments.
+Authors: Trastoy R., Manso T., Fernández-García L., Blasco L., Ambroa A., Pérez Del Molino M., Bou G., García-Contreras R., Wood T., Tomás M.
+Journal: Clinical microbiology reviews
+Year: 2018
+DOI: 10.1128/CMR.00023-18
+PMC: PMC6148185
+Publication types: Journal Article; Research Support, Non-U.S. Gov't; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/30068737/
+DOI URL: https://doi.org/10.1128/CMR.00023-18
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6148185/
+
+--- Abstract ---
+Pathogens that infect the gastrointestinal and respiratory tracts are subjected to intense pressure due to the environmental conditions of the surroundings. This pressure has led to the development of mechanisms of bacterial tolerance or persistence which enable microorganisms to survive in these locations. In this review, we analyze the general stress response (RpoS mediated), reactive oxygen species (ROS) tolerance, energy metabolism, drug efflux pumps, SOS response, quorum sensing (QS) bacterial communication, (p)ppGpp signaling, and toxin-antitoxin (TA) systems of pathogens, such as Escherichia coli, Salmonella spp., Vibrio spp., Helicobacter spp., Campylobacter jejuni, Enterococcus spp., Shigella spp., Yersinia spp., and Clostridium difficile, all of which inhabit the gastrointestinal tract. The following respiratory tract pathogens are also considered: Staphylococcus aureus, Pseudomonas aeruginosa, Acinetobacter baumannii, Burkholderia cenocepacia, and Mycobacterium tuberculosis Knowledge of the molecular mechanisms regulating the bacterial tolerance and persistence phenotypes is essential in the fight against multiresistant pathogens, as it will enable the identification of new targets for developing innovative anti-infective treatments.

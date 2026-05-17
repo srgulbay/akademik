@@ -1,0 +1,13 @@
+PMID: 31816255
+Title: Prevalence of Genes Involved in Colistin Resistance in Acinetobacter baumannii: First Report from Iraq.
+Authors: Al-Kadmy I., Ibrahim S., Al-Saryi N., Aziz S., Besinis A., Hetta H.
+Journal: Microbial drug resistance (Larchmont, N.Y.)
+Year: 2019
+DOI: 10.1089/mdr.2019.0243
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/31816255/
+DOI URL: https://doi.org/10.1089/mdr.2019.0243
+
+--- Abstract ---
+Background and Aim: Colistin is increasingly being used as a "last-line" therapy to treat infections caused by multidrug-resistant (MDR) Acinetobacter baumannii isolates, when essentially no other options are available in these days. The aim of this study was to detect genes associated with colistin resistance in A. baumannii. Methods: One hundred twenty-one isolates of A. baumannii were collected from clinical and environmental samples during 2016 to 2018 in Baghdad. Isolates were diagnosed as A. baumannii by using morphological tests, Vitek-2 system, 16SrRNA PCR amplification, and sequencing. Antibiotic susceptibility test was carried out using disk diffusion method. Phenotypic detection of colistin resistance was performed by CHROMagar™ COL-APSE medium and broth microdilution method for the determination of the minimal inhibitory concentration. Molecular detection of genes responsible for colistin resistance in A. baumannii was performed by PCR. Results: Ninety-two (76%) of the 121 A. baumannii isolates were colistin resistant. Twenty-six (21.5%) of the 121 isolates showed positive growth on CHROMagar Acinetobacter base for MDR. PCR detected mcr-1, mcr-2, and mcr-3 genes in 89 (73.5%), 78 (64.5%), and 82 (67.8%) A. baumannii isolates, respectively. Seventy-eight (64.5%) of the 121 isolates harbored the integron intI2 gene and 81 (66.9%) contained intI3 gene. Moreover, 60 (49.6%) of the 121 isolates were positive for the quorum sensing lasI gene. Conclusion: The presence of a large percentage of colistin-resistant A. baumannii strains in Baghdad may be due to the presence of mobile genetic elements, and it is urgent to avoid unnecessary clinical use of colistin.

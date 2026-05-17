@@ -1,0 +1,14 @@
+PMID: 30258941
+Title: In silico sgRNA tool design for CRISPR control of quorum sensing in Acinetobacter species.
+Authors: Karlapudi A., T C V., Tammineedi J., Srirama K., Kanumuri L., Prabhakar Kodali V.
+Journal: Genes & diseases
+Year: 2018
+DOI: 10.1016/j.gendis.2018.03.004
+PMC: PMC6146548
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/30258941/
+DOI URL: https://doi.org/10.1016/j.gendis.2018.03.004
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6146548/
+
+--- Abstract ---
+CRISPR genome editing utilizes Cas9 nuclease and single guide RNA (sgRNA), which directs the nuclease to a specific site in the genome and makes a double-stranded break (DSB). Design of sgRNA for CRISPR-Cas targeting, and to promote CRISPR adaptation, uses a regulatory mechanism that ensures maximum CRISPR-Cas9 system functions when a bacterial population is at highest risk of phage infection. Acinetobacter baumannii is the most regularly identified gram-negative bacterium infecting patients. Recent reports have demonstrated that the extent of diseases caused by A. baumannii is expanding and, in a few cases, now surpasses the quantity of infections caused by P. aeruginosa. Most Acinetobacter strains possess biofilm-forming ability, which plays a major role in virulence and drug resistance. Biofilm bacteria use quorum sensing, a cell-to-cell communication process, to activate gene expression. Many genes are involved in biofilm formation and the mechanism to disrupt the biofilm network is still not clearly understood. In this study, we performed in silico gene editing to exploit the AbaI gene, responsible for biofilm formation. The study explored different tools available for genome editing to create gene knockouts, selecting the A. baumannii AbaI gene as a target.

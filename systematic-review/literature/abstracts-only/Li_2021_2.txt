@@ -1,0 +1,20 @@
+PMID: 34262306
+Title: Phenotypic and Genotypic Characteristics of Biofilm Formation in Clinical Isolates of Acinetobacter baumannii.
+Authors: Li Z., Ding Z., Liu Y., Jin X., Xie J., Li T., Zeng Z., Wang Z., Liu J.
+Journal: Infection and drug resistance
+Year: 2021
+DOI: 10.2147/IDR.S310081
+PMC: PMC8274629
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/34262306/
+DOI URL: https://doi.org/10.2147/IDR.S310081
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8274629/
+
+--- Abstract ---
+BACKGROUND: Acinetobacter baumannii is an important pathogen in clinical infections, and biofilm formation is an effective way for A. baumannii to survive under external pressures. In this study, the aims were to examine the antimicrobial resistance, biofilm formation, and biofilm-specific resistance in clinical isolates of A. baumannii.
+
+MATERIALS AND METHODS: A total of 104 clinical A. baumannii isolates were collected from a large teaching hospital in Southwest China. The antibiotics susceptibilities were tested, and biofilm-forming ability was evaluated by crystal violet staining by confocal laser scanning microscopy (CLSM). Minimum inhibitory concentration (MIC), minimum bactericidal concentration (MBC), minimum biofilm inhibitory concentration (MBIC), and minimum biofilm eradication concentration (MBEC) of ciprofloxacin, meropenem, and ceftazidime were tested on selected strains by broth microdilution method. Biofilm-associated genes were detected by polymerase chain reaction (PCR), and expression of genes at planktonic stage and biofilm stage were analyzed by real-time reverse transcription PCR (RT-PCR).
+
+RESULTS: Multidrug-resistant (MDR) isolates accounted for 65.4%, but no strain was resistant to tigecycline and polymyxin B. Moreover, non-MDR strains tended to form stronger biofilms than MDR strains, and a negative correlation between biofilm-forming ability and resistance profiles to each of tested antimicrobials were observed. The MBECs and MBICs of ciprofloxacin, ceftazidime, and meropenem were evidently increased compared with MICs and MBCs among all tested strains. Additionally, the biofilm formation ability of the csuD-positive strains was stronger than that of the csuD-negative strains. The strains in MDR group had higher carrying rate of csuA and csuD genes than non-MDR group, while non-MDR strains possessed more ompA gene than MDR group. Finally, abaI gene was significantly up-regulated after biofilm formation.
+
+CONCLUSION: These results revealed valuable data for the negative correlation between antimicrobial resistance and biofilm formation, as well as phenotypic and genotypic characteristics of biofilm formation in A. baumannii.

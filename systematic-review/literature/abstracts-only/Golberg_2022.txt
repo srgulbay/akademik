@@ -1,0 +1,14 @@
+PMID: 35631553
+Title: Anti-Virulence Activity of 3,3'-Diindolylmethane (DIM): A Bioactive Cruciferous Phytochemical with Accelerated Wound Healing Benefits.
+Authors: Golberg K., Markus V., Kagan B., Barzanizan S., Yaniv K., Teralı K., Kramarsky-Winter E., Marks R., Kushmaro A.
+Journal: Pharmaceutics
+Year: 2022
+DOI: 10.3390/pharmaceutics14050967
+PMC: PMC9144697
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/35631553/
+DOI URL: https://doi.org/10.3390/pharmaceutics14050967
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9144697/
+
+--- Abstract ---
+Antimicrobial resistance is among the top global health problems with antibacterial resistance currently representing the major threat both in terms of occurrence and complexity. One reason current treatments of bacterial diseases are ineffective is the occurrence of protective and resistant biofilm structures. Phytochemicals are currently being reviewed for newer anti-virulence agents. In the present study, we aimed to investigate the anti-virulence activity of 3,3'-diindolylmethane (DIM), a bioactive cruciferous phytochemical. Using a series of in vitro assays on major Gram-negative pathogens, including transcriptomic analysis, and in vivo porcine wound studies as well as in silico experiments, we show that DIM has anti-biofilm activity. Following DIM treatment, our findings show that biofilm formation of two of the most prioritized bacterial pathogens Acinetobacter baumannii and Pseudomonas aeruginosa was inhibited respectively by 65% and 70%. Combining the antibiotic tobramycin with DIM enabled a high inhibition (94%) of P. aeruginosa biofilm. A DIM-based formulation, evaluated for its wound-healing efficacy on P. aeruginosa-infected wounds, showed a reduction in its bacterial bioburden, and wound size. RNA-seq was used to evaluate the molecular mechanism underlying the bacterial response to DIM. The gene expression profile encompassed shifts in virulence and biofilm-associated genes. A network regulation analysis showed the downregulation of 14 virulence-associated super-regulators. Quantitative real-time PCR verified and supported the transcriptomic results. Molecular docking and interaction profiling indicate that DIM can be accommodated in the autoinducer- or DNA-binding pockets of the virulence regulators making multiple non-covalent interactions with the key residues that are involved in ligand binding. DIM treatment prevented biofilm formation and destroyed existing biofilm without affecting microbial death rates. This study provides evidence for bacterial virulence attenuation by DIM.

@@ -1,0 +1,14 @@
+PMID: 34531538
+Title: Histone-like nucleoid-structuring protein (H-NS) regulatory role in antibiotic resistance in Acinetobacter baumannii.
+Authors: Rodgers D., Le C., Pimentel C., Tuttobene M., Subils T., Escalante J., Nishimura B., Vescovi E., Sieira R., Bonomo R., Tolmasky M., Ramirez M.
+Journal: Scientific reports
+Year: 2021
+DOI: 10.1038/s41598-021-98101-w
+PMC: PMC8446060
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't; Research Support, U.S. Gov't, Non-P.H.S.
+URL: https://pubmed.ncbi.nlm.nih.gov/34531538/
+DOI URL: https://doi.org/10.1038/s41598-021-98101-w
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8446060/
+
+--- Abstract ---
+In the multidrug resistant (MDR) pathogen Acinetobacter baumannii the global repressor H-NS was shown to modulate the expression of genes involved in pathogenesis and stress response. In addition, H-NS inactivation results in an increased resistance to colistin, and in a hypermotile phenotype an altered stress response. To further contribute to the knowledge of this key transcriptional regulator in A. baumannii behavior, we studied the role of H-NS in antimicrobial resistance. Using two well characterized A. baumannii model strains with distinctive resistance profile and pathogenicity traits (AB5075 and A118), complementary transcriptomic and phenotypic approaches were used to study the role of H-NS in antimicrobial resistance, biofilm and quorum sensing gene expression. An increased expression of genes associated with β-lactam resistance, aminoglycosides, quinolones, chloramphenicol, trimethoprim and sulfonamides resistance in the Δhns mutant background was observed. Genes codifying for efflux pumps were also up-regulated, with the exception of adeFGH. The wild-type transcriptional level was restored in the complemented strain. In addition, the expression of biofilm related genes and biofilm production was lowered when the transcriptional repressor was absent. The quorum network genes aidA, abaI, kar and fadD were up-regulated in Δhns mutant strains. Overall, our results showed the complexity and scope of the regulatory network control by H-NS (genes involved in antibiotic resistance and persistence). These observations brings us one step closer to understanding the regulatory role of hns to combat A. baumannii infections.

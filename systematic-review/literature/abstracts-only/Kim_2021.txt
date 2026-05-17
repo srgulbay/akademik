@@ -1,0 +1,14 @@
+PMID: 34696704
+Title: Global regulator DksA modulates virulence of Acinetobacter baumannii.
+Authors: Kim N., Son J., Kim K., Kim H., Kim Y., Shin M., Lee J.
+Journal: Virulence
+Year: 2021
+DOI: 10.1080/21505594.2021.1995253
+PMC: PMC8583241
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/34696704/
+DOI URL: https://doi.org/10.1080/21505594.2021.1995253
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8583241/
+
+--- Abstract ---
+DksA with (p)ppGpp regulates a wide range of gene transcriptions during the stringent response. The aim of this study was to identify a DksA ortholog in Acinetobacter baumannii and clarify the roles of DksA in bacterial physiology and virulence. The ∆dksA mutant and its complemented strains were constructed using A. baumannii ATCC 17978. The AlS_0248 in A. baumannii ATCC 17978 was identified to dksA using sequence homology, protein structure prediction, and gene expression patterns under different culture conditions. The ∆dksA mutant strain showed a filamentous morphology compared with the wild-type (WT) strain. Bacterial growth was decreased in the ∆dksA mutant strain under static conditions. Surface motility was decreased in the ∆dksA mutant strain compared with the WT strain. In contrast, biofilm formation was increased and biofilm-associated genes, such as bfmR/S and csuC/D/E, were upregulated in the ∆dksA mutant strain. The ∆dksA mutant strain produced less autoinducers than the WT strain. The expression of abaI and abaR was significantly decreased in the ∆dksA mutant strain. Furthermore, the ∆dksA mutant strain showed less bacterial burden and milder histopathological changes in the lungs of mice than the WT strain. Mice survival was also significantly different between the ∆dksA mutant and WT strains. Conclusively, DksA is directly or indirectly involved in regulating a wide range of genes associated with bacterial physiology and virulence, which contributes to the pathogenesis of A. baumannii. Thus, DksA is a potential anti-virulence target for A. baumannii infection.

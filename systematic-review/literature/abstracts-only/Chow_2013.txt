@@ -1,0 +1,14 @@
+PMID: 24379199
+Title: Disruption of biofilm formation by the human pathogen Acinetobacter baumannii using engineered quorum-quenching lactonases.
+Authors: Chow J., Yang Y., Tay S., Chua K., Yew W.
+Journal: Antimicrobial agents and chemotherapy
+Year: 2013
+DOI: 10.1128/AAC.02410-13
+PMC: PMC3957888
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/24379199/
+DOI URL: https://doi.org/10.1128/AAC.02410-13
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3957888/
+
+--- Abstract ---
+Acinetobacter baumannii is a major human pathogen associated with multidrug-resistant nosocomial infections; its virulence is attributed to quorum-sensing-mediated biofilm formation, and disruption of biofilm formation is an attractive antivirulence strategy. Here, we report the first successful demonstration of biofilm disruption in a clinical isolate of A. baumannii S1, using a quorum-quenching lactonase obtained by directed evolution; this engineered lactonase significantly reduced the biomass of A. baumannii-associated biofilms, demonstrating the utility of this antivirulence strategy.

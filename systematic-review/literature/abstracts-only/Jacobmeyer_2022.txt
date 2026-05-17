@@ -1,0 +1,14 @@
+PMID: 36009914
+Title: Genomic Analysis of Acinetobacter baumannii Isolates Carrying OXA-23 and OXA-58 Genes from Animals Reveals ST1 and ST25 as Major Clonal Lineages.
+Authors: Jacobmeyer L., Semmler T., Stamm I., Ewers C.
+Journal: Antibiotics (Basel, Switzerland)
+Year: 2022
+DOI: 10.3390/antibiotics11081045
+PMC: PMC9404926
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36009914/
+DOI URL: https://doi.org/10.3390/antibiotics11081045
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9404926/
+
+--- Abstract ---
+Acinetobacter baumannii is increasingly being recognized as a relevant pathogen for animals with a putative zoonotic impact. This study aimed at identifying and characterizing carbapenemase-producing A. baumannii from animals. Among 503 A. baumannii, mainly isolated from dogs/cats (75.7%) between 2013 and 2018, 42 isolates from 22 veterinary clinics (VCs) harboured blaOXA-58 (n = 29) or blaOXA-23 (n = 13). The blaOXA-58 gene was located on plasmids (11.4-21.1 kb) within different genetic surroundings (patterns A-D). BlaOXA-23 was embedded in Tn2006 on the chromosome (n = 4; pattern a) or Tn2008 on plasmids (n = 9; 41.2-71.3 kb; patterns b-e). The predominant IC1-ST1P-OXA-58 (66.7%; 96.4% cgMLST complex type (CT)-1808) was disseminated among 11 VCs in Germany. Resistance islands AbaR3-like (n = 15) and AbaR10 (n = 1) have emerged among ST1-isolates since 2016. IC7-ST25P-OXA-23 isolates (21.4%) occurred in seven VCs in Germany, France and Italy and differed in their resistance gene patterns from those of OXA-58 isolates. They were separated into six CTs, basically according to their regional origin. Other STs observed were ST10, ST578 and ST602. In conclusion, OXA-23 and OXA-58 were linked with ST1 and ST25, two globally distributed lineages in humans. The suggested transmission of certain lineages within and among VCs together with the acquisition of AbaR islands hints at a successful dissemination of multidrug-resistant strains in the VC environment.

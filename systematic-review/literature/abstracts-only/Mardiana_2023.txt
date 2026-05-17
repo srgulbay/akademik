@@ -1,0 +1,14 @@
+PMID: 37443351
+Title: Characterization of a novel and active temperate phage vB_AbaM_ABMM1 with antibacterial activity against Acinetobacter baumannii infection.
+Authors: Mardiana M., Teh S., Tsai Y., Yang H., Lin L., Lin N.
+Journal: Scientific reports
+Year: 2023
+DOI: 10.1038/s41598-023-38453-7
+PMC: PMC10345192
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/37443351/
+DOI URL: https://doi.org/10.1038/s41598-023-38453-7
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10345192/
+
+--- Abstract ---
+Acinetobacter baumannii is an opportunistic pathogen that significantly causes hospital-acquired infections. Due to its multidrug resistance, treating infections caused by this pathogen is challenging. Recently, phages have gained attention as a potential alternative to antibiotics in treating bacterial infections. While lytic phages are preferred in therapy, the use of temperate phages for this purpose has received less attention. This study characterized a novel temperate phage vB_AbaM_ABMM1 (ABMM1) with antibacterial activity toward A. baumannii. ABMM1 adsorbs quickly, has short latent periods, and is relatively stable at various temperatures and neutral pH. ABMM1 has an icosahedral head and a contractile tail. It has a 75,731 kb circular permuted dsDNA genome containing 86 gene products with 37.3% G + C content and a mosaic arrangement typical of temperate phages. Genomic analysis confirmed that ABMM1 does not have antibiotic-resistance genes or virulence-related factors. The packaging strategy was predicted in silico, suggesting that ABMM1 represents a headful phage. Only truncated ABMM1 prophage was detected and has similarity in the genome of several A. baumannii strains. Despite its ability to integrate into the host chromosome, the high MOI of ABMM1 (MOI 10) effectively killed the host bacterial cells and reduced the fatality rate of bacterial infection in the zebrafish model. These findings indicate that ABMM1 can be an alternative treatment for A. baumannii infection.

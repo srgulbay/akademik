@@ -1,0 +1,14 @@
+PMID: 33114026
+Title: Phytochemical Screening, Antibacterial, Antifungal, Antiviral, Cytotoxic, and Anti-Quorum-Sensing Properties of Teucrium polium L. Aerial Parts Methanolic Extract.
+Authors: Alreshidi M., Noumi E., Bouslama L., Ceylan O., Veettil V., Adnan M., Danciu C., Elkahoui S., Badraoui R., Al-Motair K., Patel M., De Feo V., Snoussi M.
+Journal: Plants (Basel, Switzerland)
+Year: 2020
+DOI: 10.3390/plants9111418
+PMC: PMC7690738
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/33114026/
+DOI URL: https://doi.org/10.3390/plants9111418
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7690738/
+
+--- Abstract ---
+The chemical profile of Teucrium polium L. (T. polium) methanolic extract was tested using liquid chromatography coupled with high resolution mass spectrometry (HR-LCMS). Disc diffusion and microdilution assays were used for the antimicrobial activities. Coxsackievirus B-3 (CVB3) and Herpes simplex virus type 2 (HSV-2) were used for the antiviral activities. Chromobacterium violaceum (ATCC 12472 and CV026) and Pseudomonas aeruginosa PAO1 were used as starter strains for the anti-quorum sensing tests. Isoprenoids are the main class of compounds identified, and 13R-hydroxy-9E,11Z-octadecadienoic acid, valtratum, rhoifolin, sericetin diacetate, and dihydrosamidin were the dominant phytoconstituents. The highest mean diameter of growth inhibition zone was recorded for Acinetobacter baumannii (19.33 ± 1.15 mm). The minimal inhibitory concentrations were ranging from 6.25 to 25 mg/mL for bacterial strains, and from 6.25 to 25 mg/mL for Candida species. The 50% cytotoxic concentration on VERO (African Green Monkey Kidney) cell lines was estimated at 209 µg/mL. No antiviral activity was recorded. Additionally, T. polium extract was able to inhibit P. aeruginosa PAO1 motility in a concentration-dependent manner. However, the tested extract was able to inhibit 23.66% of the swarming and 35.25% of swimming capacities of PAO1 at 100 µg/mL. These results highlighted the role of germander as a potent antimicrobial agent that can interfere with the virulence factors controlled by the quorum-sensing systems.

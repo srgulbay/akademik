@@ -1,0 +1,14 @@
+PMID: 40686839
+Title: Genomic insights into biofilm-associated virulence in extensively drug-resistant Acinetobacter baumannii.
+Authors: Wiradiputra M., Khuntayaporn P., Thirapanmethee K., Wanapaisan P., Chomnawang M.
+Journal: Current research in microbial sciences
+Year: 2025
+DOI: 10.1016/j.crmicr.2025.100434
+PMC: PMC12272471
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40686839/
+DOI URL: https://doi.org/10.1016/j.crmicr.2025.100434
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12272471/
+
+--- Abstract ---
+Acinetobacter baumannii is a notorious nosocomial pathogen known for its resistance to multiple antimicrobials, with biofilm formation contributing to its persistence in hospital environments. This study characterized biofilm-associated virulence genes in extensively drug-resistant (XDR) A. baumannii isolates from two distinct lineages, ST2 and ST25, to understand their roles in biofilm formation and antimicrobial resistance. From 135 non-repetitive multidrug-resistant (MDR) clinical isolates collected across Thailand, 15 XDR isolates (14 ST2 and 1 ST25) were selected for further analysis. Whole-genome sequencing (WGS) was performed to identify biofilm-associated genes and sequence polymorphisms. Biofilm formation and motility phenotypes were assessed, and gene expression analysis was evaluated by qRT-PCR. Most isolates (66.7 %) were moderate biofilm formers, and 80 % exhibiting higher biofilm biomass than the reference strain ATCC 19606. Notably, isolates with lower antimicrobial resistance profiles (i.e., relatively more susceptible among XDRs) tended to produce stronger biofilms. Significant variations in key biofilm genes were observed. Specifically, the abaIR quorum-sensing system was absent in 33.3 % of isolates. All ST2 strains carried bap type-2 with 4-11 BC repeats, while ST25 harboured bap type-3. ompA variants also showed lineage specificity (variant V1 in ST2 and V3 in ST25). All isolates harboured type 1 secretion system (T1SS) operon, however an ISAba1 insertion in the tolC in ST25 may impair protein secretion. Additionally, a nonsense mutation at codon 57 (TTA→TAA) in pilA was identified in all ST2 isolates, potentially accounting for the lack of twitching motility. These findings highlight the substantial genetic and phenotypic variability in biofilm-associated genes among XDR A. baumannii, providing insights into their persistence in healthcare settings.

@@ -1,0 +1,22 @@
+PMID: 40057696
+Title: Characterization of a novel lytic phage vB_AbaM_AB4P2 encoding depolymerase and its application in eliminating biofilms formed by Acinetobacter baumannii.
+Authors: Su J., Tan Y., Liu S., Zou H., Huang X., Chen S., Zhang H., Li S., Zeng H.
+Journal: BMC microbiology
+Year: 2025
+DOI: 10.1186/s12866-025-03854-3
+PMC: PMC11889872
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40057696/
+DOI URL: https://doi.org/10.1186/s12866-025-03854-3
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11889872/
+
+--- Abstract ---
+BACKGROUND: Acinetobacter baumannii strains are a primary cause of hospital-acquired infections. This bacterium frequently causes biofilm-related infections, notably ventilator-associated pneumonia and catheter-related infections, which exhibit remarkable resistance to antibiotic treatment, posing a severe challenge in the prevention of A. baumannii infections. Therefore, strategies to eliminate the biofilm of A. baumannii in catheters are becoming increasingly important. Phages are capable of lysing bacteria and have a certain effect on the ablation of biofilms.
+
+METHODS: Sewage treatment plant water was collected for the isolation of A. baumannii phages. The morphological, host range, one-step growth, temperature and pH stability, bactericidal activity, sequencing and genomic analysis were performed to characterize the isolated phage. The three-dimensional structure of the tail fiber protein was predicted by AlphaFold3. The efficacy of phage in clearing biofilms of A. baumannii from 24-well plates and PVC catheters was also evaluated.
+
+RESULTS: In this study, A. baumannii lytic phage vB_AbaM_AB4P2 was isolated from sewage treatment plant water, showing a clear plaque with halo zone. One-step growth assays unveiled a 20-minute latent period and a burst size of 61 plaque forming unit/cell (PFU/cell). At the same time, phage AB4P2 exhibited remarkable stability at pH 3-11 and temperatures 30-70 °C. Its dsDNA genome is composed of 45,680 bp with a G + C content of 46.13%. Genomic and phylogenetic analysis situated phage AB4P2 as a new species of Caudoviricetes class. Its fiber protein possesses a pectin lyase-like domain that is linked to depolymerase activity, playing a crucial role in disrupting biofilms. Additionally, it also encodes a lysis cassette comprising endolysin, holin and Rz-like spanin, yet lacks any genes responsible for antibiotic resistance and virulence factors. Phage AB4P2 can completely inhibit A. baumannii growth for 16 h. In the 24-well plate and the polyvinyl chloride (PVC) catheter model experiments, phage AB4P2 achieved a significant biofilm ablation rate and effectively killed the live bacterial cells in the biofilm.
+
+CONCLUSIONS: Phage AB4P2 had good environmental stability and strong ability to inhibit the growth of A. baumannii and destroy formed biofilms by A. baumannii. It exhibits promising potential for development as an alternative environmental disinfectant against A. baumannii in the hospital.
+
+CLINICAL TRIAL NUMBER: Not applicable.

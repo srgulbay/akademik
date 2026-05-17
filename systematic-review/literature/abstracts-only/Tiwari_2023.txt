@@ -1,0 +1,14 @@
+PMID: 36685419
+Title: Assessment of potassium ion channel during electric signalling in biofilm formation of Acinetobacter baumannii for finding antibiofilm molecule.
+Authors: Tiwari M., Panwar S., Tiwari V.
+Journal: Heliyon
+Year: 2023
+DOI: 10.1016/j.heliyon.2023.e12837
+PMC: PMC9852675
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36685419/
+DOI URL: https://doi.org/10.1016/j.heliyon.2023.e12837
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9852675/
+
+--- Abstract ---
+Acinetobacter baumannii is an opportunistic ESKAPE pathogen which causes nosocomial infections and can produce biofilms that act as resistant determinants. The role of quorum sensing (chemical signaling) in biofilm establishment has already been studied extensively, but the existence of electrochemical signaling during biofilm formation by A. baumannii has not yet been investigated. The current study evaluated the presence of electrical signaling, types of ion channels involved, and their role in biofilm formation using spectroscopic and microbiological methods. The findings suggest that the potassium ion channel has a significant role in the electrical signaling during the biofilm formation by A. baumannii. Further, in-silico screening, molecular mechanics, and molecular dynamic simulation studies identify a potential lead, ZINC12496555(a specific inhibitor), which targets the potassium ion channel protein of A. baumannii. Mutational analysis of the interacting residues showed alterations in the unfolding rate of this protein after the selected mutation, which shows its role in the stability of this protein. It was also observed that identified lead has high antibiofilm activity, no human off-targets, and non-cytotoxicity to cell lines. Thus, identified lead against the potassium channel of A baumannii may be used as an effective therapeutic for the treatment of A. baumannii infections after further experimental validation.

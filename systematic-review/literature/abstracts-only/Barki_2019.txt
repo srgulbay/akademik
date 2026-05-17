@@ -1,0 +1,22 @@
+PMID: 29099398
+Title: Electric Field Based Dressing Disrupts Mixed-Species Bacterial Biofilm Infection and Restores Functional Wound Healing.
+Authors: Barki K., Das A., Dixith S., Ghatak P., Mathew-Steiner S., Schwab E., Khanna S., Wozniak D., Roy S., Sen C.
+Journal: Annals of surgery
+Year: 2019
+DOI: 10.1097/SLA.0000000000002504
+PMC: PMC6568008
+Publication types: Journal Article; Research Support, N.I.H., Extramural
+URL: https://pubmed.ncbi.nlm.nih.gov/29099398/
+DOI URL: https://doi.org/10.1097/SLA.0000000000002504
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6568008/
+
+--- Abstract ---
+OBJECTIVE: This study was designed to employ electroceutical principles, as an alternative to pharmacological intervention, to manage wound biofilm infection. Mechanism of action of a United States Food and Drug Administration-cleared wireless electroceutical dressing (WED) was tested in an established porcine chronic wound polymicrobial biofilm infection model involving inoculation with Pseudomonas aeruginosa PAO1 and Acinetobacter baumannii 19606.
+
+BACKGROUND: Bacterial biofilms represent a major wound complication. Resistance of biofilm toward pharmacologic interventions calls for alternative therapeutic strategies. Weak electric field has anti-biofilm properties. We have previously reported the development of WED involving patterned deposition of Ag and Zn on fabric. When moistened, WED generates a weak electric field without any external power supply and can be used as any other disposable dressing.
+
+METHODS: WED dressing was applied within 2 hours of wound infection to test its ability to prevent biofilm formation. Alternatively, WED was applied after 7 days of infection to study disruption of established biofilm. Wounds were treated with placebo dressing or WED twice a week for 56 days.
+
+RESULTS: Scanning electron microscopy demonstrated that WED prevented and disrupted wound biofilm aggregates. WED accelerated functional wound closure by restoring skin barrier function. WED blunted biofilm-induced expression of (1) P. aeruginosa quorum sensing mvfR (pqsR), rhlR and lasR genes, and (2) miR-9 and silencing of E-cadherin. E-cadherin is critically required for skin barrier function. Furthermore, WED rescued against biofilm-induced persistent inflammation by circumventing nuclear factor kappa B activation and its downstream cytokine responses.
+
+CONCLUSION: This is the first pre-clinical porcine mechanistic study to recognize the potential of electroceuticals as an effective platform technology to combat wound biofilm infection.

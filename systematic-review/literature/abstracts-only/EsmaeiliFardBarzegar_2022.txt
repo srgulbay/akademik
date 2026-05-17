@@ -1,0 +1,20 @@
+PMID: 36531823
+Title: Lytic potential of a filamentous bacteriophage isolated from sewage water in Tehran on clinical carbapenem-resistant strains.
+Authors: Esmaeili-Fard-Barzegar K., Najar-Peerayeh S., Mazaheri Nezhad Fard R., Bakhshi B.
+Journal: Iranian journal of microbiology
+Year: 2022
+DOI: 10.18502/ijm.v14i5.10966
+PMC: PMC9723426
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36531823/
+DOI URL: https://doi.org/10.18502/ijm.v14i5.10966
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9723426/
+
+--- Abstract ---
+BACKGROUND AND OBJECTIVES: Acinetobacter baumannii (A. baumannii), an opportunistic pathogen, has been isolated from sewage, soil, and hospital wards. The prevalence of multidrug-resistance A. baumannii has seriously caused a health crisis in hospital settings. Bacteriophages have been used as an alternative therapy for control carbapenem-resistant bacteria-caused infections. We aimed to assay lytic effect of a filamentous phage on clinical bacterial strains.
+
+MATERIALS AND METHODS: 500-ml water samples was collected from sewage in Tehran. Sewage samples were precipitated at 6000 rpm for 10 minutes and filtered using 0.45-μm syringe filters. Bacteriophage was isolated using double-layer agar assay and evaluated its stability at various pH and temperature ranges. In addition, the stability of the phage was assayed at chloroform 0.1%.
+
+RESULTS: Transmission electron microscopy imagine showed phage is filamentous called vB-AbaI-TMU2. The phage affected on its own host so that could not effect on any Pseudomonas aeruginosa and Klebsiella pneumoniae strains. vB-AbaITMU2 phage was stable at pH 5 and 7 and also temperatures 25 and 37°C. vB-AbaI-TMU2 was stable at chloroform 0.1%. vB-AbaI-TMU2 phage infected carbapenem-resistant A. baumannii strains while other bacterial strains were resistant to.
+
+CONCLUSION: The present study indicated the isolated phage had a narrow host range and is susceptible to various pH values and temperatures.

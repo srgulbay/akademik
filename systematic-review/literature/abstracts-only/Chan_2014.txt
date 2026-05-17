@@ -1,0 +1,14 @@
+PMID: 25101326
+Title: Tandem mass spectrometry detection of quorum sensing activity in multidrug resistant clinical isolate Acinetobacter baumannii.
+Authors: Chan K., Cheng H., Chen J., Yin W., Ngeow Y.
+Journal: TheScientificWorldJournal
+Year: 2014
+DOI: 10.1155/2014/891041
+PMC: PMC4101932
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/25101326/
+DOI URL: https://doi.org/10.1155/2014/891041
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4101932/
+
+--- Abstract ---
+Many Proteobacteria communicate via production followed by response of quorum sensing molecules, namely, N-acyl homoserine lactones (AHLs). These molecules consist of a lactone moiety with N-acyl side chain with various chain lengths and degrees of saturation at C-3 position. AHL-dependent QS is often associated with regulation of diverse bacterial phenotypes including the expression of virulence factors. With the use of biosensor and high resolution liquid chromatography tandem mass spectrometry, the AHL production of clinical isolate A. baumannii 4KT was studied. Production of short chain AHL, namely, N-hexanoyl-homoserine lactone (C6-HSL) and N-octanoyl-homoserine lactone (C8-HSL), was detected.

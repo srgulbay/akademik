@@ -1,0 +1,14 @@
+PMID: 33114334
+Title: Ayahuasca Beverages: Phytochemical Analysis and Biological Properties.
+Authors: Gonçalves J., Luís Â., Gradillas A., García A., Restolho J., Fernández N., Domingues F., Gallardo E., Duarte A.
+Journal: Antibiotics (Basel, Switzerland)
+Year: 2020
+DOI: 10.3390/antibiotics9110731
+PMC: PMC7690887
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/33114334/
+DOI URL: https://doi.org/10.3390/antibiotics9110731
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7690887/
+
+--- Abstract ---
+Ayahuasca is a psychoactive beverage, originally consumed by indigenous Amazon tribes, of which consumption has been increasing worldwide. The aim of this study was to evaluate the phytochemical profile, as well as the antioxidant, anti-inflammatory and antimicrobial properties of decoctions of four individual plants, a commercial mixture and four mixtures of two individual plants used in the Ayahuasca preparation. For this purpose, a phytochemical characterization was performed, determining the content of flavonoids, total phenolic compounds, and analyzing the phenolic profile. Besides, 48 secondary metabolites were investigated by ultra-high performance liquid chromatography-quadrupole time-of-flight mass spectrometry (UHPLC-Q/TOF-MS) and their concentration estimated with real standards when present. The antioxidant activity was evaluated by both the β-carotene bleaching test and DPPH free radical scavenging assay, and the anti-inflammatory activity was determined by a protein denaturation method. Finally, the antimicrobial properties were evaluated using the disc diffusion assay, resazurin microtiter method, anti-quorum sensing and anti-biofilm activity assays. The obtained results showed that, in general, the samples have a high content of phenolic compounds and flavonoids with noticeable differences, reflecting on remarkable antioxidant and anti-inflammatory activities. Significant antimicrobial properties were also observed, with emphasis on the effect of B. caapi and P. harmala on planktonic and biofilm cells of A. baumannii, inhibiting both the biofilm formation and the production of violacein pigment.

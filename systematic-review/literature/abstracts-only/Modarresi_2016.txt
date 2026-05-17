@@ -1,0 +1,19 @@
+PMID: 27307980
+Title: Cloning and expression of quorum sensing N-acyl-homoserine synthase (LuxI) gene detected in Acinetobacter baumannii.
+Authors: Modarresi F., Azizi O., Shakibaie M., Motamedifar M., Mansouri S.
+Journal: Iranian journal of microbiology
+Year: 2016
+DOI: 
+PMC: PMC4906721
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/27307980/
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4906721/
+
+--- Abstract ---
+BACKGROUND AND OBJECTIVES: In present study we aimed to clone the luxI gene encoding N-acyl-homoserine synthase detected in clinical isolates of Acinetobacter baumannii and study its expression in Escherichia coli transformants.
+
+MATERIALS AND METHODS: Four A. baumannii hospital strains which demonstrated strong biofilm activity were selected in this investigation. The presence of luxI gene was detected using PCR technique. Purified PCR product DNA was initially cloned into pTG19 and transformed to E. coli DH5α. The gene was then recovered from agarose gel and ligated by T4 DNA ligase into pET28a expression vector using NdeI and XhoI enzymes. pET28a + luxI was transformed into E. coli BL21 (DE3). The luxI putative gene was further detected in the transformants by colony PCR. Expression of the luxI gene in the recombinant E. coli BL21 cells was studied by quantitative real time PCR (qRT-PCR) and the presence of N-acylhomoserine lactone (AHL) was checked by colorimetric assay and Fourier Transform Infra-Red (FT-IR) spectroscopy.
+
+RESULTS: We successfully cloned AHL gene from A. baumannii strain 23 to pET28a expression vector. There was four fold increases in expression of luxI in the transformants (P ≤ 0.05). It was found that, strain 23 and the transformants showed highest amount of AHL activity (OD = 1.524). The FT-IR analysis indicated stretching C=O bond of the lactone ring and primary amides (N=H) at 1764.69 cm(-1) and 1659.23 cm(-1) respectively.
+
+CONCLUSION: From above results we concluded that, luxI in A. baumannii is indeed responsible for AHL production and not regulation and pET28a vector allows efficient AHL expression in E. coli BL21 transformants.

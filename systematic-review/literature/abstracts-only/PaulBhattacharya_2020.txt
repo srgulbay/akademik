@@ -1,0 +1,13 @@
+PMID: 33103466
+Title: Quorum quenching activity of pentacyclic triterpenoids leads to inhibition of biofilm formation by Acinetobacter baumannii.
+Authors: Paul Bhattacharya S., Mitra A., Bhattacharya A., Sen A.
+Journal: Biofouling
+Year: 2020
+DOI: 10.1080/08927014.2020.1831480
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/33103466/
+DOI URL: https://doi.org/10.1080/08927014.2020.1831480
+
+--- Abstract ---
+The quorum quenching (QQ) potential of three pentacyclic triterpenoids, glycyrrhetinic acid (GRA), ursolic acid (UA) and betulinic acid (BA), representing distinct groups of compounds, was evaluated. Violacein production by Chromobacterium violaceum and pyocyanin production by Pseudomonas aeruginosa were severely affected by GRA, UA and BA, suggesting a perturbation of N-acyl homoserine lactone (ASL) based signaling. Molecular docking analysis revealed a possible interaction between ASL-synthase and ASL-dependent transcriptional activator homologs from P. aeruginosa and Acinetobacter baumannii with common binding pockets for GRA, UA and BA. The triterpenoids inhibited biofilm formation by A. baumannii and affected the overall structure of biofilms. When administered in combination, two of the three molecules fostered antibiotic action against A. baumannii biofilms, widening the scope for developing novel combinations against the pathogen.

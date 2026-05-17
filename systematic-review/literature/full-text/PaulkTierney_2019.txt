@@ -1,0 +1,103 @@
+Title: Methods for Detecting N-Acyl Homoserine Lactone Production in Acinetobacter baumannii
+PMID: 30798561
+PMCID: PMC
+DOI: 10.1007/978-1-4939-9118-1_23
+
+=== ABSTRACT ===
+Acinetobacter baumannii cell-cell signaling is mediated by production and release of N-acyl homoserine lactones (AHLs), primarily N-(3-hydroxydodecanoyl)-l-homoserine lactone (3-hydroxy-C12-HSL). The secretion of this signal can be readily assessed via simple plate-based or thin-layer chromatography-based assays utilizing an Agrobacterium tumefaciens traG-lacZ containing biosensor. In this chapter, we describe methods to assay for secreted N-acyl homoserine lactone production in Acinetobacter baumannii.
+
+=== FULL TEXT ===
+# Introduction
+
+Similar to other Gram-negative bacteria, Acinetobacter baumannii communicates via production and secretion of N-acyl homoserine lactone (AHL) autoinducers utilizing a LuxI-/LuxR-type system [1]. In this system, an autoinducer synthase produces the AHL signal, which typically diffuses across the cell membrane, reenters the cell at high concentrations, and then binds and activates a transcriptional regulatory protein to mediate global changes in gene expression [2]. In A. baumannii, the autoinducer synthase and transcriptional regulator proteins are termed AbaI and AbaR, respectively [1].
+
+Secretion levels of AHL signal can be qualitatively assessed by plate-based methods that utilize bacterial biosensor strains containing a reporter gene that is transcriptionally activated in the presence of AHL signals. Typical reporters include luminescence (lux), β-galactosidase (lacZ), or Chromobacterium violaceum purple pigment violacein [3, 4]. Here, we demonstrate detection of A. baumannii AHL signals using an Agrobacterium tumefaciens biosensor containing a plasmid-localized traG-lacZ fusion (pZLR4). The host biosensor strain does not make AHL signals, but exogenous AHL from other bacteria will bind to TraR, coactivating traG and inducing production of β-galactosidase [4, 5]. Strains of interest can be surveyed for AHL secretion by (a) cross-streaking the A. tumefaciens biosensor against the strain of interest on a LB plate containing 5-bromo-4-chloro-3-indolyl-β-d-galactopyranoside (X-gal); (b) direct plating of bacterial culture, cell-free supernatants, or patched colonies onto a soft agar lawn containing the A. tumefaciens biosensor and X-gal; or (c) separating extracts on reversed-phase C18 thin-layer chromatography plates and overlaying the dried plates with a soft agar lawn containing the A. tumefaciens biosensor.
+
+
+# Materials
+
+Prepare all solutions with distilled water prior to daily use. Store reagents at room temperature unless otherwise indicated.
+
+Media: Luria broth (LB)—10 g tryptone, 5 g yeast extract, 5 g sodium chloride per liter.
+
+Soft agar. Luria broth containing 0.7% agar.
+
+Gentamicin stock solution 20 mg/mL in water.
+
+Petri dishes and tubes for bacterial culture.
+
+X-gal (5-bromo-4-chloro-3-indolyl-β-d-galactopyranoside) solution at 20 μg/mL. Store at −20 °C.
+
+Reversed-phase C-18 thin-layer chromatography (TLC) plates.
+
+Glass chromatography chamber for developing TLC plates.
+
+60% methanol.
+
+
+# Methods
+
+
+## Cross-Streak Assay
+
+Inoculate 2 mL LB containing gentamicin 30 μg/mL with the Agrobacterium tumefaciens biosensor strain. Grow overnight at 28 °C, stationary (see
+Note 1).
+
+Prepare a LB agar plate (15 g agar/L) with 80 μL of 20 μg/mL X-gal per 20 mL (see
+Note 2). Dry the plate inverted with the top off at 37 °C for at least 1 h.
+
+While holding the plate at an angle, add 30 μL of the A. tumefaciens biosensor strain (OD600 = 0.2) and allow the culture to run down the surface of the plate to form a line of cells. Streak a loop of A. baumannii strain to be tested for AHL production next to the biosensor strain. Alternatively, spot 5 μL of the culture to be tested for signal production adjacent to the biosensor strain and allow the spot to soak into the agar.
+
+Incubate plates at 28 °C for 12 h or until a blue color develops in the biosensor strain.
+
+Blue pigmentation of the A. tumefaciens biosensor near the strain(s) of interest indicates production of the AHL signal (Fig. 1).
+
+
+## Soft Agar Assay
+
+Inoculate 2 mL LB containing gentamicin (30 μg/mL) with the Agrobacterium tumefaciens biosensor strain. Grow overnight at 28 °C, stationary (see
+Note 1).
+
+Prepare LB soft agar (0.7 g agar/L). Cool to 45 °C and add 80 μL of 20 μg/mL X-gal per 20 mL melted agar and 250 μL of the A. tumefaciens culture (OD A600 = 0.2) per 20 mL melted agar. Mix and pour plate immediately (see
+Notes 2 and 3).
+
+Allow plate to set and then dry inverted at 37 °C for 30–45 min.
+
+Plate or patch bacterial cultures, colonies, or supernatants as desired. Incubate plates at 28 °C. Strains of interest that are positive for AHL secretion will produce a blue halo (Fig. 2).
+
+
+## Thin-Layer Chromatography (TLC) Assay
+
+Spot samples to be tested on a reversed-phase C18 TLC plate. Spots should be approximately 2–3 cm from the bottom of the TLC plate.
+
+Allow spots to dry completely.
+
+Incubate the TLC plate in a glass chamber with 50 mL of 60% methanol and allow the solvent to completely ascend to the top of the plate.
+
+Allow the plate to sit at room temperature for 60 min in a fume hood to allow the methanol to evaporate.
+
+Seal all four sides of the TLC plate with tape in a manner that creates a lip of at least 1/2 in. on all sides. Laboratory tape works well for this (Fig. 3A).
+
+Prepare 50 mL of LB soft agar (0.7 g agar/L). Cool to 45 °C and add 160 μL of 20 μg/mL X-gal and 400 μL of the A. tumefaciens culture. Mix and immediately pour the agar solution over the TLC plate to completely cover the surface. Allow the agar to solidify for 30 min (see
+Note 4).
+
+Remove the tape border and place the TLC plate on top of an 8 in. × 8 in. glass Pyrex dish that contains 100 mL of water in the bottom, Fig. 3B (see
+Note 5). Cover the plate with an identical 8 in. × 8 in. glass Pyrex dish (Fig. 3C). Seal the two dishes by using Saran wrap. Place the sealed Pyrex dishes in a 28 °C incubator and incubate for 24–48 h until blue spots appear indicating activation of the biosensor.
+
+Air-dry the TLC plate until the soft agar lawn has become completely dehydrated. This can be done at room temperature or in a 37 °C incubator (see
+Note 6).
+
+
+# Notes
+
+The A. tumefaciens with pZLR4 should be grown at 28 °C as the replication of this plasmid is temperature sensitive.
+
+The concentration of X-gal can be adjusted to suit experimental needs.
+
+The volume of A. tumefaciens culture added varies by culture density. The indicated volume of 250 μL per 20 mL agar is based on a culture at an OD600 of at least 0.2. It is generally better to err on the side of using a higher concentration as too low concentration will result in a sparse lawn with poor halo visualization. Troubleshooting the volume of culture needed may be required to suit experimental needs.
+
+When the soft agar is added to the TLC plate, it is not necessary to have it at an even thickness in all areas of the plate. Once the plate is done incubating and the agar overlay is dried, all changes in thickness will even out and be invisible.
+
+This will allow the soft agar overlay to remain hydrated within the chamber created by the sealed Pyrex dishes.
+
+When drying the soft agar lawn on the TLC plate, be aware that the dried agar/TLC matrix can sometime crack and curl up. Photograph the plates immediately after drying.

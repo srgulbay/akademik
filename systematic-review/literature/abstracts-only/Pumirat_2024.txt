@@ -1,0 +1,14 @@
+PMID: 39277662
+Title: Impact of AbaI mutation on virulence, biofilm development, and antibiotic susceptibility in Acinetobacter baumannii.
+Authors: Pumirat P., Santajit S., Tunyong W., Kong-Ngoen T., Tandhavanant S., Lohitthai S., Rungruengkitkun A., Chantratita N., Ampawong S., Reamtong O., Indrawattana N.
+Journal: Scientific reports
+Year: 2024
+DOI: 10.1038/s41598-024-72740-1
+PMC: PMC11401864
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/39277662/
+DOI URL: https://doi.org/10.1038/s41598-024-72740-1
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11401864/
+
+--- Abstract ---
+The quorum sensing (QS) system mediated by the abaI gene in Acinetobacter baumannii is crucial for various physiological and pathogenic processes. In this study, we constructed a stable markerless abaI knockout mutant (ΔabaI) strain using a pEXKm5-based allele replacement method to investigate the impact of abaI on A. baumannii. Proteomic analysis revealed significant alterations in protein expression between the wild type (WT) and ΔabaI mutant strains, particularly in proteins associated with membrane structure, antibiotic resistance, and virulence. Notably, the downregulation of key outer membrane proteins such as SurA, OmpA, OmpW, and BamA suggests potential vulnerabilities in outer membrane integrity, which correlate with structural abnormalities in the ΔabaI mutant strain, including irregular cell shapes and compromised membrane integrity, observed by scanning and transmission electron microscopy. Furthermore, diminished expression of regulatory proteins such as OmpR and GacA-GacS highlights the broader regulatory networks affected by abaI deletion. Functional assays revealed impaired biofilm formation and surface-associated motility in the mutant strain, indicative of altered colonization capabilities. Interestingly, the mutant showed a complex antibiotic susceptibility profile. While it demonstrated increased susceptibility to membrane-targeting antibiotics, its response to beta-lactams was more nuanced. Despite increased expression of metallo-beta-lactamase (MBL) superfamily proteins and DcaP-like protein, the mutant unexpectedly showed lower MICs for carbapenems (imipenem and meropenem) compared to the wild-type strain. This suggests that abaI deletion affects antibiotic susceptibility through multiple, potentially competing mechanisms. Further investigation is needed to fully elucidate the interplay between quorum sensing, antibiotic resistance genes, and overall antibiotic susceptibility in A. baumannii. Our findings underscore the multifaceted role of the abaI gene in modulating various cellular processes and highlight its significance in A. baumannii physiology, pathogenesis, and antibiotic resistance. Targeting the abaI QS system may offer novel therapeutic strategies for this clinically significant pathogen.

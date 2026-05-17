@@ -1,0 +1,13 @@
+PMID: 30241827
+Title: Exploring chitosan nanoparticles as effective inhibitors of antibiotic resistant skin microorganisms - From in vitro to ex vitro testing.
+Authors: Costa E., Silva S., Veiga M., Tavaria F., Pintado M.
+Journal: Carbohydrate polymers
+Year: 2018
+DOI: 10.1016/j.carbpol.2018.08.083
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/30241827/
+DOI URL: https://doi.org/10.1016/j.carbpol.2018.08.083
+
+--- Abstract ---
+Nowadays, nosocomial skin infections are increasingly harder to manage and control. In the search for new, natural compounds capable of being alternatives to traditional antibiotics, chitosan and its nanoparticles, have garnered attention. This work sought to understand the potential of chitosan NPs in the management of infections caused by MDR skin pathogens in planktonic and sessile assays. Additionally, NPs' capacity to inhibit biofilm quorum sensing and prevent HaCat infections was also evaluated. The results obtained showed that chitosan NPs had an average size and charge of 226.6 ± 5.24 nm and +27.1 ± 3.09 mV. Inhibitory and bactericidal concentrations varied between 1 and 2 mg/mL and 2-7 mg/mL, respectively. Chitosan NPs effectively inhibited biofilm growth for all microorganisms and possessed strong anti-quorum sensing activity. Lastly, chitosan NPs proved to be effective interfere with A. baumannii's infection of HaCat cells, as they significantly reduced intracellular and extracellular bacterial counts.

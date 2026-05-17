@@ -1,0 +1,12 @@
+PMID: 19623895
+Title: Quorum sensing signal profile of Acinetobacter strains from nosocomial and environmental sources.
+Authors: González R., Dijkshoorn L., Van den Barselaar M., Nudel C.
+Journal: Revista Argentina de microbiologia
+Year: 2009
+DOI: 
+PMC: 
+Publication types: Comparative Study; Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/19623895/
+
+--- Abstract ---
+A set of 43 strains corresponding to 20 classified and unclassified genomic Acinetobacter species was analyzed for the production of typical N-acyl homoserine lactone quorum sensing molecules in culture broths. A large percentage of the strains (74%) displayed quorum sensing signals that could be separated into three statistically significantly different chromatographic groups (p < 0.001) based on their retention factor in TLC, i.e., Rf1 (0.22 +/- 0.02); Rf2 (0.40 +/- 0.02) and Rf3 (0.54 +/- 0.02). Noteworthy, 63% of the strains tested produced more than one quorum signal. The frequency of signal appearance was Rf3 > Rf2 > Rf1. None of the three signals could be specifically assigned to a particular species in the genus; furthermore, no distinction could be made between the quorum sensing signals secreted by typical opportunistic strains of the A. calcoaceticus-A. baumannii complex, isolated from patients, with respect to the other species of the genus, except for the Rf1 signal which was present in all the QS positive strains belonging to this complex and DNA group 13 TU. In conclusion, quorum sensors in Acinetobacter are not homogenously distributed among species and one of them is present in most of the A. calcoaceticus-baumannii complex.

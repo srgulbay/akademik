@@ -1,0 +1,13 @@
+PMID: 30503958
+Title: Biotechnological applications of quorum sensing inhibition as novel therapeutic strategies for multidrug resistant pathogens.
+Authors: Shaaban M., Elgaml A., Habib E.
+Journal: Microbial pathogenesis
+Year: 2018
+DOI: 10.1016/j.micpath.2018.11.043
+PMC: 
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/30503958/
+DOI URL: https://doi.org/10.1016/j.micpath.2018.11.043
+
+--- Abstract ---
+High incidence of antibiotic resistance among bacterial clinical isolates necessitates the discovery of new targets for inhibition of microbial pathogenicity, without stimulation of microbial resistance. This could be achieved by targeting virulence determinants, which cause host damage and disease. Many pathogenic bacteria elaborate signaling molecules for cellular communication. This signaling system is named quorum sensing system (QS), and it is contingent on the bacterial population density and mediated by signal molecules called pheromones or autoinducers (AIs). Bacteria utilize QS to regulate activities and behaviors including competence, conjugation, symbiosis, virulence, motility, sporulation, antibiotic production, and biofilm formation. Hence, targeting bacterial communicating signals and suppression of QS exhibit a fundamental approach for competing microbial communication. In this review, we illustrate the common up to date approaches to utilize QS circuits in pathogenic bacteria, including Vibrio fischeri, Pseudomonas aeruginosa, Escherichia coli and Acinetobacter baumannii, as novel therapeutic targets.

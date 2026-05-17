@@ -1,0 +1,13 @@
+PMID: 41379337
+Title: Acinetobacter baumannii-rare virulence factors and pathogenesis: the impact of biofilm associated protein (Bap), outer membrane vesicles, and iron acquisition system.
+Authors: Vinitha G., Kannan S.
+Journal: Archives of microbiology
+Year: 2025
+DOI: 10.1007/s00203-025-04623-6
+PMC: 
+Publication types: Journal Article; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/41379337/
+DOI URL: https://doi.org/10.1007/s00203-025-04623-6
+
+--- Abstract ---
+Acinetobacter baumannii is an opportunistic pathogen that poses a significant threat to the global healthcare system. It is a member of Extensively Drug-Resistant pathogens and one of the critical priority pathogens listed by the World Health Organisation. Bacteria develop resistance to various types of antibiotics through genetic adaptation. While numerous studies have concentrated on common virulence factors, we here focus on uncommon and underexplored virulence factors, such as biofilm-associated proteins, outer membrane vesicles, and the iron acquisition system of A. baumannii. Biofilm-associated proteins, including the chaperone-usher system, play a crucial role in the formation and stability of biofilms, providing a protective niche that enhances resistance to antibiotics and environmental stresses. Outer membrane vesicles bound to AbOmpA play a predominant role in delivering virulence factors into host cells, facilitating inter-bacterial communication through quorum sensing and modulating host-pathogen interactions. Iron acquisition systems, involving siderophores, TonB, and AbHemO, are used to acquire iron from the host cell or from the environment for bacterial growth and metabolism in an iron-limited environment. By integrating insights into the structural, regulatory, and functional aspects of these uncommon virulence factors, this review outlines their synergistic contribution to A. baumannii pathogenicity. Additionally, it examines emerging anti-virulence and resistance-modifying strategies that target these factors.​ Such understanding provides a foundation for developing targeted therapeutic interventions against multidrug-resistant A. baumannii infections.

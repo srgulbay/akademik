@@ -1,0 +1,10 @@
+Title: Impact of a Cross-Kingdom Signaling Molecule of Candida albicans on Acinetobacter baumannii Physiology
+PMID: 26482299
+PMCID: PMC
+DOI: 10.1128/AAC.01540-15
+
+=== ABSTRACT ===
+Multidrug-resistant (MDR) Acinetobacter baumannii is an opportunistic human pathogen that has become highly problematic in the clinical environment. Novel therapies are desperately required. To assist in identifying new therapeutic targets, the antagonistic interactions between A. baumannii and the most common human fungal pathogen, Candida albicans, were studied. We have observed that the C. albicans quorum-sensing molecule, farnesol, has cross-kingdom interactions, affecting the viability of A. baumannii. To gain an understanding of its mechanism, the transcriptional profile of A. baumannii exposed to farnesol was examined. Farnesol caused dysregulation of a large number of genes involved in cell membrane biogenesis, multidrug efflux pumps (AcrAB-like and AdeIJK-like), and A. baumannii virulence traits such as biofilm formation (csuA, csuB, and ompA) and motility (pilZ and pilH). We also observed a strong induction in genes involved in cell division (minD, minE, ftsK, ftsB, and ftsL). These transcriptional data were supported by functional assays showing that farnesol disrupts A. baumannii cell membrane integrity, alters cell morphology, and impairs virulence characteristics such as biofilm formation and twitching motility. Moreover, we showed that A. baumannii uses efflux pumps as a defense mechanism against this eukaryotic signaling molecule. Owing to its effects on membrane integrity, farnesol was tested to see if it potentiated the activity of the membrane-acting polymyxin antibiotic colistin. When coadministered, farnesol increased sensitivity to colistin for otherwise resistant strains. These data provide mechanistic understanding of the antagonistic interactions between diverse pathogens and may provide important insights into novel therapeutic strategies.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

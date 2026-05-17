@@ -1,0 +1,13 @@
+PMID: 25726848
+Title: Emergence of carbapenem non-susceptible multidrug resistant Acinetobacter baumannii strains of clonal complexes 103(B) and 92(B) harboring OXA-type carbapenemases and metallo-β-lactamases in Southern India.
+Authors: Saranathan R., Vasanth V., Vasanth T., Shabareesh P., Shashikala P., Devi C., Kalaivani R., Asir J., Sudhakar P., Prashanth K.
+Journal: Microbiology and immunology
+Year: 2015
+DOI: 10.1111/1348-0421.12252
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/25726848/
+DOI URL: https://doi.org/10.1111/1348-0421.12252
+
+--- Abstract ---
+The molecular epidemiology and carbapenem resistance mechanisms of clinical isolates of Acinetobacter baumannii obtained from a south Indian tertiary care hospital were investigated by repetitive extragenic palindromic sequence PCR (REP-PCR) and multi-locus sequence typing (MLST). Analysis of resistant determinants was achieved by PCR screening for the presence of genes encoding OXA-carbapenemases, metallo-β-lactamases (MBLs) and efflux pumps. REP-PCR generated around eight clusters of high heterogeneity; of these, two major clusters (I and V) appeared to be clonal in origin. Analysis of representative isolates from different clusters by MLST revealed that most of the isolates belonged to sequence type 103 of CC103(B) . Second most prevalent ST belonged to clonal complex (CC) 92(B) which is also referred to as international clone II. Most of the isolates were multi-drug resistant, being susceptible only to polymyxin-B and newer quinolones. Class D β-lactamases such as blaOXA-51-like (100%), blaOXA-23-like (56.8%) and blaOXA-24-like (14.8%) were found to be predominant, followed by a class B β-lactamase, namely blaIMP-1 (40.7%); none of the isolates had blaOXA-58 like, blaNDM-1 or blaSIM-1 . Genes of efflux-pump adeABC were predominant, most of isolates being biofilm producers that were PCR-positive for autoinducer synthase gene (>94%). Carbapenem non-susceptible isolates were highly diverse and present throughout the hospital irrespective of type of ward or intensive care unit. Although previous reports have documented diverse resistant mechanisms in A. baumannii, production of MBL and OXA-type of carbapenamases were found to be the predominant mechanism(s) of carbapenem resistance identified in strains isolated from Southern India.

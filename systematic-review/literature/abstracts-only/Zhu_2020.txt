@@ -1,0 +1,14 @@
+PMID: 32081464
+Title: Complete genome sequence and genome-scale metabolic modelling of Acinetobacter baumannii type strain ATCC 19606.
+Authors: Zhu Y., Lu J., Zhao J., Zhang X., Yu H., Velkov T., Li J.
+Journal: International journal of medical microbiology : IJMM
+Year: 2020
+DOI: 10.1016/j.ijmm.2020.151412
+PMC: PMC7263877
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/32081464/
+DOI URL: https://doi.org/10.1016/j.ijmm.2020.151412
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7263877/
+
+--- Abstract ---
+Multidrug-resistant (MDR) Acinetobacter baumannii is a critical threat to global health. The type strain ATCC 19606 has been widely used in studying the virulence, pathogenesis and mechanisms of antimicrobial resistance in A. baumannii. However, the lack of a complete genome sequence is a hindrance towards detailed bioinformatic studies. Here we report the generation of a complete genome for ATCC 19606 using PacBio sequencing. ATCC 19606 genome consists of a 3,980,848-bp chromosome and a 9,450-bp plasmid pMAC, and harbours a chromosomal dihydropteroate synthase gene sul2 conferring resistance to sulphonamides and a plasmid-borne ohr gene conferring resistance to peroxides. The genome also contains 69 virulence genes involved in surface adherence, biofilm formation, extracellular phospholipase, iron uptake, immune evasion and quorum sensing. Insertion sequences ISCR2 and ISAba11 are embedded in a 36.1-Kb genomic island, suggesting an IS-mediated large-scale DNA recombination. Furthermore, a genome-scale metabolic model (GSMM) iATCC19606v2 was constructed using the complete genome annotation. The model iATCC19606v2 incorporated a periplasmic compartment, 1,422 metabolites, 2,114 reactions and 1,009 genes, and a set of protein crowding constraints taking into account enzyme abundance limitation. The prediction of bacterial growth on 190 carbon and 95 nitrogen sources achieved a high accuracy of 85.6% compared to Biolog experiment results. Based upon two transposon mutant libraries of AB5075 and ATCC 17978, the predictions of essential genes reached the accuracy of 87.6% and 82.1%, respectively. Together, the complete genome sequence and high-quality GSMM iATCC19606v2 provide valuable tools for antimicrobial systems pharmacological investigations on A. baumannii.

@@ -1,0 +1,13 @@
+PMID: 37913828
+Title: PmrAB controls virulence-associated traits and outer membrane vesicle biogenesis in Acinetobacter baumannii.
+Authors: Ko S., Kim N., Park S., Kim S., Kim S., Shin M., Lee J.
+Journal: Microbial pathogenesis
+Year: 2023
+DOI: 10.1016/j.micpath.2023.106434
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/37913828/
+DOI URL: https://doi.org/10.1016/j.micpath.2023.106434
+
+--- Abstract ---
+The PmrAB two-component system modulates colistin resistance in Acinetobacter baumannii, but its association with the virulence traits of this bacterium remains uncharacterized. This study explored the role of A. baumannii PmrAB in surface motility, biofilm formation, and outer membrane vesicle (OMV) biogenesis using wild-type (WT) A. baumannii 17978 and ΔpmrA and ΔpmrB mutant strains. The two mutant strains exhibited significantly decreased surface motility compared with that of WT strain by the low expression of abaI, abaR, A1S_0113, A1S_0115, and A1S_0116. Biofilm mass also significantly decreased in the two mutant strains at 12 h of incubation, but restored at 24 h. Under static culture conditions for 12 h, the two mutant strains showed low pgaA expression. However, the other biofilm-associated genes, such as csuC, csuE, ompA, and bap, showed different expression between the two mutant strains. Although the size of OMVs was similar among the three strains, the number of OMVs secreted from the two mutant strains slightly decreased compared with that secreted from the WT strain. Protein concentrations in the OMVs of ΔpmrA mutant significantly decreased compared with those in the OMVs of WT and ΔpmrB strains. Overall, PmrAB modulates virulence traits and OMV biogenesis in A. baumannii.

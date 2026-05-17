@@ -1,0 +1,13 @@
+PMID: 30472242
+Title: The AbaR antibiotic resistance islands found in Acinetobacter baumannii global clone 1 - Structure, origin and evolution.
+Authors: Hamidian M., Hall R.
+Journal: Drug resistance updates : reviews and commentaries in antimicrobial and anticancer chemotherapy
+Year: 2018
+DOI: 10.1016/j.drup.2018.10.003
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't; Review
+URL: https://pubmed.ncbi.nlm.nih.gov/30472242/
+DOI URL: https://doi.org/10.1016/j.drup.2018.10.003
+
+--- Abstract ---
+In multiply resistant Acinetobacter baumannii, complex transposons located in the chromosomal comM gene carry antibiotic and heavy metal resistance determinants. For one type, known collectively as AbaR, the ancestral form, AbaR0, entered a member of global clone 1 (GC1) in the mid 1970s and continued to evolve in situ forming many variants. In AbaR0, antibiotic and mercuric ion resistance genes are located between copies of a cadmium-zinc resistance transposon, Tn6018, and this composite transposon is in a class III transposon, Tn6019, carrying arsenate/arsenite resistance genes and five tni transposition genes. The antibiotic resistance genes in the AbaR0 and derived AbaR3 configurations are aphA1b, blaTEM, catA1, sul1, tetA(A), and cassette-associated aacC1 and aadA1 genes. These genes are in a specific arrangement of fragments from well-known transposons, e.g. Tn1, Tn1721, Tn1696 and Tn2670, that arose in an IncM1 plasmid. All known GC1 lineage 1 isolates carry AbaR0 or AbaR3, which arose around 1990, or a variant derived from one of them. Variants arose via deletions caused by one of three internal IS26s, by recombination between duplicate copies of sul1 or Tn6018, or by gene cassette addition or replacement. A few GC2 isolates also carry an AbaR island with different cassette-associated genes, aacA4 and oxa20.

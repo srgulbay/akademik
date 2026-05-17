@@ -1,0 +1,14 @@
+PMID: 34522980
+Title: Effect of Serum Albumin, a Component of Human Pleural Fluid, on Transcriptional and Phenotypic Changes on Acinetobacter baumannii A118.
+Authors: Le C., Pimentel C., Tuttobene M., Subils T., Papp-Wallace K., Bonomo R., Actis L., Tolmasky M., Ramirez M.
+Journal: Current microbiology
+Year: 2021
+DOI: 10.1007/s00284-021-02649-9
+PMC: PMC8557393
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/34522980/
+DOI URL: https://doi.org/10.1007/s00284-021-02649-9
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8557393/
+
+--- Abstract ---
+Acinetobacter baumannii is a multidrug-resistant pathogen that causes numerous infections associated with high mortality rates. Exposure to human body fluids, such as human pleural fluid (HPF) and human serum, modulates gene expression in A. baumannii, leading to changes in its pathogenic behavior. Diverse degrees of effects at the transcriptional level were observed in susceptible and carbapenem-resistant strains. The transcriptional analysis of AB5075, a hyper-virulent and extensively drug-resistant strain showed changes in genes associated with quorum sensing, quorum quenching, fatty acids metabolism, and high-efficient iron uptake systems. In addition, the distinctive role of human serum albumin (HSA) as a critical component of HPF was evidenced. In the present work, we used model strain to analyze more deeply into the contribution of HSA in triggering A. baumannii's response. By qRT-PCR analysis, changes in the expression level of genes associated with quorum sensing, biofilm formation, and phenylacetic acid pathway were observed. Phenotypic approaches confirmed the transcriptional response. HSA, a predominant component of HPF, can modulate the expression and behavior of genes not only in a hyper-virulent and extensively drug-resistant A. baumannii model, but also in other strains with a different degree of susceptibility and pathogenicity.

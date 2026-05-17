@@ -1,0 +1,14 @@
+PMID: 30806611
+Title: Genomic epidemiology of severe community-onset Acinetobacter baumannii infection.
+Authors: Meumann E., Anstey N., Currie B., Piera K., Kenyon J., Hall R., Davis J., Sarovich D.
+Journal: Microbial genomics
+Year: 2019
+DOI: 10.1099/mgen.0.000258
+PMC: PMC6487312
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/30806611/
+DOI URL: https://doi.org/10.1099/mgen.0.000258
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6487312/
+
+--- Abstract ---
+Acinetobacter baumannii causes severe, fulminant, community-acquired pneumonia (CAP) in tropical and subtropical regions. We compared the population structure, virulence and antimicrobial resistance determinants of northern Australian community-onset A. baumannii strains with local and global strains. We performed whole-genome sequencing on 55 clinical and five throat colonization A. baumannii isolates collected in northern Australia between 1994 and 2016. Clinical isolates included CAP (n=41), healthcare-associated pneumonia (n=7) and nosocomial bloodstream (n=7) isolates. We also included 93 publicly available international A. baumannii genome sequences in the analyses. Patients with A. baumannii CAP were almost all critically unwell; 82 % required intensive care unit admission and 18 % died during their inpatient stay. Whole-genome phylogenetic analysis demonstrated that community-onset strains were not phylogenetically distinct from nosocomial strains. Some non-multidrug-resistant local strains were closely related to multidrug-resistant strains from geographically distant locations. Pasteur sequence type (ST)10 was the dominant ST and accounted for 31/60 (52 %) northern Australian strains; the remainder belonged to a diverse range of STs. The most recent common ancestor for ST10 was estimated to have occurred in 1738 (95 % highest posterior density, 1626-1826), with evidence of multiple introduction events between Australia and Southeast Asia between then and the present day. Virulence genes associated with biofilm formation and the type 6 secretion system (T6SS) were absent in many strains, and were not associated with in-hospital mortality. All strains were susceptible to gentamicin and meropenem; none carried an AbaR resistance island. Our results suggest that international dissemination of A. baumannii is occurring in the community on a contemporary timescale. Genes associated with biofilm formation and the T6SS may not be required for survival in community niches. The relative contributions of host and bacterial factors to the clinical severity of community-onset A. baumannii infection require further investigation.

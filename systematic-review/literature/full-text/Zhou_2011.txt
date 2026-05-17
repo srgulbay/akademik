@@ -1,0 +1,10 @@
+Title: Genomic Analysis of the Multidrug-Resistant Acinetobacter baumannii Strain MDR-ZJ06 Widely Spread in China▿
+PMID: 21788470
+PMCID: PMC
+DOI: 10.1128/AAC.01134-10
+
+=== ABSTRACT ===
+We previously reported that the multidrug-resistant (MDR) Acinetobacter baumannii strain MDR-ZJ06, belonging to European clone II, was widely spread in China. In this study, we report the whole-genome sequence of this clinically important strain. A 38.6-kb AbaR-type genomic resistance island (AbaR22) was identified in MDR-ZJ06. AbaR22 has a structure similar to those of the resistance islands found in A. baumannii strains AYE and AB0057, but it contained only a few antibiotic resistance genes. The region of resistant gene accumulation as previously described was not found in AbaR22. In the chromosome of the strain MDR-ZJ06, we identified the gene blaoxa-23 in a composite transposon (Tn2009). Tn2009 shared the backbone with other A. baumannii transponsons that harbor blaoxa-23, but it was bracketed by two ISAba1 elements which were transcribed in the same orientation. MDR-ZJ06 also expressed the armA gene on its plasmid pZJ06, and this gene has the same genetic environment as the armA gene of the Enterobacteriaceae. These results suggest variability of resistance acquisition even in closely related A. baumannii strains.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

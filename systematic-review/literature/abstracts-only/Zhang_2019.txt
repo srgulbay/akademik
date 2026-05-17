@@ -1,0 +1,13 @@
+PMID: 31680055
+Title: Complete genome sequence of Acinetobacter baumanni J1, a quorum sensing-producing algicidal bacterium, isolated from Eastern Pacific Ocean.
+Authors: Zhang C., Li Y., Meng C., Yang M., Wang Y., Cai Z., Zuo P., Zhou J.
+Journal: Marine genomics
+Year: 2019
+DOI: 10.1016/j.margen.2019.100719
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/31680055/
+DOI URL: https://doi.org/10.1016/j.margen.2019.100719
+
+--- Abstract ---
+The Acinetobacter baumanni J1 isolated from surface water of the Eastern Pacific Ocean, demonstrated significant algicidal activity on the algae Alexandrium tamarense. Interestingly, this strain showed the ability to produce an acyl-homoserine lactone (AHL) quorum sensing molecule. To better understand its AHL producing mechanism and its ecological functions, the genome of A. baumanni strain J1 was completely sequenced. The genome contained a circular chromosome of 3,948,465 bp with an average GC content of 39.9 mol%. A total of 3707 protein coding genes, 41 tRNA genes and 16 rRNA genes were obtained. In silico genome annotation identified a LuxI putative gene located on contig 4. Subsequent thin-layer chromatography analysis indicated that C8-AHL could be produced by A. baumanni J1, which confirmed the authenticity of the LuxI gene. Taken together, this work describes an algicidal bacterium that is capable of producing an AHL molecule, which may represent a valuable tool for developing microbial methods to control harmful algae.

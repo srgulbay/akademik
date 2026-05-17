@@ -1,0 +1,13 @@
+PMID: 22847269
+Title: Identification of virulence markers in clinically relevant strains of Acinetobacter genospecies.
+Authors: Bitrian M., Solari C., González R., Nudel C.
+Journal: International microbiology : the official journal of the Spanish Society for Microbiology
+Year: 2012
+DOI: 10.2436/20.1501.01.161
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/22847269/
+DOI URL: https://doi.org/10.2436/20.1501.01.161
+
+--- Abstract ---
+Nine Acinetobacter strains from patients and hospital environment were analyzed for virulence markers, quorum sensing signal production, and the presence of luxI and luxR genes. The strains had several properties in common: growth in iron limited condition, biofilm formation, and no active protease secretion. Significantly higher catechol production was determined in patient isolates (P < 0.03), but other invasiveness markers, such as lipase secretion, amount of biofilm, cell motility, antibiotic resistance, and hemolysin production, showed large variability. Notably, all members of the so-called A. calcoaceticus-A. baumannii complex, regardless of whether the source was a patient or environmental, secreted mediumto long-chain N-acyl homoserine lactones (AHL) and showed blue light inhibition of cell motility. In these strains, a luxI homologue with a homoserine lactone synthase domain and a luxR putative regulator displaying the typical AHL binding domain were identified.

@@ -1,0 +1,10 @@
+Title: Structural and bioinformatic characterization of an Acinetobacter baumannii type II carrier protein
+PMID: 24914982
+PMCID: PMC
+DOI: 10.1107/S1399004714008311
+
+=== ABSTRACT ===
+The high-resolution crystal structure of a free-standing carrier protein from Acinetobacter baumannii that belongs to a larger NRPS-containing operon, encoded by the ABBFA_003406–ABBFA_003399 genes of A. baumannii strain AB307-0294, that has been implicated in A. baumannii motility, quorum sensing and biofilm formation, is presented.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

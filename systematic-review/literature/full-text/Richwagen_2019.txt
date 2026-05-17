@@ -1,0 +1,168 @@
+Title: Antibacterial Activity of Kalanchoe mortagei and K. fedtschenkoi Against ESKAPE Pathogens
+PMID: 30792655
+PMCID: PMC
+DOI: 10.3389/fphar.2019.00067
+
+=== ABSTRACT ===
+Plants in the genus Kalanchoe (Family: Crassulaceae) are used in traditional medicine throughout the tropics for treating a variety of conditions. Two species, Kalanchoe mortagei and K. fedtschenkoi, have established ethnobotanical usage but have been neglected in previous research concerning their potential bioactivity. Here, we provide a thorough review of the reported antimicrobial activities of Kalanchoe genus and evaluate the in vitro antibacterial effects of two previously unexplored species against a panel of multidrug-resistant bacteria, the ESKAPE pathogens (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter cloacae). Plant specimens were collected and voucher specimens deposited in the Emory University Herbarium. Dried plant material was ground into a powder and extracted as ethanolic macerations or as aqueous decoctions. Extracts were tested against the ESKAPE pathogens for growth inhibitory activity. Cytotoxicity to human cells was assessed via a lactate dehydrogenase assay of treated human keratinocytes (HaCaTs). K. fedtschenkoi extracts demonstrated growth inhibitory effects against two Gram-negative species, A. baumannii (strain CDC-33) and P. aeruginosa (AH-71), as well as S. aureus (UAMS-1). In these cases, growth inhibition greater than 50% (IC50) was generally observed at concentrations of 256 μg mL-1, though one K. fedtschenkoi extract (1465, prepared from stems) exhibited an IC50 against A. baumannii at 128 μg mL-1. All extracts were well tolerated by HaCaTs (LD50 ≥ 256 μg mL-1). Chemical characterization using HPLC and chemical standards established the presence of caffeic acid and quercetin in both plant species, as well as kaempferol in K. fedtschenkoi. These results reveal K. fedtschenkoi to be a plant of medicinal interest, and future research should aim to characterize the bioactivity of this species and its active constituents through bioassay-guide fractionation. Effects on bacterial biofilm formation and quorum-sensing are also research topics of interest for this genus.
+
+=== FULL TEXT ===
+# Introduction
+
+
+## Ethnopharmacological Relevance of Kalanchoe Species
+
+Plants in the genus Kalanchoe (Crassulaceae), though originating mostly in Madagascar and Southeast Africa, have a global distribution in warm climates. Frequently, Kalanchoe spp. occur as exotic or invasive species. Many members of the genus are able to self-propagate from plantlets produced on the leaf margin, making established populations hard to eradicate (Descoings, 2003; Akulova-Barlow, 2009). The presence of toxic cardiac glycosides make some Kalanchoe spp. a grazing hazard for animals in agriculture, with documented issues in Brazil, South Africa, and Australia (Botha C., 2013; Botha C.J., 2013; Mendonça et al., 2018). Nevertheless, these plants display a diverse array of stunning forms and are often grown as ornamentals for their strange beauty.
+
+Despite their often exotic presence, Kalanchoe spp. have ethnobotanical uses wherever they are found, sometimes being called “miracle leaf” for their use in treating various ailments (Akulova-Barlow, 2009; Milad et al., 2014). In the developing world, members of this genus are used for treating myriad medical conditions. Because of its widespread distribution and ubiquitous ethnobotanical use, much research has been focused on K. pinnata, a species native to Madagascar but cultivated and distributed throughout the tropics (Descoings, 2003; Biswas et al., 2011a; Quazi Majaz et al., 2011; Pattewar, 2012; Rajsekhar et al., 2016). This species has even been the subject of bioengineering – a transgenic K. pinnata that produces an antimicrobial peptide (AMP cecropin P1) has recently been developed (Zakharchenko et al., 2016; Lebedeva et al., 2017).
+
+Because the genus has demonstrated medicinal potential, Kalanchoe spp. neglected in research should be explored for bioactive compounds. K. mortagei and K. fedtschenkoi, two members of the section Bryophyllum within the genus, are two such species with established ethnobotanical usage, but which have been overlooked in natural products research.
+
+Kalanchoe mortagei, also known by the synonyms K. poincarei or Bryophyllum mortagei, is a plant native to rocky/sandy soils in north Madagascar (Descoings, 2003). Compared to other members of the genus, little research has been conducted on the chemical and medicinal properties of this species (Maiti et al., 1995). Despite this, K. mortagei is grown in Mexican homegardens, and its leaves are taken orally for digestive disorders and as a local remedy for cancer in Antioquia Department, Colombia (Blanckaert et al., 2004; Vera-Marín and Sánchez-Sáen, 2016). The roots of the plant are used for treating parasitic worm-related diseases in parts of Indonesia (Herawati and Husin, 2000).
+
+Kalanchoe fedtschenkoi is a perennial native to central/southern Madagascar but is naturalized well outside its original range (Descoings, 2003). Introduced populations can be found in Florida, Texas, and Puerto Rico (USDA/NRCS, 2013). A popular garden succulent, K. fedtschenkoi is a model organism for research into Crassulacean acid metabolism (CAM) (Dittrich, 1976; Nimmo et al., 1986; Cook et al., 1995). In Brazil, this species is used as an analgesic (Cumberbatch, 2011).
+
+
+## Antimicrobial Resistance in the ESKAPE Pathogens
+
+The rise of antimicrobial resistant (AMR) bacterial infections is one of the most pressing issues in medicine. Increasingly, conventional antibiotic medications are failing to stop persistent and dangerous bacterial diseases (Irenji et al., 2018; Katsuura et al., 2018). A report commissioned by the UK government notes that roughly 700,000 people die annually from AMR infections; this figure is projected to increase to 10 million deaths per year by 2050 (O’Neil, 2016) and encompasses data from across the broad spectrum of pathogenic microbes. In the face of rising morbidity and mortality due to AMR infections, the need for new drugs to address drug-resistance is clear (van der Meer et al., 2014). In 2015, the WHO launched the Global Antimicrobial Resistance Surveillance System (GLASS) to unify worldwide AMR. To date they have collected data from 42 countries and received over 500,000 AMR pathogenic strains (WHO, 2017).
+
+Six bacterial species, the “ESKAPE” pathogens, have been highlighted by the Infectious Disease Society of America (IDSA) as being especially dangerous due to their patterns of antibiotic resistance. They are responsible for the majority of nosocomial infections worldwide (Table 1) (Boucher et al., 2009).
+
+[TABLE: Description of the ESKAPE pathogens.]
+
+
+## Kalanchoe Spp. as a Source of Antimicrobial Treatment
+
+Plants used in traditional medicine are a potential source for novel antimicrobial compounds (Rahman et al., 2018; Salam and Quave, 2018). In the developing world, the large majority of people (75%) rely on plants for primary medical needs, including for wound healing and antimicrobial agents (Sarker et al., 2005). Historically, the bulk of manufactured drugs were derived from plant natural products, and the majority of these drugs were tied directly to their original ethnobotanical use (Chin et al., 2006; Sarker and Nahar, 2012). Even between 1982 and 2002, 79% of approved drugs worldwide had a natural product origin (Chin et al., 2006).
+
+Secondary metabolites taken from plants used in traditional medicine have been found to inhibit microbial growth and virulence. Kalanchoe spp. have demonstrated such antimicrobial properties, and have been proven to accelerate wound-healing. For example, extracts and compounds from K. pinnata are effective against cutaneous leishmaniasis, a disease caused by trypanosome protozoa (Torres-Santos et al., 2003; Muzitano et al., 2006a,b, 2009).
+
+In the past decade, substantial research has examined the antibacterial properties of K. pinnata and several other Kalanchoe spp. Extracts of K. blossfeldiana, K. crenata, K. laciniata, and K. pinnata have all demonstrated growth inhibitory effects on over 15 bacterial species, including four of the ESKAPE pathogens (Tables 2, 3).
+
+[TABLE: Literature review of research on the antimicrobial properties of Kalanchoe spp.]
+
+[TABLE: Review of Kalanchoe extracts tested against selected bacteria in previous research.]
+
+In 15 studies that evaluated the antimicrobial effects of Kalanchoe spp., 12 focused solely on K. pinnata, one on K. laciniata (Iqbal et al., 2016) and one on K. blossfeldiana, a common household ornamental (Sarkar et al., 2015). A 2007 study compared the growth-inhibitory properties of K. crenata favorably with K. pinnata (Akinsulire et al., 2007).
+
+Ten studies examined methanolic extracts, the most common solvent tested. Ethanol and water (five studies each) were also frequently used solvents. Research has established that methanolic crude extracts of K. pinnata outperform aqueous extracts in their growth-inhibitory effects (Akinsulire et al., 2007; Majaz et al., 2011; Nwadinigwe, 2011; Pattewar et al., 2013); this is also true for K. crenata (Akinsulire et al., 2007).
+
+Studies also established the antibacterial effects of flavonoids extracted from K. pinnata (Okwu and Nnamdi, 2011; Tatsimo et al., 2012), as well as its leaf juice (Obaseiki-Ebor, 1985; Akinsulire et al., 2007). At least one study demonstrated the effects of K. pinnata in vivo, looking at how aqueous extracts accelerate the healing of wounds infected with Staphylococcus aureus and/or Pseudomonas aeruginosa (Lebedeva et al., 2017).
+
+Research has firmly established K. pinnata as a plant of medicinal interest, and the overall genus continues to show promise as a potential source of antimicrobial, antibacterial compounds.
+
+The aim of this study was to evaluate the antimicrobial potential of two previously neglected species: K. mortagei and K. fedtschenkoi against a panel of clinically relevant ESKAPE pathogens.
+
+
+# Materials and Methods
+
+
+## Plant Collection and Identification
+
+Two plant species were used in this experiment. Kalanchoe mortagei plants were grown from a specimen collected by the first author (NR) in Bradenton, FL, United States, in May 2008 (27.468591, -82.577127). A single K. fedtschenkoi plant was procured from the University of Georgia Plant Biology Greenhouse in Athens, GA, United States, in 2015. All plant material used in this experiment came from plants propagated from these two mother specimens. Plants were grown in NR’s personal collection and at the Emory University Greenhouse. Voucher specimens of each species were deposited at the Emory University Herbarium (GEO), and species identification confirmed by Dr. Tharanga Samarakoon at GEO (Accession nos.: 22702 and 22474 for K. fedtschenkoi and K. mortagei, respectively). Specimens were digitized and are available for viewing on the SERNEC portal (SERNEC, 2018).
+
+Bulk plant materials were harvested, dried in a dehumidification chamber, and homogenized in a Waring blender into a fine powder. Retention vouchers of dried and ground material were prepared for future reference and stored in Quave Research Group laboratories at Emory University.
+
+
+## Preparation of Extracts
+
+A total of seven crude extracts were prepared, four from K. mortagei and three from K. fedtschenkoi (Table 4). Each extract represented a particular plant part or combination of parts, though extract creation was also guided by limitations in available plant biomass.
+
+[TABLE: Extracts of K. mortagei and K. fedtschenkoi used in this study.]
+
+Dry, ground plant biomass was double macerated for 72 h each with either 80 or 95% ethanol at a 1:10 ratio (w/v). The extracts were agitated daily and then vacuum filtered. The aqueous extract (1509aq) was prepared as a decoction; the dry plant material was boiled with deionized water (dH2O) for 20 min and then filtered. After filtration the solvent was removed by rotary evaporation at ≤40°C. Extracts were redissolved in dH2O, shell frozen in a dry ice-acetone bath, and then lyophilized overnight on a Labconco FreeZone 2.5 Lyophilizer (Kansas City, MO, United States). Dry extracts were scraped into scintillation vials and stored at -20°C. Organic extracts were dissolved in DMSO and the aqueous extract was re-dissolved in dH2O to yield a stock concentration of 10 mg mL-1 for microbiological assays.
+
+
+## Antibacterial Testing
+
+
+### Bacterial Strains and Cultures
+
+Seven extracts (Table 4) were tested against strains of ESKAPE pathogens (Table 5). Two species were Gram-positive, Enterococcus faecium (EU-44) and S. aureus (UAMS-1); the rest were Gram-negative: Klebsiella pneumoniae (CDC-16), Acinetobacter baumannii (CDC-33), P. aeruginosa (AH-71), and Enterobacter cloacae (CDC-08). Strains were streaked from freezer stock onto tryptic soy agar (TSA) plates and incubated at 37°C overnight. Liquid cultures in tryptic soy broth (TSB) were made from individual plate colonies in 14 mL test tubes and were also incubated at 37°C overnight for use in growth inhibition assays.
+
+[TABLE: ESKAPE pathogens tested and their corresponding antibiotic resistance profiles as reported by the source provider (BEI Resources or CDC AR Bank) or as determined by antibiotic disc diffusion test (for AMC, IPM, PIP, RA, SXT, and TET) following CLSI breakpoints.]
+
+
+### Growth Inhibition Assays
+
+The extracts were examined for the growth inhibitory activity following guidelines set by the Clinical and Laboratory Standards Institute for broth microdilution testing (CLSI, 2013). After incubation, TSB cultures were diluted in cation-adjusted Muller Hinton broth (CAMHB) based on their optical density (OD590) to a confluence of 5 × 105 CFU mL-1, confirmed by plate counts. All assays were performed in CELLSTAR 96-well plates (Greiner Bio-One International, 655-185), and read in a Cytation-3 multimode plate reader (BioTek). An initial optical density reading was taken after bacterial cultures and extracts were added to each plate (OD600). For E. faecium, S. aureus, K. pneumoniae, P. aeruginosa, and E. cloacae, assay plates were incubated for 18 h; A. baumannii was incubated for 22 h. After incubation, the optical density of wells was checked again (OD600).
+
+In the initial screen, each extract was tested at a concentration of 256 μg mL-1 to determine if any growth-inhibitory effects at a level of 50% or greater were evident in comparison to the vehicle (DMSO) control. If bacterial growth was inhibited by at least 50%, microdilution assays were performed. Dose response studies were performed on bacteria-extract pairs exhibiting ≥50% growth inhibition in this initial screen. Extracts were tested by twofold serial dilution at a concentration range of 8–256 μg mL-1.
+
+Percent inhibition was calculated in order to minimize the influence of any color cast due to the plant extracts as previously described (Quave et al., 2008). The IC50 values were defined as the concentration required to achieve a 50% inhibition of growth, and the MIC values (or IC90) were defined as the concentration required to achieve 90% growth inhibition (as determined by OD600 for both values). Gentamicin was used as a positive control against all strains.
+
+
+## Mammalian Cytotoxicity Assay
+
+Mammalian cytotoxicity of extracts was assessed using human keratinocytes (HaCaTs) and a lactate dehydrogenase (LDH) test kit (G-Biosciences, St. Louis, MO, United States) as previously described (Quave et al., 2015). Briefly, HaCaTs were maintained in Dulbecco’s modified Eagle’s medium with L-glutamine and glucose supplemented with 10% heat-inactivated fetal bovine serum and 1× solution of penicillin and streptomycin at 37°C, 5% CO2 in 75 mL flasks. Once 90–95% confluency was reached, the cells were detached from the flask bottom using 0.25% trypsin, 0.1% ethylenediaminetetraacetic acid (EDTA) in Hanks’ balanced salt solution (HBSS) without Ca++, Mg++, and NaHCO3. The culture was standardized to 4 × 104 cells mL-1 using a hemocytometer. Then, 200 μL of the standardized culture was added to each well in a 96-well tissue culture-treated microtiter plate (Falcon 35–3075) and the plates were incubated for 48 h in a humidified 37°C, 5% CO2 incubator, prior to media aspiration. Either media containing extracts (4–512 μg mL-1) or vehicle were serially diluted and processed 24 h later following manufacturer’s protocol for chemical induced cytotoxicity. Percent DMSO (v/v) in the wells was <2% for all tests.
+
+
+## Chemical Characterization
+
+Each extract was characterized by HPLC using a method adapted from four previously published HPLC methods, one examining flavonoid compounds (Nielsen et al., 2005), and three examining bufadienolides (a type of cardiac glycoside commonly found in Kalanchoe plants) (Supratman et al., 2000; Huang et al., 2013; Moniuszko-Szajwaj et al., 2016). Extracts were dissolved in methanol (1465, 1469), methanol:dH2O (1420, 1421, 1509aq), or methanol:dH2O:DMSO (1468, 1508). All extracts were chromatographed on an Agilent 1260 Infinity system running OpenLab CDS ChemStation (Agilent Technologies, Santa Clara, CA, United States) with an Agilent ZORBAX Eclipse XDB-C18 (250 mm × 4.6 mm, 5 μm) column with compatible guard column at 30°C. A 10 μL injection of each extract was eluted at a flow rate of 1 mL min-1 using a mobile phase consisting of (A) 0.1% formic acid in H2O and (B) 0.1% formic acid in methanol (VWR HiPerSolv CHROMANORM). The gradient profile consisted of initial conditions 98:2 A:B which were held for 20 min, then increased to 24.5:75.5 A:B from 20 to 95.5 min, and finally to 100% B at 110 min, which was held for 20 min. Chromatograms of each extract were generated using ultraviolet–visual spectroscopy (UV–vis) during HPLC, and reported at 254 nm.
+
+Standard flavonoids, kaempferol (MP Biomedicals, Inc.), and quercetin (Enzo Life Sciences), as well as phenolic compounds, caffeic acid, p-coumaric acid, and ferulic acid (MP Biomedicals, Inc.) were used to aid in characterization by HPLC.
+
+
+## Detection of Total Phenolic Content
+
+Total phenolic content (TPC) was determined using a Folin–Ciocalteu assay modified for 96-well plate format (Singleton et al., 1999). A 1 mg mL-1 gallic acid stock solution was prepared in 50% MeOH(aq) and diluted in the same solution to yield 0–100 μg mL-1 gallic acid standard solutions. Extracts were prepared at 1 or 2 mg mL-1 in 50% MeOH(aq) and serially diluted until their absorbance was within the range of the gallic acid standard curve. In a 96-well plate, 30 μL of gallic acid standard solution or extract was added to triplicate wells. To each well 200 μL of dH2O was added, then 15 μL of Folin–Ciocalteu regent. After at least 1 min, but no more than 8 min, 50 μL of 20% Na2CO3 (w/v) was added to all wells. The plate was mixed for 30 s on an orbital shaker, incubated at 40°C for 30 min, manually mixed with a multichannel pipette, then an additional 30 s with an orbital shaker, and finally the absorbance at 760 nm was recorded using a BioTek Cytation 3 multimode plate reader. The linear range for the assay was determined as 0–100 μg mL-1 gallic acid equivalents (GAE), R2 = 0.986. The TPC of the extracts is expressed as mg GAE/g dry extract.
+
+
+# Results
+
+
+## K. fedtschenkoi Exhibits Antibacterial Activity Against Three ESKAPE Pathogens
+
+Initial screening of extracts at 256 μg mL-1 demonstrated an IC50 (growth inhibition of 50% or greater) of K. fedtschenkoi extracts (1421, 1465, and 1469) against three of the ESKAPE pathogens: S. aureus, A. baumannii, and P. aeruginosa. Further testing by serial dilution assays revealed that K. fedtschenkoi extracts had IC50 values ranging from 128 to 256 μg mL-1 for these pathogens (Table 6).
+
+[TABLE: Extracts exhibiting IC50 growth inhibition (≥50%) against ESKAPE pathogens.]
+
+Growth inhibition by dose response is reported in Figure 1. The only extract to exhibit >35% inhibition in E. faecium (EU-44) was 1468. No extracts inhibited growth of E. cloacae (CDC-08) by 20% or more. Extract 1465 (K. fedtschenkoi woody stems) exhibited >60% inhibition in A. baumannii (CDC-33) and an MIC of 256 μg mL-1 (growth inhibition ≥ 90%) was observed against P. aeruginosa (AH-71). Extract 1508 was the only extract to exhibit at least 40% inhibition in growth at 256 μg mL-1 against K. pneumoniae.
+
+[FIGURE: Growth inhibitory activity of Kalanchoe spp. extracts.]
+
+
+## Extracts Exhibit Low Toxicity to Human Keratinocytes
+
+Human skin keratinocytes (HaCaTs) were exposed to each extract to examine possible cytotoxic effects in mammalian cells. The highest levels of cytotoxicity were observed at the 512 μg mL-1 concentration, and ranged from 11 to 26% growth inhibition of human cells. All extracts at the 256 μg mL-1 concentration exhibited cytotoxicity of 12% or less (Figure 2). No IC50 was observed for any of the tested concentrations.
+
+[FIGURE: Cytotoxicity of extracts in a human keratinocyte (HaCaT) cell line by LDH assay for cell viability.]
+
+
+## Chemical Characterization of Extracts
+
+In this study, the Kalanchoe spp. extracts were screened by HPLC for the presence of several commonly occurring flavonoids; kaempferol (1) and quercetin (2), and phenolic compounds, caffeic acid (3), p-coumaric acid (4), ferulic acid (5). Both K. mortagei (extracts 1421 and 1469) and K. fedtschenkoi (extract 1468) contained 2. The extracts 1421 and 1465 of K. fedtschenkoi contained 1. The presence of 3 was also established in K. fedtschenkoi (extracts 1421 and 1465) and in K. mortagei (extract 1468) at very low levels (Figure 3).
+
+[FIGURE: HPLC chromatograms at 254 nm for each Kalanchoe extract indicating compounds identified: kaempferol (1), quercetin (2), and caffeic acid (3).]
+
+Previous studies have shown a diverse chemistry in the genus Kalanchoe. Previous studies identified 5 in several Kalanchoe species (Gaind and Gupta, 1971; Muzitano et al., 2006a,b; Cruz et al., 2012). 1 was established in K. pinnata (Gaind and Gupta, 1971; Muzitano et al., 2006a) and K. daigremontiana (Ürményi et al., 2016). Syringic acid, 3, and 4 were identified in K. pinnata (Gaind and Gupta, 1973). A 1995 study found lupeol, lupeol acetate, β-sitosterol, and other related compounds in K. mortagei (Maiti et al., 1995).
+
+The TFC for the Kalanchoe spp. extracts ranged from a minimum of 331 ± 33 mg GAE/g extract for 1420 to 1340 ± 116 mg GAE/g extract for 1509aq. The K. mortagei inflorescences extracts (1508 and 1509aq) had higher TFC than the other plant parts of both species, 818 mg GAE/g extract and 1340 mg GAE/g extract, respectively. The average TFC of the K. mortagei extracts with leaf and stem tissues (1420 and 1468) and the K. fedtschenkoi leaf and stem tissue extracts (1420 and 1465) were both 451 mg GAE/g extract, indicating that both species have similar TFC. However, the K. fedtschenkoi leaf and stem tissue extracts (1421, 1465, and 1469) have higher antimicrobial activities against multiple bacterial strains than the K. mortagei extracts. This suggests that the bioactivity of K. fedtschenkoi is not due to phenolic compounds.
+
+
+# Discussion
+
+In this study, K. fedtschenkoi extracts exhibited growth inhibition against two Gram-negative species, A. baumannii (CDC-33) and P. aeruginosa (AH-71), as well as Gram-positive S. aureus. All other pathogens examined, including Gram-positive E. faecium (EU-44), were largely unaffected. This contrasts with some previous work, where Kalanchoe spp. extracts tested against bacteria exhibited growth-inhibitory effects more readily against Gram-positive pathogens (Akinsulire et al., 2007). Extracts in other studies with S. aureus have always shown growth-inhibition, with the exception of the poor-performance of a hexane fraction tested (Tatsimo et al., 2012; Table 3). Tests against Gram-negative species P. aeruginosa and K. pneumoniae have had mixed results, demonstrating both positive (Akinsulire et al., 2007; Pattewar et al., 2013) and negative (Akinpelu, 2000; Nwadinigwe, 2011) results concerning growth-inhibition.
+
+Although K. mortagei extracts 1420 and 1468 failed to inhibit growth at or above 50% (IC50), there were differences in performance and chemical characterization of these two closely related extracts. Both 1420 and 1468 were composed of aerial parts of K. mortagei (leaves and stems), though 1420 also had immature inflorescences. Against E. faecium (EU-44) and P. aeruginosa (AH-71), 1420 actually increased bacterial growth, and against all six pathogens, there were statistically different performances between these two extracts (verified with Student’s t-test). HPLC analysis revealed lower absorbance intensity in the 35–80 min region for 1420 compared to 1468, though elution peaks were similar. Caffeic acid could only be confirmed in 1420, and kaempferol was only confirmed in 1468.
+
+It is possible that the differences are due to the harvest conditions of the K. mortagei plants used to make these extracts. Extract 1420 was prepared from a K. mortagei plant collected in December 2017, which was maintained in low-light conditions. Extract 1468, in contrast, was collected in March 2018 and was grown in bright light in a greenhouse setting. Research has shown that the chemical composition of K. pinnata is dependent on the plant’s light, growth, and harvest conditions; in bright light, the concentration of quercetin increased sevenfold, and that flavonoid compounds were more abundant during summer months (Muzitano et al., 2011). It is possible that the suboptimal growth conditions of the K. mortagei plant used for extract 1420 prevented the production of certain bioactive secondary metabolites.
+
+
+# Conclusion
+
+Kalanchoe is an important genus with relevance to traditional medicine across the globe. We have provided a comprehensive review of the reported antibacterial activities of Kalanchoe species, in particular K. pinnata, K. crenata, K. blossfeldiana, and K. laciniata. For the first time, we have reported the antibacterial activities of two understudied species in this genus (K. fedtschenkoi and K. mortagei) against clinically relevant, multidrug-resistant (MDR) strains of Gram-positive and Gram-negative bacteria. Our counterscreens against HaCaTs demonstrated that these extracts exhibit low toxicity to mammalian cells, supporting specificity of the action of these extracts against bacterial pathogens. Extracts were also characterized by HPLC, using chemical standards for peak identification and differentiation in their composition.
+
+We demonstrated the antibacterial potential of K. fedtschenkoi against three ESKAPE pathogens. Particularly noteworthy was the specific growth-inhibition observed for A. baumannii, a Gram-negative species with rising global incidence that currently lacks sufficient treatment options (Boucher et al., 2009). In order to fully examine the potential of K. fedtschenkoi secondary metabolites, future work should aim to characterize the bioactivity of different extracts through bioassay-guided fractionation and isolation of active fractions and/or individual compounds. Additional studies should also look to address potential biofilm-inhibitory properties and interference in bacterial quorum sensing. K. blossfeldiana extracts have been shown to reduce biofilm growth or destroy biofilms entirely (Sarkar et al., 2015), and biofilm inhibition remains one of the most likely avenues for successful implementation of an anti-bacterial agent derived from plants (Wright, 2017). Other members of the genus Kalanchoe neglected in research should also be assessed for anti-microbial potential.
+
+
+# Author Contributions
+
+NR grew and collected the plant specimens, prepared the extracts, and performed the antibacterial experiments. JL and NR performed the chemical analysis of the extracts. BD performed the HaCaT cytotoxicity experiments. CQ designed and directed the study. NR and CQ analyzed the data and wrote the manuscript. All authors read, revised, and approved the final manuscript.
+
+
+# Conflict of Interest Statement
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.

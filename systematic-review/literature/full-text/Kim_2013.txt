@@ -1,0 +1,10 @@
+Title: Spread of Carbapenem-Resistant Acinetobacter baumannii Global Clone 2 in Asia and AbaR-Type Resistance Islands
+PMID: 23939892
+PMCID: PMC
+DOI: 10.1128/AAC.00633-13
+
+=== ABSTRACT ===
+In this surveillance study, we identified the genotypes, carbapenem resistance determinants, and structural variations of AbaR-type resistance islands among carbapenem-resistant Acinetobacter baumannii (CRAB) isolates from nine Asian locales. Clonal complex 92 (CC92), corresponding to global clone 2 (GC2), was the most prevalent in most Asian locales (83/108 isolates; 76.9%). CC108, or GC1, was a predominant clone in India. OXA-23 oxacillinase was detected in CRAB isolates from most Asian locales except Taiwan. blaOXA-24 was found in CRAB isolates from Taiwan. AbaR4-type resistance islands, which were divided into six subtypes, were identified in most CRAB isolates investigated. Five isolates from India, Malaysia, Singapore, and Hong Kong contained AbaR3-type resistance islands. Of these, three isolates harbored both AbaR3- and AbaR4-type resistance islands simultaneously. In this study, GC2 was revealed as a prevalent clone in most Asian locales, with the AbaR4-type resistance island predominant, with diverse variants. The significance of this study lies in identifying the spread of global clones of carbapenem-resistant A. baumannii in Asia.
+
+=== FULL TEXT ===
+[Full text not redistributable via PMC OA — use DOI link]

@@ -1,0 +1,13 @@
+PMID: 41218264
+Title: Antibacterial and antibiofilm activities of bioactive metabolites from Salmonella typhi against multidrug-resistant pathogens.
+Authors: Qadir S., Mahmood K., Najmuldeen H.
+Journal: Bioorganic chemistry
+Year: 2025
+DOI: 10.1016/j.bioorg.2025.109226
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/41218264/
+DOI URL: https://doi.org/10.1016/j.bioorg.2025.109226
+
+--- Abstract ---
+Pathogenic bacteria remain underexplored sources of bioactive secondary metabolites with promising antimicrobial potential. This study evaluates the antibacterial and antibiofilm properties of metabolites secreted by clinically isolated Salmonella typhi against multidrug-resistant (MDR) pathogens. Cell-free supernatants, solvent-extractable fractions, and heat-treated preparations were assessed using MIC/MBC analyses and crystal violet biofilm inhibition assays. The crude metabolite extract exhibited potent growth-inhibitory and bactericidal activity against Pseudomonas aeruginosa, Acinetobacter baumannii, and Staphylococcus aureus, while significantly impairing biofilm formation and disrupting pre-established biofilms. The persistence of antimicrobial effects following exposure to 95 °C suggests that the active agents are thermostable and predominantly non-proteinaceous. GC-MS profiling revealed a diverse composition of fatty acids, diketopiperazines, and aromatic compound chemical groups commonly implicated in membrane disruption and quorum-sensing interference. FT-IR analysis further confirmed hydroxyl, aliphatic, carbonyl, and aromatic functional groups, consistent with a mixture of low-molecular-weight bioactive metabolites. This study provides the first evidence that S. typhi secretes chemically diverse and thermostable metabolites with potent antibacterial and antibiofilm activities targeting clinically relevant MDR pathogens. These findings position S. typhi as a promising, yet unconventional, reservoir of antimicrobial scaffolds. Future work will prioritize purification, structural characterization (LC-MS/MS, NMR), and mechanistic assays to support the development of these metabolites into safe and scalable anti-infective candidates.

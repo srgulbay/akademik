@@ -1,0 +1,14 @@
+PMID: 36297324
+Title: The Antimicrobial Effects of Saudi Sumra Honey against Drug Resistant Pathogens: Phytochemical Analysis, Antibiofilm, Anti-Quorum Sensing, and Antioxidant Activities.
+Authors: Bazaid A., Aldarhami A., Patel M., Adnan M., Hamdi A., Snoussi M., Qanash H., Imam M., Monjed M., Khateb A.
+Journal: Pharmaceuticals (Basel, Switzerland)
+Year: 2022
+DOI: 10.3390/ph15101212
+PMC: PMC9607359
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36297324/
+DOI URL: https://doi.org/10.3390/ph15101212
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9607359/
+
+--- Abstract ---
+Honey exhibited potential antimicrobial activity against multidrug resistant (MDR) bacteria that continues to be a serious health problem. We reported the in-vitro activity of Saudi Sumra honey against clinical pathogenic bacteria and fungi, antibiofilm, anti-quorum-sensing (QS) and antioxidant activities in relation to its phytochemical composition assessed by gas chromatography-mass spectrometry (GC-MS). Broth dilution method and scavenging activities against 2,2-diphenyl-1-picryl-hydrazyl-hydrate (DPPH) and 2,2′-azino-bis (3-ethylbenzothiazoline-6-sulfonic acid) (ABTS) and β-carotene bleaching assays were performed. The GC-MS analysis of Sumra honey showed that 2,4-dihydroxy-2,5-dimethyl-3(2H)-furan-3-one 1-methylcyclopropanemethanol were the major identified phytoconstituents. Sumra honey showed a minimum inhibitory concentration (MIC) to clinical isolates of Staphylococcus aureus including methicillin-resistant Staphylococcus aureus (MRSA) at 300 mg/mL, Pseudomonas aeruginosa (250 mg/mL), Escherichia coli (350 mg/mL) and Acinetobacter baumannii (250 mg/mL); clinical fungal isolates—Candida auris (600 mg/mL) and Cryptococcus neoformans (>1000 mg/mL); wild type fungal isolates—Candida krusei (>1000 mg/mL) and Candida albicans (700 mg/mL). In addition, Sumra honey demonstrated promising inhibition targeting biofilm formation by 59% for Bacillus subtilis, 48% for S. aureus, 38% for E. coli, and 33.63% for P. aeruginosa. The violacein production in Chromobacterium violaceum was reduced to 68%, whereas pyocyanin production in P. aeruginosa was reduced to 54.86% at ½ MIC. Furthermore, Sumra honey exhibited strong antioxidant activities (DPPH − IC50 = 7.7 mg/mL; ABTS − IC50 = 5.4 mg/mL; β-carotene − IC50 = >20 mg/mL). Overall, obtained data highlighted the promising potential therapeutic use of Sumra honey treating infections caused by MDR bacteria and fungi. Moreover, Sumra honey can be a good candidate as an inhibitor agent for bacterial cellular communication in strains of P. aeruginosa and C. violaceum.

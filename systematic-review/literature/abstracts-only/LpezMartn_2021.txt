@@ -1,0 +1,14 @@
+PMID: 33495249
+Title: AbaM Regulates Quorum Sensing, Biofilm Formation, and Virulence in Acinetobacter baumannii.
+Authors: López-Martín M., Dubern J., Alexander M., Williams P.
+Journal: Journal of bacteriology
+Year: 2021
+DOI: 10.1128/JB.00635-20
+PMC: PMC8088503
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/33495249/
+DOI URL: https://doi.org/10.1128/JB.00635-20
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8088503/
+
+--- Abstract ---
+Acinetobacter baumannii possesses a single divergent luxR/luxRI-type quorum-sensing (QS) locus named abaR/abaI This locus also contains a third gene located between abaR and abaI, which we term abaM, that codes for an uncharacterized member of the RsaM protein family known to regulate N-acylhomoserine lactone (AHL)-dependent QS in other beta- and gammaproteobacteria. Here, we show that disruption of abaM via a T26 insertion in A. baumannii strain AB5075 resulted in increased production of N-(3-hydroxydodecanoyl)-l-homoserine lactone and enhanced surface motility and biofilm formation. In contrast to the wild type and the abaI::T26 mutant, the virulence of the abaM::T26 mutant was completely attenuated in a Galleria mellonella infection model. Transcriptomic analysis of the abaM::T26 mutant revealed that AbaM differentially regulates at least 76 genes, including the csu pilus operon and the acinetin 505 lipopeptide biosynthetic operon, that are involved in surface adherence, biofilm formation and virulence. A comparison of the wild type, abaM::T26 and abaI::T26 transcriptomes, indicates that AbaM regulates ∼21% of the QS regulon including the csu operon. Moreover, the QS genes (abaI and abaR) were among the most upregulated in the abaM::T26 mutant. A. baumanniilux-based abaM reporter gene fusions revealed that abaM expression is positively regulated by QS but negatively autoregulated. Overall, the data presented in this work demonstrates that AbaM plays a central role in regulating A. baumannii QS, virulence, surface motility, and biofilm formation.IMPORTANCEAcinetobacter baumannii is a multiantibiotic-resistant pathogen of global health care importance. Understanding Acinetobacter virulence gene regulation could aid the development of novel anti-infective strategies. In A. baumannii, the abaR and abaI genes that code for the receptor and synthase components of an N-acylhomoserine (AHL) lactone-dependent quorum sensing system (QS) are separated by abaM Here, we show that although mutation of abaM increased AHL production, surface motility, and biofilm development, it resulted in the attenuation of virulence. AbaM was found to control both QS-dependent and QS-independent genes. The significance of this work lies in the identification of AbaM, an RsaM ortholog known to control virulence in plant pathogens, as a modulator of virulence in a human pathogen.

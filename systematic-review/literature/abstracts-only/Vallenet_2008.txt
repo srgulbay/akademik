@@ -1,0 +1,14 @@
+PMID: 18350144
+Title: Comparative analysis of Acinetobacters: three genomes for three lifestyles.
+Authors: Vallenet D., Nordmann P., Barbe V., Poirel L., Mangenot S., Bataille E., Dossat C., Gas S., Kreimeyer A., Lenoble P., Oztas S., Poulain J., Segurens B., Robert C., Abergel C., Claverie J., Raoult D., Médigue C., Weissenbach J., Cruveiller S.
+Journal: PloS one
+Year: 2008
+DOI: 10.1371/journal.pone.0001805
+PMC: PMC2265553
+Publication types: Comparative Study; Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/18350144/
+DOI URL: https://doi.org/10.1371/journal.pone.0001805
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2265553/
+
+--- Abstract ---
+Acinetobacter baumannii is the source of numerous nosocomial infections in humans and therefore deserves close attention as multidrug or even pandrug resistant strains are increasingly being identified worldwide. Here we report the comparison of two newly sequenced genomes of A. baumannii. The human isolate A. baumannii AYE is multidrug resistant whereas strain SDF, which was isolated from body lice, is antibiotic susceptible. As reference for comparison in this analysis, the genome of the soil-living bacterium A. baylyi strain ADP1 was used. The most interesting dissimilarities we observed were that i) whereas strain AYE and A. baylyi genomes harbored very few Insertion Sequence elements which could promote expression of downstream genes, strain SDF sequence contains several hundred of them that have played a crucial role in its genome reduction (gene disruptions and simple DNA loss); ii) strain SDF has low catabolic capacities compared to strain AYE. Interestingly, the latter has even higher catabolic capacities than A. baylyi which has already been reported as a very nutritionally versatile organism. This metabolic performance could explain the persistence of A. baumannii nosocomial strains in environments where nutrients are scarce; iii) several processes known to play a key role during host infection (biofilm formation, iron uptake, quorum sensing, virulence factors) were either different or absent, the best example of which is iron uptake. Indeed, strain AYE and A. baylyi use siderophore-based systems to scavenge iron from the environment whereas strain SDF uses an alternate system similar to the Haem Acquisition System (HAS). Taken together, all these observations suggest that the genome contents of the 3 Acinetobacters compared are partly shaped by life in distinct ecological niches: human (and more largely hospital environment), louse, soil.

@@ -1,0 +1,14 @@
+PMID: 34805000
+Title: A LysR-Type Transcriptional Regulator Controls Multiple Phenotypes in Acinetobacter baumannii.
+Authors: Tierney A., Chin C., Weiss D., Rather P.
+Journal: Frontiers in cellular and infection microbiology
+Year: 2021
+DOI: 10.3389/fcimb.2021.778331
+PMC: PMC8601201
+Publication types: Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't; Research Support, U.S. Gov't, Non-P.H.S.
+URL: https://pubmed.ncbi.nlm.nih.gov/34805000/
+DOI URL: https://doi.org/10.3389/fcimb.2021.778331
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8601201/
+
+--- Abstract ---
+Acinetobacter baumannii is a multidrug-resistant, Gram-negative nosocomial pathogen that exhibits phenotypic heterogeneity resulting in virulent opaque (VIR-O) and avirulent translucent (AV-T) colony variants. Each variant has a distinct gene expression profile resulting in multiple phenotypic differences. Cells interconvert between the VIR-O and AV-T variants at high frequency under laboratory conditions, suggesting that the genetic mechanism underlying the phenotypic switch could be manipulated to attenuate virulence. Therefore, our group has focused on identifying and characterizing genes that regulate this switch, which led to the investigation of ABUW_1132 (1132), a highly conserved gene predicted to encode a LysR-type transcriptional regulator. ABUW_1132 was shown to be a global regulator as the expression of 74 genes was altered ≥ 2-fold in an 1132 deletion mutant. The 1132 deletion also resulted in a 16-fold decrease in VIR-O to AV-T switching, loss of 3-OH-C12-HSL secretion, and reduced surface-associated motility. Further, the deletion of 1132 in the AV-T background caused elevated capsule production, which increased colony opacity and altered the typical avirulent phenotype of translucent cells. These findings distinguish 1132 as a global regulatory gene and advance our understanding of A. baumannii's opacity-virulence switch.

@@ -1,0 +1,14 @@
+PMID: 34356754
+Title: Interaction of Acinetobacter baumannii with Human Serum Albumin: Does the Host Determine the Outcome?
+Authors: Pimentel C., Le C., Tuttobene M., Subils T., Papp-Wallace K., Bonomo R., Tolmasky M., Ramirez M.
+Journal: Antibiotics (Basel, Switzerland)
+Year: 2021
+DOI: 10.3390/antibiotics10070833
+PMC: PMC8300715
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/34356754/
+DOI URL: https://doi.org/10.3390/antibiotics10070833
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8300715/
+
+--- Abstract ---
+Acinetobacter baumannii has become a serious threat to human health due to its extreme antibiotic resistance, environmental persistence, and capacity to survive within the host. Two A. baumannii strains, A118 and AB5075, commonly used as model systems, and three carbapenem-resistant strains, which are becoming ever more dangerous due to the multiple drugs they can resist, were exposed to 3.5% human serum albumin (HSA) and human serum (HS) to evaluate their response with respect to antimicrobial resistance, biofilm formation, and quorum sensing, all features responsible for increasing survival and persistence in the environment and human body. Expression levels of antibiotic resistance genes were modified differently when examined in different strains. The cmlA gene was upregulated or downregulated in conditions of exposure to 3.5% HSA or HS depending on the strain. Expression levels of pbp1 and pbp3 tended to be increased by the presence of HSA and HS, but the effect was not seen in all strains. A. baumannii A118 growing in the presence of HS did not experience increased expression of these genes. Aminoglycoside-modifying enzymes were also expressed at higher or lower levels in the presence of HSA or HS. Still, the response was not uniform; in some cases, expression was enhanced, and in other cases, it was tapered. While A. baumannii AB5075 became more susceptible to rifampicin in the presence of 3.5% HSA or HS, strain A118 did not show any changes. Expression of arr2, a gene involved in resistance to rifampicin present in A. baumannii AMA16, was expressed at higher levels when HS was present in the culture medium. HSA and HS reduced biofilm formation and production of N-Acyl Homoserine Lactone, a compound intimately associated with quorum sensing. In conclusion, HSA, the main component of HS, stimulates a variety of adaptative responses in infecting A. baumannii strains.

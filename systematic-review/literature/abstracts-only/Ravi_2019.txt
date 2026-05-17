@@ -1,0 +1,13 @@
+PMID: 30798544
+Title: A New Method for Determination of Minimum Biofilm Eradication Concentration for Accurate Antimicrobial Therapy.
+Authors: Ravi N., Aslam R., Veeraraghavan B.
+Journal: Methods in molecular biology (Clifton, N.J.)
+Year: 2019
+DOI: 10.1007/978-1-4939-9118-1_6
+PMC: 
+Publication types: Journal Article; Research Support, Non-U.S. Gov't
+URL: https://pubmed.ncbi.nlm.nih.gov/30798544/
+DOI URL: https://doi.org/10.1007/978-1-4939-9118-1_6
+
+--- Abstract ---
+Antimicrobial susceptibility testing (AST) is an important technique to find the susceptibility pattern of clinical isolates in order to administer the appropriate drug. One such technique is minimum inhibitory concentration (MIC), which not only identifies the right drug but also suggests the appropriate concentration necessary to neutralize the organisms in planktonic form. MIC can vary in case of adherent organisms since they form biofilms and activate survival mechanisms like quorum sensing. Here we have strategized a new method which used an inoculator plate, a resazurin dye, and a standard plate to identify minimum biofilm eradication concentration (MBEC) of adherent organisms.

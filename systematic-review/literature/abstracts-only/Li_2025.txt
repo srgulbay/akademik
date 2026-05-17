@@ -1,0 +1,16 @@
+PMID: 40231681
+Title: Indole derivatives display antimicrobial and antibiofilm effects against extensively drug-resistant Acinetobacter baumannii.
+Authors: Li J., Xie L., Lin F., Ling B.
+Journal: Microbiology spectrum
+Year: 2025
+DOI: 10.1128/spectrum.03388-24
+PMC: PMC12073863
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/40231681/
+DOI URL: https://doi.org/10.1128/spectrum.03388-24
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12073863/
+
+--- Abstract ---
+UNLABELLED: Acinetobacter baumannii is a critical priority gram-negative bacterial species featured with multidrug resistance and biofilm formation. This study screened 46 indole derivative agents for their antimicrobial activities against clinical isolates of extensively drug-resistant A. baumannii (XDRAB) with various degrees of biofilm production. Three selected indole agents-5-iodoindole, 3-methylindole, and 7-hydroxyindole-were revealed to display potent antimicrobial and antibiofilm activity, including synergistic interplay with anti-A. baumannii antimicrobial drugs against XDRAB. Sub-inhibitory concentrations of these agents (particularly 7-hydroxyindole at 1/64 of MIC) not only inhibited XDRAB biofilm formation but also eradicated the mature biofilm. The survival rate of XDRAB-infected Galleria mellonella was improved with the treatment of 7-hydroxyindole. Mechanistically, 7-hydroxyindole was found to reduce the expression of quorum sensing/biofilm-implicated genes abaI and abaR. Together, the findings highlight the potential of indole derivatives against A. baumannii infections.
+
+IMPORTANCE: Extensively drug-resistant Acinetobacter baumannii (XDRAB) isolates pose a major public health threat to antimicrobial therapy and are highly prevalent in hospital settings. This study identified and characterized indole derivative agents for their antimicrobial and antibiofilm activities against XDRAB. Sub-inhibitory indole agents such as 7-hydroxyindole can both inhibit XDRAB biofilm formation and eradicate the mature biofilm. Indole agents warrant further investigation against hard-to-treat antimicrobial-resistant pathogens.

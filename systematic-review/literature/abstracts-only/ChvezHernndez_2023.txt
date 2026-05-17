@@ -1,0 +1,14 @@
+PMID: 37894209
+Title: Phenotypic and Genomic Characterization of Streptomyces pakalii sp. nov., a Novel Species with Anti-Biofilm and Anti-Quorum Sensing Activity in ESKAPE Bacteria.
+Authors: Chávez-Hernández M., Ortiz-Álvarez J., Morales-Jiménez J., Villa-Tanaca L., Hernández-Rodríguez C.
+Journal: Microorganisms
+Year: 2023
+DOI: 10.3390/microorganisms11102551
+PMC: PMC10608816
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/37894209/
+DOI URL: https://doi.org/10.3390/microorganisms11102551
+PMC URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10608816/
+
+--- Abstract ---
+The increasing number of infections caused by antimicrobial multi-resistant microorganisms has led to the search for new microorganisms capable of producing novel antibiotics. This work proposes Streptomyces pakalii sp. nov. as a new member of the Streptomycetaceae family. The strain ENCB-J15 was isolated from the jungle soil in Palenque National Park, Chiapas, Mexico. The strain formed pale brown, dry, tough, and buried colonies in the agar with no diffusible pigment in GAE (glucose-asparagine-yeast extract) medium. Scanning electron micrographs showed typical mycelium with long chains of smooth and oval-shaped spores (3-10 m). The strain grew in all of the International Streptomyces Project (ISP)'s media at 28-37 °C with a pH of 6-9 and 0-10% NaCl. S. pakalii ENCB-J15 assimilated diverse carbon as well as organic and inorganic nitrogen sources. The strain also exhibited significant inhibitory activity against the prodigiosin synthesis of Serratia marcescens and the inhibition of the formation and destruction of biofilms of ESKAPE strains of Acinetobacter baumannii and Klebsiella pneumoniae. The draft genome sequencing of ENCB-J15 revealed a 7.6 Mb genome with a high G + C content (71.6%), 6833 total genes, and 6746 genes encoding putative proteins. A total of 26 accessory clusters of proteins associated with carbon sources and amino acid catabolism, DNA modification, and the antibiotic biosynthetic process were annotated. The 16S rRNA gene phylogeny, core-proteome phylogenomic tree, and virtual genome fingerprints support that S. pakalii ENCB-J15 is a new species related to Streptomyces badius and Streptomyces globisporus. Similarly, its average nucleotide identity (ANI) (96.4%), average amino acid identity (AAI) (96.06%), and virtual DNA-DNA hybridization (67.3%) provide evidence to recognize it as a new species. Comparative genomics revealed that S. pakalli and its closest related species maintain a well-conserved genomic synteny. This work proposes Streptomyces pakalii sp. nov. as a novel species that expresses anti-biofilm and anti-quorum sensing activities.

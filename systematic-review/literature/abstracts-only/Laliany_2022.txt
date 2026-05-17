@@ -1,0 +1,13 @@
+PMID: 36383290
+Title: In vitro virulence activity of Pseudomonas aeruginosa, enhanced by either Acinetobacter baumannii or Enterococcus faecium through the polymicrobial interactions.
+Authors: Laliany G., Jamehdar S., Makhdoumi A.
+Journal: Archives of microbiology
+Year: 2022
+DOI: 10.1007/s00203-022-03308-8
+PMC: 
+Publication types: Journal Article
+URL: https://pubmed.ncbi.nlm.nih.gov/36383290/
+DOI URL: https://doi.org/10.1007/s00203-022-03308-8
+
+--- Abstract ---
+Microbes within an infection impact neighbors' pathogenicity. This study aimed to address in vitro virulence activity of Pseudomonas aeruginosa under the binary interaction with Acinetobacter baumannii or Enterococcus faecium, co-isolated from two chronic wound infections. The biofilm formation of Pseudomonas was enhanced 1.5- and 1.4-fold when it was simultaneously cultured with Acinetobacter and Enterococcus, respectively. Pseudomonas motility was increased by 1.9- and 1.5-fold (swimming), 3.6- and 1.9-fold (swarming), and 1.5- and 1.5-fold (twitching) in the dual cultures with Acinetobacter and Enterococcus, respectively. The synergistic hemolysis activity of Pseudomonas was observed with the heat-killed Acinetobacter and Enterococcus cells. The minimum inhibitory concentration of ciprofloxacin against Pseudomonas was increased from (μg mL-1) 25 to 400 in the individual and mixed cultures, respectively. The pyocyanin production by Pseudomonas in the single and mixed cultures with Acinetobacter and Enterococcus was (μg/mL) 1.8, 2.3, and 2.9, respectively. The expression of lasI, rhlI, and pqsR genes was up-regulated by 1.0-, 1.9-, and 16.3-fold, and 4.9-, 1.0-, and 9.3-fold when Pseudomonas was incubated with Acinetobacter and Enterococcus, respectively. Considering the entire community instead of a single pathogen may lead to a more effective therapeutic design for persistent infections caused by Pseudomonas.
