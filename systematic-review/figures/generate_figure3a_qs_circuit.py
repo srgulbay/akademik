@@ -41,18 +41,20 @@ MEMBRANE_COLOR    = "#4d4d4d"
 # -----------------------------------------------------------------------------
 fig, ax = plt.subplots(figsize=(10, 7), dpi=300)
 ax.set_xlim(0, 10)
-ax.set_ylim(0, 7)
+ax.set_ylim(0, 7.4)
 ax.set_aspect("equal")
 ax.axis("off")
 
 # Title
-ax.text(5.0, 6.75, "Figure 3A.  AbaI / AbaR / AbaM quorum-sensing circuit in $\\it{A.\\ baumannii}$",
+ax.text(5.0, 7.15,
+        "Figure 3A.  AbaI / AbaR / AbaM quorum-sensing circuit in "
+        "$\\it{A.\\ baumannii}$",
         ha="center", va="center", fontsize=12, fontweight="bold")
 
 # -----------------------------------------------------------------------------
 # Cell envelope (top half = intracellular, bottom half = extracellular)
 # -----------------------------------------------------------------------------
-cell_top    = FancyBboxPatch((0.4, 3.2), 9.2, 3.0,
+cell_top    = FancyBboxPatch((0.4, 3.2), 9.2, 3.45,
                              boxstyle="round,pad=0.02,rounding_size=0.18",
                              linewidth=1.8, edgecolor=MEMBRANE_COLOR,
                              facecolor=CELL_TOP_COLOR, zorder=1)
@@ -71,15 +73,15 @@ for x in [i*0.25 + 0.55 for i in range(int((9.05)/0.25))]:
                         edgecolor=MEMBRANE_COLOR, lw=0.4, zorder=3))
 
 # Labels for compartments
-ax.text(0.55, 6.05, "Bacterial cell (cytoplasm)", fontsize=9, style="italic",
-        color="#555555", ha="left")
+ax.text(0.55, 6.50, "Bacterial cell (cytoplasm)", fontsize=9, style="italic",
+        color="#555555", ha="left", zorder=4)
 ax.text(0.55, 2.85, "Extracellular space", fontsize=9, style="italic",
-        color="#3a6a91", ha="left")
+        color="#3a6a91", ha="left", zorder=4)
 
 # -----------------------------------------------------------------------------
 # AbaI (synthase) - green circle, left side
 # -----------------------------------------------------------------------------
-abaI_xy = (1.7, 5.3)
+abaI_xy = (1.7, 5.55)
 ax.add_patch(Circle(abaI_xy, 0.35, facecolor=COL_ABAI, edgecolor="black",
                     lw=1.2, zorder=5))
 ax.text(abaI_xy[0], abaI_xy[1], "AbaI", ha="center", va="center",
@@ -88,9 +90,9 @@ ax.text(abaI_xy[0], abaI_xy[1]-0.55, "synthase", ha="center",
         fontsize=7, style="italic", color="#2a5d2a")
 
 # Substrates feeding AbaI
-ax.text(0.55, 6.0, "SAM\n+\n3-OH-C12-ACP", ha="left", va="top",
-        fontsize=6.5, color="#444")
-arr_sub = FancyArrowPatch((1.05, 5.55), (1.4, 5.35),
+ax.text(0.55, 6.25, "SAM\n+\n3-OH-C12-ACP", ha="left", va="top",
+        fontsize=6.5, color="#444", zorder=4)
+arr_sub = FancyArrowPatch((1.05, 5.80), (1.4, 5.60),
                           arrowstyle="-|>", mutation_scale=10,
                           color="black", lw=1.0, zorder=4)
 ax.add_patch(arr_sub)
@@ -98,7 +100,7 @@ ax.add_patch(arr_sub)
 # -----------------------------------------------------------------------------
 # AbaR (receptor) - orange rectangle with two domains, center
 # -----------------------------------------------------------------------------
-abaR_x, abaR_y, abaR_w, abaR_h = 4.0, 4.7, 1.8, 0.7
+abaR_x, abaR_y, abaR_w, abaR_h = 4.0, 4.85, 1.8, 0.75
 ax.add_patch(FancyBboxPatch((abaR_x, abaR_y), abaR_w, abaR_h,
                             boxstyle="round,pad=0.02,rounding_size=0.05",
                             facecolor=COL_ABAR, edgecolor="black",
@@ -133,7 +135,7 @@ ax.plot([abaM_x-0.13, abaM_x+0.13], [abaR_y + abaR_h + 0.02]*2,
 # -----------------------------------------------------------------------------
 # ABUW_1132 (LysR regulator) - upper-left -> activates abaI transcription
 # -----------------------------------------------------------------------------
-lysr_xy = (2.7, 6.05)
+lysr_xy = (2.85, 6.30)
 ax.add_patch(FancyBboxPatch((lysr_xy[0]-0.45, lysr_xy[1]-0.18), 0.9, 0.36,
                             boxstyle="round,pad=0.02,rounding_size=0.05",
                             facecolor=COL_LYSR, edgecolor="black",

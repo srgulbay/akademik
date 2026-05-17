@@ -174,12 +174,12 @@ ax.axvline(
 )
 ax.text(
     frontier_x,
-    -0.85,
-    f"translation frontier (mean pre-translational = {frontier_x:.1f})",
+    len(matrix.index) - 0.4,
+    f"translation frontier\n(mean pre-translational = {frontier_x:.1f})",
     color="#555",
     fontsize=8,
     ha="center",
-    va="bottom",
+    va="top",
     style="italic",
 )
 
