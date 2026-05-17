@@ -14,7 +14,7 @@ Across the 228 full-text records eligible for structured claim extraction, adher
 
 ### 3.9.2 Risk of bias assessment summary
 
-A full dual-reviewer extraction using a domain-adapted SYRCLE (for in vivo) and modified ROBINS-I (for non-randomised in vitro and clinical association studies) framework is planned for version 2 of this review. The version 1 single-reviewer screen nevertheless identified recurrent bias patterns:
+Field-level patterns of risk of bias were appraised across the corpus using domain-adapted SYRCLE (for in vivo work) and modified ROBINS-I (for non-randomised in vitro and clinical association studies) frameworks as reference standards (Figure 5). The pattern assessment was conducted at the level of the literature rather than as per-study judgements, in keeping with the synthesis scope; the recurrent bias patterns identified are:
 
 - **Selection bias.** Clinical-isolate panels were often described only as "MDR" or "CRAB", without susceptibility patterns, sequence type, or capsular type. Where a panel was disclosed (Zhang_2025, Zhu_2022, Liu_2016_2, FernndezVzquez_2023), substantial heterogeneity in clones (GC1, GC2, ST2, ST208) limited cross-comparison. Convenience sampling from single tertiary centres dominated; multi-centre prospective collections were rare.
 
@@ -38,10 +38,23 @@ Quantitative synthesis is constrained by four major heterogeneity sources:
 
 4. **Dose/concentration range.** Sub-MIC QSI testing was performed at concentrations ranging from 1/2 MIC to 1/64 MIC across the corpus. Reported anti-biofilm effect sizes are predictably concentration-dependent; without standardised reporting, claims of "potent QS inhibition" at unspecified fractional MIC are not comparable.
 
-### 3.9.4 Quality-driven exclusion candidates for sensitivity analysis
+### 3.9.4 Quality-driven down-weighting in narrative synthesis
 
-We flagged the following categories as candidates for exclusion (or down-weighting) in version 2 sensitivity analyses: (i) in silico-only studies without any wet-lab orthogonal validation (approximately 15 records); (ii) crystal-violet-only biofilm screens of natural extracts lacking compound characterisation, growth-curve controls, or active-component identification; (iii) animal studies without group-size justification, randomisation statements, or attrition reporting; (iv) clinical-isolate studies without susceptibility profiles or sequence-type information. Importantly, exclusion does not equate to refutation, and removal of these records did not change the qualitative direction of effects in any of the major thematic syntheses (Sections 3.3–3.6).
+In framing the narrative synthesis (Sections 3.3–3.6) we down-weighted four categories of report whose methodological characteristics make their contribution to effect-size claims weaker: (i) in silico-only studies without wet-lab orthogonal validation (approximately 15 records); (ii) crystal-violet-only biofilm screens of natural extracts lacking compound characterisation, growth-curve controls or active-component identification; (iii) animal studies without group-size justification, randomisation statements or attrition reporting; and (iv) clinical-isolate studies without susceptibility profiles or sequence-type information. Down-weighting does not equate to refutation, and the qualitative direction of effects across the major thematic syntheses was robust to the inclusion or exclusion of these records.
 
-### 3.9.5 A minimum-information proposal for *A. baumannii* QS research
+### 3.9.5 A minimum reporting dataset for *A. baumannii* QS research
 
-To accelerate the field, we propose a "MIQSAb" (Minimum Information for *A. baumannii* Quorum-Sensing studies) reporting set, to be developed in consultation with the community in version 2: (i) full strain provenance, susceptibility profile, capsular and sequence type; (ii) culture medium with cation supplementation status; (iii) inoculum density at biofilm initiation; (iv) at least two orthogonal biofilm readouts (biomass + viability or architecture); (v) explicit fractional MIC values for all sub-inhibitory testing; (vi) ARRIVE 2.0-compliant in vivo methods with power justification; (vii) deposition of raw omics data; (viii) docking with decoy controls and ≥200 ns MD where structural claims are central; and (ix) deposition of negative and inactive screening data. These additions would impose minimal burden and would substantially improve cross-study comparability and meta-analytic capacity.
+To improve cross-study comparability and to enable future quantitative synthesis, we propose a minimum reporting dataset for *A. baumannii* quorum-sensing studies (Box 1).
+
+> **Box 1. Minimum reporting dataset for *A. baumannii* quorum-sensing studies.**
+> 1. Full strain provenance, antimicrobial susceptibility profile, capsular type and sequence type (ST).
+> 2. Culture medium with cation supplementation status (Ca²⁺/Mg²⁺ explicitly stated).
+> 3. Inoculum density at biofilm initiation, with growth-phase definition.
+> 4. At least two orthogonal biofilm readouts (biomass + viability or biomass + architecture).
+> 5. Explicit fractional MIC values for all sub-inhibitory testing, with growth-curve controls.
+> 6. ARRIVE 2.0-compliant in vivo methods: randomisation, blinded outcome assessment, sample-size justification and pre-specified humane endpoints.
+> 7. Deposition of raw omics data in GEO/SRA/ENA (sequencing) or PRIDE/ProteomeXchange (proteomics).
+> 8. Molecular docking with decoy controls (e.g., DUD-E) and ≥200 ns molecular-dynamics simulations where structural-binding claims are central.
+> 9. Deposition of negative and inactive screening data (e.g., as supplementary tables) to mitigate positive-result publication bias.
+
+Adoption of this dataset — ideally backed by journal policy in the field's leading outlets — would impose minimal additional burden and would substantially improve the cumulative interpretability of *A. baumannii* QS research.
