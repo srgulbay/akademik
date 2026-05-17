@@ -4,12 +4,20 @@
     "Scopus": 0,
     "WoS": 0,
     "Embase": 0,
-    "Cochrane": 0
+    "Cochrane": 0,
+    "OpenAlex": 351,
+    "Crossref": 3060
   },
-  "total_identified": 340,
-  "duplicates_removed": 2,
-  "after_dedup": 338,
+  "total_identified": 3751,
+  "duplicates_removed": 438,
+  "after_dedup": 3313,
   "source_overlap": {
-    "PubMed": 338
+    "PubMed": 76,
+    "OpenAlex+PubMed": 153,
+    "Crossref+OpenAlex+PubMed": 101,
+    "Crossref+PubMed": 8,
+    "Crossref+OpenAlex": 29,
+    "OpenAlex": 63,
+    "Crossref": 2883
   }
 }

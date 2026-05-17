@@ -178,6 +178,59 @@ def read_embase(dir_path):
                 })
     return out
 
+def read_openalex(dir_path):
+    out = []
+    if not dir_path.exists():
+        return out
+    for csv_path in dir_path.glob("*.csv"):
+        with open(csv_path, encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for r in reader:
+                doi = r.get("DOI") or ""
+                title = r.get("Title") or ""
+                year = (r.get("Year") or "").strip()
+                authors_field = r.get("Authors") or ""
+                first_author = authors_field.split(";")[0].split(",")[0].strip() if authors_field else ""
+                journal = r.get("Source title") or ""
+                out.append({
+                    "source": "OpenAlex",
+                    "doi": doi,
+                    "pmid": "",
+                    "title": title,
+                    "year": year,
+                    "authors": first_author,
+                    "journal": journal,
+                    "openalex_id": r.get("OpenAlexID") or "",
+                })
+    return out
+
+
+def read_crossref(dir_path):
+    out = []
+    if not dir_path.exists():
+        return out
+    for csv_path in dir_path.glob("*.csv"):
+        with open(csv_path, encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for r in reader:
+                doi = r.get("DOI") or ""
+                title = r.get("Title") or ""
+                year = (r.get("Year") or "").strip()
+                authors_field = r.get("Authors") or ""
+                first_author = authors_field.split(";")[0].split(",")[0].strip() if authors_field else ""
+                journal = r.get("Source title") or ""
+                out.append({
+                    "source": "Crossref",
+                    "doi": doi,
+                    "pmid": "",
+                    "title": title,
+                    "year": year,
+                    "authors": first_author,
+                    "journal": journal,
+                })
+    return out
+
+
 def read_cochrane(dir_path):
     out = []
     if not dir_path.exists():
@@ -229,7 +282,7 @@ def dedup(records):
             # Merge sources
             unique[matched_idx]["sources"].add(rec["source"])
             # Fill missing fields
-            for k in ("doi", "pmid", "pmcid", "scopus_eid", "wos_ut", "embase_pui", "filename"):
+            for k in ("doi", "pmid", "pmcid", "scopus_eid", "wos_ut", "embase_pui", "filename", "openalex_id"):
                 if not unique[matched_idx].get(k) and rec.get(k):
                     unique[matched_idx][k] = rec[k]
             dup_log.append({"source": rec["source"], "title": rec.get("title", "")[:80],
@@ -256,6 +309,8 @@ def main():
         "WoS": read_wos(ROOT / "external" / "wos"),
         "Embase": read_embase(ROOT / "external" / "embase"),
         "Cochrane": read_cochrane(ROOT / "external" / "cochrane"),
+        "OpenAlex": read_openalex(ROOT / "external" / "openalex"),
+        "Crossref": read_crossref(ROOT / "external" / "crossref"),
     }
 
     print("=== Per-source counts ===")
@@ -273,7 +328,7 @@ def main():
     # Write merged_unique.csv
     out_path = ROOT / "merged_unique.csv"
     fieldnames = ["doi", "pmid", "pmcid", "year", "authors", "title", "journal",
-                  "sources", "scopus_eid", "wos_ut", "embase_pui", "filename"]
+                  "sources", "scopus_eid", "wos_ut", "embase_pui", "openalex_id", "filename"]
     with open(out_path, "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f)
         w.writerow(fieldnames)
@@ -284,7 +339,7 @@ def main():
                 u.get("journal", ""),
                 "; ".join(sorted(u.get("sources", set()))),
                 u.get("scopus_eid", ""), u.get("wos_ut", ""), u.get("embase_pui", ""),
-                u.get("filename", ""),
+                u.get("openalex_id", ""), u.get("filename", ""),
             ])
     print(f"  Written: {out_path}")
 

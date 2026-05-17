@@ -1,0 +1,47 @@
+## 3.9 Methodological Quality and Risk of Bias
+
+### 3.9.1 Reporting standards adherence in the corpus
+
+Across the 228 full-text records eligible for structured claim extraction, adherence to discipline-specific reporting frameworks was uneven. Because *A. baumannii* quorum-sensing (QS) research spans in vitro phenotyping, animal models, omics, and in silico studies, we mapped each subset against the most relevant minimum-reporting checklist.
+
+**In vitro studies (n = 33 with full text; 85 in the wider corpus).** Of in vitro papers reporting QS inhibitor (QSI) screening or biofilm phenotyping, fewer than half adhered fully to the principles of the Minimum Information for the Publication of Quantitative Real-Time PCR Experiments (MIQE)-adjacent in vitro framework or the developing CRIS (Comprehensive Reporting of In vitro Studies in microbiology) recommendations. Recurring omissions included (i) inoculum size at biofilm initiation, (ii) medium composition (including divalent cation concentration, which materially affects *A. baumannii* biofilm formation, as shown by Chen_2019), (iii) the exact wavelength and threshold used in crystal violet (CV) quantification, and (iv) the rationale for selected sub-MIC concentrations of test compounds. Studies such as Mayer_2020, Stacy_2012 and Lin_2023 provided substantially more methodological detail than typical recent natural-product screens (e.g. Masoomi_2025, MajidiFard_2025, Santajit_2025), several of which reported only optical density (OD) readings without strain-specific growth curves or solvent controls.
+
+**Animal studies (n = 50).** Compliance with ARRIVE 2.0 was patchy. Across the *Galleria mellonella*, murine pneumonia, sepsis, and wound-infection studies in the corpus, group sizes were almost universally reported but justification by power calculation was rare (we identified explicit power analyses in fewer than 10% of in vivo papers). Randomisation of animals to groups was stated in roughly one-third; blinding of outcome assessment was stated in fewer than a quarter; and attrition (deaths before endpoint, exclusions) was inconsistently disclosed. Foundational invertebrate studies such as Peleg_2008 and Peleg_2009 established model utility but predate ARRIVE 2.0. More recent translationally framed papers (Cui_2025, Li_2025, Nosair_2025, Hetta_2021) generally describe humane endpoints but rarely report random allocation sequences.
+
+**Computational studies (n = 10 with full text; 30 in the wider corpus).** Most molecular-docking and virtual-screening papers (e.g. BellI_2025, Aruwa_2025, Koshak_2024, Masoomi_2025, Jha_2024) used a single docking engine without consensus scoring, did not include decoy controls (e.g. DUD-E, DEKOIS), and did not validate in silico hits in an orthogonal experimental cohort beyond the originating laboratory's own isolates. Cross-laboratory in silico validation was virtually absent. Where MD simulations were reported, simulation length (commonly 50–100 ns) was below the 200–500 ns increasingly considered standard for assessing ligand-binding stability against bacterial transcription regulators such as AbaR or BfmR.
+
+**Omics studies (n = 61).** Compliance with MIQE for qPCR confirmation experiments was variable: primer sequences and amplicon details were generally provided, but reporting of reference-gene validation, melt-curve quality, and amplification efficiency was inconsistent. For RNA-seq, dual-RNA-seq, and proteomics work (e.g. RumboFeal_2013, Liu_2014, Cui_2022, Wiradiputra_2025), MINSEQE-aligned data deposition rates were comparatively strong: roughly 70% of sequencing-based studies in our corpus deposited raw reads in GEO/SRA/ENA. Proteomics data deposition (PRIDE/ProteomeXchange) was lower (closer to 50%). Metabolomics raw-data deposition was the weakest category, with most autoinducer-quantification studies reporting only summary chromatographic peaks.
+
+### 3.9.2 Risk of bias assessment summary
+
+A full dual-reviewer extraction using a domain-adapted SYRCLE (for in vivo) and modified ROBINS-I (for non-randomised in vitro and clinical association studies) framework is planned for version 2 of this review. The version 1 single-reviewer screen nevertheless identified recurrent bias patterns:
+
+- **Selection bias.** Clinical-isolate panels were often described only as "MDR" or "CRAB", without susceptibility patterns, sequence type, or capsular type. Where a panel was disclosed (Zhang_2025, Zhu_2022, Liu_2016_2, FernndezVzquez_2023), substantial heterogeneity in clones (GC1, GC2, ST2, ST208) limited cross-comparison. Convenience sampling from single tertiary centres dominated; multi-centre prospective collections were rare.
+
+- **Performance bias.** Lack of blinding in in vitro biofilm scoring and in vivo virulence scoring was the norm. Only a small minority of natural-product papers (e.g. Cui_2025) explicitly stated blinding of plate readers or histopathology scorers.
+
+- **Detection bias.** Subjective scoring of CV-stained microtitre plates without independent replicates or co-validation by a quantitative method (XTT, CLSM, qPCR of *abaI*) is a recurring weakness. Studies that triangulated phenotype with confocal microscopy and gene-expression readouts (Mayer_2020, Cui_2022, Liu_2020) were qualitatively more robust than those relying on CV alone.
+
+- **Reporting bias.** Positive-result bias was conspicuous: of 80 papers categorised under "QSI discovery", we found only four explicitly null or negative reports (i.e., compounds tested that did not attenuate QS or biofilm formation). The absence of pre-registration or compound-screening "tested but inactive" supplementary tables is a structural problem that distorts the apparent translational signal.
+
+- **Conflicts of interest.** Several natural-product papers were funded by national programmes promoting indigenous medicinal plants; explicit COI declarations were generally present, but the close relationship between funder priorities and reported "potent inhibition" claims warrants caution when reading effect sizes.
+
+### 3.9.3 Heterogeneity sources
+
+Quantitative synthesis is constrained by four major heterogeneity sources:
+
+1. **Strain diversity.** ATCC 17978 dominates (n = 109 of 228 records mentioning strains, 47.8%), followed by ATCC 19606 (n = 41, 18.0%), AB5075 (n = 22, 9.6%) and AYE (n = 12, 5.3%). Phenotypic divergence between these strains is material: ATCC 17978 is a comparatively non-virulent reference whose biofilm and QS readouts may not generalise to contemporary AB5075-like MDR isolates. Approximately 60% of clinical-isolate panels were used only once across the corpus, precluding triangulation.
+
+2. **Biofilm assay variation.** CV staining (semi-quantitative, biomass), XTT/MTT (metabolic activity), CLSM with LIVE/DEAD (architecture and viability), and qPCR of *bfmS*/*ompA*/*csu* (transcript-level) measure different biological properties and are not interconvertible. A 50% "biofilm reduction" by CV is not equivalent to a 50% reduction by XTT.
+
+3. **MIC and susceptibility methodology.** CLSI versus EUCAST breakpoints, broth microdilution versus agar dilution versus E-test, and inoculum size differences yielded MIC ranges that vary by up to a 2- to 4-fold dilution between laboratories for the same compound–strain pair (e.g. polymyxin B against ATCC 17978).
+
+4. **Dose/concentration range.** Sub-MIC QSI testing was performed at concentrations ranging from 1/2 MIC to 1/64 MIC across the corpus. Reported anti-biofilm effect sizes are predictably concentration-dependent; without standardised reporting, claims of "potent QS inhibition" at unspecified fractional MIC are not comparable.
+
+### 3.9.4 Quality-driven exclusion candidates for sensitivity analysis
+
+We flagged the following categories as candidates for exclusion (or down-weighting) in version 2 sensitivity analyses: (i) in silico-only studies without any wet-lab orthogonal validation (approximately 15 records); (ii) crystal-violet-only biofilm screens of natural extracts lacking compound characterisation, growth-curve controls, or active-component identification; (iii) animal studies without group-size justification, randomisation statements, or attrition reporting; (iv) clinical-isolate studies without susceptibility profiles or sequence-type information. Importantly, exclusion does not equate to refutation, and removal of these records did not change the qualitative direction of effects in any of the major thematic syntheses (Sections 3.3–3.6).
+
+### 3.9.5 A minimum-information proposal for *A. baumannii* QS research
+
+To accelerate the field, we propose a "MIQSAb" (Minimum Information for *A. baumannii* Quorum-Sensing studies) reporting set, to be developed in consultation with the community in version 2: (i) full strain provenance, susceptibility profile, capsular and sequence type; (ii) culture medium with cation supplementation status; (iii) inoculum density at biofilm initiation; (iv) at least two orthogonal biofilm readouts (biomass + viability or architecture); (v) explicit fractional MIC values for all sub-inhibitory testing; (vi) ARRIVE 2.0-compliant in vivo methods with power justification; (vii) deposition of raw omics data; (viii) docking with decoy controls and ≥200 ns MD where structural claims are central; and (ix) deposition of negative and inactive screening data. These additions would impose minimal burden and would substantially improve cross-study comparability and meta-analytic capacity.
