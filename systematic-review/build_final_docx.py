@@ -809,11 +809,11 @@ def add_references_section(doc, refs):
 # ---------------------------------------------------------------------------
 
 HIGHLIGHTS = [
-    "AbaI/AbaR network integrates with BfmRS, AdeRS, PmrAB and second messengers across >300 studies.",
-    "Seven QSI/QQ intervention classes mapped; phage cocktails lead clinical maturity for A. baumannii.",
-    "Biofilm modulation reported in >75% of corpus; median in vitro mass reductions 50-80% at sub-MIC.",
-    "In vivo evidence is ~15% of studies with uneven ARRIVE 2.0 adherence and scarce PK data.",
-    "No QSI has advanced beyond Phase I in A. baumannii; phage compassionate use is the lead signal.",
+    "AbaI/AbaR axis integrates BfmRS, AdeRS, PmrAB and second messengers.",
+    "Seven QSI/QQ classes mapped; phages lead clinical maturity in A. baumannii.",
+    "Biofilm modulation in >75% of corpus; in vitro reductions cluster at 50-80%.",
+    "In vivo data are ~15% of studies; ARRIVE 2.0 uneven, PK data scarce.",
+    "No QSI past Phase I in A. baumannii; phage compassionate use leads.",
 ]
 
 
