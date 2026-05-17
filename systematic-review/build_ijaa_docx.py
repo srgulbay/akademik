@@ -132,19 +132,17 @@ TABLE_CAPTIONS = {
 FIGURE_ANCHORS = {
     "### 3.1 Study selection": [1],
     "### 3.2 Characteristics of included studies": [2],
-    "#### 3.3.1 The abaI/abaR axis: the canonical LuxI/LuxR-type system":
-        ["3A"],
-    "#### 3.3.5 Nucleotide second messengers (c-di-GMP, ppGpp, 3′,5′-cAMP) "
-        "as QS modulators": ["3B"],
-    "#### 3.3.7 Open mechanistic questions and unmapped regulons": [6],
+    "#### 3.3.1 The *abaI*/*abaR* axis": ["3A"],
+    "#### 3.3.5 Nucleotide second messengers": ["3B"],
+    "#### 3.3.7 Open mechanistic questions": [6],
     "### 3.4 Therapeutic Targeting of QS — Intervention Classes": [4],
-    "#### 3.9.2 Risk of bias assessment summary": [5],
+    "#### 3.9.2 Risk-of-bias patterns": [5],
 }
 
 TABLE_ANCHORS = {
     "### 3.2 Characteristics of included studies": [1],
     "### 3.4 Therapeutic Targeting of QS — Intervention Classes": [2],
-    "#### 3.3.7 Open mechanistic questions and unmapped regulons": [3],
+    "#### 3.3.7 Open mechanistic questions": [3],
 }
 
 # Italic auto-detect terms (bacterial nomenclature, gene names, latinisms).

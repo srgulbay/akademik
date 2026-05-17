@@ -212,17 +212,17 @@ parts.append("""## Abstract
 
 # Sections — normalize headers
 # section_1 and section_2 start with `# 1.` / `# 2.` (h1) — demote to h2 (so they match h2 hierarchy)
-s1 = demote_headers(read_file(SECTIONS / "section_1_introduction.md"), 1)
-s2 = demote_headers(read_file(SECTIONS / "section_2_methods.md"), 1)
+s1 = demote_headers(read_file(section_file("section_1_introduction")), 1)
+s2 = demote_headers(read_file(section_file("section_2_methods")), 1)
 
 # section_3_3, 3_4, 3_5_6, 3_9 start with `## 3.X` (h2) — demote to h3 (to sit under "## 3. Results")
-s3_3 = demote_headers(read_file(SECTIONS / "section_3_3_molecular_network.md"), 1)
-s3_4 = demote_headers(read_file(SECTIONS / "section_3_4_interventions.md"), 1)
-s3_5_6 = demote_headers(read_file(SECTIONS / "section_3_5_3_6_invivo_clinical.md"), 1)
-s3_9 = demote_headers(read_file(SECTIONS / "section_3_9_quality_rob.md"), 1)
+s3_3 = demote_headers(read_file(section_file("section_3_3_molecular_network")), 1)
+s3_4 = demote_headers(read_file(section_file("section_3_4_interventions")), 1)
+s3_5_6 = demote_headers(read_file(section_file("section_3_5_3_6_invivo_clinical")), 1)
+s3_9 = demote_headers(read_file(section_file("section_3_9_quality_rob")), 1)
 
 # section_4_5 starts with `## 4.` (h2) — leave at h2
-s4_5 = read_file(SECTIONS / "section_4_5_discussion_conclusion.md")
+s4_5 = read_file(section_file("section_4_5_discussion_conclusion"))
 
 # Tables/figures — keep h1 (top of file) but demote internal headers to ####
 def demote_table(text):
@@ -384,6 +384,8 @@ if unresolved_unique:
 
 final += f"\n\n---\n*Manuscript word count: {words:,} | Cited references: {ref_count}*\n"
 
-out = ROOT / "MANUSCRIPT.md"
+out_name = "MANUSCRIPT_IJAA.md" if COMPACT else "MANUSCRIPT.md"
+out = ROOT / out_name
 out.write_text(final, encoding="utf-8")
-print(f"\nWritten: {out}")
+print(f"\nMode: {'COMPACT (IJAA)' if COMPACT else 'FULL'}")
+print(f"Written: {out}")
