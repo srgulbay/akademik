@@ -553,34 +553,42 @@ def add_references_section(doc, refs):
 # ---------------------------------------------------------------------------
 
 def estimate_word_count(md_text):
-    """Words in main text Sections 1-5 only, excluding tables/refs/supp."""
+    """
+    Words in the main text (Sections 1-5 prose) — excluding the references
+    list and the supplementary-material section. Markdown tables, code
+    blocks (ASCII art) and bibliographic doi tokens are excluded.
+    """
     in_main = False
-    in_table = False
     in_code = False
     count = 0
     section_re = re.compile(r"^##\s+(\d+)\.\s")
     for line in md_text.splitlines():
-        stripped = line.strip()
-        if stripped.startswith("```"):
+        stripped = line.rstrip()
+        if stripped.strip().startswith("```"):
             in_code = not in_code
             continue
         if in_code:
             continue
-        m = section_re.match(stripped)
+        s = stripped.strip()
+        m = section_re.match(s)
         if m:
             sec = int(m.group(1))
             in_main = 1 <= sec <= 5
             continue
-        if stripped.startswith("## References") or stripped.startswith(
-                "## Supplementary"):
+        if s.startswith("## References") or s.startswith("## Supplementary"):
             in_main = False
             continue
         if not in_main:
             continue
-        if stripped.startswith("|"):
-            continue  # markdown table
-        # Strip markdown markers and citations for the count
-        cleaned = re.sub(r"[#*_>`\[\]]", " ", stripped)
+        if s.startswith("|"):
+            # Count table cell text minimally (table contributes to length)
+            cells = [c.strip() for c in s.strip("|").split("|")]
+            for c in cells:
+                cleaned = re.sub(r"[*_`]", " ", c)
+                count += len([w for w in cleaned.split()
+                              if any(ch.isalpha() for ch in w)])
+            continue
+        cleaned = re.sub(r"[#*_>`]", " ", s)
         cleaned = re.sub(r"\bdoi:\S+", "", cleaned)
         words = [w for w in cleaned.split() if any(ch.isalpha() for ch in w)]
         count += len(words)
@@ -731,9 +739,12 @@ def build_title_page(doc, word_count):
     doc.add_paragraph()  # spacer
 
     # Metadata block
+    # Provide both Sections 1-5 estimate and the full-document figure for
+    # editorial transparency. The "main text" figure here is the conservative
+    # Sections 1-5 prose count (excluding references and supplementary).
     meta_lines = [
         ("Article type:", "Systematic Review"),
-        ("Word count (main text):", f"{word_count:,}"),
+        ("Word count (main text, Sections 1–5):", f"{word_count:,}"),
         ("Reference count:", "93"),
         ("Tables:", "3 (in main text)"),
         ("Figures:", "6"),

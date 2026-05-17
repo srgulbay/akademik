@@ -41,7 +41,7 @@ MEMBRANE_COLOR    = "#4d4d4d"
 # -----------------------------------------------------------------------------
 fig, ax = plt.subplots(figsize=(10, 7), dpi=300)
 ax.set_xlim(0, 10)
-ax.set_ylim(0, 7.4)
+ax.set_ylim(-0.4, 7.4)
 ax.set_aspect("equal")
 ax.axis("off")
 
@@ -120,11 +120,11 @@ ax.text(abaR_x + abaR_w/2, abaR_y - 0.22, "AbaR (receptor / LuxR-type)",
 # -----------------------------------------------------------------------------
 abaM_x = abaR_x + abaR_w/2
 abaM_y = abaR_y + abaR_h + 0.18
-ax.add_patch(Ellipse((abaM_x, abaM_y), width=0.85, height=0.32,
+ax.add_patch(Ellipse((abaM_x, abaM_y), width=1.05, height=0.38,
                      facecolor=COL_ABAM, edgecolor="black",
                      lw=1.0, zorder=6))
 ax.text(abaM_x, abaM_y, "AbaM (brake)", ha="center", va="center",
-        fontsize=7, fontweight="bold", color="white", zorder=7)
+        fontsize=7.5, fontweight="bold", color="white", zorder=7)
 # T-bar inhibition from AbaM to AbaR
 inh_line = Line2D([abaM_x, abaM_x], [abaM_y-0.18, abaR_y + abaR_h + 0.02],
                   color=COL_ABAM, lw=1.6, zorder=6)
@@ -204,9 +204,9 @@ for i, g in enumerate(targets):
             fontsize=7, fontstyle="italic", fontweight="bold",
             color="black", zorder=5)
 
-ax.text(5.0, genome_y + 0.42,
-        "target gene regulons (biofilm, motility, virulence, efflux)",
-        ha="center", fontsize=7, style="italic", color="#444", zorder=4)
+ax.text(7.5, genome_y + 0.32,
+        "target gene regulons\n(biofilm, motility, virulence, efflux)",
+        ha="center", fontsize=6.5, style="italic", color="#444", zorder=4)
 
 # Arrow: AbaR (with AHL) -> transcription at lux-box / abaI
 arr_tx = FancyArrowPatch((abaR_x + 0.6, abaR_y), (1.4, genome_y + 0.18),
@@ -280,8 +280,8 @@ arr_bind = FancyArrowPatch((4.4, 3.7), (abaR_x + 0.4, abaR_y + 0.1),
                            zorder=4,
                            connectionstyle="arc3,rad=0.2")
 ax.add_patch(arr_bind)
-ax.text(4.55, 4.25, "AHL binds AbaR", fontsize=6.5,
-        style="italic", color=COL_AHL)
+ax.text(4.85, 3.85, "AHL binds AbaR", fontsize=6.5,
+        style="italic", color=COL_AHL, zorder=5)
 
 # -----------------------------------------------------------------------------
 # Quorum-quenching enzymes (purple) cleaving AHL
@@ -352,10 +352,12 @@ leg_handles = [
     Line2D([0], [0], color=COL_AHL, lw=1.2, linestyle="--",
            label="diffusion"),
 ]
-leg = ax.legend(handles=leg_handles, loc="upper right",
-                bbox_to_anchor=(0.995, 0.97),
-                fontsize=6.5, frameon=True, framealpha=0.9,
-                title="Legend", title_fontsize=7, ncol=1)
+leg = ax.legend(handles=leg_handles, loc="lower center",
+                bbox_to_anchor=(0.5, -0.06),
+                fontsize=6.2, frameon=True, framealpha=0.95,
+                title="Legend", title_fontsize=7, ncol=8,
+                handlelength=1.4, columnspacing=1.2,
+                handletextpad=0.5)
 leg.get_frame().set_edgecolor("#888888")
 
 # -----------------------------------------------------------------------------
