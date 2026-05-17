@@ -52,8 +52,8 @@ ax.set_ylim(-0.6, 7)
 ax.set_aspect("equal")
 ax.axis("off")
 
-ax.text(5.0, 6.75,
-        "Second-messenger integration with the QS decision point",
+ax.text(5.0, 6.80,
+        "Figure 3B. Second-messenger integration with the QS decision point",
         ha="center", va="center", fontsize=10, fontweight="bold")
 
 # -----------------------------------------------------------------------------
@@ -116,8 +116,8 @@ ax.add_patch(arr_ppg)
 ax.text(ppg_x + 0.25, (ppg_y - 0.55 + qs_cy + qs_h/2) / 2, "−",
         ha="left", va="center", fontsize=12, fontweight="bold",
         color=COL_PPGPP, zorder=6)
-ax.text(ppg_x, ppg_y + 0.95, "represses ABUW_1132",
-        ha="center", va="bottom", fontsize=6.5, style="italic",
+ax.text(ppg_x + 1.10, ppg_y + 0.35, "represses ABUW_1132",
+        ha="left", va="bottom", fontsize=6.5, style="italic",
         color=COL_PPGPP)
 
 # 3',5'-cAMP pool at 3 o'clock
@@ -134,7 +134,7 @@ ax.add_patch(arr_cmp)
 ax.text((cmp_x - 0.55 + qs_cx + qs_w/2) / 2, qs_cy + 0.18, "−",
         ha="center", va="center", fontsize=12, fontweight="bold",
         color=COL_CAMP, zorder=6)
-ax.text(cmp_x, cmp_y + 0.95, "represses abaI",
+ax.text(cmp_x, cmp_y + 0.75, "represses abaI",
         ha="center", va="bottom", fontsize=6.5, style="italic",
         color=COL_CAMP)
 

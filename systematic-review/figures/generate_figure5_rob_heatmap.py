@@ -106,17 +106,17 @@ for i in range(matrix.shape[0]):
             label = "N.A."
             color = "#444"
             ax.text(j, i, label, ha="center", va="center",
-                    fontsize=10, fontweight="bold", color=color)
+                    fontsize=11, fontweight="bold", color=color)
         else:
             level = int(v)
             label = verbal_map[level]
             sym = symbol_map[level]
             color = "white" if level in (0, 3) else "#111"
-            # Verbal code on top line, symbol underneath (smaller)
-            ax.text(j, i - 0.10, label, ha="center", va="center",
-                    fontsize=10.5, fontweight="bold", color=color)
+            # Verbal code on top line, symbol underneath (larger)
+            ax.text(j, i - 0.13, label, ha="center", va="center",
+                    fontsize=12, fontweight="bold", color=color)
             ax.text(j, i + 0.22, sym, ha="center", va="center",
-                    fontsize=9, color=color)
+                    fontsize=12, color=color)
 
 # Ticks
 ax.set_xticks(np.arange(len(DOMAINS)))

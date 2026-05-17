@@ -261,7 +261,7 @@ nx.draw_networkx_labels(
 
 ax.set_axis_off()
 ax.set_title(
-    "Figure 6. Quorum-sensing regulatory network in A. baumannii",
+    "Figure 6. Quorum-sensing regulatory network in Acinetobacter baumannii",
     loc="left",
     fontsize=11, fontweight="bold",
 )

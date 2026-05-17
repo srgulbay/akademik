@@ -60,16 +60,16 @@ MEMBRANE = "#444444"
 # -----------------------------------------------------------------------------
 fig, ax = plt.subplots(figsize=(8, 6.4), dpi=600)
 ax.set_xlim(0, 10)
-ax.set_ylim(-1.0, 7.6)
+ax.set_ylim(-0.40, 8.00)
 ax.set_aspect("equal")
 ax.axis("off")
 
-ax.text(5.0, 7.35,
-        "Acinetobacter baumannii cell — schematic",
+ax.text(5.0, 7.80,
+        "Figure 3A. AbaI / AbaR / AbaM quorum-sensing circuit in Acinetobacter baumannii",
         ha="center", va="center", fontsize=10, fontweight="bold")
-ax.text(5.0, 7.05,
-        "AbaI / AbaR / AbaM quorum-sensing circuit",
-        ha="center", va="center", fontsize=9, fontstyle="italic", color="#444")
+ax.text(5.0, 7.50,
+        "Synthase (AbaI) — signal (AHL) — receptor (AbaR) with brake (AbaM)",
+        ha="center", va="center", fontsize=8, fontstyle="italic", color="#444")
 
 # -----------------------------------------------------------------------------
 # Bacterial cell as capsule (horizontal rounded rectangle)
@@ -96,7 +96,7 @@ for x in np.arange(0.7, 9.4, 0.22):
     ax.add_patch(Circle((x, 3.28), 0.035, facecolor="#9ec3e3",
                         edgecolor=MEMBRANE, lw=0.3, zorder=3))
 
-ax.text(0.65, 6.50, "Cytoplasm", fontsize=8, style="italic",
+ax.text(0.65, 6.50, "Intracellular (cytoplasm)", fontsize=8, style="italic",
         color="#555", ha="left", zorder=4)
 ax.text(0.65, 2.85, "Extracellular space", fontsize=8, style="italic",
         color="#3a6a91", ha="left", zorder=4)
@@ -385,13 +385,13 @@ leg_handles = [
            label="diffusion"),
 ]
 leg = ax.legend(handles=leg_handles, loc="lower center",
-                bbox_to_anchor=(0.5, -0.04),
+                bbox_to_anchor=(0.5, -0.02),
                 fontsize=6.4, frameon=False, ncol=8,
                 handlelength=1.1, columnspacing=0.8,
                 handletextpad=0.35)
 
 # -----------------------------------------------------------------------------
-# Numbered cycle line (single-line summary at very bottom)
+# Compact numbered cycle inset (top-left, just under title)
 # -----------------------------------------------------------------------------
 steps = [
     ("1", "Synthesis"),
@@ -401,20 +401,28 @@ steps = [
     ("5", "Transcription"),
     ("6", "Output"),
 ]
-cycle_y = -0.78
-ax.text(0.50, cycle_y, "QS cycle:",
-        ha="left", va="center", fontsize=6.5,
-        fontweight="bold", color="#222", zorder=11)
-step_x0 = 1.55
-step_gap = 1.35
+# Compact single-row inset of 6 numbered steps, placed above the cell
+ins_x0, ins_y0, ins_w, ins_h = 0.50, 6.95, 9.00, 0.45
+ax.add_patch(FancyBboxPatch(
+    (ins_x0, ins_y0), ins_w, ins_h,
+    boxstyle="round,pad=0.02,rounding_size=0.05",
+    facecolor="#f9f7f1", edgecolor="#bbb", lw=0.5, zorder=8,
+))
+ax.text(ins_x0 + 0.16, ins_y0 + ins_h / 2, "QS cycle:",
+        ha="left", va="center", fontsize=6.8, fontweight="bold",
+        color="#222", zorder=10)
+# Single row, 6 items
+step_x0 = ins_x0 + 1.15
+step_gap = (ins_w - 1.30) / 6.0
 for i, (num, title) in enumerate(steps):
-    cx = step_x0 + i * step_gap
-    ax.add_patch(Circle((cx, cycle_y), 0.10, facecolor="#333333",
+    cx = step_x0 + i * step_gap + 0.07
+    cy = ins_y0 + ins_h / 2
+    ax.add_patch(Circle((cx, cy), 0.085, facecolor="#333333",
                         edgecolor="black", lw=0.5, zorder=11))
-    ax.text(cx, cycle_y, num, ha="center", va="center",
-            fontsize=6, fontweight="bold", color="white", zorder=12)
-    ax.text(cx + 0.13, cycle_y, title, ha="left", va="center",
-            fontsize=6, color="#222", zorder=11)
+    ax.text(cx, cy, num, ha="center", va="center",
+            fontsize=5.5, fontweight="bold", color="white", zorder=12)
+    ax.text(cx + 0.13, cy, title, ha="left", va="center",
+            fontsize=6.2, color="#222", zorder=11)
 
 # -----------------------------------------------------------------------------
 # Save

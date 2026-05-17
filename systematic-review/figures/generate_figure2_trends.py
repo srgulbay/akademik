@@ -79,17 +79,17 @@ axA.bar(year_range, year_counts.values, color=colours,
 
 # Landmark annotations
 landmarks = [
-    (2008, "2008\nNiu et al.\nabaI characterized"),
-    (2018, "2018\nAHL lactonase\ninflection point"),
-    (2024, "2024\n>40 papers"),
+    (2008, "2008\nNiu et al.\nabaI characterized", 0.55),
+    (2018, "2018\nAHL lactonase\ninflection point", 0.40),
+    (2024, "2024\n>40 papers", 0.20),
 ]
 y_top = year_counts.max()
-for yr, label in landmarks:
+for yr, label, frac in landmarks:
     y = year_counts.get(yr, 0)
     axA.annotate(
         label,
         xy=(yr, y),
-        xytext=(yr, y + y_top * 0.30),
+        xytext=(yr, y + y_top * frac),
         ha="center", va="bottom",
         fontsize=6.8,
         arrowprops=dict(arrowstyle="->", color="#333", lw=0.7,
@@ -139,9 +139,9 @@ axB.text(0, 0, f"n={int(study_counts.sum())}",
 legend_labels = [f"{s.replace('_', ' ')} ({study_counts[s]})" for s in study_order]
 axB.legend(
     wedges, legend_labels,
-    loc="upper center",
-    bbox_to_anchor=(0.5, -0.02),
-    ncol=2,
+    loc="center left",
+    bbox_to_anchor=(1.02, 0.5),
+    ncol=1,
     frameon=False,
     fontsize=7.5,
 )

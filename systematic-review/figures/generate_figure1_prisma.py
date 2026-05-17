@@ -112,11 +112,16 @@ def arrow(ax, x0, y0, x1, y1, *, color="black", lw=0.8, ls="-"):
 # Full PRISMA 2020 diagram
 # ---------------------------------------------------------------------------
 def build_full_prisma():
-    fig = plt.figure(figsize=(8, 9), dpi=600)
+    fig = plt.figure(figsize=(8, 9.4), dpi=600)
     ax = fig.add_axes([0.01, 0.02, 0.98, 0.96])
     ax.set_xlim(0, 10)
-    ax.set_ylim(0, 12)
+    ax.set_ylim(0, 12.4)
     ax.set_axis_off()
+
+    # Figure title bar at top
+    ax.text(5.0, 12.10,
+            "Figure 1. PRISMA 2020 flow diagram",
+            ha="center", va="center", fontsize=11, fontweight="bold")
 
     # Stage Y-bands (top to bottom). x covers the full diagram width.
     bands = {
@@ -229,8 +234,8 @@ def build_full_prisma():
 
     # ---- Caption ------------------------------------------------------------
     caption = (
-        "Figure 1. PRISMA 2020 flow diagram for studies on quorum sensing in "
-        "Acinetobacter baumannii (v1 PubMed-anchored core)."
+        "PRISMA 2020 flow diagram. Records were identified from MEDLINE/PubMed and "
+        "supplemented by OpenAlex and Crossref API queries."
     )
     ax.text(5.0, 0.30, caption, ha="center", va="center",
             fontsize=8, fontstyle="italic", wrap=True)
@@ -300,7 +305,7 @@ def build_simplified():
     )
 
     caption = (
-        "Figure 1. PRISMA 2020 flow diagram (simplified) for v1 PubMed-anchored core."
+        "Figure 1. PRISMA 2020 flow diagram (simplified)."
     )
     ax.text(5.0, 0.30, caption, ha="center", va="center",
             fontsize=8, fontstyle="italic", wrap=True)

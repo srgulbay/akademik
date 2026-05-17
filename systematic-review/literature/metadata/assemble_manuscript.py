@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
-"""Assemble final manuscript from section files with robust citation resolution."""
+"""Assemble final manuscript from section files with robust citation resolution.
+
+Usage:
+    python3 assemble_manuscript.py             # full manuscript -> MANUSCRIPT.md
+    python3 assemble_manuscript.py --compact   # compact IJAA build -> MANUSCRIPT_IJAA.md
+"""
 import json
 import re
+import sys
 import unicodedata
 from pathlib import Path
 from collections import OrderedDict
@@ -11,6 +17,16 @@ SECTIONS = ROOT / "sections"
 TABLES = ROOT / "tables"
 BIB_JSON = ROOT / "bibliography.json"
 EXTERNAL_REFS = ROOT / "supplementary" / "external_references.md"
+
+COMPACT = "--compact" in sys.argv
+
+def section_file(stem):
+    """Return Path for either the standard or compact version of a section."""
+    if COMPACT:
+        candidate = SECTIONS / f"{stem}_compact.md"
+        if candidate.exists():
+            return candidate
+    return SECTIONS / f"{stem}.md"
 
 with open(BIB_JSON, encoding="utf-8") as f:
     bib = json.load(f)
