@@ -58,9 +58,9 @@ MEMBRANE = "#444444"
 # -----------------------------------------------------------------------------
 # Figure
 # -----------------------------------------------------------------------------
-fig, ax = plt.subplots(figsize=(8, 6), dpi=600)
+fig, ax = plt.subplots(figsize=(8, 6.4), dpi=600)
 ax.set_xlim(0, 10)
-ax.set_ylim(-0.5, 7.6)
+ax.set_ylim(-1.0, 7.6)
 ax.set_aspect("equal")
 ax.axis("off")
 
@@ -115,10 +115,10 @@ ax.text(abaI_xy[0], abaI_xy[1] - 0.62, "synthase", ha="center",
         fontsize=6.5, style="italic", color="#234d2c")
 
 # Substrate annotation
-ax.text(0.65, 6.25, "SAM + 3-OH-C12-ACP", ha="left", va="top",
-        fontsize=6.5, color="#444", zorder=4)
+ax.text(0.60, 5.45, "SAM +\n3-OH-C12-\nACP", ha="left", va="center",
+        fontsize=5.8, color="#444", zorder=4)
 ax.add_patch(FancyArrowPatch(
-    (1.00, 6.05), (1.35, 5.75),
+    (1.05, 5.55), (1.25, 5.55),
     arrowstyle="-|>", mutation_scale=7, color="black", lw=0.7, zorder=4,
 ))
 
@@ -247,8 +247,8 @@ for i, g in enumerate(targets):
             fontsize=6.5, fontstyle="italic", fontweight="bold",
             color="black", zorder=5)
 
-ax.text(6.50, 4.45,
-        "downstream: biofilm, motility,\nvirulence, efflux",
+ax.text(8.50, 4.20,
+        "downstream: biofilm,\nmotility, virulence, efflux",
         ha="center", fontsize=6, style="italic", color="#444", zorder=4)
 
 # Arrow: AbaR -> lux-box/abaI (binds lux-box)
@@ -337,7 +337,7 @@ arr_bind = FancyArrowPatch(
     connectionstyle="arc3,rad=0.2",
 )
 ax.add_patch(arr_bind)
-ax.text(4.95, 4.40, "AHL binds AbaR", fontsize=6,
+ax.text(5.10, 3.92, "AHL binds AbaR", fontsize=5.8,
         style="italic", color=COL_AHL, zorder=5)
 
 # -----------------------------------------------------------------------------
@@ -384,10 +384,10 @@ leg_handles = [
     Line2D([0], [0], color=COL_AHL, lw=0.9, linestyle=(0, (2, 1.5)),
            label="diffusion"),
 ]
-leg = ax.legend(handles=leg_handles, loc="lower left",
-                bbox_to_anchor=(0.005, -0.03),
-                fontsize=6.0, frameon=False, ncol=4,
-                handlelength=1.1, columnspacing=0.7,
+leg = ax.legend(handles=leg_handles, loc="lower center",
+                bbox_to_anchor=(0.5, -0.04),
+                fontsize=6.4, frameon=False, ncol=8,
+                handlelength=1.1, columnspacing=0.8,
                 handletextpad=0.35)
 
 # -----------------------------------------------------------------------------
@@ -401,7 +401,7 @@ steps = [
     ("5", "Transcription"),
     ("6", "Output"),
 ]
-cycle_y = -0.40
+cycle_y = -0.78
 ax.text(0.50, cycle_y, "QS cycle:",
         ha="left", va="center", fontsize=6.5,
         fontweight="bold", color="#222", zorder=11)
