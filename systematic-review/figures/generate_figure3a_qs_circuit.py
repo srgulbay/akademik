@@ -148,7 +148,7 @@ ax.text(lysr_xy[0], lysr_xy[1]-0.32, "LysR-type", ha="center", va="top",
 # -----------------------------------------------------------------------------
 # RelA -> (p)ppGpp side icon
 # -----------------------------------------------------------------------------
-rela_x, rela_y = 8.55, 5.85
+rela_x, rela_y = 8.45, 6.30
 ax.add_patch(FancyBboxPatch((rela_x-0.45, rela_y-0.18), 0.9, 0.36,
                             boxstyle="round,pad=0.02,rounding_size=0.05",
                             facecolor="#bbbbbb", edgecolor="black",
@@ -204,8 +204,9 @@ for i, g in enumerate(targets):
             fontsize=7, fontstyle="italic", fontweight="bold",
             color="black", zorder=5)
 
-ax.text(5.0, genome_y - 0.45, "target gene regulons (biofilm, motility, virulence, efflux)",
-        ha="center", fontsize=7, style="italic", color="#444")
+ax.text(5.0, genome_y + 0.42,
+        "target gene regulons (biofilm, motility, virulence, efflux)",
+        ha="center", fontsize=7, style="italic", color="#444", zorder=4)
 
 # Arrow: AbaR (with AHL) -> transcription at lux-box / abaI
 arr_tx = FancyArrowPatch((abaR_x + 0.6, abaR_y), (1.4, genome_y + 0.18),
