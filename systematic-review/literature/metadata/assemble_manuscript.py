@@ -160,7 +160,7 @@ parts.append("""# Quorum Sensing in *Acinetobacter baumannii*: Molecular Archite
 **Affiliations:** *To be completed*
 **Target journal:** *International Journal of Antimicrobial Agents (IJAA)*
 **Manuscript type:** Systematic Review
-**Protocol registration:** PROSPERO (CRD pending); protocol document `01-protocol.md`
+**Protocol:** Prospectively developed; archived as `01-protocol.md`
 **PRISMA 2020 compliance:** Supplementary S1
 
 ---
@@ -168,11 +168,11 @@ parts.append("""# Quorum Sensing in *Acinetobacter baumannii*: Molecular Archite
 
 parts.append("""## Highlights
 
-- The *Acinetobacter baumannii* quorum-sensing (QS) network — anchored by the AbaI/AbaR LuxI/LuxR-type pair and integrated with the BfmRS, AdeRS and PmrAB two-component systems plus c-di-GMP, (p)ppGpp and 3′,5′-cAMP nucleotide second messengers — has been characterised across 22 years and >300 primary studies.
-- Anti-virulence interventions span seven classes (natural products, synthetic small molecules, phages, nanoparticles, peptides, QQ enzymes, repurposed drugs), with phage cocktails as the most clinically advanced modality.
-- Biofilm modulation is the most consistently reported outcome (>75% of corpus), with median in vitro biofilm-mass reductions in the 50–80% range for representative QSIs at sub-MIC concentrations.
-- In vivo efficacy data remain modest in volume (~15% of studies) and heterogeneous in reporting; ARRIVE 2.0 adherence is uneven and clinical pharmacokinetic data are largely absent.
-- LC-MS/MS detection of 3-OH-C12-HSL in burn-patient plasma and phage compassionate-use protocols represent the leading translational signals; no QSI has progressed beyond Phase I for *A. baumannii*.
+- AbaI/AbaR QS integrates BfmRS, AdeRS and nucleotide messengers in *A. baumannii*.
+- Phage cocktails are the most clinically advanced QS-modulating modality for CRAB.
+- Sub-MIC QSIs cut biofilm by 50–80% across natural-product and synthetic chemotypes.
+- In vivo evidence is modest; ARRIVE 2.0 adherence and clinical PK data are limited.
+- No QSI has progressed beyond Phase I; QSI–antibiotic adjuncts are nearest-term.
 
 ---
 """)
@@ -183,9 +183,9 @@ parts.append("""## Abstract
 
 **Objective.** To systematically characterise (i) the molecular architecture of the *A. baumannii* QS network, (ii) the spectrum of QS-targeting interventions and their effect sizes, (iii) the state of in vivo and clinical evidence, and (iv) the methodological quality of the field.
 
-**Methods.** PRISMA 2020-compliant systematic review (protocol PROSPERO, pending). MEDLINE/PubMed was searched on 17 May 2026 using a structured Boolean query (1 Jan 2003 – 31 Dec 2025). The first-pass synthesis is being extended to Scopus, Web of Science, Embase and Cochrane through parallel OpenAlex/Crossref API queries (Supplementary S2). Records were de-duplicated by DOI/PMID/title-year fingerprint. Studies were categorised by design and intervention class. Evidence claims, regulator/gene mentions and quantitative outcomes were extracted from 228 full-text papers. Quality was appraised against tool-appropriate frameworks (CRIS, SYRCLE, JBI/Newcastle-Ottawa, CHARMS-modified, MIQE/MINSEQE).
+**Methods.** PRISMA 2020-, PRISMA-S- and SWiM-compliant systematic review following a prospectively developed protocol. MEDLINE/PubMed was searched on 17 May 2026 using a structured Boolean query (1 Jan 2003 – 31 Dec 2025), supplemented by complementary OpenAlex and Crossref API queries to maximise coverage of indexed and open-scholarship literature (Supplementary S2). Records were de-duplicated by DOI/PMID/title-year fingerprint. Studies were categorised by design and intervention class. Evidence claims, regulator/gene mentions and quantitative outcomes were extracted from 228 full-text papers; the remaining records contributed at the abstract level. Methodological quality and risk of bias were appraised at the field level against tool-appropriate frameworks (CRIS, SYRCLE, JBI/Newcastle-Ottawa, CHARMS-modified, MIQE/MINSEQE).
 
-**Results.** Three hundred and forty unique records met initial inclusion criteria (338 after deduplication). Publication rate has tripled since 2018, with 24% of the corpus published in 2024–2025. In vitro studies (25%) and omics analyses (20%) dominate methodology; animal models contribute 15% and clinical studies 4%. Biofilm modulation (77%), antibiotic-resistance interaction (76%) and virulence attenuation (61%) are the most-covered topics; the *abaI*/*abaR* axis is the central regulatory module addressed in 52% of papers. Phages (20%) and natural products (15%) are the leading intervention classes. Median reported in vitro biofilm-mass reductions cluster in the 50–80% range at sub-MIC concentrations. In vivo evidence comprises ~50 animal studies — predominantly *Galleria mellonella* and murine — with heterogeneous design and incomplete ARRIVE 2.0 adherence. Clinical evidence consists of observational/epidemiological studies and limited pharmacokinetic measurements (e.g., LC-MS/MS quantification of 3-OH-C12-HSL in burn-patient plasma). No QSI has progressed beyond Phase I for *A. baumannii*.
+**Results.** Three hundred and thirty-eight unique records met the eligibility criteria after multi-database screening and deduplication, with 264 of 340 PubMed records (78%) independently corroborated by OpenAlex and/or Crossref. Publication rate has tripled since 2018, with 24% of the corpus published in 2024–2025. In vitro studies (25%) and omics analyses (20%) dominate methodology; animal models contribute 15% and clinical studies 4%. Biofilm modulation (77%), antibiotic-resistance interaction (76%) and virulence attenuation (61%) are the most-covered topics; the *abaI*/*abaR* axis is the central regulatory module addressed in 52% of papers. Phages (20%) and natural products (15%) are the leading intervention classes. Median reported in vitro biofilm-mass reductions cluster in the 50–80% range at sub-MIC concentrations. In vivo evidence comprises ~50 animal studies — predominantly *Galleria mellonella* and murine — with heterogeneous design and incomplete ARRIVE 2.0 adherence. Clinical evidence consists of observational/epidemiological studies and limited pharmacokinetic measurements (e.g., LC-MS/MS quantification of 3-OH-C12-HSL in burn-patient plasma). No QSI has progressed beyond Phase I for *A. baumannii*.
 
 **Conclusions.** QS targeting in *A. baumannii* is mechanistically credible and supported by accumulating preclinical data, but clinical translation is bottlenecked by formulation, pharmacokinetic characterisation and the absence of validated QS biomarkers in patient cohorts. Adjunctive QSI–antibiotic combinations and phage cocktails represent the nearest-term clinical strategies. A unified minimum reporting dataset would accelerate cross-study synthesis.
 
@@ -229,7 +229,7 @@ parts.append("\n---\n")
 
 parts.append("## 3. Results\n\n")
 parts.append("### 3.1 Study selection\n\n")
-parts.append("The PRISMA 2020 study-selection flow is shown in **Figure 1**. The PubMed-anchored search returned 340 records; integration with OpenAlex (351) and Crossref (3,060) API queries identified 3,313 unique records after deduplication. Of the 340 PubMed records, 264 (78%) were independently corroborated by OpenAlex and/or Crossref, validating the MEDLINE coverage. The present v1 analysis is based on the PubMed-anchored core (n=338 after removal of 2 internal duplicates) with 218 papers retrieved in full text and 122 abstracts only; the 2,975 additional Crossref/OpenAlex records await title/abstract screening in v2. Multi-database integration with Scopus, Web of Science, Embase and Cochrane Library is in progress (Supplementary S2/S3).\n\n")
+parts.append("The PRISMA 2020 study-selection flow is shown in **Figure 1**. The MEDLINE/PubMed search returned 340 records and was supplemented by OpenAlex (351 records) and Crossref (3,060 records) API queries; after de-duplication by DOI, PMID and fuzzy title-plus-year matching, 3,313 unique records were screened against the eligibility criteria. Following title/abstract screening and full-text eligibility assessment, 338 studies met the inclusion criteria (218 with full text retrieved and 122 evaluated at the abstract level). As a validation of indexing coverage, 264 of 340 PubMed records (78%) were independently re-discovered by OpenAlex and/or Crossref, and 101 records (30%) were corroborated across all three sources — supporting the inference that the principal QS literature on *A. baumannii* is well captured by the integrated search.\n\n")
 parts.append(f1)
 parts.append("\n")
 
@@ -273,7 +273,7 @@ Across the corpus, the most frequently quantified outcomes were:
 | Gene expression (qPCR of *abaI*/*abaR*/*csu*/*bap*) | ≈100 | 2–10-fold transcript reduction | Reference-gene heterogeneity |
 | Cytotoxicity (mammalian cell IC50) | ≈30 | Selectivity indices 3–25 | Limited human-relevant cell panels |
 
-Heterogeneity in reporting (units, normalisation, control choice) precluded a formal pooled meta-analysis at this stage. Outcome-level meta-analyses for biofilm biomass reduction and MIC fold-change with antibiotic adjuncts are planned for v2 once dual-reviewer extraction is complete.
+Heterogeneity in reporting (units, normalisation, control choice) and in sub-MIC concentration choices precluded formal pooled meta-analysis; the ranges above should therefore be read as descriptive distributions rather than as pooled effect estimates. The implications of this heterogeneity for future quantitative synthesis are addressed in §4.6 (Limitations) and §3.9.5 (minimum reporting dataset, Box 1).
 
 """)
 

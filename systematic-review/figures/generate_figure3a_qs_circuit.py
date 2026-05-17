@@ -1,343 +1,375 @@
 """
 Figure 3A: AbaI/AbaR/AbaM quorum-sensing circuit in Acinetobacter baumannii.
 
-Renders a publication-quality schematic showing:
-- A bacterial cell (top half) with intracellular QS machinery
-- Extracellular space (bottom half) with AHL diffusion and QQ enzymes
-- Numbered cycle steps (1 -> 6)
+Journal-grade schematic, icon style (clean geometry, not cartoonish):
+- Bacterial cell as a smooth horizontal capsule shape
+- AbaI = green pentagon (synthase)
+- AbaR = orange rectangle with two domains (N: AHL-bind / C: HTH-DNA)
+- AbaM = small red triangle on top of AbaR (brake)
+- ABUW_1132 = small purple ellipse on the side
+- Lactonases / acylase = purple pacman/scissor-shaped icons
+- AHL drawn with a stylised lactone ring + C12 tail using Path patches
+- Numbered 1-6 cycle inset at bottom-right
+- Color legend at bottom
 
 Outputs:
-- figure3a_qs_circuit.png (300 DPI, 10x7 in)
+- figure3a_qs_circuit.png (600 DPI, 8x6 in)
 - figure3a_qs_circuit.svg
 """
 
 import os
+import sys
+from pathlib import Path
+
+import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
-from matplotlib.patches import FancyBboxPatch, FancyArrowPatch, Rectangle, Circle, Ellipse
+from matplotlib.patches import (
+    FancyBboxPatch, FancyArrowPatch, Rectangle, Circle,
+    RegularPolygon, Wedge, PathPatch, Polygon,
+)
+from matplotlib.path import Path as MPath
 from matplotlib.lines import Line2D
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from _style import apply_style, PALETTE
+
+apply_style()
 
 OUT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # -----------------------------------------------------------------------------
-# Color palette (consistent with figure legend)
+# Colours from the unified palette
 # -----------------------------------------------------------------------------
-COL_AHL    = "#1f77b4"   # blue
-COL_ABAI   = "#2ca02c"   # green (synthase)
-COL_ABAR   = "#ff7f0e"   # orange (receptor)
-COL_ABAM   = "#d62728"   # red (brake)
-COL_QQ     = "#7b3294"   # purple (quorum-quenching)
-COL_DNA    = "#000000"   # black (genome)
-COL_TARGET = "#dddddd"   # light gray (target gene boxes)
-COL_LYSR   = "#8c564b"   # brown for ABUW_1132 (LysR)
-COL_PPGPP  = "#b15928"   # ppGpp accent
+COL_AHL    = PALETTE["blue"]
+COL_ABAI   = "#3a8a4d"          # green pentagon
+COL_ABAR   = PALETTE["amber"]
+COL_ABAM   = PALETTE["red"]
+COL_QQ     = PALETTE["purple"]
+COL_LYSR   = "#5a3a9c"          # darker purple for ABUW_1132
+COL_DNA    = "#222222"
+COL_TARGET = "#e6e6e6"
+COL_PPGPP  = "#a04020"
 
-CELL_TOP_COLOR    = "#fff8e7"   # cell interior (pale cream)
-CELL_BOTTOM_COLOR = "#eaf3fb"   # extracellular (pale blue)
-MEMBRANE_COLOR    = "#4d4d4d"
+CELL_FACE = "#fdf6e7"
+EXTRA_FACE = "#eef4fb"
+MEMBRANE = "#444444"
 
 # -----------------------------------------------------------------------------
-# Figure / axes
+# Figure
 # -----------------------------------------------------------------------------
-fig, ax = plt.subplots(figsize=(10, 7), dpi=300)
+fig, ax = plt.subplots(figsize=(8, 6), dpi=600)
 ax.set_xlim(0, 10)
-ax.set_ylim(-0.4, 7.4)
+ax.set_ylim(-0.5, 7.6)
 ax.set_aspect("equal")
 ax.axis("off")
 
-# Title
-ax.text(5.0, 7.15,
-        "Figure 3A.  AbaI / AbaR / AbaM quorum-sensing circuit in "
-        "$\\it{A.\\ baumannii}$",
-        ha="center", va="center", fontsize=12, fontweight="bold")
+ax.text(5.0, 7.35,
+        "Acinetobacter baumannii cell — schematic",
+        ha="center", va="center", fontsize=10, fontweight="bold")
+ax.text(5.0, 7.05,
+        "AbaI / AbaR / AbaM quorum-sensing circuit",
+        ha="center", va="center", fontsize=9, fontstyle="italic", color="#444")
 
 # -----------------------------------------------------------------------------
-# Cell envelope (top half = intracellular, bottom half = extracellular)
+# Bacterial cell as capsule (horizontal rounded rectangle)
 # -----------------------------------------------------------------------------
-cell_top    = FancyBboxPatch((0.4, 3.2), 9.2, 3.45,
-                             boxstyle="round,pad=0.02,rounding_size=0.18",
-                             linewidth=1.8, edgecolor=MEMBRANE_COLOR,
-                             facecolor=CELL_TOP_COLOR, zorder=1)
-extracell   = FancyBboxPatch((0.4, 0.5), 9.2, 2.55,
-                             boxstyle="round,pad=0.02,rounding_size=0.18",
-                             linewidth=1.0, edgecolor="#9ec3e3",
-                             facecolor=CELL_BOTTOM_COLOR, zorder=1)
+cell = FancyBboxPatch(
+    (0.5, 3.30), 9.0, 3.40,
+    boxstyle="round,pad=0.02,rounding_size=0.45",
+    linewidth=1.4, edgecolor=MEMBRANE,
+    facecolor=CELL_FACE, zorder=1,
+)
+ax.add_patch(cell)
+
+extracell = FancyBboxPatch(
+    (0.5, 0.45), 9.0, 2.55,
+    boxstyle="round,pad=0.02,rounding_size=0.18",
+    linewidth=0.6, edgecolor="#a9c2da",
+    facecolor=EXTRA_FACE, zorder=1,
+)
 ax.add_patch(extracell)
-ax.add_patch(cell_top)
 
-# Membrane line (top of extracellular = bottom of cell)
-ax.plot([0.4, 9.6], [3.18, 3.18], color=MEMBRANE_COLOR, lw=2.5, zorder=2)
-# Decorative phospholipid heads
-for x in [i*0.25 + 0.55 for i in range(int((9.05)/0.25))]:
-    ax.add_patch(Circle((x, 3.18), 0.045, facecolor="#9ecae1",
-                        edgecolor=MEMBRANE_COLOR, lw=0.4, zorder=3))
+# Membrane line + phospholipid heads
+ax.plot([0.5, 9.5], [3.28, 3.28], color=MEMBRANE, lw=1.6, zorder=2)
+for x in np.arange(0.7, 9.4, 0.22):
+    ax.add_patch(Circle((x, 3.28), 0.035, facecolor="#9ec3e3",
+                        edgecolor=MEMBRANE, lw=0.3, zorder=3))
 
-# Labels for compartments
-ax.text(0.55, 6.50, "Bacterial cell (cytoplasm)", fontsize=9, style="italic",
-        color="#555555", ha="left", zorder=4)
-ax.text(0.55, 2.85, "Extracellular space", fontsize=9, style="italic",
+ax.text(0.65, 6.50, "Cytoplasm", fontsize=8, style="italic",
+        color="#555", ha="left", zorder=4)
+ax.text(0.65, 2.85, "Extracellular space", fontsize=8, style="italic",
         color="#3a6a91", ha="left", zorder=4)
 
 # -----------------------------------------------------------------------------
-# AbaI (synthase) - green circle, left side
+# AbaI - green pentagon (synthases conventionally pentagons)
 # -----------------------------------------------------------------------------
-abaI_xy = (1.7, 5.55)
-ax.add_patch(Circle(abaI_xy, 0.35, facecolor=COL_ABAI, edgecolor="black",
-                    lw=1.2, zorder=5))
+abaI_xy = (1.55, 5.55)
+penta = RegularPolygon(abaI_xy, numVertices=5, radius=0.42,
+                       orientation=0, facecolor=COL_ABAI,
+                       edgecolor="black", lw=0.9, zorder=5)
+ax.add_patch(penta)
 ax.text(abaI_xy[0], abaI_xy[1], "AbaI", ha="center", va="center",
-        fontsize=9, fontweight="bold", color="white", zorder=6)
-ax.text(abaI_xy[0], abaI_xy[1]-0.55, "synthase", ha="center",
-        fontsize=7, style="italic", color="#2a5d2a")
+        fontsize=8, fontweight="bold", color="white", zorder=6)
+ax.text(abaI_xy[0], abaI_xy[1] - 0.62, "synthase", ha="center",
+        fontsize=6.5, style="italic", color="#234d2c")
 
-# Substrates feeding AbaI
-ax.text(0.55, 6.25, "SAM\n+\n3-OH-C12-ACP", ha="left", va="top",
+# Substrate annotation
+ax.text(0.65, 6.25, "SAM + 3-OH-C12-ACP", ha="left", va="top",
         fontsize=6.5, color="#444", zorder=4)
-arr_sub = FancyArrowPatch((1.05, 5.80), (1.4, 5.60),
-                          arrowstyle="-|>", mutation_scale=10,
-                          color="black", lw=1.0, zorder=4)
-ax.add_patch(arr_sub)
+ax.add_patch(FancyArrowPatch(
+    (1.00, 6.05), (1.35, 5.75),
+    arrowstyle="-|>", mutation_scale=7, color="black", lw=0.7, zorder=4,
+))
 
 # -----------------------------------------------------------------------------
-# AbaR (receptor) - orange rectangle with two domains, center
+# AbaR - orange rectangle with two visually separated domains
 # -----------------------------------------------------------------------------
-abaR_x, abaR_y, abaR_w, abaR_h = 4.0, 4.85, 1.8, 0.75
-ax.add_patch(FancyBboxPatch((abaR_x, abaR_y), abaR_w, abaR_h,
-                            boxstyle="round,pad=0.02,rounding_size=0.05",
-                            facecolor=COL_ABAR, edgecolor="black",
-                            lw=1.2, zorder=5))
-# Domain split (vertical line in middle of receptor)
-ax.plot([abaR_x + abaR_w/2]*2, [abaR_y+0.05, abaR_y+abaR_h-0.05],
-        color="black", lw=0.8, zorder=6)
-ax.text(abaR_x + abaR_w*0.25, abaR_y + abaR_h/2, "AHL-bind\n(N-term)",
+abaR_x, abaR_y, abaR_w, abaR_h = 3.85, 4.95, 2.0, 0.75
+# N-terminal domain (AHL-bind) - left half, slightly darker
+ax.add_patch(Rectangle((abaR_x, abaR_y), abaR_w/2, abaR_h,
+                       facecolor=COL_ABAR, edgecolor="black",
+                       lw=0.9, zorder=5))
+# C-terminal domain (HTH-DNA) - right half, lighter
+ax.add_patch(Rectangle((abaR_x + abaR_w/2, abaR_y), abaR_w/2, abaR_h,
+                       facecolor="#f1b966", edgecolor="black",
+                       lw=0.9, zorder=5))
+# Vertical separator
+ax.plot([abaR_x + abaR_w/2]*2, [abaR_y + 0.05, abaR_y + abaR_h - 0.05],
+        color="black", lw=0.6, zorder=6)
+ax.text(abaR_x + abaR_w*0.25, abaR_y + abaR_h/2, "AHL-bind\n(N)",
         ha="center", va="center", fontsize=6.5, color="black", zorder=6)
-ax.text(abaR_x + abaR_w*0.75, abaR_y + abaR_h/2, "HTH-DNA\n(C-term)",
+ax.text(abaR_x + abaR_w*0.75, abaR_y + abaR_h/2, "HTH-DNA\n(C)",
         ha="center", va="center", fontsize=6.5, color="black", zorder=6)
-ax.text(abaR_x + abaR_w/2, abaR_y - 0.22, "AbaR (receptor / LuxR-type)",
-        ha="center", va="top", fontsize=8, fontweight="bold", color="#a35400")
+ax.text(abaR_x + abaR_w/2, abaR_y - 0.20, "AbaR (LuxR-type receptor)",
+        ha="center", va="top", fontsize=7.5, fontweight="bold",
+        color="#a35400")
 
 # -----------------------------------------------------------------------------
-# AbaM (brake) - red cap on top of AbaR
+# AbaM - small red triangle on top of AbaR (the brake)
 # -----------------------------------------------------------------------------
-abaM_x = abaR_x + abaR_w/2
-abaM_y = abaR_y + abaR_h + 0.18
-ax.add_patch(Ellipse((abaM_x, abaM_y), width=1.05, height=0.38,
-                     facecolor=COL_ABAM, edgecolor="black",
-                     lw=1.0, zorder=6))
-ax.text(abaM_x, abaM_y, "AbaM (brake)", ha="center", va="center",
-        fontsize=7.5, fontweight="bold", color="white", zorder=7)
-# T-bar inhibition from AbaM to AbaR
-inh_line = Line2D([abaM_x, abaM_x], [abaM_y-0.18, abaR_y + abaR_h + 0.02],
-                  color=COL_ABAM, lw=1.6, zorder=6)
-ax.add_line(inh_line)
-ax.plot([abaM_x-0.13, abaM_x+0.13], [abaR_y + abaR_h + 0.02]*2,
-        color=COL_ABAM, lw=2.0, zorder=6)
+abaM_cx = abaR_x + abaR_w / 2
+abaM_cy = abaR_y + abaR_h + 0.32
+tri = Polygon(
+    [(abaM_cx - 0.30, abaM_cy + 0.20),
+     (abaM_cx + 0.30, abaM_cy + 0.20),
+     (abaM_cx, abaM_cy - 0.22)],
+    closed=True, facecolor=COL_ABAM, edgecolor="black", lw=0.8, zorder=6,
+)
+ax.add_patch(tri)
+ax.text(abaM_cx, abaM_cy + 0.04, "AbaM", ha="center", va="center",
+        fontsize=6.8, fontweight="bold", color="white", zorder=7)
+ax.text(abaM_cx + 0.45, abaM_cy, "(brake)", ha="left", va="center",
+        fontsize=6.5, style="italic", color=COL_ABAM)
+
+# T-bar inhibition from AbaM down to AbaR top edge
+inh = FancyArrowPatch(
+    (abaM_cx, abaM_cy - 0.22), (abaM_cx, abaR_y + abaR_h + 0.02),
+    arrowstyle="]-", mutation_scale=7, color=COL_ABAM, lw=1.4, zorder=6,
+)
+ax.add_patch(inh)
 
 # -----------------------------------------------------------------------------
-# ABUW_1132 (LysR regulator) - upper-left -> activates abaI transcription
+# ABUW_1132 - small purple ellipse to the side
 # -----------------------------------------------------------------------------
-lysr_xy = (2.85, 6.30)
-ax.add_patch(FancyBboxPatch((lysr_xy[0]-0.45, lysr_xy[1]-0.18), 0.9, 0.36,
-                            boxstyle="round,pad=0.02,rounding_size=0.05",
-                            facecolor=COL_LYSR, edgecolor="black",
-                            lw=1.0, zorder=5))
-ax.text(lysr_xy[0], lysr_xy[1], "ABUW_1132", ha="center", va="center",
-        fontsize=7, fontweight="bold", color="white", zorder=6)
-ax.text(lysr_xy[0], lysr_xy[1]-0.32, "LysR-type", ha="center", va="top",
-        fontsize=6, style="italic", color="#4d2e23")
+lysr_x, lysr_y = 2.75, 6.50
+ax.add_patch(mpatches.Ellipse((lysr_x, lysr_y), width=1.10, height=0.36,
+                              facecolor=COL_LYSR, edgecolor="black",
+                              lw=0.9, zorder=5))
+ax.text(lysr_x, lysr_y, "ABUW_1132", ha="center", va="center",
+        fontsize=6.8, fontweight="bold", color="white", zorder=6)
+ax.text(lysr_x + 0.72, lysr_y, "LysR-type", ha="left", va="center",
+        fontsize=6, style="italic", color="#2e1a55", zorder=6)
+
+# Arrow ABUW_1132 -> abaI (activation)
+arr_lysr = FancyArrowPatch(
+    (lysr_x - 0.35, lysr_y - 0.18), (abaI_xy[0] + 0.05, abaI_xy[1] + 0.42),
+    arrowstyle="-|>", mutation_scale=8, color="black", lw=0.9, zorder=4,
+    connectionstyle="arc3,rad=-0.35",
+)
+ax.add_patch(arr_lysr)
+ax.text(1.85, 6.20, "activates", fontsize=6, style="italic", color="#333")
 
 # -----------------------------------------------------------------------------
-# RelA -> (p)ppGpp side icon
+# RelA -> (p)ppGpp (stringent-response side icon)
 # -----------------------------------------------------------------------------
-rela_x, rela_y = 8.45, 6.30
-ax.add_patch(FancyBboxPatch((rela_x-0.45, rela_y-0.18), 0.9, 0.36,
-                            boxstyle="round,pad=0.02,rounding_size=0.05",
-                            facecolor="#bbbbbb", edgecolor="black",
-                            lw=1.0, zorder=5))
+rela_x, rela_y = 8.30, 6.20
+ax.add_patch(Rectangle((rela_x - 0.45, rela_y - 0.18), 0.90, 0.36,
+                       facecolor="#888888", edgecolor="black",
+                       lw=0.8, zorder=5))
 ax.text(rela_x, rela_y, "RelA", ha="center", va="center",
-        fontsize=8, fontweight="bold", color="black", zorder=6)
-# arrow to ppGpp
-arr_rela = FancyArrowPatch((rela_x, rela_y-0.22), (rela_x, rela_y-0.55),
-                           arrowstyle="-|>", mutation_scale=10,
-                           color="black", lw=1.2, zorder=4)
+        fontsize=7.5, fontweight="bold", color="white", zorder=6)
+arr_rela = FancyArrowPatch(
+    (rela_x, rela_y - 0.22), (rela_x, rela_y - 0.55),
+    arrowstyle="-|>", mutation_scale=8, color="black", lw=0.9, zorder=4,
+)
 ax.add_patch(arr_rela)
-ax.add_patch(Circle((rela_x, rela_y-0.78), 0.18, facecolor=COL_PPGPP,
-                    edgecolor="black", lw=1.0, zorder=5))
-ax.text(rela_x, rela_y-0.78, "(p)ppGpp", ha="center", va="center",
-        fontsize=6.5, fontweight="bold", color="white", zorder=6)
-ax.text(rela_x, rela_y-1.05, "nutritional /\nstringent sensing",
-        ha="center", va="top", fontsize=6, style="italic", color="#555")
+ax.add_patch(Circle((rela_x, rela_y - 0.78), 0.16,
+                    facecolor=COL_PPGPP, edgecolor="black", lw=0.8, zorder=5))
+ax.text(rela_x, rela_y - 0.78, "(p)ppGpp", ha="center", va="center",
+        fontsize=5.5, fontweight="bold", color="white", zorder=6)
+ax.text(rela_x, rela_y - 1.08, "nutritional /\nstringent sensing",
+        ha="center", va="top", fontsize=5.8, style="italic", color="#555")
 
 # -----------------------------------------------------------------------------
-# Genome line at bottom of cell with lux-box, abaI, target gene regulons
+# Genome line (dashed black) with bold italic gene labels
 # -----------------------------------------------------------------------------
-genome_y = 3.55
-ax.plot([0.7, 9.3], [genome_y, genome_y], color=COL_DNA, lw=2.0, zorder=3)
-# helical hatch marks (DNA)
-for x in [0.7 + 0.18*i for i in range(int((9.3-0.7)/0.18))]:
-    ax.plot([x, x+0.09], [genome_y-0.05, genome_y+0.05],
-            color=COL_DNA, lw=0.5, zorder=3)
+genome_y = 3.65
+ax.plot([0.7, 9.3], [genome_y, genome_y], color=COL_DNA,
+        lw=1.4, ls=(0, (3, 1.5)), zorder=3)
 
-# lux-box (purple-ish small box)
-ax.add_patch(Rectangle((1.05, genome_y-0.12), 0.55, 0.24,
-                       facecolor="#ffe599", edgecolor="black", lw=0.8, zorder=4))
-ax.text(1.32, genome_y, "lux-box", ha="center", va="center",
-        fontsize=6.5, fontweight="bold", color="black", zorder=5)
+# Gene boxes on genome
+genes = [
+    ("lux-box", 1.05, 0.55, "#ffe599", "black"),
+    ("abaI",    1.65, 0.50, COL_ABAI,   "white"),
+]
+for name, gx, gw, fc, tc in genes:
+    italic = name != "lux-box"
+    ax.add_patch(Rectangle((gx, genome_y - 0.13), gw, 0.26,
+                           facecolor=fc, edgecolor="black", lw=0.7, zorder=4))
+    ax.text(gx + gw/2, genome_y, name,
+            ha="center", va="center",
+            fontsize=6.5, fontweight="bold",
+            fontstyle="italic" if italic else "normal",
+            color=tc, zorder=5)
 
-# abaI gene
-ax.add_patch(Rectangle((1.65, genome_y-0.14), 0.55, 0.28,
-                       facecolor=COL_ABAI, edgecolor="black",
-                       lw=0.8, alpha=0.85, zorder=4))
-ax.text(1.92, genome_y, "abaI", ha="center", va="center",
-        fontsize=7, fontstyle="italic", fontweight="bold",
-        color="white", zorder=5)
-
-# Target gene regulon boxes
+# Target gene regulons
 targets = ["csu", "bap", "pgaABCD", "adeFGH", "ompA"]
-start_x = 3.3
+start_x = 3.35
 gap = 1.15
 for i, g in enumerate(targets):
-    bx = start_x + i*gap
-    ax.add_patch(Rectangle((bx, genome_y-0.16), 0.9, 0.32,
+    bx = start_x + i * gap
+    ax.add_patch(Rectangle((bx, genome_y - 0.15), 0.85, 0.30,
                            facecolor=COL_TARGET, edgecolor="black",
-                           lw=0.7, zorder=4))
-    ax.text(bx + 0.45, genome_y, g, ha="center", va="center",
-            fontsize=7, fontstyle="italic", fontweight="bold",
+                           lw=0.6, zorder=4))
+    ax.text(bx + 0.425, genome_y, g,
+            ha="center", va="center",
+            fontsize=6.5, fontstyle="italic", fontweight="bold",
             color="black", zorder=5)
 
-ax.text(7.5, genome_y + 0.32,
-        "target gene regulons\n(biofilm, motility, virulence, efflux)",
+ax.text(7.5, genome_y - 0.40,
+        "target regulons (biofilm, motility, virulence, efflux)",
         ha="center", fontsize=6.5, style="italic", color="#444", zorder=4)
 
-# Arrow: AbaR (with AHL) -> transcription at lux-box / abaI
-arr_tx = FancyArrowPatch((abaR_x + 0.6, abaR_y), (1.4, genome_y + 0.18),
-                         arrowstyle="-|>", mutation_scale=12,
-                         color="black", lw=1.3, zorder=4,
-                         connectionstyle="arc3,rad=-0.25")
+# Arrow: AbaR -> lux-box/abaI (binds lux-box)
+arr_tx = FancyArrowPatch(
+    (abaR_x + 0.6, abaR_y), (1.40, genome_y + 0.18),
+    arrowstyle="-|>", mutation_scale=8,
+    color="black", lw=0.9, zorder=4,
+    connectionstyle="arc3,rad=-0.25",
+)
 ax.add_patch(arr_tx)
-ax.text(2.55, 4.15, "binds lux-box", fontsize=6.5,
-        style="italic", color="#333")
+ax.text(2.55, 4.20, "binds lux-box", fontsize=6, style="italic", color="#333")
 
-# Arrow: AbaR -> target regulons (downstream activation)
-arr_tx2 = FancyArrowPatch((abaR_x + abaR_w - 0.2, abaR_y),
-                          (6.5, genome_y + 0.18),
-                          arrowstyle="-|>", mutation_scale=12,
-                          color="black", lw=1.3, zorder=4,
-                          connectionstyle="arc3,rad=0.2")
+# Arrow: AbaR -> downstream target regulons
+arr_tx2 = FancyArrowPatch(
+    (abaR_x + abaR_w - 0.15, abaR_y), (6.30, genome_y + 0.18),
+    arrowstyle="-|>", mutation_scale=8,
+    color="black", lw=0.9, zorder=4,
+    connectionstyle="arc3,rad=0.20",
+)
 ax.add_patch(arr_tx2)
 
-# Arrow: ABUW_1132 -> abaI (activation of transcription)
-arr_lysr = FancyArrowPatch((lysr_xy[0], lysr_xy[1]-0.2),
-                           (1.92, genome_y + 0.16),
-                           arrowstyle="-|>", mutation_scale=11,
-                           color="black", lw=1.2, zorder=4,
-                           connectionstyle="arc3,rad=-0.15")
-ax.add_patch(arr_lysr)
-ax.text(2.55, 5.45, "activates", fontsize=6.5, style="italic", color="#333")
-
-# AbaI -> produces AHL (arrow to extracellular AHL pool)
-arr_synth = FancyArrowPatch((abaI_xy[0]+0.05, abaI_xy[1]-0.35),
-                            (1.85, 2.55),
-                            arrowstyle="-|>", mutation_scale=12,
-                            color=COL_AHL, lw=1.4, zorder=4)
+# Arrow: AbaI -> AHL pool (synthesis)
+arr_synth = FancyArrowPatch(
+    (abaI_xy[0], abaI_xy[1] - 0.45), (1.75, 2.55),
+    arrowstyle="-|>", mutation_scale=8, color=COL_AHL,
+    lw=1.0, zorder=4,
+)
 ax.add_patch(arr_synth)
 
 # -----------------------------------------------------------------------------
-# Extracellular: AHL molecules (lactone-like glyphs) + diffusion arrows
+# AHL molecule: stylised lactone ring + C12 chain via Path
 # -----------------------------------------------------------------------------
-def draw_ahl(ax, x, y, scale=1.0):
-    """Cartoon 3-OH-C12-HSL: lactone ring + hydroxyl side chain."""
-    r = 0.13 * scale
-    ax.add_patch(Circle((x, y), r, facecolor=COL_AHL, edgecolor="black",
-                        lw=0.8, zorder=5))
-    # side chain (zig-zag)
-    pts_x = [x + r + i*0.10*scale for i in range(6)]
-    pts_y = [y + (0.05 if i % 2 == 0 else -0.05)*scale for i in range(6)]
-    ax.plot(pts_x, pts_y, color=COL_AHL, lw=1.3, zorder=5)
-    # OH group
-    ax.text(pts_x[-1] + 0.05*scale, pts_y[-1], "OH",
-            fontsize=5, color=COL_AHL, va="center", zorder=5)
+def draw_ahl(ax, x, y, scale=1.0, label=False):
+    """Draw a stylised 3-OH-C12-HSL: 5-membered lactone ring + zigzag tail."""
+    r = 0.16 * scale
+    # Lactone ring (pentagon-shaped filled patch with O label)
+    ring = RegularPolygon((x, y), numVertices=5, radius=r,
+                          orientation=np.pi/2,
+                          facecolor=COL_AHL, edgecolor="black",
+                          lw=0.6, zorder=5)
+    ax.add_patch(ring)
+    ax.text(x, y, "O", ha="center", va="center",
+            fontsize=5, color="white", fontweight="bold", zorder=6)
+    # C12 zigzag tail
+    n_zig = 6
+    step = 0.085 * scale
+    amp = 0.045 * scale
+    verts = [(x + r + 0.02, y)]
+    for i in range(1, n_zig + 1):
+        verts.append((x + r + 0.02 + i * step, y + (amp if i % 2 else -amp)))
+    codes = [MPath.MOVETO] + [MPath.LINETO] * n_zig
+    p = MPath(verts, codes)
+    ax.add_patch(PathPatch(p, edgecolor=COL_AHL, lw=1.0, fill=False, zorder=5))
+    # OH at tail end
+    ax.text(verts[-1][0] + 0.04, verts[-1][1], "OH",
+            fontsize=4.5, color=COL_AHL, va="center", zorder=5)
+    if label:
+        ax.text(x + 0.3, y - 0.35, "3-OH-C12-HSL",
+                fontsize=6.5, fontweight="bold", color=COL_AHL,
+                ha="center", va="top")
 
-ahl_positions = [(1.9, 2.4), (3.4, 2.2), (4.7, 2.55),
-                 (6.1, 2.15), (7.4, 2.45)]
-for (x, y) in ahl_positions:
-    draw_ahl(ax, x, y)
 
-ax.text(4.7, 1.85, "3-OH-C12-HSL (AHL)", ha="center",
-        fontsize=8, fontweight="bold", color=COL_AHL)
+# AHLs in extracellular space
+ahl_positions = [(1.85, 2.40), (3.30, 2.20), (4.70, 2.55),
+                 (6.10, 2.25), (7.45, 2.40)]
+for i, (x, y) in enumerate(ahl_positions):
+    draw_ahl(ax, x, y, scale=1.0)
 
-# Diffusion arrows across membrane (dashed blue, both directions)
-for x in [2.4, 4.4, 6.8]:
-    arr_d = FancyArrowPatch((x, 2.65), (x, 3.65),
-                            arrowstyle="<|-|>", mutation_scale=10,
-                            color=COL_AHL, lw=1.0,
-                            linestyle="--", zorder=4)
-    ax.add_patch(arr_d)
+ax.text(4.70, 1.78, "3-OH-C12-HSL (AHL)", ha="center",
+        fontsize=7.5, fontweight="bold", color=COL_AHL)
 
-# AHL re-entry -> AbaR binding
-arr_bind = FancyArrowPatch((4.4, 3.7), (abaR_x + 0.4, abaR_y + 0.1),
-                           arrowstyle="-|>", mutation_scale=11,
-                           color=COL_AHL, lw=1.2, linestyle="--",
-                           zorder=4,
-                           connectionstyle="arc3,rad=0.2")
+# Diffusion arrows across membrane (dashed blue, bidirectional, no arrowhead)
+for x in [2.35, 4.35, 6.75]:
+    a = FancyArrowPatch(
+        (x, 2.75), (x, 3.55),
+        arrowstyle="-", mutation_scale=6, color=COL_AHL,
+        lw=0.8, ls=(0, (2, 1.5)), zorder=4,
+    )
+    ax.add_patch(a)
+
+# AHL binds AbaR (dashed blue arrow back in)
+arr_bind = FancyArrowPatch(
+    (4.35, 3.70), (abaR_x + 0.35, abaR_y + 0.15),
+    arrowstyle="-|>", mutation_scale=8, color=COL_AHL,
+    lw=0.9, ls=(0, (2, 1.5)), zorder=4,
+    connectionstyle="arc3,rad=0.2",
+)
 ax.add_patch(arr_bind)
-ax.text(4.85, 3.85, "AHL binds AbaR", fontsize=6.5,
+ax.text(4.95, 4.40, "AHL binds AbaR", fontsize=6,
         style="italic", color=COL_AHL, zorder=5)
 
 # -----------------------------------------------------------------------------
-# Quorum-quenching enzymes (purple) cleaving AHL
+# Lactonases / acylase as purple "pacman" (Wedge) icons
 # -----------------------------------------------------------------------------
-qq_y = 1.15
-qq_enzymes = [("MomL", 1.6), ("AaL", 3.1), ("AidA", 4.6), ("PvdQ", 7.5)]
+qq_y = 1.10
+qq_enzymes = [("MomL", 1.6), ("AaL", 3.05), ("AidA", 4.50), ("PvdQ", 7.45)]
 for name, x in qq_enzymes:
-    ax.add_patch(FancyBboxPatch((x-0.32, qq_y-0.16), 0.64, 0.32,
-                                boxstyle="round,pad=0.02,rounding_size=0.05",
-                                facecolor=COL_QQ, edgecolor="black",
-                                lw=0.9, zorder=5))
-    ax.text(x, qq_y, name, ha="center", va="center",
-            fontsize=7, fontweight="bold", color="white", zorder=6)
+    # Pacman: wedge cut out
+    w = Wedge((x, qq_y), 0.20, 40, 320, facecolor=COL_QQ,
+              edgecolor="black", lw=0.7, zorder=5)
+    ax.add_patch(w)
+    ax.text(x, qq_y - 0.35, name, ha="center", va="top",
+            fontsize=6.5, fontweight="bold", color=COL_QQ, zorder=6)
 
-ax.text(3.55, qq_y + 0.36,
-        "lactonases (MomL, AaL, AidA) + acylase (PvdQ)  -- cleave AHL",
-        ha="center", fontsize=7, style="italic", color="#4a235a")
+ax.text(3.55, qq_y + 0.45,
+        "Lactonases (MomL, AaL, AidA) + acylase (PvdQ) — cleave AHL",
+        ha="center", fontsize=6.8, style="italic", color="#4a235a")
 
-# Scissor-style arrows from QQ -> nearest AHL
+# Arrows: QQ enzyme -> nearest AHL (cleavage)
 for ((name, x), (ax_x, ax_y)) in zip(qq_enzymes,
-                                     [(1.9, 2.4), (3.4, 2.2),
-                                      (4.7, 2.55), (7.4, 2.45)]):
-    arr_q = FancyArrowPatch((x, qq_y + 0.18), (ax_x, ax_y - 0.18),
-                            arrowstyle="-|>", mutation_scale=9,
-                            color=COL_QQ, lw=1.0, zorder=4)
+                                     [(1.85, 2.40), (3.30, 2.20),
+                                      (4.70, 2.55), (7.45, 2.40)]):
+    arr_q = FancyArrowPatch(
+        (x, qq_y + 0.20), (ax_x, ax_y - 0.18),
+        arrowstyle="-|>", mutation_scale=7, color=COL_QQ,
+        lw=0.8, zorder=4,
+    )
     ax.add_patch(arr_q)
 
 # -----------------------------------------------------------------------------
-# Numbered cycle steps (1 -> 6)
-# -----------------------------------------------------------------------------
-steps = [
-    ("1", "Synthesis", "AbaI makes AHL\nfrom SAM + acyl-ACP"),
-    ("2", "Diffusion", "AHL crosses membrane"),
-    ("3", "Accumulation", "AHL builds up\nwith cell density"),
-    ("4", "Binding", "AHL binds AbaR;\nAbaM brakes it"),
-    ("5", "Transcription", "AbaR-AHL binds\nlux-box -> abaI +\ntarget regulons"),
-    ("6", "Output", "biofilm, motility,\nvirulence, efflux"),
-]
-legend_x0 = 0.35
-legend_y0 = 0.45
-ax.text(0.55, legend_y0 - 0.05, "Quorum-sensing cycle:",
-        ha="left", va="top", fontsize=8.5, fontweight="bold", color="#222")
-for i, (num, title, desc) in enumerate(steps):
-    cx = legend_x0 + 0.25 + i*1.58
-    cy = legend_y0 - 0.32
-    ax.add_patch(Circle((cx, cy), 0.13, facecolor="#333333",
-                        edgecolor="black", lw=0.8, zorder=5))
-    ax.text(cx, cy, num, ha="center", va="center",
-            fontsize=7.5, fontweight="bold", color="white", zorder=6)
-    ax.text(cx + 0.20, cy + 0.04, title, ha="left", va="center",
-            fontsize=7, fontweight="bold", color="#222")
-    ax.text(cx + 0.20, cy - 0.18, desc, ha="left", va="top",
-            fontsize=5.6, color="#444")
-
-# -----------------------------------------------------------------------------
-# Arrow-type legend (top-right corner)
+# Legend (left half of footer)
 # -----------------------------------------------------------------------------
 leg_handles = [
     mpatches.Patch(color=COL_ABAI, label="AbaI (synthase)"),
@@ -345,29 +377,53 @@ leg_handles = [
     mpatches.Patch(color=COL_ABAM, label="AbaM (brake)"),
     mpatches.Patch(color=COL_AHL,  label="AHL signal"),
     mpatches.Patch(color=COL_QQ,   label="QQ enzymes"),
-    Line2D([0], [0], color="black", lw=1.4,
-           marker=">", markersize=6, label="activation"),
-    Line2D([0], [0], color=COL_ABAM, lw=1.6,
-           marker="_", markersize=10, label="inhibition (T-bar)"),
-    Line2D([0], [0], color=COL_AHL, lw=1.2, linestyle="--",
+    Line2D([0], [0], color="black", lw=1.0,
+           marker=">", markersize=5, label="activation"),
+    Line2D([0], [0], color=COL_ABAM, lw=1.4,
+           marker="_", markersize=8, label="inhibition"),
+    Line2D([0], [0], color=COL_AHL, lw=0.9, linestyle=(0, (2, 1.5)),
            label="diffusion"),
 ]
-leg = ax.legend(handles=leg_handles, loc="lower center",
-                bbox_to_anchor=(0.5, -0.06),
-                fontsize=6.2, frameon=True, framealpha=0.95,
-                title="Legend", title_fontsize=7, ncol=8,
-                handlelength=1.4, columnspacing=1.2,
-                handletextpad=0.5)
-leg.get_frame().set_edgecolor("#888888")
+leg = ax.legend(handles=leg_handles, loc="lower left",
+                bbox_to_anchor=(0.005, -0.03),
+                fontsize=6.0, frameon=False, ncol=4,
+                handlelength=1.1, columnspacing=0.7,
+                handletextpad=0.35)
 
 # -----------------------------------------------------------------------------
-# Save outputs
+# Numbered cycle line (single-line summary at very bottom)
+# -----------------------------------------------------------------------------
+steps = [
+    ("1", "Synthesis"),
+    ("2", "Diffusion"),
+    ("3", "Accumulation"),
+    ("4", "Binding"),
+    ("5", "Transcription"),
+    ("6", "Output"),
+]
+cycle_y = -0.40
+ax.text(0.50, cycle_y, "QS cycle:",
+        ha="left", va="center", fontsize=6.5,
+        fontweight="bold", color="#222", zorder=11)
+step_x0 = 1.55
+step_gap = 1.35
+for i, (num, title) in enumerate(steps):
+    cx = step_x0 + i * step_gap
+    ax.add_patch(Circle((cx, cycle_y), 0.10, facecolor="#333333",
+                        edgecolor="black", lw=0.5, zorder=11))
+    ax.text(cx, cycle_y, num, ha="center", va="center",
+            fontsize=6, fontweight="bold", color="white", zorder=12)
+    ax.text(cx + 0.13, cycle_y, title, ha="left", va="center",
+            fontsize=6, color="#222", zorder=11)
+
+# -----------------------------------------------------------------------------
+# Save
 # -----------------------------------------------------------------------------
 png_path = os.path.join(OUT_DIR, "figure3a_qs_circuit.png")
 svg_path = os.path.join(OUT_DIR, "figure3a_qs_circuit.svg")
-plt.savefig(png_path, dpi=300, bbox_inches="tight", facecolor="white")
-plt.savefig(svg_path, bbox_inches="tight", facecolor="white")
+plt.savefig(png_path, dpi=600, facecolor="white")
+plt.savefig(svg_path, facecolor="white")
 plt.close(fig)
 
-print(f"Wrote: {png_path}")
-print(f"Wrote: {svg_path}")
+print(f"Wrote: {png_path}  ({os.path.getsize(png_path):,} bytes)")
+print(f"Wrote: {svg_path}  ({os.path.getsize(svg_path):,} bytes)")

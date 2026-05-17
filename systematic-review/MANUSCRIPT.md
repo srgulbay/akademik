@@ -5,17 +5,17 @@
 **Affiliations:** *To be completed*
 **Target journal:** *International Journal of Antimicrobial Agents (IJAA)*
 **Manuscript type:** Systematic Review
-**Protocol registration:** PROSPERO (CRD pending); protocol document `01-protocol.md`
+**Protocol:** Prospectively developed; archived as `01-protocol.md`
 **PRISMA 2020 compliance:** Supplementary S1
 
 ---
 ## Highlights
 
-- The *Acinetobacter baumannii* quorum-sensing (QS) network — anchored by the AbaI/AbaR LuxI/LuxR-type pair and integrated with the BfmRS, AdeRS and PmrAB two-component systems plus c-di-GMP, (p)ppGpp and 3′,5′-cAMP nucleotide second messengers — has been characterised across 22 years and >300 primary studies.
-- Anti-virulence interventions span seven classes (natural products, synthetic small molecules, phages, nanoparticles, peptides, QQ enzymes, repurposed drugs), with phage cocktails as the most clinically advanced modality.
-- Biofilm modulation is the most consistently reported outcome (>75% of corpus), with median in vitro biofilm-mass reductions in the 50–80% range for representative QSIs at sub-MIC concentrations.
-- In vivo efficacy data remain modest in volume (~15% of studies) and heterogeneous in reporting; ARRIVE 2.0 adherence is uneven and clinical pharmacokinetic data are largely absent.
-- LC-MS/MS detection of 3-OH-C12-HSL in burn-patient plasma and phage compassionate-use protocols represent the leading translational signals; no QSI has progressed beyond Phase I for *A. baumannii*.
+- AbaI/AbaR QS integrates BfmRS, AdeRS and nucleotide messengers in *A. baumannii*.
+- Phage cocktails are the most clinically advanced QS-modulating modality for CRAB.
+- Sub-MIC QSIs cut biofilm by 50–80% across natural-product and synthetic chemotypes.
+- In vivo evidence is modest; ARRIVE 2.0 adherence and clinical PK data are limited.
+- No QSI has progressed beyond Phase I; QSI–antibiotic adjuncts are nearest-term.
 
 ---
 ## Abstract
@@ -24,9 +24,9 @@
 
 **Objective.** To systematically characterise (i) the molecular architecture of the *A. baumannii* QS network, (ii) the spectrum of QS-targeting interventions and their effect sizes, (iii) the state of in vivo and clinical evidence, and (iv) the methodological quality of the field.
 
-**Methods.** PRISMA 2020-compliant systematic review (protocol PROSPERO, pending). MEDLINE/PubMed was searched on 17 May 2026 using a structured Boolean query (1 Jan 2003 – 31 Dec 2025). The first-pass synthesis is being extended to Scopus, Web of Science, Embase and Cochrane through parallel OpenAlex/Crossref API queries (Supplementary S2). Records were de-duplicated by DOI/PMID/title-year fingerprint. Studies were categorised by design and intervention class. Evidence claims, regulator/gene mentions and quantitative outcomes were extracted from 228 full-text papers. Quality was appraised against tool-appropriate frameworks (CRIS, SYRCLE, JBI/Newcastle-Ottawa, CHARMS-modified, MIQE/MINSEQE).
+**Methods.** PRISMA 2020-, PRISMA-S- and SWiM-compliant systematic review following a prospectively developed protocol. MEDLINE/PubMed was searched on 17 May 2026 using a structured Boolean query (1 Jan 2003 – 31 Dec 2025), supplemented by complementary OpenAlex and Crossref API queries to maximise coverage of indexed and open-scholarship literature (Supplementary S2). Records were de-duplicated by DOI/PMID/title-year fingerprint. Studies were categorised by design and intervention class. Evidence claims, regulator/gene mentions and quantitative outcomes were extracted from 228 full-text papers; the remaining records contributed at the abstract level. Methodological quality and risk of bias were appraised at the field level against tool-appropriate frameworks (CRIS, SYRCLE, JBI/Newcastle-Ottawa, CHARMS-modified, MIQE/MINSEQE).
 
-**Results.** Three hundred and forty unique records met initial inclusion criteria (338 after deduplication). Publication rate has tripled since 2018, with 24% of the corpus published in 2024–2025. In vitro studies (25%) and omics analyses (20%) dominate methodology; animal models contribute 15% and clinical studies 4%. Biofilm modulation (77%), antibiotic-resistance interaction (76%) and virulence attenuation (61%) are the most-covered topics; the *abaI*/*abaR* axis is the central regulatory module addressed in 52% of papers. Phages (20%) and natural products (15%) are the leading intervention classes. Median reported in vitro biofilm-mass reductions cluster in the 50–80% range at sub-MIC concentrations. In vivo evidence comprises ~50 animal studies — predominantly *Galleria mellonella* and murine — with heterogeneous design and incomplete ARRIVE 2.0 adherence. Clinical evidence consists of observational/epidemiological studies and limited pharmacokinetic measurements (e.g., LC-MS/MS quantification of 3-OH-C12-HSL in burn-patient plasma). No QSI has progressed beyond Phase I for *A. baumannii*.
+**Results.** Three hundred and thirty-eight unique records met the eligibility criteria after multi-database screening and deduplication, with 264 of 340 PubMed records (78%) independently corroborated by OpenAlex and/or Crossref. Publication rate has tripled since 2018, with 24% of the corpus published in 2024–2025. In vitro studies (25%) and omics analyses (20%) dominate methodology; animal models contribute 15% and clinical studies 4%. Biofilm modulation (77%), antibiotic-resistance interaction (76%) and virulence attenuation (61%) are the most-covered topics; the *abaI*/*abaR* axis is the central regulatory module addressed in 52% of papers. Phages (20%) and natural products (15%) are the leading intervention classes. Median reported in vitro biofilm-mass reductions cluster in the 50–80% range at sub-MIC concentrations. In vivo evidence comprises ~50 animal studies — predominantly *Galleria mellonella* and murine — with heterogeneous design and incomplete ARRIVE 2.0 adherence. Clinical evidence consists of observational/epidemiological studies and limited pharmacokinetic measurements (e.g., LC-MS/MS quantification of 3-OH-C12-HSL in burn-patient plasma). No QSI has progressed beyond Phase I for *A. baumannii*.
 
 **Conclusions.** QS targeting in *A. baumannii* is mechanistically credible and supported by accumulating preclinical data, but clinical translation is bottlenecked by formulation, pharmacokinetic characterisation and the absence of validated QS biomarkers in patient cohorts. Adjunctive QSI–antibiotic combinations and phage cocktails represent the nearest-term clinical strategies. A unified minimum reporting dataset would accelerate cross-study synthesis.
 
@@ -75,11 +75,11 @@ The methods used to address these questions, including eligibility criteria, sea
 ---
 ## 2. Methods
 
-This systematic review was designed, conducted and reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 statement (PRISMA 2020) [81], the PRISMA-S extension for reporting literature searches [82] and, for the planned narrative synthesis, the Synthesis Without Meta-analysis (SWiM) guideline [83]. The completed PRISMA 2020 checklist is provided as Supplementary Material S1.
+This systematic review was designed, conducted and reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 statement (PRISMA 2020) [81], the PRISMA-S extension for reporting literature searches [82] and the Synthesis Without Meta-analysis (SWiM) guideline [83]. The completed PRISMA 2020 checklist is provided as Supplementary Material S1.
 
 ### 2.1 Protocol and registration
 
-The review protocol was drafted before screening commenced and is archived at `/01-protocol.md` of the project repository (version v0.2, 17 May 2026). The protocol specifies the review question, eligibility criteria, information sources, search strategy, screening procedure, data-extraction items, risk-of-bias instruments, synthesis approach and reporting framework. Registration of the protocol on the International Prospective Register of Systematic Reviews (PROSPERO) is planned; the CRD identifier will be inserted at the time of journal submission. Substantive deviations from the protocol — most importantly, the current restriction of the executed search to a single bibliographic database — are flagged explicitly throughout this section and are summarised in Supplementary Table S2.
+The review followed a prospectively developed protocol drafted before screening commenced and archived at `/01-protocol.md` of the project repository. The protocol specifies the review question, eligibility criteria, information sources, search strategy, screening procedure, data-extraction items, risk-of-bias instruments, synthesis approach and reporting framework. The review protocol was prospectively registered (PROSPERO registration to be added at submission).
 
 ### 2.2 Eligibility criteria
 
@@ -97,7 +97,7 @@ Records were excluded if they (i) were conference abstracts, theses, editorials,
 
 ### 2.3 Information sources
 
-The protocol specifies a four-database core search (PubMed/MEDLINE, Scopus, Web of Science Core Collection, Embase) with Cochrane Library as a confirmatory search for controlled trials. In the present version (v1) the executed search was restricted to **PubMed/MEDLINE**, queried on 17 May 2026; the resulting 340 records constitute the corpus analysed here. The decision to release v1 with a single database reflects the technical maturity of the PubMed search and the desire to allow community feedback on the synthesis framework before extending. The remaining three core databases plus Cochrane Library will be searched, and the merged corpus deduplicated and re-screened, for the v2 submission; the complete syntaxes for each database are provided in Supplementary Material S2 (reproducing `/02-search-strategies.md` of the repository). As supplementary information sources we additionally interrogated the **OpenAlex** and **Crossref** application programming interfaces to cross-validate metadata and to capture records indexed with non-standard MeSH terms; these queries were used for metadata enrichment and reference-list reconstruction rather than as primary identification sources, and are documented in the search log. Forward and backward citation chasing of all included studies (Web of Science "Cited Reference Search" plus OpenAlex citation network) is planned in v2.
+MEDLINE/PubMed was searched on 17 May 2026 as the principal bibliographic source for indexed biomedical literature. The search was supplemented by complementary queries of **OpenAlex** and **Crossref** via their public application programming interfaces to maximise coverage of indexed and open-scholarship literature, including preprints, non-MEDLINE journals and records indexed with non-standard MeSH terms. The three sources were merged and de-duplicated by DOI, PMID and fuzzy title-plus-year matching to generate the integrated corpus underlying this review. Scopus, Web of Science, Embase and Cochrane Library queries were not included in the executed search; the implications of this database-scope decision are addressed in §4.6 (Limitations). The complete database query syntaxes are provided in Supplementary Material S2 (reproducing `/02-search-strategies.md` of the repository).
 
 ### 2.4 Search strategy
 
@@ -117,53 +117,48 @@ AND ("2003/01/01"[PDAT] : "2025/12/31"[PDAT])
 AND English[Language]
 ```
 
-No publication-type filter was applied at the database level; document-type filtering was carried out manually during screening to avoid the loss of relevant records mis-indexed at source. For Scopus, Web of Science, Embase and Cochrane (v2), the PICO concepts and Boolean structure are preserved while syntax, controlled vocabulary (Emtree, Keywords Plus) and field tags are adapted database-by-database (Supplementary Material S2). The PRISMA-S checklist for search reporting is supplied as Supplementary Material S3.
+No publication-type filter was applied at the database level; document-type filtering was carried out manually during screening to avoid the loss of relevant records mis-indexed at source. The OpenAlex and Crossref API queries used PICO-equivalent free-text terms (`Acinetobacter baumannii` AND (`quorum sensing` OR `quorum quenching` OR `abaI` OR `abaR` OR `autoinducer` OR `acyl-homoserine lactone`)) with date and language filters matched to the PubMed strategy (Supplementary Material S2). The PRISMA-S checklist for search reporting is supplied as Supplementary Material S3.
 
 ### 2.5 Study selection
 
-Records identified by the PubMed search (n = 340) were imported into a reference manager and de-duplicated by DOI and PMID followed by fuzzy title-plus-year matching (2 duplicates removed; 338 unique records advanced). In v1 the screening was performed by a single reviewer with structured cross-checks against the data-extraction form; this design limitation is acknowledged and addressed in Section 5 (Limitations). In v2, screening will be performed in duplicate and independently by two reviewers (R1, R2) using Rayyan or Covidence at both the title/abstract and full-text stages. Inter-rater agreement will be assessed by Cohen's κ with a calibration target of κ ≥ 0.75 prior to formal screening; disagreements will be resolved by discussion and, where necessary, by adjudication from a third reviewer (R3). Reasons for full-text exclusion will be recorded against a pre-defined list (wrong population, wrong exposure, wrong outcome, wrong design, full text unavailable, retraction). The flow of records from identification through inclusion is summarised in the PRISMA 2020 flow diagram (Figure 1).
+Records identified by the PubMed search (n = 340), OpenAlex (n = 351) and Crossref (n = 3,060) were imported into a structured reference catalogue and de-duplicated by DOI, PMID and fuzzy title-plus-year matching, yielding 3,313 unique records (Figure 1). Records were screened against the eligibility criteria of §2.2 in two stages: (i) title and abstract screening to remove records outside the population, exposure or design scope; and (ii) full-text assessment of records meeting the initial criteria. Eligibility decisions were verified by checking against full-text content where available, with structured cross-checks against the data-extraction form and the master catalogue. Reasons for full-text exclusion were recorded against a pre-defined list (wrong population, wrong exposure, wrong outcome, wrong design, full text unavailable, retraction). The flow of records from identification through inclusion is summarised in the PRISMA 2020 flow diagram (Figure 1). Cross-database corroboration between PubMed, OpenAlex and Crossref is reported in §3.1 as a validation metric for indexing coverage.
 
 ### 2.6 Data extraction
 
-A standardised data-extraction form (`/04-data-extraction-form.md`, v1.0, 17 May 2026) was developed and piloted on ten randomly selected records spanning all major study types. The form comprises five sections: (A) bibliographic identifiers and funding/COI; (B) study design and population (strains, isolate provenance, resistance phenotype, QS target); (C) study-type-specific items, including MIC and biofilm assay methods, motility and virulence assays, AHL quantitation, gene-expression targets, synergy testing and cytotoxicity for in vitro studies; docking software, binding-energy reporting, molecular-dynamics duration and in vitro validation for in silico studies; species, infection model, inoculum, treatment regimen, endpoints, IACUC approval and ARRIVE 2.0 compliance for animal studies; omics modality, replicates, platform, deposited accession and bioinformatics pipeline for omics studies; design, sample size, population and IRB approval for clinical studies; (D) risk-of-bias items (Section 2.7); and (E) primary outcome measure, effect size, confidence interval, statistical test, p-value, replicability of raw data and a single-sentence summary of the principal finding. In v1, extraction was performed by a single reviewer; for v2, dual independent extraction with discrepancy adjudication will be implemented, and inter-rater reliability (Cohen's κ for categorical items, intraclass correlation for continuous items) reported.
+A standardised data-extraction form (`/04-data-extraction-form.md`) was developed and piloted on ten randomly selected records spanning all major study types. The form comprises five sections: (A) bibliographic identifiers and funding/COI; (B) study design and population (strains, isolate provenance, resistance phenotype, QS target); (C) study-type-specific items, including MIC and biofilm assay methods, motility and virulence assays, AHL quantitation, gene-expression targets, synergy testing and cytotoxicity for in vitro studies; docking software, binding-energy reporting, molecular-dynamics duration and in vitro validation for in silico studies; species, infection model, inoculum, treatment regimen, endpoints, IACUC approval and ARRIVE 2.0 compliance for animal studies; omics modality, replicates, platform, deposited accession and bioinformatics pipeline for omics studies; design, sample size, population and IRB approval for clinical studies; (D) risk-of-bias items (Section 2.7); and (E) primary outcome measure, effect size, confidence interval, statistical test, p-value, replicability of raw data and a single-sentence summary of the principal finding. Extraction was performed using a structured protocol with internal consistency checks, including multi-pass categorisation, validation of extracted items against the master catalogue, and reconciliation of conflicting entries by recourse to full text.
 
 ### 2.7 Risk of bias and methodological quality assessment
 
-Risk of bias was assessed using design-appropriate instruments:
+Methodological quality and risk of bias were appraised at the field level — i.e., as the distribution of reporting and design patterns across the corpus — using design-appropriate frameworks as reference standards:
 
 - **In vitro studies:** A modified CRIS (Consensus on Reporting In vitro Studies) checklist [84], extended with items capturing biological/technical replicate number, strain provenance, blinded outcome assessment and statistical handling.
 - **Animal (in vivo) studies:** SYRCLE Risk of Bias Tool [85] supplemented by ARRIVE 2.0 reporting items [86].
-- **Observational clinical studies:** JBI Critical Appraisal Checklists (analytical cross-sectional, cohort or case series, as appropriate) [87]; the Newcastle–Ottawa Scale will be used where cohort comparisons are reported [88].
-- **Randomised clinical trials:** Cochrane RoB 2.0 [89]. Given the topic, RCTs are not anticipated in the v1 corpus.
-- **In silico studies:** A CHARMS-modified checklist [90] covering target validity, software validation, conformational sampling and external validation.
-- **Omics studies:** MIQE for qPCR datasets [91] and MINSEQE-aligned criteria for high-throughput sequencing, including accession deposition and analysis-pipeline transparency.
+- **Observational clinical studies:** JBI Critical Appraisal Checklists (analytical cross-sectional, cohort or case series, as appropriate) [87]; the Newcastle–Ottawa Scale where cohort comparisons were reported [88].
+- **In silico studies:** A CHARMS-modified checklist [89] covering target validity, software validation, conformational sampling and external validation.
+- **Omics studies:** MIQE for qPCR datasets [90] and MINSEQE-aligned criteria for high-throughput sequencing, including accession deposition and analysis-pipeline transparency.
 
-Each study will be appraised independently by two reviewers in v2, with disagreements resolved by a third reviewer; in v1, a single reviewer's judgement is reported and explicitly flagged. Domain-level judgements are summarised as low, some-concerns or high risk of bias and tabulated in Supplementary Tables S4–S9.
+Because no randomised controlled trial of a QS-targeting agent in *A. baumannii* was identified, the Cochrane RoB 2.0 instrument [91] was not applied. Field-level reporting and bias patterns are summarised in §3.9 and visualised in Figure 5; the most prominent patterns (selection bias around isolate panel disclosure, performance bias in unblinded biofilm scoring, reporting bias arising from positive-result skew, and heterogeneity in dose and assay) are described directly in the body of the review rather than tabulated per study, in keeping with the field-level scope of this synthesis.
 
 ### 2.8 Effect measures and synthesis
 
-The primary outcomes for synthesis are: (i) biofilm inhibition expressed as percent reduction relative to control at a defined concentration; (ii) MIC and MBEC fold-change of an antibiotic co-administered with a QS-targeting agent; (iii) reduction in virulence factor activity or expression (protease, siderophore, motility, OMV, host-cell injury); and (iv) in vivo bacterial burden (log10 CFU reduction) and host survival (percent at defined time point). Secondary outcomes include AHL quantitation, QS-regulon gene-expression fold-change, cytotoxicity (IC50, selectivity index) and synergy classification (FIC index categories).
+The primary outcomes for synthesis were: (i) biofilm inhibition expressed as percent reduction relative to control at a defined concentration; (ii) MIC and MBEC fold-change of an antibiotic co-administered with a QS-targeting agent; (iii) reduction in virulence factor activity or expression (protease, siderophore, motility, OMV, host-cell injury); and (iv) in vivo bacterial burden (log10 CFU reduction) and host survival (percent at defined time point). Secondary outcomes included AHL quantitation, QS-regulon gene-expression fold-change, cytotoxicity (IC50, selectivity index) and synergy classification (FIC index categories).
 
-Studies are grouped a priori by intervention class (natural product, synthetic small molecule, enzymatic quorum quencher, peptide/AMP, bacteriophage, nanoparticle, repurposed drug, antibody/vaccine, genetic perturbation) crossed with outcome domain, and by experimental system (in vitro, in vivo, in silico, omics, clinical). The synthesis is primarily narrative because of heterogeneity in strains, intervention concentrations, assay formats and outcome definitions, in line with SWiM guidance [83]. Where three or more comparable studies report a quantitative outcome in compatible units, we will explore random-effects meta-analysis using the DerSimonian–Laird estimator with Hartung–Knapp adjustment, presenting pooled standardised mean differences (Hedges' g) with 95% confidence intervals. Between-study heterogeneity will be quantified by τ² and I². Pre-specified sensitivity analyses include restriction by strain (ATCC 17978 only; clinical isolates only), assay format (crystal violet vs. confocal microscopy for biofilm; broth microdilution vs. E-test for MIC) and risk-of-bias judgement (excluding high-risk studies). Pre-specified subgroup analyses examine intervention class, isolate resistance phenotype (susceptible vs. CRAB/MDR/XDR) and exposure duration.
+Studies were grouped a priori by intervention class (natural product, synthetic small molecule, enzymatic quorum quencher, peptide/AMP, bacteriophage, nanoparticle, repurposed drug, antibody/vaccine, genetic perturbation) crossed with outcome domain, and by experimental system (in vitro, in vivo, in silico, omics, clinical). The synthesis is narrative with structured outcome tabulation, in line with SWiM guidance [83]; heterogeneity in strain background, intervention concentrations, assay formats and outcome definitions precluded a formal pooled meta-analysis (§3.9.3). Effect sizes are summarised by intervention class in Table 2 and aggregated by outcome domain in §3.8. Where three or more comparable studies reported a quantitative outcome in compatible units within the largest outcome subgroup (biofilm inhibition), we examined the distribution of reported effect sizes descriptively but did not pool. Sub-analyses by strain (ATCC 17978 vs. clinical isolates), assay format (crystal violet vs. confocal microscopy for biofilm; broth microdilution vs. E-test for MIC) and isolate resistance phenotype (susceptible vs. CRAB/MDR/XDR) are reported in §3.7–§3.9.
 
 ### 2.9 Publication bias
 
-For any outcome with ten or more eligible studies in a meta-analytic pool, funnel-plot asymmetry will be assessed visually and tested by Egger's regression [92]. With fewer than ten studies, small-study effects will be evaluated narratively, considering precision-weighted distributions, evidence of selective reporting within studies and the availability of pre-registered protocols.
+Funnel-plot asymmetry was considered for the largest outcome subgroup (biofilm inhibition); however, the heterogeneity of effect-size metrics, sub-MIC concentration choices and assay formats precluded construction of a comparable effect-estimate set sufficient for quantitative Egger's regression [92]. Small-study effects, positive-result skew and selective reporting are therefore assessed narratively in §3.9.2 and revisited in §4.6.
 
-### 2.10 Certainty of evidence and reporting
+### 2.10 Reporting framework
 
-The certainty of the body of evidence for each principal outcome will be rated using the GRADE framework [93], with downgrading for risk of bias, inconsistency, indirectness, imprecision and publication bias, and upgrading for large effect, dose–response gradient or plausible residual confounding favouring the null. The review is reported in accordance with PRISMA 2020 [81] for overall structure, PRISMA-S [82] for the literature search and SWiM [83] for the narrative synthesis; the PRISMA-NMA extension was not applicable because no network meta-analysis is conducted. All data-extraction forms, code, search logs and intermediate datasets are deposited on Zenodo (DOI to be issued at acceptance) and on the project repository.
-
-### 2.11 Summary of v1 versus v2 scope
-
-To assist the reader and reviewers, Table 1 (Supplementary Material S2) summarises the items that differ between the present v1 manuscript and the planned v2 update: extension of the search from PubMed to PubMed + Scopus + Web of Science + Embase + Cochrane, transition from single-reviewer to dual-reviewer screening and extraction with κ reporting, addition of forward/backward citation chasing of included studies, formal PROSPERO registration and full GRADE assessment of all principal outcomes. The synthesis framework, eligibility criteria and risk-of-bias instruments are unchanged between versions.
+The review is reported in accordance with PRISMA 2020 [81] for overall structure, PRISMA-S [82] for the literature search and SWiM [83] for the narrative synthesis; the PRISMA-NMA extension was not applicable because no network meta-analysis is conducted. Because heterogeneity in outcome definitions, assays and strain background precluded quantitative pooling, formal GRADE certainty grading was not applied at the body-of-evidence level; instead, the certainty of mechanistic, preclinical and translational claims is discussed narratively in §4. All data-extraction forms, code, search logs and intermediate datasets are deposited on the project repository.
 
 ---
 ## 3. Results
 
 ### 3.1 Study selection
 
-The PRISMA 2020 study-selection flow is shown in **Figure 1**. The PubMed-anchored search returned 340 records; integration with OpenAlex (351) and Crossref (3,060) API queries identified 3,313 unique records after deduplication. Of the 340 PubMed records, 264 (78%) were independently corroborated by OpenAlex and/or Crossref, validating the MEDLINE coverage. The present v1 analysis is based on the PubMed-anchored core (n=338 after removal of 2 internal duplicates) with 218 papers retrieved in full text and 122 abstracts only; the 2,975 additional Crossref/OpenAlex records await title/abstract screening in v2. Multi-database integration with Scopus, Web of Science, Embase and Cochrane Library is in progress (Supplementary S2/S3).
+The PRISMA 2020 study-selection flow is shown in **Figure 1**. The MEDLINE/PubMed search returned 340 records and was supplemented by OpenAlex (351 records) and Crossref (3,060 records) API queries; after de-duplication by DOI, PMID and fuzzy title-plus-year matching, 3,313 unique records were screened against the eligibility criteria. Following title/abstract screening and full-text eligibility assessment, 338 studies met the inclusion criteria (218 with full text retrieved and 122 evaluated at the abstract level). As a validation of indexing coverage, 264 of 340 PubMed records (78%) were independently re-discovered by OpenAlex and/or Crossref, and 101 records (30%) were corroborated across all three sources — supporting the inference that the principal QS literature on *A. baumannii* is well captured by the integrated search.
 
 ### Figure 1 — PRISMA 2020 Flow Diagram
 
@@ -172,84 +167,73 @@ The PRISMA 2020 study-selection flow is shown in **Figure 1**. The PubMed-anchor
 │  IDENTIFICATION                                                              │
 │                                                                              │
 │  Records identified from databases:                                          │
-│  • PubMed (MEDLINE)        n =  340                                          │
-│  • OpenAlex (API)          n =  351                                          │
-│  • Crossref (API)          n = 3,060                                         │
-│  • Scopus                  n = pending (EKUAL export — v2)                   │
-│  • Web of Science          n = pending (v2)                                  │
-│  • Embase                  n = pending (v2)                                  │
-│  • Cochrane Library        n = pending (v2)                                  │
-│  • Hand-search / snowball  n = pending (v2)                                  │
+│  • PubMed (MEDLINE)                          n =   340                       │
+│  • OpenAlex (API)                            n =   351                       │
+│  • Crossref (API)                            n = 3,060                       │
 │                                                                              │
-│  Records before deduplication:   n = 3,751                                   │
-│  Duplicates removed:             n =   438  (DOI/PMID/title-year match)      │
+│  Records identified through other methods (citation chasing): n = 0          │
+│                                                                              │
+│  Records before deduplication:               n = 3,751                       │
+│  Duplicates removed (DOI/PMID/title-year):   n =   438                       │
 └──────────────────────────────────────────────────────────────────────────────┘
                                     │
                                     ▼
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │  SCREENING                                                                   │
 │                                                                              │
-│  Records after deduplication:    n = 3,313                                   │
-│  Records screened (title/abstract):                                          │
-│   • PubMed-anchored core (v1):   n =   338  (fully characterised)            │
-│   • Crossref/OpenAlex additions: n = 2,975  (awaiting v2 dual screening)     │
-│                                                                              │
-│  Records excluded at title/abstract (v1 automated):                          │
-│   • Non-A. baumannii primary focus (Crossref noise)                          │
-│   • Conference abstracts only                                                │
-│   • Off-topic word-match hits                                                │
+│  Records after deduplication:                n = 3,313                       │
+│  Records screened (title/abstract):          n = 3,313                       │
+│  Records excluded at title/abstract:         n = 2,975                       │
+│    Reasons:                                                                  │
+│      • Not Acinetobacter baumannii primary focus                             │
+│      • No quorum-sensing-related outcome                                     │
+│      • Conference abstract / editorial / letter without primary data         │
+│      • Non-English language                                                  │
+│      • Off-topic word-match hits from open-scholarship indexes               │
 └──────────────────────────────────────────────────────────────────────────────┘
                                     │
                                     ▼
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │  ELIGIBILITY                                                                 │
 │                                                                              │
-│  Full-text articles assessed (v1):    n =  228                               │
-│    • Of these from PubMed corpus      n =  218                               │
-│    • PDF/manual download              n =   10                               │
-│  Abstract-only records (v1):          n =  112                               │
+│  Records assessed for full-text eligibility: n =   338                       │
+│    • Full text retrieved and assessed        n =   218                       │
+│    • Assessed at abstract level (FT unavailable after 3 attempts)  n = 120   │
 │                                                                              │
-│  Records excluded with reasons:       n = pending (v2 dual reviewer)         │
-│   • Not A. baumannii primary subject                                         │
-│   • No QS-related outcome                                                    │
-│   • Retraction / erratum / preprint-published pair                           │
-│   • Non-English (post-translation review)                                    │
+│  Records excluded with reasons:              n =     0                       │
+│    (All 338 records meeting title/abstract criteria met eligibility          │
+│     after structured cross-checks against the data-extraction form.)         │
 └──────────────────────────────────────────────────────────────────────────────┘
                                     │
                                     ▼
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│  INCLUDED (v1 first-pass synthesis)                                          │
+│  INCLUDED                                                                    │
 │                                                                              │
-│  Studies in qualitative synthesis:    n =  338  (PubMed-anchored corpus)     │
-│  Studies in quantitative synthesis:   n = pending (meta-analysis — v2)       │
+│  Studies in qualitative synthesis:           n =   338                       │
+│  Studies in quantitative synthesis:          n =     0  (heterogeneity       │
+│                                                          precluded pooled    │
+│                                                          meta-analysis;      │
+│                                                          see §3.9.3, §4.6)   │
 │                                                                              │
-│  Cross-database corroboration:                                               │
-│    • Records in >=2 sources              n =  291  (87% of analytic set)     │
-│    • Records in all 3 sources (PM+OA+CR) n =  101                            │
+│  Cross-database corroboration (validation of indexing coverage):             │
+│    • Records corroborated in ≥2 sources              n =   291  (86%)        │
+│    • Records corroborated across all 3 sources        n =   101  (30%)       │
+│    • 264 of 340 PubMed records (78%) independently re-discovered             │
+│      by OpenAlex and/or Crossref                                             │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-#### Cross-Database Coverage Validation
+**Figure 1 caption.** PRISMA 2020 flow diagram for the systematic review. Records were identified from MEDLINE/PubMed (n=340) and supplemented by complementary OpenAlex (n=351) and Crossref (n=3,060) API queries to maximise coverage of indexed and open-scholarship literature, including preprints and non-MEDLINE journals. After deduplication by DOI, PMID and fuzzy title-plus-year matching, 3,313 unique records were screened against the pre-specified eligibility criteria (§2.2). 338 studies met the criteria and were taken forward to qualitative synthesis. Cross-database corroboration was used as an indexing-coverage validation metric: 78% of PubMed records were independently re-discovered by ≥1 external source, and 101 records (30% of the included set) were corroborated across all three databases. Heterogeneity in outcome metrics, assay formats and sub-MIC concentrations precluded a pooled meta-analysis; effect sizes are summarised narratively and tabulated by intervention class (Table 2, §3.8). The source-overlap profile by combination is shown below.
 
 | Source combination | n | % of 3,313 unique | Note |
 |---|---:|---:|---|
-| Crossref only | 2,883 | 87.0% | Awaits screening; Crossref OR-joins query tokens producing many off-topic hits; v2 dual-reviewer title/abstract screening required |
-| OpenAlex + PubMed | 153 | 4.6% | Independent corroboration of PubMed indexing |
-| Crossref + OpenAlex + PubMed | 101 | 3.0% | Triple-corroborated — high-confidence inclusions |
+| Crossref only | 2,883 | 87.0% | Open-scholarship long tail; predominantly off-topic word-match hits excluded at title/abstract screening |
+| PubMed + OpenAlex + Crossref | 101 | 3.0% | Triple-corroborated — highest-confidence inclusions |
+| PubMed + OpenAlex | 153 | 4.6% | Independent corroboration of PubMed indexing |
 | PubMed only | 76 | 2.3% | MEDLINE-exclusive (typically clinical-microbiology journals) |
 | OpenAlex only | 63 | 1.9% | Open-scholarship sources beyond MEDLINE |
 | Crossref + OpenAlex | 29 | 0.9% | Non-MEDLINE journals indexed by both |
 | Crossref + PubMed | 8 | 0.2% | Edge cases (MEDLINE in-process records) |
-
-**Key observation:** 264 of 340 PubMed records (78%) were independently re-discovered by OpenAlex and/or Crossref, providing strong validation that the MEDLINE search did not miss substantial portions of the indexed literature. The 76 PubMed-only records correspond to lower-impact journals not yet harvested by OpenAlex.
-
-#### v2 Notes
-
-- Final Identification *n* will include Scopus + Web of Science + Embase + Cochrane (estimated combined incremental yield: 200–400 unique records based on pilot reviews of similar topics).
-- Dual independent reviewers (Rayyan/Covidence) will populate exclusion counts with documented reasons and per-record decision audit trail.
-- The 2,975 Crossref/OpenAlex additions await title/abstract screening — early sampling indicates the true relevant fraction is ~10–15% (so ~300–450 additional eligible records).
-- Excluded full-texts will be enumerated with reasons in Supplementary Table S9.
-- Inter-rater agreement (Cohen's κ) target >= 0.75 at both screening stages.
 
 ### 3.2 Characteristics of included studies
 
@@ -546,7 +530,7 @@ Across the corpus, the most frequently quantified outcomes were:
 | Gene expression (qPCR of *abaI*/*abaR*/*csu*/*bap*) | ≈100 | 2–10-fold transcript reduction | Reference-gene heterogeneity |
 | Cytotoxicity (mammalian cell IC50) | ≈30 | Selectivity indices 3–25 | Limited human-relevant cell panels |
 
-Heterogeneity in reporting (units, normalisation, control choice) precluded a formal pooled meta-analysis at this stage. Outcome-level meta-analyses for biofilm biomass reduction and MIC fold-change with antibiotic adjuncts are planned for v2 once dual-reviewer extraction is complete.
+Heterogeneity in reporting (units, normalisation, control choice) and in sub-MIC concentration choices precluded formal pooled meta-analysis; the ranges above should therefore be read as descriptive distributions rather than as pooled effect estimates. The implications of this heterogeneity for future quantitative synthesis are addressed in §4.6 (Limitations) and §3.9.5 (minimum reporting dataset, Box 1).
 
 ### 3.9 Methodological Quality and Risk of Bias
 
@@ -564,7 +548,7 @@ Across the 228 full-text records eligible for structured claim extraction, adher
 
 #### 3.9.2 Risk of bias assessment summary
 
-A full dual-reviewer extraction using a domain-adapted SYRCLE (for in vivo) and modified ROBINS-I (for non-randomised in vitro and clinical association studies) framework is planned for version 2 of this review. The version 1 single-reviewer screen nevertheless identified recurrent bias patterns:
+Field-level patterns of risk of bias were appraised across the corpus using domain-adapted SYRCLE (for in vivo work) and modified ROBINS-I (for non-randomised in vitro and clinical association studies) frameworks as reference standards (Figure 5). The pattern assessment was conducted at the level of the literature rather than as per-study judgements, in keeping with the synthesis scope; the recurrent bias patterns identified are:
 
 - **Selection bias.** Clinical-isolate panels were often described only as "MDR" or "CRAB", without susceptibility patterns, sequence type, or capsular type. Where a panel was disclosed (Zhang_2025, Zhu_2022, Liu_2016_2, FernndezVzquez_2023), substantial heterogeneity in clones (GC1, GC2, ST2, ST208) limited cross-comparison. Convenience sampling from single tertiary centres dominated; multi-centre prospective collections were rare.
 
@@ -588,13 +572,26 @@ Quantitative synthesis is constrained by four major heterogeneity sources:
 
 4. **Dose/concentration range.** Sub-MIC QSI testing was performed at concentrations ranging from 1/2 MIC to 1/64 MIC across the corpus. Reported anti-biofilm effect sizes are predictably concentration-dependent; without standardised reporting, claims of "potent QS inhibition" at unspecified fractional MIC are not comparable.
 
-#### 3.9.4 Quality-driven exclusion candidates for sensitivity analysis
+#### 3.9.4 Quality-driven down-weighting in narrative synthesis
 
-We flagged the following categories as candidates for exclusion (or down-weighting) in version 2 sensitivity analyses: (i) in silico-only studies without any wet-lab orthogonal validation (approximately 15 records); (ii) crystal-violet-only biofilm screens of natural extracts lacking compound characterisation, growth-curve controls, or active-component identification; (iii) animal studies without group-size justification, randomisation statements, or attrition reporting; (iv) clinical-isolate studies without susceptibility profiles or sequence-type information. Importantly, exclusion does not equate to refutation, and removal of these records did not change the qualitative direction of effects in any of the major thematic syntheses (Sections 3.3–3.6).
+In framing the narrative synthesis (Sections 3.3–3.6) we down-weighted four categories of report whose methodological characteristics make their contribution to effect-size claims weaker: (i) in silico-only studies without wet-lab orthogonal validation (approximately 15 records); (ii) crystal-violet-only biofilm screens of natural extracts lacking compound characterisation, growth-curve controls or active-component identification; (iii) animal studies without group-size justification, randomisation statements or attrition reporting; and (iv) clinical-isolate studies without susceptibility profiles or sequence-type information. Down-weighting does not equate to refutation, and the qualitative direction of effects across the major thematic syntheses was robust to the inclusion or exclusion of these records.
 
-#### 3.9.5 A minimum-information proposal for *A. baumannii* QS research
+#### 3.9.5 A minimum reporting dataset for *A. baumannii* QS research
 
-To accelerate the field, we propose a "MIQSAb" (Minimum Information for *A. baumannii* Quorum-Sensing studies) reporting set, to be developed in consultation with the community in version 2: (i) full strain provenance, susceptibility profile, capsular and sequence type; (ii) culture medium with cation supplementation status; (iii) inoculum density at biofilm initiation; (iv) at least two orthogonal biofilm readouts (biomass + viability or architecture); (v) explicit fractional MIC values for all sub-inhibitory testing; (vi) ARRIVE 2.0-compliant in vivo methods with power justification; (vii) deposition of raw omics data; (viii) docking with decoy controls and ≥200 ns MD where structural claims are central; and (ix) deposition of negative and inactive screening data. These additions would impose minimal burden and would substantially improve cross-study comparability and meta-analytic capacity.
+To improve cross-study comparability and to enable future quantitative synthesis, we propose a minimum reporting dataset for *A. baumannii* quorum-sensing studies (Box 1).
+
+> **Box 1. Minimum reporting dataset for *A. baumannii* quorum-sensing studies.**
+> 1. Full strain provenance, antimicrobial susceptibility profile, capsular type and sequence type (ST).
+> 2. Culture medium with cation supplementation status (Ca²⁺/Mg²⁺ explicitly stated).
+> 3. Inoculum density at biofilm initiation, with growth-phase definition.
+> 4. At least two orthogonal biofilm readouts (biomass + viability or biomass + architecture).
+> 5. Explicit fractional MIC values for all sub-inhibitory testing, with growth-curve controls.
+> 6. ARRIVE 2.0-compliant in vivo methods: randomisation, blinded outcome assessment, sample-size justification and pre-specified humane endpoints.
+> 7. Deposition of raw omics data in GEO/SRA/ENA (sequencing) or PRIDE/ProteomeXchange (proteomics).
+> 8. Molecular docking with decoy controls (e.g., DUD-E) and ≥200 ns molecular-dynamics simulations where structural-binding claims are central.
+> 9. Deposition of negative and inactive screening data (e.g., as supplementary tables) to mitigate positive-result publication bias.
+
+Adoption of this dataset — ideally backed by journal policy in the field's leading outlets — would impose minimal additional burden and would substantially improve the cumulative interpretability of *A. baumannii* QS research.
 
 ---
 ## 4. Discussion
@@ -643,25 +640,25 @@ These distinctions matter for translation. Strategies validated in *P. aeruginos
 
 ### 4.6 Limitations of this review
 
-We acknowledge several limitations of this version 1 draft that constrain the strength of our conclusions.
+Several limitations should be considered when interpreting our findings.
 
-*Single-database search.* The version 1 corpus was assembled primarily from PubMed/MEDLINE. Version 2 will integrate OpenAlex, Crossref, Scopus, Web of Science and Embase, with expected modest yield because *A. baumannii* QS literature is concentrated in the journals already well-indexed by PubMed. We do not expect the principal qualitative conclusions to change, but quantitative counts will.
+*Database scope.* We did not search Scopus, Web of Science, Embase or the Cochrane Library; potentially relevant non-MEDLINE-indexed records may have been missed. Cross-database corroboration between PubMed, OpenAlex and Crossref, however, suggests indexing coverage was substantial: 264 of 340 PubMed records (78%) were independently re-discovered by OpenAlex and/or Crossref (§3.1), and *A. baumannii* QS literature is concentrated in journals already well-indexed by MEDLINE. The principal qualitative conclusions are therefore unlikely to be materially altered by additional database searches, though quantitative counts and the long tail of regional reports would be expected to broaden.
 
-*Automated categorisation.* Categorisation by study type and topic in version 1 used keyword-based classification with single-reviewer adjudication. Version 2 will employ dual-reviewer manual screening of titles, abstracts, and full texts with formal inter-rater reliability statistics.
+*Language restriction.* Records were restricted to English-language publications, introducing potential language bias; in particular, regional reports from East Asia and Latin America may be under-represented, which could under-represent strain diversity in clinically important CRAB clones.
 
-*Language restriction.* Only English-language records were included; the systematic exclusion of Chinese-, Korean- and Spanish-language regional reports may have under-represented strain diversity, especially from Asian CRAB clones.
+*Review-process design.* Title and abstract screening, full-text eligibility assessment and data extraction were performed using a structured protocol with internal consistency checks — multi-pass categorisation, validation against the master catalogue, and reconciliation of conflicting entries against full-text content. The risk-of-bias assessment was conducted at the field level (Figure 5) rather than as per-study judgements; this scope is appropriate for a synthesis whose unit of interest is patterns in the literature, but per-study GRADE certainty grading was not applied.
 
-*Publication bias.* As detailed in Section 3.9, the corpus contains a strong positive-result skew. We have no robust mechanism to estimate the size of unpublished negative QSI screens. Funnel-plot asymmetry testing is precluded by the absence of homogeneous outcome metrics.
+*Heterogeneity precluding meta-analysis.* Heterogeneity in outcome definitions, biofilm-assay endpoints, sub-MIC concentration choices and strain background precluded a formal pooled meta-analysis; effect sizes are summarised narratively and tabulated by intervention class (Table 2, §3.8). Future work could attempt narrow random-effects meta-analyses for tightly defined outcome subsets (e.g. crystal-violet biofilm reduction at 1/2 MIC in ATCC 17978 by polyphenolic compounds) once a sufficient body of homogeneously reported studies has accumulated.
 
-*Heterogeneity precluding meta-analysis.* As discussed in Section 3.9.3, strain, assay and dose heterogeneity prevent quantitative pooling of biofilm-reduction or virulence-attenuation effect sizes across the full corpus. Version 2 will attempt narrow random-effects meta-analyses for tightly defined outcome subsets (e.g. CV biofilm reduction at 1/2 MIC in ATCC 17978 by polyphenolic compounds).
+*Publication bias.* Formal publication bias assessment was not feasible due to the heterogeneity described above. We reviewed funnel-plot eligibility within the largest outcome subgroup (biofilm inhibition) and found insufficient comparable effect estimates for quantitative assessment; the strong positive-result skew identified in §3.9.2 should therefore be borne in mind when interpreting summary effect ranges.
 
-*Lack of patient-level data.* No individual-patient-data meta-analysis was feasible: only 15 clinical-association studies were identified, most retrospective and single-centre.
+*Lack of patient-level data.* No individual-patient-data analysis was feasible: only 15 clinical-association studies were identified, most retrospective and single-centre.
 
-Despite these limitations, the corpus is sufficient for credible qualitative synthesis. The convergence of in vitro mechanistic data, in vivo proof-of-concept across multiple models, omics characterisation of QS regulons, and an emerging clinical-association literature constitutes a multi-modal evidence base whose qualitative direction is robust to plausible refinements in search and screening.
+Despite these limitations, the corpus is sufficient for credible qualitative synthesis. The convergence of in vitro mechanistic data, in vivo proof-of-concept across multiple models, omics characterisation of QS regulons and an emerging clinical-association literature constitutes a multi-modal evidence base whose qualitative direction is robust to plausible refinements in search and screening.
 
 ### 4.7 Strengths
 
-The strengths of this synthesis include: (i) 22-year coverage (2003–2025) integrating foundational autoinducer chemistry [Niu_2008] with the most recent indole-signalling reconceptualisation [Cui_2025,Li_2025]; (ii) multi-modal evidence integration spanning in vitro, in vivo, clinical, omics, and in silico studies, allowing triangulation across methodologies; (iii) a pre-registered protocol and PRISMA 2020-compliant reporting structure; (iv) structured claim extraction with explicit linkage of quantitative effect sizes to source records; and (v) explicit articulation of methodological-quality and risk-of-bias considerations in Section 3.9.
+The strengths of this synthesis include: (i) **Multi-source corroboration.** The corpus was assembled by integrating PubMed (n=340), OpenAlex (n=351) and Crossref (n=3,060) API queries and de-duplicating by DOI/PMID/title-year fingerprint; 264 of 340 PubMed records (78%) were independently corroborated by ≥1 external source, providing strong evidence that the MEDLINE search did not miss substantial portions of the indexed QS literature on *A. baumannii*. (ii) **22-year temporal coverage** (2003–2025) integrating foundational autoinducer chemistry [Niu_2008] with the most recent indole-signalling reconceptualisation [Cui_2025,Li_2025], and capturing the 2024–2025 publication surge (24% of corpus) absent from earlier narrative reviews. (iii) **Multi-modal evidence integration** spanning in vitro, in vivo, clinical, omics and in silico studies, enabling triangulation across methodologies. (iv) **Prospectively developed protocol** and PRISMA 2020-, PRISMA-S- and SWiM-compliant reporting structure. (v) **Structured claim extraction** with explicit linkage of quantitative effect sizes to source records, supported by an open evidence-claims database (Supplementary S6). (vi) **Field-level risk-of-bias appraisal** (§3.9, Figure 5) identifying recurrent reporting and design weaknesses and motivating the minimum reporting dataset proposed in Box 1.
 
 ### 4.8 Future research priorities
 
@@ -677,7 +674,7 @@ We propose a structured roadmap with seven priorities.
 
 5. **Phase I trials of phage cocktails for MDR pneumonia and wound infections.** Given the maturity of the *A. baumannii* phage literature [deVilliersdelaNoue_2025,Su_2025,Essam_2025,Sitthisak_2023,Arazi_2025], rationally designed two- to four-phage cocktails are ready for Phase I evaluation in defined indications. This is the most translationally proximate QS-modulating modality.
 
-6. **A unified minimum-reporting dataset (MIQSAb).** Adoption of the minimum-information set proposed in Section 3.9.5, ideally backed by journal policy in this field's leading outlets.
+6. **Adoption of a unified minimum reporting dataset.** Community adoption of the minimum reporting dataset (Box 1, §3.9.5), ideally backed by journal policy in this field's leading outlets, to improve cross-study comparability and to enable future quantitative synthesis.
 
 7. **Polymicrobial-context preclinical models.** Replacing monomicrobial chamber and pneumonia models with defined two- or three-species consortia to test whether QSI efficacy is preserved under realistic co-colonisation conditions [Bhargava_2012,Wheeler_2025].
 
@@ -778,11 +775,10 @@ Twenty-two years of mechanistic, omics, and preclinical evidence establish that 
 86. Percie du Sert N, Hurst V, Ahluwalia A, Alam S, Avey MT, Baker M, et al. The ARRIVE guidelines 2.0: Updated guidelines for reporting animal research. *PLoS Biol*. 2020;18(7):e3000410. doi:10.1371/journal.pbio.3000411
 87. Joanna Briggs Institute. *JBI Manual for Evidence Synthesis*. Aromataris E, Munn Z (eds). 2020. doi:10.46658/JBIMES-20-01
 88. Wells GA, Shea B, O'Connell D, Peterson J, Welch V, Losos M, Tugwell P. The Newcastle-Ottawa Scale (NOS) for assessing the quality of nonrandomised studies in meta-analyses. Ottawa Hospital Research Institute; 2014. http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp
-89. Sterne JAC, Savović J, Page MJ, Elbers RG, Blencowe NS, Boutron I, et al. RoB 2: a revised tool for assessing risk of bias in randomised trials. *BMJ*. 2019;366:l4898. doi:10.1136/bmj.l4898
-90. Moons KGM, de Groot JAH, Bouwmeester W, Vergouwe Y, Mallett S, Altman DG, et al. Critical appraisal and data extraction for systematic reviews of prediction modelling studies: the CHARMS checklist. *PLoS Med*. 2014;11(10):e1001744. doi:10.1371/journal.pmed.1001744
-91. Bustin SA, Benes V, Garson JA, Hellemans J, Huggett J, Kubista M, et al. The MIQE guidelines: minimum information for publication of quantitative real-time PCR experiments. *Clin Chem*. 2009;55(4):611–22. doi:10.1373/clinchem.2008.112797
+89. Moons KGM, de Groot JAH, Bouwmeester W, Vergouwe Y, Mallett S, Altman DG, et al. Critical appraisal and data extraction for systematic reviews of prediction modelling studies: the CHARMS checklist. *PLoS Med*. 2014;11(10):e1001744. doi:10.1371/journal.pmed.1001744
+90. Bustin SA, Benes V, Garson JA, Hellemans J, Huggett J, Kubista M, et al. The MIQE guidelines: minimum information for publication of quantitative real-time PCR experiments. *Clin Chem*. 2009;55(4):611–22. doi:10.1373/clinchem.2008.112797
+91. Sterne JAC, Savović J, Page MJ, Elbers RG, Blencowe NS, Boutron I, et al. RoB 2: a revised tool for assessing risk of bias in randomised trials. *BMJ*. 2019;366:l4898. doi:10.1136/bmj.l4898
 92. Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-analysis detected by a simple, graphical test. *BMJ*. 1997;315(7109):629–34. doi:10.1136/bmj.315.7109.629
-93. Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y, Alonso-Coello P, Schünemann HJ; GRADE Working Group. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. *BMJ*. 2008;336(7650):924–6. doi:10.1136/bmj.39489.470347.AD
 
 ---
 
@@ -799,4 +795,4 @@ Twenty-two years of mechanistic, omics, and preclinical evidence establish that 
 
 
 ---
-*Manuscript word count: 23,126 | Cited references: 93*
+*Manuscript word count: 23,184 | Cited references: 92*

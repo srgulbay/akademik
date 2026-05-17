@@ -78,7 +78,7 @@ We propose a structured roadmap with seven priorities.
 
 5. **Phase I trials of phage cocktails for MDR pneumonia and wound infections.** Given the maturity of the *A. baumannii* phage literature [deVilliersdelaNoue_2025, Su_2025, Essam_2025, Sitthisak_2023, Arazi_2025], rationally designed two- to four-phage cocktails are ready for Phase I evaluation in defined indications. This is the most translationally proximate QS-modulating modality.
 
-6. **A unified minimum-reporting dataset (MIQSAb).** Adoption of the minimum-information set proposed in Section 3.9.5, ideally backed by journal policy in this field's leading outlets.
+6. **Adoption of a unified minimum reporting dataset.** Community adoption of the minimum reporting dataset (Box 1, §3.9.5), ideally backed by journal policy in this field's leading outlets, to improve cross-study comparability and to enable future quantitative synthesis.
 
 7. **Polymicrobial-context preclinical models.** Replacing monomicrobial chamber and pneumonia models with defined two- or three-species consortia to test whether QSI efficacy is preserved under realistic co-colonisation conditions [Bhargava_2012, Wheeler_2025].
 
