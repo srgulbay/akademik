@@ -1,0 +1,15 @@
+{
+  "identification": {
+    "PubMed": 340,
+    "Scopus": 0,
+    "WoS": 0,
+    "Embase": 0,
+    "Cochrane": 0
+  },
+  "total_identified": 340,
+  "duplicates_removed": 2,
+  "after_dedup": 338,
+  "source_overlap": {
+    "PubMed": 338
+  }
+}
